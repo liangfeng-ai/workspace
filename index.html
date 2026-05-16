@@ -1,0 +1,1246 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Workspace</title>
+  <meta name="description" content="个人 AI 学习、内容创作和产品研究入口页">
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f5f6f8;
+      --surface: #ffffff;
+      --surface-soft: #eef4f2;
+      --text: #171b22;
+      --muted: #667085;
+      --line: #d9dee7;
+      --line-strong: #c4ccd9;
+      --brand: #176b6b;
+      --brand-strong: #0d4f4f;
+      --blue: #2457a6;
+      --red: #a43d3d;
+      --green: #2f7658;
+      --gold: #9a6a13;
+      --ink: #222833;
+      --shadow: 0 14px 34px rgba(22, 29, 38, 0.08);
+      --radius: 8px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.72), rgba(245, 246, 248, 0.96)),
+        repeating-linear-gradient(90deg, rgba(23, 107, 107, 0.05) 0, rgba(23, 107, 107, 0.05) 1px, transparent 1px, transparent 42px),
+        var(--bg);
+      color: var(--text);
+      letter-spacing: 0;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button,
+    input {
+      font: inherit;
+    }
+
+    .app-shell {
+      display: grid;
+      grid-template-columns: 260px minmax(0, 1fr);
+      min-height: 100vh;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      gap: 22px;
+      padding: 26px 18px;
+      border-right: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.82);
+      backdrop-filter: blur(14px);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+      padding: 0 6px;
+    }
+
+    .brand-mark {
+      width: 38px;
+      height: 38px;
+      display: grid;
+      place-items: center;
+      flex: 0 0 auto;
+      border-radius: 8px;
+      color: #ffffff;
+      background: linear-gradient(135deg, var(--brand), #2d7a45);
+      box-shadow: 0 10px 24px rgba(23, 107, 107, 0.24);
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.1;
+    }
+
+    .brand p {
+      margin: 3px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .nav {
+      display: grid;
+      gap: 6px;
+    }
+
+    .nav a {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-height: 40px;
+      padding: 9px 10px;
+      border-radius: 8px;
+      color: #3b4453;
+      font-size: 14px;
+    }
+
+    .nav a:hover,
+    .nav a:focus-visible {
+      color: var(--brand-strong);
+      background: #e6f1ef;
+      outline: none;
+    }
+
+    .side-note {
+      margin-top: auto;
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fbfcfd;
+    }
+
+    .side-note strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 13px;
+    }
+
+    .side-note p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.55;
+    }
+
+    .main {
+      min-width: 0;
+      padding: 30px;
+    }
+
+    .topbar {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(260px, 420px);
+      gap: 18px;
+      align-items: start;
+      margin-bottom: 24px;
+    }
+
+    .page-title {
+      min-width: 0;
+    }
+
+    .eyebrow {
+      margin: 0 0 8px;
+      color: var(--brand);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .page-title h2 {
+      margin: 0;
+      font-size: 30px;
+      line-height: 1.16;
+      font-weight: 800;
+    }
+
+    .page-title p {
+      max-width: 720px;
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.65;
+    }
+
+    .search-panel {
+      display: grid;
+      gap: 10px;
+    }
+
+    .search-box {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      height: 46px;
+      padding: 0 13px;
+      border: 1px solid var(--line-strong);
+      border-radius: 8px;
+      background: var(--surface);
+      box-shadow: var(--shadow);
+    }
+
+    .search-box svg {
+      flex: 0 0 auto;
+      color: var(--muted);
+    }
+
+    .search-box input {
+      width: 100%;
+      min-width: 0;
+      border: 0;
+      outline: none;
+      background: transparent;
+      color: var(--text);
+      font-size: 14px;
+    }
+
+    .search-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .quick-actions {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 26px;
+    }
+
+    .workflow-btn {
+      min-width: 0;
+      min-height: 54px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 9px;
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface);
+      color: var(--ink);
+      cursor: pointer;
+      box-shadow: 0 6px 18px rgba(22, 29, 38, 0.05);
+      transition: border-color 160ms ease, transform 160ms ease, box-shadow 160ms ease;
+    }
+
+    .workflow-btn:hover {
+      transform: translateY(-1px);
+      border-color: var(--brand);
+      box-shadow: 0 12px 26px rgba(22, 29, 38, 0.09);
+    }
+
+    .workflow-btn span {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-weight: 700;
+      font-size: 14px;
+    }
+
+    .focus-strip {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+      margin-bottom: 26px;
+    }
+
+    .focus-item {
+      min-width: 0;
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-left: 4px solid var(--brand);
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.88);
+    }
+
+    .focus-item:nth-child(2) {
+      border-left-color: var(--blue);
+    }
+
+    .focus-item:nth-child(3) {
+      border-left-color: var(--gold);
+    }
+
+    .focus-item:nth-child(4) {
+      border-left-color: var(--red);
+    }
+
+    .focus-item b {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 13px;
+    }
+
+    .focus-item span {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.55;
+    }
+
+    .section {
+      margin: 0 0 30px;
+      scroll-margin-top: 28px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 13px;
+      padding-bottom: 9px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .section-header h3 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.25;
+    }
+
+    .section-header p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 12px;
+      text-align: right;
+    }
+
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .link-card {
+      min-width: 0;
+      min-height: 172px;
+      display: flex;
+      flex-direction: column;
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface);
+      box-shadow: 0 10px 26px rgba(22, 29, 38, 0.05);
+      transition: border-color 160ms ease, transform 160ms ease, box-shadow 160ms ease;
+    }
+
+    .link-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--line-strong);
+      box-shadow: 0 16px 32px rgba(22, 29, 38, 0.09);
+    }
+
+    .card-top {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+      margin-bottom: 12px;
+    }
+
+    .favicon {
+      width: 32px;
+      height: 32px;
+      flex: 0 0 auto;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: #f4f6f8;
+      object-fit: cover;
+    }
+
+    .card-title {
+      min-width: 0;
+    }
+
+    .card-title strong {
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 15px;
+    }
+
+    .card-title span {
+      display: block;
+      margin-top: 2px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .card-desc {
+      flex: 1;
+      margin: 0 0 12px;
+      color: #495366;
+      font-size: 13px;
+      line-height: 1.55;
+      overflow-wrap: anywhere;
+    }
+
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+
+    .tag {
+      max-width: 100%;
+      padding: 4px 7px;
+      border: 1px solid #d7e3df;
+      border-radius: 999px;
+      color: var(--brand-strong);
+      background: #eef7f4;
+      font-size: 11px;
+      line-height: 1.2;
+    }
+
+    .card-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: auto;
+    }
+
+    .open-link {
+      min-width: 0;
+      min-height: 36px;
+      flex: 1;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 7px 10px;
+      border-radius: 8px;
+      color: #ffffff;
+      background: var(--ink);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .open-link:hover {
+      background: var(--brand-strong);
+    }
+
+    .icon-btn {
+      width: 36px;
+      height: 36px;
+      flex: 0 0 auto;
+      display: inline-grid;
+      place-items: center;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #ffffff;
+      color: #445064;
+      cursor: pointer;
+    }
+
+    .icon-btn:hover {
+      border-color: var(--brand);
+      color: var(--brand-strong);
+    }
+
+    .two-column {
+      display: grid;
+      grid-template-columns: minmax(0, 1.25fr) minmax(300px, 0.75fr);
+      gap: 16px;
+      align-items: start;
+    }
+
+    .list-panel {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface);
+      overflow: hidden;
+    }
+
+    .list-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: center;
+      min-height: 60px;
+      padding: 12px 14px;
+      border-top: 1px solid var(--line);
+    }
+
+    .list-row:first-child {
+      border-top: 0;
+    }
+
+    .list-row strong {
+      display: block;
+      margin-bottom: 4px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 14px;
+    }
+
+    .list-row span {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+      overflow-wrap: anywhere;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      min-height: 28px;
+      max-width: 160px;
+      padding: 5px 9px;
+      border-radius: 999px;
+      border: 1px solid #e1d5b4;
+      color: var(--gold);
+      background: #fff8e6;
+      font-size: 12px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .empty-state {
+      display: none;
+      padding: 28px;
+      border: 1px dashed var(--line-strong);
+      border-radius: 8px;
+      color: var(--muted);
+      background: rgba(255, 255, 255, 0.72);
+      text-align: center;
+      font-size: 14px;
+    }
+
+    .footer {
+      margin: 34px 0 10px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    .hidden {
+      display: none !important;
+    }
+
+    @media (max-width: 1180px) {
+      .cards-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .focus-strip {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 900px) {
+      .app-shell {
+        display: block;
+      }
+
+      .sidebar {
+        position: relative;
+        height: auto;
+        padding: 16px;
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .nav {
+        grid-template-columns: repeat(5, minmax(118px, 1fr));
+        overflow-x: auto;
+        padding-bottom: 2px;
+      }
+
+      .side-note {
+        display: none;
+      }
+
+      .main {
+        padding: 20px 16px 30px;
+      }
+
+      .topbar,
+      .two-column {
+        grid-template-columns: 1fr;
+      }
+
+      .section-header {
+        align-items: start;
+        flex-direction: column;
+      }
+
+      .section-header p {
+        text-align: left;
+      }
+    }
+
+    @media (max-width: 680px) {
+      .page-title h2 {
+        font-size: 24px;
+      }
+
+      .quick-actions,
+      .focus-strip,
+      .cards-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .workflow-btn {
+        justify-content: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Workspace navigation">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true"><i data-lucide="blocks"></i></div>
+        <div>
+          <h1>AI Workspace</h1>
+          <p>学习 / 内容 / 产品</p>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <a href="#daily"><i data-lucide="newspaper"></i><span>每日信息源</span></a>
+        <a href="#ai-tools"><i data-lucide="brain-circuit"></i><span>AI 工具</span></a>
+        <a href="#learning"><i data-lucide="book-open"></i><span>学习资源</span></a>
+        <a href="#recent"><i data-lucide="bookmark"></i><span>最近关注</span></a>
+        <a href="#output"><i data-lucide="send"></i><span>输出路径</span></a>
+      </nav>
+
+      <div class="side-note">
+        <strong>程序员原则</strong>
+        <p>首页只放高频入口；低频入口收进分类。每个链接都要服务学习、内容或产品验证。</p>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="page-title">
+          <p class="eyebrow" id="todayLabel">TODAY</p>
+          <h2>个人 AI 情报与创作入口</h2>
+          <p>按任务组织网站：先确定今天要学什么、做什么内容、验证什么产品，再进入对应工具。</p>
+        </div>
+
+        <div class="search-panel">
+          <label class="search-box" for="searchInput">
+            <i data-lucide="search"></i>
+            <input id="searchInput" type="search" placeholder="搜索网站、工具、用途或标签">
+          </label>
+          <div class="search-meta">
+            <span id="resultCount">正在加载入口</span>
+            <span>单文件静态页</span>
+          </div>
+        </div>
+      </header>
+
+      <section class="quick-actions" aria-label="Workflows">
+        <button class="workflow-btn" type="button" data-workflow="learn">
+          <i data-lucide="graduation-cap"></i><span>开始 AI 学习</span>
+        </button>
+        <button class="workflow-btn" type="button" data-workflow="content">
+          <i data-lucide="clapperboard"></i><span>开始内容创作</span>
+        </button>
+        <button class="workflow-btn" type="button" data-workflow="product">
+          <i data-lucide="rocket"></i><span>开始产品研究</span>
+        </button>
+      </section>
+
+      <section class="focus-strip" aria-label="Focus">
+        <div class="focus-item">
+          <b>今日主线</b>
+          <span>AI 新趋势 → 工具试用 → 做成一条内容或一个产品判断。</span>
+        </div>
+        <div class="focus-item">
+          <b>内容选题</b>
+          <span>从 YouTube、X、Product Hunt 和 GitHub Trending 找可拆解素材。</span>
+        </div>
+        <div class="focus-item">
+          <b>产品验证</b>
+          <span>看用户痛点、竞品变化、开源项目 star 增速和搜索热度。</span>
+        </div>
+        <div class="focus-item">
+          <b>学习沉淀</b>
+          <span>官方文档、论文、电子书和长文档进入统一学习路径。</span>
+        </div>
+      </section>
+
+      <section class="section" id="daily">
+        <div class="section-header">
+          <h3>每日信息源</h3>
+          <p>趋势、选题、开源项目、产品灵感</p>
+        </div>
+        <div class="cards-grid" data-section="daily"></div>
+      </section>
+
+      <section class="section" id="ai-tools">
+        <div class="section-header">
+          <h3>AI 工具分区</h3>
+          <p>按任务选工具，而不是按品牌选工具</p>
+        </div>
+        <div class="cards-grid" data-section="ai"></div>
+      </section>
+
+      <section class="section" id="learning">
+        <div class="section-header">
+          <h3>学习资源与电子书</h3>
+          <p>资料入口、论文、课程、电子书检索</p>
+        </div>
+        <div class="cards-grid" data-section="learning"></div>
+      </section>
+
+      <section class="section two-column" id="recent">
+        <div>
+          <div class="section-header">
+            <h3>最近收藏</h3>
+            <p>手动维护高价值链接</p>
+          </div>
+          <div class="list-panel" id="recentList"></div>
+        </div>
+        <div>
+          <div class="section-header">
+            <h3>最近热点</h3>
+            <p>本周盯紧的主题</p>
+          </div>
+          <div class="list-panel" id="hotList"></div>
+        </div>
+      </section>
+
+      <section class="section" id="output">
+        <div class="section-header">
+          <h3>输出路径</h3>
+          <p>让信息变成内容、产品和代码</p>
+        </div>
+        <div class="cards-grid" data-section="output"></div>
+      </section>
+
+      <div class="empty-state" id="emptyState">没有匹配入口。换一个关键词，或者在 HTML 里的 workspaceData 中添加新链接。</div>
+
+      <footer class="footer">
+        修改入口：打开本文件，编辑 <strong>workspaceData</strong>、<strong>recentItems</strong>、<strong>hotTopics</strong> 和 <strong>workflows</strong> 四个数据区即可。
+      </footer>
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+  <script>
+    const workspaceData = [
+      {
+        section: "daily",
+        title: "X / Twitter",
+        category: "实时趋势",
+        url: "https://x.com/home",
+        domain: "x.com",
+        desc: "追踪 AI 创业者、研究员、产品经理和内容创作者的实时讨论。",
+        tags: ["热点", "选题", "观点"]
+      },
+      {
+        section: "daily",
+        title: "YouTube",
+        category: "视频信息源",
+        url: "https://www.youtube.com/",
+        domain: "youtube.com",
+        desc: "看 AI 工具实测、产品拆解、教程和海外创作者的内容结构。",
+        tags: ["视频", "内容", "学习"]
+      },
+      {
+        section: "daily",
+        title: "Hacker News",
+        category: "技术社区",
+        url: "https://news.ycombinator.com/",
+        domain: "news.ycombinator.com",
+        desc: "看工程师讨论、创业产品、技术趋势和真实反馈。",
+        tags: ["技术", "社区", "产品"]
+      },
+      {
+        section: "daily",
+        title: "GitHub Trending",
+        category: "开源趋势",
+        url: "https://github.com/trending?since=daily",
+        domain: "github.com",
+        desc: "发现突然增长的 AI 项目、开发工具和可拆解的代码仓库。",
+        tags: ["开源", "代码", "项目"]
+      },
+      {
+        section: "daily",
+        title: "Product Hunt",
+        category: "产品灵感",
+        url: "https://www.producthunt.com/topics/artificial-intelligence",
+        domain: "producthunt.com",
+        desc: "观察新产品定位、首屏表达、评论反馈和早期增长线索。",
+        tags: ["产品", "竞品", "灵感"]
+      },
+      {
+        section: "daily",
+        title: "Google Trends",
+        category: "搜索趋势",
+        url: "https://trends.google.com/trends/",
+        domain: "trends.google.com",
+        desc: "验证关键词热度，判断内容选题和产品方向有没有搜索需求。",
+        tags: ["趋势", "关键词", "验证"]
+      },
+      {
+        section: "daily",
+        title: "Hugging Face Papers",
+        category: "论文动向",
+        url: "https://huggingface.co/papers",
+        domain: "huggingface.co",
+        desc: "看每日热门 AI 论文、模型、数据集和社区讨论。",
+        tags: ["论文", "模型", "研究"]
+      },
+      {
+        section: "daily",
+        title: "Papers with Code",
+        category: "论文与代码",
+        url: "https://paperswithcode.com/",
+        domain: "paperswithcode.com",
+        desc: "把论文、排行榜和代码实现连起来，适合技术学习和项目复现。",
+        tags: ["论文", "代码", "基准"]
+      },
+
+      {
+        section: "ai",
+        title: "ChatGPT",
+        category: "推理 / 写作 / 产品分析",
+        url: "https://chatgpt.com/",
+        domain: "chatgpt.com",
+        desc: "适合复杂推理、内容大纲、产品拆解、Prompt 设计和跨领域整理。",
+        tags: ["推理", "写作", "产品"]
+      },
+      {
+        section: "ai",
+        title: "Claude",
+        category: "长文档 / 代码理解",
+        url: "https://claude.ai/",
+        domain: "claude.ai",
+        desc: "适合长上下文阅读、文档总结、代码库理解和高质量改写。",
+        tags: ["长文档", "代码", "改写"]
+      },
+      {
+        section: "ai",
+        title: "DeepSeek",
+        category: "中文推导 / 代码",
+        url: "https://chat.deepseek.com/",
+        domain: "deepseek.com",
+        desc: "适合中文技术解释、代码推导、低成本长对话和学习拆解。",
+        tags: ["中文", "代码", "学习"]
+      },
+      {
+        section: "ai",
+        title: "Gemini",
+        category: "多模态 / Google 生态",
+        url: "https://gemini.google.com/",
+        domain: "gemini.google.com",
+        desc: "适合多模态理解、资料交叉验证和 Google 生态相关工作。",
+        tags: ["多模态", "搜索", "资料"]
+      },
+      {
+        section: "ai",
+        title: "Perplexity",
+        category: "联网检索 / 来源引用",
+        url: "https://www.perplexity.ai/",
+        domain: "perplexity.ai",
+        desc: "适合快速查资料、找来源、比较观点和做内容事实核查。",
+        tags: ["搜索", "引用", "核查"]
+      },
+      {
+        section: "ai",
+        title: "Cursor",
+        category: "AI 编程",
+        url: "https://www.cursor.com/",
+        domain: "cursor.com",
+        desc: "适合把产品 idea 快速写成原型、重构项目和理解代码上下文。",
+        tags: ["编程", "原型", "重构"]
+      },
+      {
+        section: "ai",
+        title: "GitHub Copilot",
+        category: "代码补全 / IDE",
+        url: "https://github.com/features/copilot",
+        domain: "github.com",
+        desc: "适合日常代码补全、单元测试生成和 IDE 内联问答。",
+        tags: ["代码", "IDE", "测试"]
+      },
+      {
+        section: "ai",
+        title: "Midjourney",
+        category: "图像生成",
+        url: "https://www.midjourney.com/",
+        domain: "midjourney.com",
+        desc: "适合做封面、视觉概念、内容配图和产品视觉探索。",
+        tags: ["图像", "封面", "视觉"]
+      },
+      {
+        section: "ai",
+        title: "Runway",
+        category: "视频生成",
+        url: "https://runwayml.com/",
+        domain: "runwayml.com",
+        desc: "适合视频生成、素材延展、短片实验和内容视觉化。",
+        tags: ["视频", "生成", "素材"]
+      },
+      {
+        section: "ai",
+        title: "Kling AI",
+        category: "视频生成",
+        url: "https://klingai.com/",
+        domain: "klingai.com",
+        desc: "适合中文语境下的视频生成、图生视频和创意素材实验。",
+        tags: ["视频", "中文", "素材"]
+      },
+      {
+        section: "ai",
+        title: "Ollama",
+        category: "本地模型",
+        url: "https://ollama.com/",
+        domain: "ollama.com",
+        desc: "适合本地运行模型、离线实验、隐私场景和开发测试。",
+        tags: ["本地", "模型", "开发"]
+      },
+      {
+        section: "ai",
+        title: "LM Studio",
+        category: "本地模型管理",
+        url: "https://lmstudio.ai/",
+        domain: "lmstudio.ai",
+        desc: "适合下载、运行和测试本地大模型，适合非命令行工作流。",
+        tags: ["本地", "模型", "测试"]
+      },
+
+      {
+        section: "learning",
+        title: "Open Library",
+        category: "电子书 / 借阅",
+        url: "https://openlibrary.org/",
+        domain: "openlibrary.org",
+        desc: "查找书籍、借阅开放资源，适合建立长期学习书单。",
+        tags: ["电子书", "书单", "合法资源"]
+      },
+      {
+        section: "learning",
+        title: "Project Gutenberg",
+        category: "公共版权书",
+        url: "https://www.gutenberg.org/",
+        domain: "gutenberg.org",
+        desc: "获取公共版权电子书，适合英文阅读和经典资料积累。",
+        tags: ["电子书", "公共版权", "英文"]
+      },
+      {
+        section: "learning",
+        title: "Z-Library",
+        category: "电子书检索",
+        url: "https://z-library.sk/",
+        domain: "z-library.sk",
+        desc: "作为书籍线索和书目信息入口使用，注意版权与当地法规。",
+        tags: ["电子书", "检索", "书目"]
+      },
+      {
+        section: "learning",
+        title: "Welib",
+        category: "电子书检索",
+        url: "https://www.welib.org/",
+        domain: "welib.org",
+        desc: "补充查找中文资料和学习书籍，建议只保存合规可用资源。",
+        tags: ["电子书", "中文", "资料"]
+      },
+      {
+        section: "learning",
+        title: "arXiv AI",
+        category: "AI 论文",
+        url: "https://arxiv.org/list/cs.AI/recent",
+        domain: "arxiv.org",
+        desc: "查看人工智能方向最新论文，适合追踪研究原始来源。",
+        tags: ["论文", "研究", "AI"]
+      },
+      {
+        section: "learning",
+        title: "OpenAI Docs",
+        category: "官方文档",
+        url: "https://platform.openai.com/docs",
+        domain: "platform.openai.com",
+        desc: "学习 OpenAI API、模型能力、工具调用和产品集成方法。",
+        tags: ["文档", "API", "开发"]
+      },
+      {
+        section: "learning",
+        title: "Anthropic Docs",
+        category: "官方文档",
+        url: "https://docs.anthropic.com/",
+        domain: "docs.anthropic.com",
+        desc: "学习 Claude API、提示词、工具调用和长上下文能力。",
+        tags: ["文档", "Claude", "API"]
+      },
+      {
+        section: "learning",
+        title: "DeepLearning.AI",
+        category: "AI 课程",
+        url: "https://www.deeplearning.ai/courses/",
+        domain: "deeplearning.ai",
+        desc: "系统学习机器学习、生成式 AI、Agent 和 Prompt 工程课程。",
+        tags: ["课程", "系统学习", "AI"]
+      },
+
+      {
+        section: "output",
+        title: "Notion",
+        category: "知识库 / 内容库",
+        url: "https://www.notion.so/",
+        domain: "notion.so",
+        desc: "沉淀选题、笔记、产品拆解、内容脚本和学习计划。",
+        tags: ["笔记", "内容库", "项目"]
+      },
+      {
+        section: "output",
+        title: "GitHub",
+        category: "代码与作品集",
+        url: "https://github.com/",
+        domain: "github.com",
+        desc: "保存原型、学习项目、网页作品和可展示的代码成果。",
+        tags: ["代码", "作品", "部署"]
+      },
+      {
+        section: "output",
+        title: "GitHub Pages",
+        category: "静态网站发布",
+        url: "https://pages.github.com/",
+        domain: "pages.github.com",
+        desc: "把这个 workspace 或你的产品原型发布成公开网页。",
+        tags: ["部署", "网站", "作品集"]
+      },
+      {
+        section: "output",
+        title: "Canva",
+        category: "内容视觉",
+        url: "https://www.canva.com/",
+        domain: "canva.com",
+        desc: "制作封面、信息图、视频缩略图和社媒视觉素材。",
+        tags: ["设计", "封面", "内容"]
+      }
+    ];
+
+    const recentItems = [
+      {
+        title: "AI Agent 产品拆解",
+        note: "观察 Agent 产品如何把复杂能力包装成可理解的工作流。",
+        tag: "产品"
+      },
+      {
+        title: "AI 视频生成工具对比",
+        note: "记录 Runway、Kling、Pika、Luma 的差异和适合内容场景。",
+        tag: "内容"
+      },
+      {
+        title: "个人知识库自动化",
+        note: "把文章、视频、论文摘要统一进入 Notion 或本地 Markdown。",
+        tag: "学习"
+      }
+    ];
+
+    const hotTopics = [
+      {
+        title: "多模态 Agent",
+        note: "图像、视频、浏览器和代码工具组合使用。",
+        tag: "AI"
+      },
+      {
+        title: "小团队 AI SaaS",
+        note: "从垂直工作流切入，先做高频、明确、可收费的小功能。",
+        tag: "产品"
+      },
+      {
+        title: "AI 内容流水线",
+        note: "热点发现、脚本、封面、分发、复盘的半自动流程。",
+        tag: "创作"
+      }
+    ];
+
+    const workflows = {
+      learn: [
+        "https://huggingface.co/papers",
+        "https://arxiv.org/list/cs.AI/recent",
+        "https://chatgpt.com/"
+      ],
+      content: [
+        "https://www.youtube.com/",
+        "https://trends.google.com/trends/",
+        "https://www.perplexity.ai/",
+        "https://chatgpt.com/"
+      ],
+      product: [
+        "https://www.producthunt.com/topics/artificial-intelligence",
+        "https://github.com/trending?since=daily",
+        "https://news.ycombinator.com/",
+        "https://claude.ai/"
+      ]
+    };
+
+    const cardContainers = [...document.querySelectorAll("[data-section]")];
+    const searchInput = document.querySelector("#searchInput");
+    const resultCount = document.querySelector("#resultCount");
+    const emptyState = document.querySelector("#emptyState");
+
+    function favicon(domain) {
+      return `https://www.google.com/s2/favicons?domain=${encodeURIComponent(domain)}&sz=64`;
+    }
+
+    function createCard(item) {
+      const card = document.createElement("article");
+      card.className = "link-card";
+      card.dataset.search = [
+        item.title,
+        item.category,
+        item.desc,
+        item.tags.join(" ")
+      ].join(" ").toLowerCase();
+
+      card.innerHTML = `
+        <div class="card-top">
+          <img class="favicon" src="${favicon(item.domain)}" alt="" loading="lazy">
+          <div class="card-title">
+            <strong>${item.title}</strong>
+            <span>${item.category}</span>
+          </div>
+        </div>
+        <p class="card-desc">${item.desc}</p>
+        <div class="tag-row">${item.tags.map(tag => `<span class="tag">${tag}</span>`).join("")}</div>
+        <div class="card-actions">
+          <a class="open-link" href="${item.url}" target="_blank" rel="noreferrer">
+            <i data-lucide="external-link"></i><span>打开</span>
+          </a>
+          <button class="icon-btn" type="button" title="复制链接" aria-label="复制 ${item.title} 链接" data-copy="${item.url}">
+            <i data-lucide="copy"></i>
+          </button>
+        </div>
+      `;
+
+      return card;
+    }
+
+    function renderCards() {
+      cardContainers.forEach(container => {
+        const section = container.dataset.section;
+        const items = workspaceData.filter(item => item.section === section);
+        container.innerHTML = "";
+        items.forEach(item => container.appendChild(createCard(item)));
+      });
+    }
+
+    function renderList(id, items) {
+      const node = document.querySelector(id);
+      node.innerHTML = items.map(item => `
+        <div class="list-row">
+          <div>
+            <strong>${item.title}</strong>
+            <span>${item.note}</span>
+          </div>
+          <span class="pill">${item.tag}</span>
+        </div>
+      `).join("");
+    }
+
+    function applySearch() {
+      const query = searchInput.value.trim().toLowerCase();
+      const cards = [...document.querySelectorAll(".link-card")];
+      let visibleCount = 0;
+
+      cards.forEach(card => {
+        const matched = !query || card.dataset.search.includes(query);
+        card.classList.toggle("hidden", !matched);
+        if (matched) visibleCount += 1;
+      });
+
+      document.querySelectorAll(".section").forEach(section => {
+        const grid = section.querySelector(".cards-grid");
+        if (!grid) return;
+        const hasVisibleCards = [...grid.querySelectorAll(".link-card")].some(card => !card.classList.contains("hidden"));
+        section.classList.toggle("hidden", query && !hasVisibleCards);
+      });
+
+      resultCount.textContent = query ? `${visibleCount} 个匹配入口` : `${cards.length} 个入口`;
+      emptyState.style.display = query && visibleCount === 0 ? "block" : "none";
+      if (window.lucide) window.lucide.createIcons();
+    }
+
+    function openWorkflow(name) {
+      const urls = workflows[name] || [];
+      urls.forEach((url, index) => {
+        window.setTimeout(() => window.open(url, "_blank", "noreferrer"), index * 120);
+      });
+    }
+
+    function init() {
+      const date = new Intl.DateTimeFormat("zh-CN", {
+        month: "long",
+        day: "numeric",
+        weekday: "long"
+      }).format(new Date());
+
+      document.querySelector("#todayLabel").textContent = date;
+      renderCards();
+      renderList("#recentList", recentItems);
+      renderList("#hotList", hotTopics);
+      applySearch();
+
+      searchInput.addEventListener("input", applySearch);
+
+      document.addEventListener("click", async event => {
+        const copyButton = event.target.closest("[data-copy]");
+        const workflowButton = event.target.closest("[data-workflow]");
+
+        if (copyButton) {
+          await navigator.clipboard.writeText(copyButton.dataset.copy);
+          copyButton.title = "已复制";
+          window.setTimeout(() => copyButton.title = "复制链接", 1200);
+        }
+
+        if (workflowButton) {
+          openWorkflow(workflowButton.dataset.workflow);
+        }
+      });
+
+      if (window.lucide) window.lucide.createIcons();
+    }
+
+    init();
+  </script>
+</body>
+</html>
