@@ -1,6 +1,12 @@
 name: Daily Automations
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/daily.yml"
+      - "scripts/generate_daily.py"
   schedule:
     # 00:05 UTC = 08:05 Asia/Shanghai
     - cron: "5 0 * * *"
@@ -60,11 +66,11 @@ jobs:
           fi
 
       - name: Generate AI brief
-        if: (github.event_name == 'schedule' && github.event.schedule == '5 0 * * *') || github.event.inputs.task == 'both' || github.event.inputs.task == 'ai'
+        if: github.event_name == 'push' || (github.event_name == 'schedule' && github.event.schedule == '5 0 * * *') || github.event.inputs.task == 'both' || github.event.inputs.task == 'ai'
         run: python scripts/generate_daily.py --task ai --date "${{ steps.date.outputs.value }}"
 
       - name: Generate French study
-        if: (github.event_name == 'schedule' && github.event.schedule == '5 1 * * *') || github.event.inputs.task == 'both' || github.event.inputs.task == 'french'
+        if: github.event_name == 'push' || (github.event_name == 'schedule' && github.event.schedule == '5 1 * * *') || github.event.inputs.task == 'both' || github.event.inputs.task == 'french'
         run: python scripts/generate_daily.py --task french --date "${{ steps.date.outputs.value }}"
 
       - name: Commit generated files
