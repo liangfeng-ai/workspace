@@ -1,0 +1,80 @@
+name: Daily Automations
+
+on:
+  schedule:
+    # 00:05 UTC = 08:05 Asia/Shanghai
+    - cron: "5 0 * * *"
+    # 01:05 UTC = 09:05 Asia/Shanghai
+    - cron: "5 1 * * *"
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "Which task to run"
+        required: true
+        default: "both"
+        type: choice
+        options:
+          - both
+          - ai
+          - french
+      date:
+        description: "Date to generate, YYYY-MM-DD. Empty means today in Asia/Shanghai."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-automations-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_DAILY_MODEL: ${{ vars.OPENAI_DAILY_MODEL || 'gpt-5.1' }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Resolve run date
+        id: date
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            echo "value=${{ github.event.inputs.date }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=$(TZ=Asia/Shanghai date +%F)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate AI brief
+        if: (github.event_name == 'schedule' && github.event.schedule == '5 0 * * *') || github.event.inputs.task == 'both' || github.event.inputs.task == 'ai'
+        run: python scripts/generate_daily.py --task ai --date "${{ steps.date.outputs.value }}"
+
+      - name: Generate French study
+        if: (github.event_name == 'schedule' && github.event.schedule == '5 1 * * *') || github.event.inputs.task == 'both' || github.event.inputs.task == 'french'
+        run: python scripts/generate_daily.py --task french --date "${{ steps.date.outputs.value }}"
+
+      - name: Commit generated files
+        shell: bash
+        run: |
+          if git diff --quiet --exit-code && [ -z "$(git ls-files --others --exclude-standard)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Add daily automation output for ${{ steps.date.outputs.value }}"
+          git push
