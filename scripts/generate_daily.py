@@ -6,7 +6,7 @@ from pathlib import Path
 from openai import OpenAI
 
 
-AI_PROMPT = """你是我的 AI 资讯研究员。请检索并整理过去 24 小时内最重要的 AI 相关资讯，重点关注：
+AI_PROMPT = """你是我的 AI 资讯研究员。请检索并整理过去 24 小时内最重要的 AI 相关新闻，重点关注：
 
 1. 大模型与 AI 产品更新
 2. OpenAI、Anthropic、Google DeepMind、Meta、Microsoft、xAI、Mistral、阿里、腾讯、百度、字节等公司的重要动态
@@ -131,7 +131,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--task", choices=TASKS.keys(), required=True)
     parser.add_argument("--date", default=shanghai_today())
-    parser.add_argument("--model", default=os.environ.get("OPENAI_DAILY_MODEL", "gpt-5.1"))
+    parser.add_argument("--model", default=os.environ.get("OPENAI_DAILY_MODEL", "gpt-5.5"))
     parser.add_argument("--force", action="store_true")
     args = parser.parse_args()
 
@@ -141,7 +141,10 @@ def main() -> None:
         print(f"exists, skip: {target}")
         return
 
-    client = OpenAI()
+    client = OpenAI(
+        api_key=os.environ.get("OPENAI_API_KEY"),
+        base_url=os.environ.get("OPENAI_BASE_URL") or None,
+    )
     content = generate(client, task["prompt"], args.date, args.model)
     target.write_text(content, encoding="utf-8")
     print(f"wrote {target}")
