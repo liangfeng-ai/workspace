@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      # Allows a workflow-only commit to validate repository secrets and scheduling.
       - ".github/workflows/daily.yml"
       - "scripts/generate_daily.py"
   schedule:
