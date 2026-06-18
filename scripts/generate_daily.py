@@ -158,11 +158,11 @@ ENGLISH_PROMPT = """你是我的每日雅思英语训练教练。我的当前水
 
 TASKS = {
     "ai": {
-        "filename": "{date}-AI-晨间简报.md",
+        "filename": "AI信息/{date}-AI-晨间简报.md",
         "prompt": AI_PROMPT,
     },
     "french": {
-        "filename": "{date}-DALF-C1-法语学习.md",
+        "filename": "法语学习/{date}-DALF-C1-法语学习.md",
         "prompt": FRENCH_PROMPT,
     },
     "english": {
