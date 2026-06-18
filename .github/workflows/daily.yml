@@ -13,6 +13,8 @@ on:
     - cron: "5 0 * * *"
     # 01:05 UTC = 09:05 Asia/Shanghai
     - cron: "5 1 * * *"
+    # 13:05 UTC = 21:05 Asia/Shanghai
+    - cron: "5 13 * * *"
   workflow_dispatch:
     inputs:
       task:
@@ -24,6 +26,7 @@ on:
           - both
           - ai
           - french
+          - english
       date:
         description: "Date to generate, YYYY-MM-DD. Empty means today in Asia/Shanghai."
         required: false
@@ -73,6 +76,10 @@ jobs:
       - name: Generate French study
         if: github.event_name == 'push' || (github.event_name == 'schedule' && github.event.schedule == '5 1 * * *') || github.event.inputs.task == 'both' || github.event.inputs.task == 'french'
         run: python scripts/generate_daily.py --task french --date "${{ steps.date.outputs.value }}"
+
+      - name: Generate English study
+        if: github.event_name == 'push' || (github.event_name == 'schedule' && github.event.schedule == '5 13 * * *') || github.event.inputs.task == 'both' || github.event.inputs.task == 'english'
+        run: python scripts/generate_daily.py --task english --date "${{ steps.date.outputs.value }}"
 
       - name: Commit generated files
         shell: bash
