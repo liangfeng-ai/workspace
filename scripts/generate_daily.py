@@ -1,7 +1,9 @@
 import argparse
 import datetime as dt
 import os
+import re
 from pathlib import Path
+from urllib.parse import urlparse
 
 from openai import OpenAI
 
@@ -109,6 +111,11 @@ ENGLISH_PROMPT = """你是我的每日雅思英语训练教练。我的当前水
 - 1 篇阅读材料：来自 BBC / The Guardian / NPR / The Economist / Scientific American / National Geographic / Reuters 等可靠来源，主题优先选择教育、科技、社会、健康、环境、经济、文化。
 - 1 个听力材料：来自 BBC Learning English / TED / NPR / YouTube 英语访谈 / IELTS Listening 风格材料。
 请给出标题、来源、发布日期或访问日期、链接，并说明为什么适合我今天练习。
+链接要求：
+- 必须是能直接打开具体文章、具体音频、具体视频或具体 transcript 的页面 URL。
+- 禁止只给官网首页、频道页、栏目页、搜索结果页、标签页或集合页，例如 bbc.com、bbc.com/future、ted.com、ted.com/search、npr.org/sections、youtube.com/results。
+- 如果找不到某个来源的具体材料页，必须换一个来源，直到找到可直接学习的具体页面。
+- 阅读材料和听力材料都必须有各自独立的具体链接。
 
 ## 2. 阅读训练：从“看懂”到“雅思阅读速度”
 基于今日阅读材料，生成：
@@ -189,6 +196,44 @@ def generate(client: OpenAI, prompt: str, date: str, model: str) -> str:
     return response.output_text.strip() + "\n"
 
 
+def validate_english_links(content: str) -> None:
+    urls = re.findall(r"https?://[^\s)>\]]+", content)
+    if len(urls) < 2:
+        raise ValueError("English study output must include at least two concrete material URLs.")
+
+    disallowed_exact_paths = {
+        "",
+        "/",
+        "/future",
+        "/news",
+        "/learningenglish",
+        "/search",
+        "/sections",
+    }
+    disallowed_prefixes = (
+        "/search",
+        "/results",
+        "/sections/",
+        "/topics/",
+        "/tag/",
+        "/tags/",
+        "/collections/",
+    )
+
+    bad_urls = []
+    for url in urls:
+        parsed = urlparse(url)
+        path = parsed.path.rstrip("/")
+        if path in disallowed_exact_paths or path.startswith(disallowed_prefixes):
+            bad_urls.append(url)
+
+    if bad_urls:
+        raise ValueError(
+            "English study output used non-specific homepage/search/category URLs: "
+            + ", ".join(bad_urls)
+        )
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--task", choices=TASKS.keys(), required=True)
@@ -209,6 +254,8 @@ def main() -> None:
         base_url=os.environ.get("OPENAI_BASE_URL") or None,
     )
     content = generate(client, task["prompt"], args.date, args.model)
+    if args.task == "english":
+        validate_english_links(content)
     target.write_text(content, encoding="utf-8")
     print(f"wrote {target}")
 
