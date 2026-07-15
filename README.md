@@ -6,6 +6,20 @@
 - `法语学习\YYYY-MM-DD-DALF-C1-法语学习.md`
 - `英语学习\YYYY-MM-DD-IELTS-7.0-英语学习.md`
 
+## AI 工具费曼学习雷达
+
+`.github/workflows/ai-tool-radar.yml` 在工作日北京时间 `07:20` 运行
+`scripts/collect_ai_tool_candidates.py`，从 GitHub Search、Hugging Face Hub
+和官方组织仓库收集公开的 AI 工具候选。
+
+- 每日候选：`data/ai-tool-radar/YYYY-MM-DD.json`
+- 30 天去重状态：`data/ai-tool-radar/seen.json`
+- 通用学习指令：`prompts/ai-tool-learning.md`
+- 本地 Codex 学习卡：工作日 `08:20` 写入 Obsidian `峰峰/AI工具学习`
+
+这个 workflow 不调用 OpenAI，也不需要新的 secret。公开仓库只保存公开候选和
+通用提示词；费曼解释、完成情况、学习评分和私人文件只保存在本地 Obsidian。
+
 ## GitHub Actions 调度
 
 仓库里的 `.github/workflows/daily.yml` 会在 GitHub 云端运行，不依赖本机开机。

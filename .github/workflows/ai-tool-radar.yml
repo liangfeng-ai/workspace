@@ -1,0 +1,69 @@
+name: AI Tool Radar
+
+on:
+  schedule:
+    # 23:20 UTC = 07:20 Asia/Shanghai, Monday through Friday locally.
+    - cron: "20 23 * * 0-4"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date to collect, YYYY-MM-DD. Empty means today in Asia/Shanghai."
+        required: false
+        default: ""
+        type: string
+      force:
+        description: "Ignore the 30-day deduplication window"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-tool-radar-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Resolve run date
+        id: date
+        shell: bash
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            echo "value=${{ inputs.date }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=$(TZ=Asia/Shanghai date +%F)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run collector tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
+
+      - name: Collect public candidates
+        run: |
+          args=(--date "${{ steps.date.outputs.value }}")
+          if [ "${{ inputs.force }}" = "true" ]; then args+=(--force); fi
+          python scripts/collect_ai_tool_candidates.py "${args[@]}"
+
+      - name: Commit radar data only
+        shell: bash
+        run: |
+          if git diff --quiet --exit-code -- data/ai-tool-radar && [ -z "$(git ls-files --others --exclude-standard data/ai-tool-radar)" ]; then
+            echo "No radar changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ai-tool-radar
+          git commit -m "Collect AI tool candidates for ${{ steps.date.outputs.value }}"
+          git push
