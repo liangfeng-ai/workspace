@@ -45,6 +45,23 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(len(select_new([item.copy()], state, "2026-07-20")), 0)
         self.assertEqual(len(select_new([item.copy()], state, "2026-08-15")), 1)
 
+    def test_popularity_changes_do_not_bypass_deduplication(self):
+        first = {
+            "id": "github_repository:https://github.com/example/tool",
+            "kind": "github_repository",
+            "url": "https://github.com/example/tool",
+            "signals": {"stars": 200, "pushed_at": "2026-07-15T00:00:00Z"},
+        }
+        later = {
+            "id": first["id"],
+            "kind": first["kind"],
+            "url": first["url"],
+            "signals": {"stars": 500, "pushed_at": "2026-07-16T00:00:00Z"},
+        }
+        state = {"schema_version": 1, "items": {}}
+        self.assertEqual(len(select_new([first], state, "2026-07-15")), 1)
+        self.assertEqual(len(select_new([later], state, "2026-07-16")), 0)
+
     def test_collector_keeps_other_sources_when_one_fails(self):
         def fake_fetch(url):
             if "search/repositories" in url:

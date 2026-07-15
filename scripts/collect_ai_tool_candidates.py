@@ -118,12 +118,10 @@ def signal_fingerprint(candidate: dict[str, Any]) -> str:
     signals = candidate.get("signals", {})
     raw = json.dumps(
         {
+            "kind": candidate.get("kind"),
             "url": candidate["url"],
-            "updated_at": signals.get("updated_at"),
-            "pushed_at": signals.get("pushed_at"),
-            "stars": signals.get("stars"),
-            "downloads": signals.get("downloads"),
-            "likes": signals.get("likes"),
+            "release_tag": signals.get("release_tag"),
+            "version": signals.get("version"),
         },
         ensure_ascii=False,
         sort_keys=True,

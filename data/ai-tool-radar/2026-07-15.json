@@ -1,11 +1,36 @@
 {
   "schema_version": 1,
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T01:40:44.513773+00:00",
+  "generated_at": "2026-07-15T01:45:34.928999+00:00",
   "lookback_days": 30,
   "dedup_days": 30,
   "candidate_count": 60,
   "candidates": [
+    {
+      "id": "official_repository:https://github.com/mistralai/mistral-vibe",
+      "kind": "official_repository",
+      "name": "mistralai/mistral-vibe",
+      "url": "https://github.com/mistralai/mistral-vibe",
+      "provider": "mistralai",
+      "description": "Minimal CLI coding agent by Mistral",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 4684,
+        "pushed_at": "2026-07-13T16:13:49Z",
+        "updated_at": "2026-07-14T23:31:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "edcf512a3a9ed1a9",
+        "novel": false,
+        "dedup_age_days": 0
+      }
+    },
     {
       "id": "official_reference:https://console.groq.com/docs/speech-to-text",
       "kind": "official_reference",
@@ -26,9 +51,9 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "59aa3ebe622ba411",
-        "novel": true,
-        "dedup_age_days": null
+        "fingerprint": "5bd9b7b6f01ac268",
+        "novel": false,
+        "dedup_age_days": 0
       }
     },
     {
@@ -51,9 +76,9 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "ef9e67026c32cc65",
-        "novel": true,
-        "dedup_age_days": null
+        "fingerprint": "9f902fe83c066dbd",
+        "novel": false,
+        "dedup_age_days": 0
       }
     },
     {
@@ -75,9 +100,9 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "8439275023b97816",
-        "novel": true,
-        "dedup_age_days": null
+        "fingerprint": "555413e54238b570",
+        "novel": false,
+        "dedup_age_days": 0
       }
     },
     {
@@ -90,45 +115,17 @@
       "capability_tags": [
         "agents",
         "api",
-        "official",
-        "openai",
         "sdk",
         "structured-output"
       ],
       "input_output": "Task input -> API example and inspectable output",
       "signals": {
         "authority": "official",
-        "updated_at": null,
-        "source_count": 2
+        "updated_at": null
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "0d7c831ff904c6d3",
-        "novel": true,
-        "dedup_age_days": null
-      }
-    },
-    {
-      "id": "github_repository:https://github.com/firecrawl/firecrawl",
-      "kind": "github_repository",
-      "name": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "provider": "GitHub",
-      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "capability_tags": [
-        "ai-agents"
-      ],
-      "input_output": "Repository README and examples",
-      "signals": {
-        "stars": 151061,
-        "forks": 8628,
-        "pushed_at": "2026-07-15T01:36:14Z",
-        "updated_at": "2026-07-15T01:38:32Z",
-        "archived": false
-      },
-      "source": "public_api",
-      "selection": {
-        "fingerprint": "5e7e4094f26ce37d",
+        "fingerprint": "8dbe68e7e462eff0",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -153,7 +150,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "674c3e74e8304894",
+        "fingerprint": "472bbcf1726e26ef",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -178,32 +175,34 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "8466dea889e8ca3a",
+        "fingerprint": "cae28f83b9d950c0",
         "novel": false,
         "dedup_age_days": 0
       }
     },
     {
-      "id": "github_repository:https://github.com/nexu-io/open-design",
+      "id": "github_repository:https://github.com/infiniflow/ragflow",
       "kind": "github_repository",
-      "name": "nexu-io/open-design",
-      "url": "https://github.com/nexu-io/open-design",
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
       "provider": "GitHub",
-      "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "capability_tags": [
-        "ai-agents"
+        "ai-agents",
+        "rag"
       ],
       "input_output": "Repository README and examples",
       "signals": {
-        "stars": 78189,
-        "forks": 8991,
-        "pushed_at": "2026-07-15T01:37:11Z",
-        "updated_at": "2026-07-15T01:40:15Z",
-        "archived": false
+        "stars": 85050,
+        "forks": 9923,
+        "pushed_at": "2026-07-15T01:40:37Z",
+        "updated_at": "2026-07-15T01:40:55Z",
+        "archived": false,
+        "source_count": 2
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "e2909b1858048ce0",
+        "fingerprint": "7049451086bb35e4",
         "novel": true,
         "dedup_age_days": null
       }
@@ -228,7 +227,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "cc6177641a2c5e9a",
+        "fingerprint": "812a574c81036a31",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -253,7 +252,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "5bcf3a621103a5e9",
+        "fingerprint": "1bb1732ceed994f7",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -273,16 +272,16 @@
       "signals": {
         "stars": 51217,
         "forks": 5683,
-        "pushed_at": "2026-07-15T01:30:44Z",
+        "pushed_at": "2026-07-15T01:45:24Z",
         "updated_at": "2026-07-15T01:32:43Z",
         "archived": false,
         "source_count": 2
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "6e4ec86b38715aca",
-        "novel": true,
-        "dedup_age_days": null
+        "fingerprint": "df0dce32dc4c60c2",
+        "novel": false,
+        "dedup_age_days": 0
       }
     },
     {
@@ -305,9 +304,9 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "8e75d1e4d962924c",
-        "novel": true,
-        "dedup_age_days": null
+        "fingerprint": "cffd8fd5ceeb4756",
+        "novel": false,
+        "dedup_age_days": 0
       }
     },
     {
@@ -330,7 +329,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "2a77b0c4d29b4a73",
+        "fingerprint": "d85e6bb1545dcd7d",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -355,7 +354,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "910ddab1b5dccabc",
+        "fingerprint": "bc7b30c6a34fb6eb",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -372,15 +371,15 @@
       ],
       "input_output": "Repository README and examples",
       "signals": {
-        "stars": 35169,
+        "stars": 35170,
         "forks": 3291,
-        "pushed_at": "2026-07-15T01:34:06Z",
-        "updated_at": "2026-07-15T01:39:47Z",
+        "pushed_at": "2026-07-15T01:45:13Z",
+        "updated_at": "2026-07-15T01:41:03Z",
         "archived": false
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "b9646d16b2ff06be",
+        "fingerprint": "0a895c1fcda1a8e7",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -405,9 +404,9 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "e74b72725744e5e7",
-        "novel": true,
-        "dedup_age_days": null
+        "fingerprint": "577e6f414471db7d",
+        "novel": false,
+        "dedup_age_days": 0
       }
     },
     {
@@ -430,7 +429,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "e8765c77a5bd486d",
+        "fingerprint": "c298f932ea3f90ff",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -455,9 +454,34 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "4d2f06b867d8de99",
+        "fingerprint": "99b32794d96a0a1e",
         "novel": false,
         "dedup_age_days": 0
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/simstudioai/sim",
+      "kind": "github_repository",
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "provider": "GitHub",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 29110,
+        "forks": 3710,
+        "pushed_at": "2026-07-15T01:10:44Z",
+        "updated_at": "2026-07-15T01:44:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c5008fef6c26edbc",
+        "novel": true,
+        "dedup_age_days": null
       }
     },
     {
@@ -480,32 +504,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "33d6e7e8425594c9",
-        "novel": false,
-        "dedup_age_days": 0
-      }
-    },
-    {
-      "id": "github_repository:https://github.com/promptfoo/promptfoo",
-      "kind": "github_repository",
-      "name": "promptfoo/promptfoo",
-      "url": "https://github.com/promptfoo/promptfoo",
-      "provider": "GitHub",
-      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
-      "capability_tags": [
-        "rag"
-      ],
-      "input_output": "Repository README and examples",
-      "signals": {
-        "stars": 23265,
-        "forks": 2085,
-        "pushed_at": "2026-07-15T01:07:40Z",
-        "updated_at": "2026-07-15T01:34:58Z",
-        "archived": false
-      },
-      "source": "public_api",
-      "selection": {
-        "fingerprint": "36f7f0e14e71243c",
+        "fingerprint": "1bb5797e6f0fcca7",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -522,15 +521,15 @@
       ],
       "input_output": "Repository README and examples",
       "signals": {
-        "stars": 19952,
+        "stars": 19954,
         "forks": 1954,
         "pushed_at": "2026-07-15T00:08:14Z",
-        "updated_at": "2026-07-15T01:40:17Z",
+        "updated_at": "2026-07-15T01:44:20Z",
         "archived": false
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "da92cdcbecedaa2f",
+        "fingerprint": "3ec55f62278b5923",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -555,7 +554,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "e6b7414bce6a976a",
+        "fingerprint": "d6e142e320a83355",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -580,9 +579,34 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "8f3c4895bb705514",
+        "fingerprint": "803de3d27a0383d6",
         "novel": false,
         "dedup_age_days": 0
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ogulcancelik/herdr",
+      "kind": "github_repository",
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "provider": "GitHub",
+      "description": "agent multiplexer that lives in your terminal.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 16496,
+        "forks": 1113,
+        "pushed_at": "2026-07-15T01:43:21Z",
+        "updated_at": "2026-07-15T01:45:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6ad1a28fa9722cc5",
+        "novel": true,
+        "dedup_age_days": null
       }
     },
     {
@@ -605,7 +629,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "7198d82661203413",
+        "fingerprint": "5cbada2507d5f9e1",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -630,7 +654,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "1e688c997a6b7933",
+        "fingerprint": "f5ee0fdca98ce0b5",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -655,32 +679,82 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "0df7c3e7e4a15f5d",
+        "fingerprint": "bdc25d48fb447e2a",
         "novel": false,
         "dedup_age_days": 0
       }
     },
     {
-      "id": "github_repository:https://github.com/BlockRunAI/ClawRouter",
+      "id": "github_repository:https://github.com/1jehuang/jcode",
       "kind": "github_repository",
-      "name": "BlockRunAI/ClawRouter",
-      "url": "https://github.com/BlockRunAI/ClawRouter",
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
       "provider": "GitHub",
-      "description": "The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.",
+      "description": "Coding Agent Harness",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8334,
+        "forks": 946,
+        "pushed_at": "2026-07-15T01:44:05Z",
+        "updated_at": "2026-07-15T01:44:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f11d77865649d2aa",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/omnigent-ai/omnigent",
+      "kind": "github_repository",
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "provider": "GitHub",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "capability_tags": [
         "ai-agents"
       ],
       "input_output": "Repository README and examples",
       "signals": {
-        "stars": 6656,
-        "forks": 625,
-        "pushed_at": "2026-07-15T01:29:42Z",
-        "updated_at": "2026-07-15T01:34:32Z",
+        "stars": 7270,
+        "forks": 1006,
+        "pushed_at": "2026-07-15T01:37:20Z",
+        "updated_at": "2026-07-15T01:41:53Z",
         "archived": false
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "92743687e5cccc72",
+        "fingerprint": "4d8d8951d9e1815e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/steipete/agent-scripts",
+      "kind": "github_repository",
+      "name": "steipete/agent-scripts",
+      "url": "https://github.com/steipete/agent-scripts",
+      "provider": "GitHub",
+      "description": "Scripts for agents, shared between my repositories.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6395,
+        "forks": 531,
+        "pushed_at": "2026-07-15T01:44:43Z",
+        "updated_at": "2026-07-15T01:44:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e8a1945f6e154047",
         "novel": true,
         "dedup_age_days": null
       }
@@ -705,32 +779,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "0037fda3d35fb63d",
-        "novel": false,
-        "dedup_age_days": 0
-      }
-    },
-    {
-      "id": "github_repository:https://github.com/thunderbird/thunderbolt",
-      "kind": "github_repository",
-      "name": "thunderbird/thunderbolt",
-      "url": "https://github.com/thunderbird/thunderbolt",
-      "provider": "GitHub",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "capability_tags": [
-        "ai-agents"
-      ],
-      "input_output": "Repository README and examples",
-      "signals": {
-        "stars": 4739,
-        "forks": 316,
-        "pushed_at": "2026-07-15T01:29:05Z",
-        "updated_at": "2026-07-15T01:29:07Z",
-        "archived": false
-      },
-      "source": "public_api",
-      "selection": {
-        "fingerprint": "666eed945d739ffa",
+        "fingerprint": "08bcadfbc8aa5c94",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -755,7 +804,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "2d51447f7303c11e",
+        "fingerprint": "124ead8d0c7fe936",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -780,34 +829,9 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "2b63862bb520bc6e",
+        "fingerprint": "900bd839a606029c",
         "novel": false,
         "dedup_age_days": 0
-      }
-    },
-    {
-      "id": "github_repository:https://github.com/RunMaestro/Maestro",
-      "kind": "github_repository",
-      "name": "RunMaestro/Maestro",
-      "url": "https://github.com/RunMaestro/Maestro",
-      "provider": "GitHub",
-      "description": "Agent Orchestration Command Center",
-      "capability_tags": [
-        "ai-agents"
-      ],
-      "input_output": "Repository README and examples",
-      "signals": {
-        "stars": 3136,
-        "forks": 333,
-        "pushed_at": "2026-07-15T01:36:06Z",
-        "updated_at": "2026-07-15T01:36:09Z",
-        "archived": false
-      },
-      "source": "public_api",
-      "selection": {
-        "fingerprint": "074fb16cbb1f4803",
-        "novel": true,
-        "dedup_age_days": null
       }
     },
     {
@@ -830,9 +854,36 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "e603c2f9d3d06ed5",
+        "fingerprint": "217acbd04b5164e0",
         "novel": false,
         "dedup_age_days": 0
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/UnicomAI/wanwu",
+      "kind": "github_repository",
+      "name": "UnicomAI/wanwu",
+      "url": "https://github.com/UnicomAI/wanwu",
+      "provider": "GitHub",
+      "description": "China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly license, and we welcome all developers to build upon the platform.",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2557,
+        "forks": 117,
+        "pushed_at": "2026-07-15T01:40:48Z",
+        "updated_at": "2026-07-15T01:40:55Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "445db4344e2a0d95",
+        "novel": true,
+        "dedup_age_days": null
       }
     },
     {
@@ -855,34 +906,9 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "c8ebfc9f675c40d0",
+        "fingerprint": "eeaf04df23a5a786",
         "novel": false,
         "dedup_age_days": 0
-      }
-    },
-    {
-      "id": "github_repository:https://github.com/Agent-Field/agentfield",
-      "kind": "github_repository",
-      "name": "Agent-Field/agentfield",
-      "url": "https://github.com/Agent-Field/agentfield",
-      "provider": "GitHub",
-      "description": "Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.",
-      "capability_tags": [
-        "rag"
-      ],
-      "input_output": "Repository README and examples",
-      "signals": {
-        "stars": 2349,
-        "forks": 373,
-        "pushed_at": "2026-07-15T00:54:43Z",
-        "updated_at": "2026-07-15T01:38:06Z",
-        "archived": false
-      },
-      "source": "public_api",
-      "selection": {
-        "fingerprint": "fbbba62852db8a94",
-        "novel": true,
-        "dedup_age_days": null
       }
     },
     {
@@ -899,15 +925,40 @@
       "signals": {
         "stars": 2062,
         "forks": 246,
-        "pushed_at": "2026-07-15T01:37:27Z",
-        "updated_at": "2026-07-15T01:30:17Z",
+        "pushed_at": "2026-07-15T01:45:09Z",
+        "updated_at": "2026-07-15T01:45:12Z",
         "archived": false
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "8f93d0f5cd5f1ca7",
+        "fingerprint": "190e3d9055901c53",
         "novel": false,
         "dedup_age_days": 0
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Project-N-E-K-O/N.E.K.O",
+      "kind": "github_repository",
+      "name": "Project-N-E-K-O/N.E.K.O",
+      "url": "https://github.com/Project-N-E-K-O/N.E.K.O",
+      "provider": "GitHub",
+      "description": "A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1994,
+        "forks": 230,
+        "pushed_at": "2026-07-15T01:43:02Z",
+        "updated_at": "2026-07-15T01:43:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a22b0f8533a3d1b3",
+        "novel": true,
+        "dedup_age_days": null
       }
     },
     {
@@ -930,7 +981,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "12bb75711b77019e",
+        "fingerprint": "65cf3213a52e79a2",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -955,7 +1006,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "bc790d5444a19568",
+        "fingerprint": "a3247315f4d66162",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -980,7 +1031,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "e3c004caeeb1b228",
+        "fingerprint": "444933100dfd5fd7",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1005,7 +1056,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "611a699795d40933",
+        "fingerprint": "fec59b68892a31a3",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1030,7 +1081,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "9842a97abe33ce2f",
+        "fingerprint": "7e1680d601142c48",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1055,7 +1106,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "3385670e5d755373",
+        "fingerprint": "2ff255a277be7d91",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1080,9 +1131,34 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "dfb8bec0dede00b2",
+        "fingerprint": "3a9d248448d7cbdf",
         "novel": false,
         "dedup_age_days": 0
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "kind": "github_repository",
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "provider": "GitHub",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 801,
+        "forks": 148,
+        "pushed_at": "2026-07-15T01:45:17Z",
+        "updated_at": "2026-07-15T01:41:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c85ace65d71237e9",
+        "novel": true,
+        "dedup_age_days": null
       }
     },
     {
@@ -1105,34 +1181,9 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "b22624d97c53a7c6",
+        "fingerprint": "3d85ad4a151b3442",
         "novel": false,
         "dedup_age_days": 0
-      }
-    },
-    {
-      "id": "github_repository:https://github.com/pcliangx/AppGenesisForge",
-      "kind": "github_repository",
-      "name": "pcliangx/AppGenesisForge",
-      "url": "https://github.com/pcliangx/AppGenesisForge",
-      "provider": "GitHub",
-      "description": "AI Agent Team scaffold for Claude Code — 19 roles collaborate through stage gates, enforced by mandatory skills + blocking hooks + DoD checklists. Spec-driven change folders, SIT-audited code reviews, 4-layer hook defense, multi-LLM (DeepSeek/Doubao/Qwen/MiniMax). Tracks: Web · WeChat Mini Program · Apple native (macOS/iOS). 中文/EN README.",
-      "capability_tags": [
-        "ai-agents"
-      ],
-      "input_output": "Repository README and examples",
-      "signals": {
-        "stars": 742,
-        "forks": 16,
-        "pushed_at": "2026-07-15T01:36:33Z",
-        "updated_at": "2026-07-15T01:36:37Z",
-        "archived": false
-      },
-      "source": "public_api",
-      "selection": {
-        "fingerprint": "5ce5d69f97c2b29e",
-        "novel": true,
-        "dedup_age_days": null
       }
     },
     {
@@ -1155,7 +1206,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "f1d23f98dc4557e7",
+        "fingerprint": "e250cc8df7c6143f",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1180,9 +1231,9 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "6cb46e4939388a61",
-        "novel": true,
-        "dedup_age_days": null
+        "fingerprint": "377fe09bba831825",
+        "novel": false,
+        "dedup_age_days": 0
       }
     },
     {
@@ -1205,7 +1256,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "96e9f8fce8c7ca1a",
+        "fingerprint": "88f5d8eac1162186",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1230,7 +1281,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "8854e208deb9671d",
+        "fingerprint": "f112a37b77196030",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1255,32 +1306,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "e0e534977f7c3e2f",
-        "novel": false,
-        "dedup_age_days": 0
-      }
-    },
-    {
-      "id": "github_repository:https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "kind": "github_repository",
-      "name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "provider": "GitHub",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "capability_tags": [
-        "rag"
-      ],
-      "input_output": "Repository README and examples",
-      "signals": {
-        "stars": 530,
-        "forks": 61,
-        "pushed_at": "2026-07-15T00:55:54Z",
-        "updated_at": "2026-07-15T00:55:57Z",
-        "archived": false
-      },
-      "source": "public_api",
-      "selection": {
-        "fingerprint": "67a4116c6c31d6f8",
+        "fingerprint": "58b449d020f6c941",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1305,32 +1331,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "6d306d88bc4c84f3",
-        "novel": false,
-        "dedup_age_days": 0
-      }
-    },
-    {
-      "id": "github_repository:https://github.com/GlitterKill/sdl-mcp",
-      "kind": "github_repository",
-      "name": "GlitterKill/sdl-mcp",
-      "url": "https://github.com/GlitterKill/sdl-mcp",
-      "provider": "GitHub",
-      "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence combined with precision tools. It turns sprawling codebases into compact, high-signal context that saves tokens, speeds up workflows, and improves agent output.",
-      "capability_tags": [
-        "mcp"
-      ],
-      "input_output": "Repository README and examples",
-      "signals": {
-        "stars": 440,
-        "forks": 27,
-        "pushed_at": "2026-07-15T01:27:59Z",
-        "updated_at": "2026-07-15T01:28:03Z",
-        "archived": false
-      },
-      "source": "public_api",
-      "selection": {
-        "fingerprint": "7b419af92a61e20d",
+        "fingerprint": "27481011dc47a711",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1350,14 +1351,14 @@
       "signals": {
         "stars": 411,
         "forks": 44,
-        "pushed_at": "2026-07-15T01:33:33Z",
-        "updated_at": "2026-07-15T01:33:37Z",
+        "pushed_at": "2026-07-15T01:42:16Z",
+        "updated_at": "2026-07-15T01:42:19Z",
         "archived": false,
         "source_count": 2
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "11fd0b1d04d8f434",
+        "fingerprint": "138cf1ddb0429cab",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1382,7 +1383,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "a5a93bb53200b138",
+        "fingerprint": "ffabc82a3f480a29",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1407,7 +1408,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "a8e19afbdfb0b9bb",
+        "fingerprint": "c66e503ea50064f2",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1432,7 +1433,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "333ffb7d33081c76",
+        "fingerprint": "40dca180ef7e834b",
         "novel": false,
         "dedup_age_days": 0
       }
@@ -1445,46 +1446,48 @@
       "provider": "GitHub",
       "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package.",
       "capability_tags": [
+        "ai-agents",
         "ai-tools"
       ],
       "input_output": "Repository README and examples",
       "signals": {
         "stars": 280,
         "forks": 94,
-        "pushed_at": "2026-07-15T01:24:15Z",
-        "updated_at": "2026-07-15T01:24:19Z",
-        "archived": false
+        "pushed_at": "2026-07-15T01:44:09Z",
+        "updated_at": "2026-07-15T01:44:13Z",
+        "archived": false,
+        "source_count": 2
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "75fcbbec886891ce",
+        "fingerprint": "0d701174acd5a148",
         "novel": false,
         "dedup_age_days": 0
       }
     },
     {
-      "id": "github_repository:https://github.com/speakeasy-api/gram",
+      "id": "github_repository:https://github.com/apache/texera",
       "kind": "github_repository",
-      "name": "speakeasy-api/gram",
-      "url": "https://github.com/speakeasy-api/gram",
+      "name": "apache/texera",
+      "url": "https://github.com/apache/texera",
       "provider": "GitHub",
-      "description": "Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within your company.",
+      "description": "Human-AI Collaborative Data Science Using Visual Workflows",
       "capability_tags": [
-        "mcp"
+        "ai-agents"
       ],
       "input_output": "Repository README and examples",
       "signals": {
-        "stars": 255,
-        "forks": 32,
-        "pushed_at": "2026-07-15T01:28:57Z",
-        "updated_at": "2026-07-15T01:25:25Z",
+        "stars": 259,
+        "forks": 169,
+        "pushed_at": "2026-07-15T01:44:26Z",
+        "updated_at": "2026-07-15T01:43:41Z",
         "archived": false
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "5b4418be8ca1357b",
-        "novel": false,
-        "dedup_age_days": 0
+        "fingerprint": "5e004f79949a4e2c",
+        "novel": true,
+        "dedup_age_days": null
       }
     },
     {
@@ -1507,7 +1510,7 @@
       },
       "source": "public_api",
       "selection": {
-        "fingerprint": "25484a5db016f9ad",
+        "fingerprint": "fd1c541ce7319604",
         "novel": false,
         "dedup_age_days": 0
       }
