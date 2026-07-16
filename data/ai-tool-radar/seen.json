@@ -206,16 +206,16 @@
       "fingerprint": "38ef2828347083cf"
     },
     "github_repository:https://github.com/marcusquinn/aidevops": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "e6521c25640d1dcb"
+      "last_seen": "2026-07-16",
+      "fingerprint": "a6f35268706d8cff"
     },
     "github_repository:https://github.com/firecrawl/firecrawl": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "5e7e4094f26ce37d"
+      "last_seen": "2026-07-16",
+      "fingerprint": "32401ba5aed008d7"
     },
     "github_repository:https://github.com/stablyai/orca": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "a02084a15ad660d3"
+      "last_seen": "2026-07-16",
+      "fingerprint": "2149099ea4e39512"
     },
     "official_repository:https://github.com/mistralai/mistral-vibe": {
       "last_seen": "2026-07-15",
@@ -258,8 +258,8 @@
       "fingerprint": "6e0c6f6c21181493"
     },
     "official_repository:https://github.com/huggingface/agents-course": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "23fb5e63146c8bc1"
+      "last_seen": "2026-07-16",
+      "fingerprint": "e40fd5a2c5062391"
     },
     "official_repository:https://github.com/huggingface/swift-transformers": {
       "last_seen": "2026-07-15",
@@ -448,6 +448,166 @@
     "official_repository:https://github.com/huggingface/autotrain-advanced": {
       "last_seen": "2026-07-15",
       "fingerprint": "7d5e4f36239feaa8"
+    },
+    "github_repository:https://github.com/lidge-jun/opencodex": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "23102615b9b2a991"
+    },
+    "github_repository:https://github.com/mrwogu/promptscript": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "188109252a410910"
+    },
+    "github_repository:https://github.com/hackerai-tech/hackerai": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "4a812ff0ca4ed00f"
+    },
+    "github_repository:https://github.com/lightningpixel/modly": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "5910e2d4fe5285ed"
+    },
+    "github_repository:https://github.com/aiptimizer/TurboOCR": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "d31122d57f097e1a"
+    },
+    "github_repository:https://github.com/run-llama/ParseBench": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "37c0dcb717bdb48b"
+    },
+    "github_repository:https://github.com/Unstructured-IO/unstructured": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "a6aeb7c2653f9d85"
+    },
+    "github_repository:https://github.com/scambier/obsidian-omnisearch": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "c262cf9a219a5fe6"
+    },
+    "github_repository:https://github.com/pymupdf/PyMuPDF": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "b0ffbf158b098180"
+    },
+    "github_repository:https://github.com/schmitech/orbit": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "c43ac2719f32019a"
+    },
+    "github_repository:https://github.com/moona3k/macparakeet": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "322c0ad4947b8352"
+    },
+    "github_repository:https://github.com/tmoroney/auto-subs": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "f73e07ccd3b52335"
+    },
+    "github_repository:https://github.com/TypeWhisper/typewhisper-mac": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "21be25c577ceec48"
+    },
+    "github_repository:https://github.com/Blaizzy/mlx-audio-swift": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "cb10c44e2ca7b000"
+    },
+    "github_repository:https://github.com/CrispStrobe/CrispASR": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "be2520a07e1563f1"
+    },
+    "github_repository:https://github.com/anthropics/claude-plugins-official": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "e7237a6de14af7d0"
+    },
+    "github_repository:https://github.com/DeusData/codebase-memory-mcp": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "6805c13b72ab2b8c"
+    },
+    "github_repository:https://github.com/Th0rgal/sandboxed.sh": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "5470a4e8c8ecdc67"
+    },
+    "github_repository:https://github.com/tableau/tableau-mcp": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "aecd50bffc9889a8"
+    },
+    "github_repository:https://github.com/genomoncology/biomcp": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "ad6e1e7351e6f432"
+    },
+    "github_repository:https://github.com/kwaroran/Risuai": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "d101fd521e603a9d"
+    },
+    "github_repository:https://github.com/Fergana-Labs/stash": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "2f71b2fc66899324"
+    },
+    "github_repository:https://github.com/mezmo/aura": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "8a79d414d1996e2c"
+    },
+    "github_repository:https://github.com/henrydaum/second-brain": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "d53ca4ea3fd77572"
+    },
+    "github_repository:https://github.com/Andrew-Jang/RAGHub": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "45a68349e136a19b"
+    },
+    "github_repository:https://github.com/aws-samples/amazon-bedrock-samples": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "94e68fdd3979f670"
+    },
+    "github_repository:https://github.com/openwong2kim/wmux": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "e6a523f5816764c9"
+    },
+    "github_repository:https://github.com/InsForge/InsForge": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "24d4be191a00653b"
+    },
+    "github_repository:https://github.com/AntigmaLabs/ante-preview": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "ae90686c1607ac91"
+    },
+    "github_repository:https://github.com/microsoft/apm": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "ff91598b44324e88"
+    },
+    "github_repository:https://github.com/NousResearch/hermes-agent": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "3029a56adfe06d26"
+    },
+    "official_repository:https://github.com/mistralai/platform-docs-public": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "5c18bc17df35f9a1"
+    },
+    "official_repository:https://github.com/mistralai/mistral-common": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "8bde2203ced8102c"
+    },
+    "official_repository:https://github.com/openai/terraform-provider-openai": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "20492b3bd141ac2d"
+    },
+    "official_repository:https://github.com/openai/softnet": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "7709f49252e19525"
+    },
+    "official_repository:https://github.com/huggingface/diffusers": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "c2c29741b8643303"
+    },
+    "hf_model:https://huggingface.co/models/thinkingmachines/Inkling": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "ae5b4c2485f5147c"
+    },
+    "hf_model:https://huggingface.co/models/ATH-MaaS/OvisOCR2": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "2f3cae80e5ae2339"
+    },
+    "hf_space:https://huggingface.co/spaces/ICML-2026-agent-repro/challenge": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "94be7edcb7fa6b1c"
+    },
+    "hf_space:https://huggingface.co/spaces/ATH-MaaS/OvisOCR2": {
+      "last_seen": "2026-07-16",
+      "fingerprint": "20773a1654ce917e"
     }
   }
 }
