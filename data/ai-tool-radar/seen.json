@@ -182,8 +182,8 @@
       "fingerprint": "1bb1732ceed994f7"
     },
     "github_repository:https://github.com/promptfoo/promptfoo": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "36f7f0e14e71243c"
+      "last_seen": "2026-07-17",
+      "fingerprint": "517fefaefa4c0acf"
     },
     "github_repository:https://github.com/TeleAI-UAGI/Awesome-Agent-Memory": {
       "last_seen": "2026-07-15",
@@ -608,6 +608,134 @@
     "hf_space:https://huggingface.co/spaces/ATH-MaaS/OvisOCR2": {
       "last_seen": "2026-07-16",
       "fingerprint": "20773a1654ce917e"
+    },
+    "github_repository:https://github.com/Stack-Cairn/LiveAgent": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "a5e02f69b8a5e28c"
+    },
+    "github_repository:https://github.com/voidcraft-dev/memory-forge-rs": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "2e3c755f62aad5cf"
+    },
+    "github_repository:https://github.com/Leon-Drq/openagentskill": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "566396cd0b856c8e"
+    },
+    "github_repository:https://github.com/Javis603/token-monitor": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "eaf087af50450ed2"
+    },
+    "github_repository:https://github.com/Nexus-JPF/note-companion": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "ff4fdd9663271ee1"
+    },
+    "github_repository:https://github.com/SnapXL/SnapX": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "fa64ff28ae309483"
+    },
+    "github_repository:https://github.com/meangrinch/MangaTranslator": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "57dda70164b50382"
+    },
+    "github_repository:https://github.com/zibo-chen/rust-paddle-ocr": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "0bb0818475d2a999"
+    },
+    "github_repository:https://github.com/ocrmypdf/OCRmyPDF": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "698e864b28ec4dc2"
+    },
+    "github_repository:https://github.com/cjpais/Handy": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "99dfca28439d8179"
+    },
+    "github_repository:https://github.com/peteonrails/voxtype": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "e56263fcc12fe438"
+    },
+    "github_repository:https://github.com/FluidInference/FluidAudio": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "b00a4aa82ff90edc"
+    },
+    "github_repository:https://github.com/modelcontextprotocol/ext-apps": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "c909ae6660164f09"
+    },
+    "github_repository:https://github.com/Belkins/ai-dive-deep": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "bf3c439459ea6a73"
+    },
+    "github_repository:https://github.com/agent-sh/computer-use-linux": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "d6aaccf38b9bb203"
+    },
+    "github_repository:https://github.com/jeremylongshore/claude-code-plugins-plus-skills": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "7a7cda48949ca161"
+    },
+    "github_repository:https://github.com/artokun/comfyui-mcp": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "e9648489b176d684"
+    },
+    "github_repository:https://github.com/harehare/mq": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "4acb00b5817a8265"
+    },
+    "github_repository:https://github.com/infragate/capa": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "ef17dcde4050f68d"
+    },
+    "github_repository:https://github.com/ax-llm/ax": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "11ff0e91d9d23066"
+    },
+    "github_repository:https://github.com/HKUDS/LightRAG": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "1397a8b3d4e67035"
+    },
+    "github_repository:https://github.com/Graphify-Labs/graphify": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "1324a9bf9be85940"
+    },
+    "github_repository:https://github.com/lioensky/VCPToolBox": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "1385ad52b69e582e"
+    },
+    "github_repository:https://github.com/chrisryugj/Docufinder": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "dac8d093c6180d53"
+    },
+    "github_repository:https://github.com/first-fluke/oh-my-agent": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "b46fae5e15067820"
+    },
+    "github_repository:https://github.com/superset-sh/superset": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "3918155194a5eda2"
+    },
+    "github_repository:https://github.com/NVIDIA/NemoClaw": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "e510266a5bf01210"
+    },
+    "official_repository:https://github.com/openai/tunnel-client": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "211f38034ecb8ae6"
+    },
+    "official_repository:https://github.com/openai/codex-plugin-cc": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "9d3e22906a0a6468"
+    },
+    "official_repository:https://github.com/huggingface/trl": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "e5334c1705dcf48a"
+    },
+    "hf_model:https://huggingface.co/models/unsloth/Qwen3.6-27B-NVFP4": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "97d977cdc75350f6"
+    },
+    "hf_space:https://huggingface.co/spaces/M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA": {
+      "last_seen": "2026-07-17",
+      "fingerprint": "64b7912370ad4ae2"
     }
   }
 }
