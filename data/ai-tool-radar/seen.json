@@ -736,6 +736,150 @@
     "hf_space:https://huggingface.co/spaces/M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA": {
       "last_seen": "2026-07-17",
       "fingerprint": "64b7912370ad4ae2"
+    },
+    "github_repository:https://github.com/dsphper/lanhu-mcp": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "2eee47618812c6ec"
+    },
+    "github_repository:https://github.com/sirmalloc/ccstatusline": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "a69b2ce7c69b6a4f"
+    },
+    "github_repository:https://github.com/RyanAlberts/best-of-Agent-Harnesses": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "b3a46d1eea235927"
+    },
+    "github_repository:https://github.com/LuqP2/Image-MetaHub": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "ee0fc46c83443c75"
+    },
+    "github_repository:https://github.com/jazzenchen/VibeAround": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "01ba1ac36b1e46ef"
+    },
+    "github_repository:https://github.com/y3owk1n/neru": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "de28a185635212eb"
+    },
+    "github_repository:https://github.com/dataelement/bisheng": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "9db5959cebfc0b92"
+    },
+    "github_repository:https://github.com/garylab/MakeMoneyWithAI": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "519ae24dd1ce20f0"
+    },
+    "github_repository:https://github.com/STranslate/STranslate": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "22e15e61085b4d92"
+    },
+    "github_repository:https://github.com/karolswdev/HoldSpeak": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "67d2b7a7355f5ca3"
+    },
+    "github_repository:https://github.com/k2-fsa/sherpa-onnx": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "5ae8150dba8ab3fa"
+    },
+    "github_repository:https://github.com/handy-computer/transcribe.cpp": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "bc8754fe7146b6cb"
+    },
+    "github_repository:https://github.com/goodroot/hyprwhspr": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "57b7a9445ca2eaca"
+    },
+    "github_repository:https://github.com/osaurus-ai/osaurus": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "faeccf8aee757038"
+    },
+    "github_repository:https://github.com/shiwenwen/hope-agent": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "cb45526550750354"
+    },
+    "github_repository:https://github.com/Ed1s0nZ/CyberStrikeAI": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "29e5a63e2a41047f"
+    },
+    "github_repository:https://github.com/ModelEngine-Group/nexent": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "1d791fa095896025"
+    },
+    "github_repository:https://github.com/melandlabs/openloomi": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "296f8130054ca3dd"
+    },
+    "github_repository:https://github.com/archestra-ai/archestra": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "c3047252ae8fd1ef"
+    },
+    "github_repository:https://github.com/kentcdodds/kody": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "3d98e56cef163a9d"
+    },
+    "github_repository:https://github.com/Ikalus1988/MisakaNet": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "23fafb5b5b0377d2"
+    },
+    "github_repository:https://github.com/Canner/WrenAI": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "e8144472652a0e00"
+    },
+    "github_repository:https://github.com/cocoindex-io/cocoindex": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "dde3cb02fce173e3"
+    },
+    "github_repository:https://github.com/oceanbase/seekdb": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "5a0331548045ff16"
+    },
+    "github_repository:https://github.com/IvanWng97/pixtuoid": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "fb998b0ffd6726cf"
+    },
+    "github_repository:https://github.com/iAmCorey/kooky": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "32c850dd419f319b"
+    },
+    "github_repository:https://github.com/jnMetaCode/agency-orchestrator": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "4b81d6e3445037a9"
+    },
+    "github_repository:https://github.com/open-multi-agent/open-multi-agent": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "353f2c707028f8c5"
+    },
+    "official_repository:https://github.com/mistralai/client-python": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "c22dc61d5841faca"
+    },
+    "official_repository:https://github.com/groq/openbench": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "1b51eea56b0829ce"
+    },
+    "official_repository:https://github.com/huggingface/smolagents": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "188634f04cdf1679"
+    },
+    "hf_model:https://huggingface.co/models/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "164c434081d06281"
+    },
+    "hf_model:https://huggingface.co/models/unsloth/inkling-GGUF": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "56b79bd315f22623"
+    },
+    "hf_space:https://huggingface.co/spaces/loveseries/wanmanlove": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "b765bb3a1bd55e01"
+    },
+    "hf_space:https://huggingface.co/spaces/hugging-apps/unise-speech-enhancement": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "5f72ec2953775009"
+    },
+    "hf_space:https://huggingface.co/spaces/dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2": {
+      "last_seen": "2026-07-20",
+      "fingerprint": "6d88c076f68b2b39"
     }
   }
 }
