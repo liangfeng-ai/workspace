@@ -146,16 +146,16 @@
       "fingerprint": "0a895c1fcda1a8e7"
     },
     "github_repository:https://github.com/speakeasy-api/gram": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "5b4418be8ca1357b"
+      "last_seen": "2026-07-21",
+      "fingerprint": "97ca1d7d098f9ead"
     },
     "github_repository:https://github.com/nextlevelbuilder/goclaw": {
       "last_seen": "2026-07-15",
       "fingerprint": "9bfe2bc48b8ebf87"
     },
     "github_repository:https://github.com/decocms/studio": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "6a24289f133c261c"
+      "last_seen": "2026-07-21",
+      "fingerprint": "707f24a3c91acec0"
     },
     "github_repository:https://github.com/trpc-group/trpc-agent-go": {
       "last_seen": "2026-07-15",
@@ -254,8 +254,8 @@
       "fingerprint": "da749c0e40b6dfe6"
     },
     "official_repository:https://github.com/huggingface/lerobot": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "6e0c6f6c21181493"
+      "last_seen": "2026-07-21",
+      "fingerprint": "84375b7f41a6221b"
     },
     "official_repository:https://github.com/huggingface/agents-course": {
       "last_seen": "2026-07-16",
@@ -390,8 +390,8 @@
       "fingerprint": "92743687e5cccc72"
     },
     "github_repository:https://github.com/kortix-ai/suna": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "140fe04752f30e78"
+      "last_seen": "2026-07-21",
+      "fingerprint": "f5ed541ee5844dbb"
     },
     "official_repository:https://github.com/huggingface/tau": {
       "last_seen": "2026-07-15",
@@ -880,6 +880,130 @@
     "hf_space:https://huggingface.co/spaces/dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2": {
       "last_seen": "2026-07-20",
       "fingerprint": "6d88c076f68b2b39"
+    },
+    "github_repository:https://github.com/nocobase/nocobase": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "4b54ae81b260ac9b"
+    },
+    "github_repository:https://github.com/johannesjo/parallel-code": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "9f71f72f60dee2ce"
+    },
+    "github_repository:https://github.com/jgravelle/jcodemunch-mcp": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "91f5702d8bfd3095"
+    },
+    "github_repository:https://github.com/LeanBitLab/LeanType": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "ad936fc2665064e6"
+    },
+    "github_repository:https://github.com/vlm-run/vlmrun-cookbook": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "4df5600e5c404dea"
+    },
+    "github_repository:https://github.com/cyanfish/naps2": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "9749d6d21bf647f1"
+    },
+    "github_repository:https://github.com/lzhgus/Capso": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "888c7cf8ba26c387"
+    },
+    "github_repository:https://github.com/qurator-spk/eynollah": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "f28fb065a6fdf8c7"
+    },
+    "github_repository:https://github.com/debpalash/OmniVoice-Studio": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "627fde2d995ce3b7"
+    },
+    "github_repository:https://github.com/Picovoice/leopard": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "7fbe03678e8a5514"
+    },
+    "github_repository:https://github.com/automagik-dev/genie": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "8eabaec655d4cab0"
+    },
+    "github_repository:https://github.com/0xJacky/nginx-ui": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "9a28ea10d2f813cd"
+    },
+    "github_repository:https://github.com/diegosouzapw/OmniRoute": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "da7928dfecbbaa82"
+    },
+    "github_repository:https://github.com/aipoch/open-science": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "c3482f3fb725668f"
+    },
+    "github_repository:https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "bd9cb941e2a8384d"
+    },
+    "github_repository:https://github.com/PrefectHQ/fastmcp": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "ba3e0088dc8621ae"
+    },
+    "github_repository:https://github.com/run-llama/llama_index": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "fab4407881d4c7b2"
+    },
+    "github_repository:https://github.com/opensolon/solon-ai": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "c917f9a533a38b3c"
+    },
+    "github_repository:https://github.com/askimo-ai/askimo": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "e241ac5a6477a751"
+    },
+    "github_repository:https://github.com/w8123/EnterpriseAgentFramework": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "188db102441f87bf"
+    },
+    "github_repository:https://github.com/open-webui/open-webui": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "f1070d9ee31aa5d2"
+    },
+    "github_repository:https://github.com/cortexkit/aft": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "70dbcf012b818d56"
+    },
+    "github_repository:https://github.com/google/mantis": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "bda441f024851353"
+    },
+    "github_repository:https://github.com/bytedance/deer-flow": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "a6eaf81c770a1f48"
+    },
+    "github_repository:https://github.com/monarchjuno/tradingcodex": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "06c19fb037e8c8c3"
+    },
+    "github_repository:https://github.com/metalbear-co/mirrord": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "b194d798f144f754"
+    },
+    "official_repository:https://github.com/mistralai/search-starter-app": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "995981aca03f2fd4"
+    },
+    "official_repository:https://github.com/openai/orchard": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "33a5edab97cff2d2"
+    },
+    "official_repository:https://github.com/huggingface/speech-to-speech": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "94af92d0b43c764a"
+    },
+    "hf_model:https://huggingface.co/models/openbmb/MiniCPM-RobotManip": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "7c0198437f885e3d"
+    },
+    "hf_space:https://huggingface.co/spaces/victor/lingbot-video": {
+      "last_seen": "2026-07-21",
+      "fingerprint": "89df2d81039b2c30"
     }
   }
 }
