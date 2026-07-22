@@ -1004,6 +1004,94 @@
     "hf_space:https://huggingface.co/spaces/victor/lingbot-video": {
       "last_seen": "2026-07-21",
       "fingerprint": "89df2d81039b2c30"
+    },
+    "github_repository:https://github.com/kevinpbuckley/VibeUE": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "bee85a6af9f80e84"
+    },
+    "github_repository:https://github.com/aartiq/servicenow-mcp": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "7dac240bab627d4b"
+    },
+    "github_repository:https://github.com/fcakyon/claude-codex-settings": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "2dc44746f80d47c8"
+    },
+    "github_repository:https://github.com/ryantsai/KKTerm": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "a10abca1e01909e8"
+    },
+    "github_repository:https://github.com/dmMaze/BallonsTranslator": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "0e3c0ee293691b75"
+    },
+    "github_repository:https://github.com/ciddwd/overlay-translator": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "3ae7a79639387bca"
+    },
+    "github_repository:https://github.com/ErickWendel/localstudio": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "1647c0e9dea17f5f"
+    },
+    "github_repository:https://github.com/Picovoice/cheetah": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "7a3042ed36cba804"
+    },
+    "github_repository:https://github.com/bugbakery/transcribee": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "4cb43c7eea4d3666"
+    },
+    "github_repository:https://github.com/Muesli-HQ/muesli": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "6b0dd337a7290861"
+    },
+    "github_repository:https://github.com/HeyWillow/willow": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "cf8e6ab8c5f886a5"
+    },
+    "github_repository:https://github.com/strands-agents/harness-sdk": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "7614538e87e1a1f7"
+    },
+    "github_repository:https://github.com/vitali87/code-graph-rag": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "2fd74076b5d650f0"
+    },
+    "github_repository:https://github.com/mock-server/mockserver-monorepo": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "20627bd40edc161f"
+    },
+    "github_repository:https://github.com/usemoss/moss": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "a885d75343678ce1"
+    },
+    "github_repository:https://github.com/SolaceLabs/solace-agent-mesh": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "9fe7e0071ba87505"
+    },
+    "github_repository:https://github.com/DougTrajano/pydantic-ai-skills": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "b3a1da15d1e69457"
+    },
+    "github_repository:https://github.com/DecapodLabs/decapod": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "b1ecce1c76d17f78"
+    },
+    "github_repository:https://github.com/dolthub/dolt": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "49a3af706b0b737f"
+    },
+    "github_repository:https://github.com/nesquena/hermes-webui": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "9857aea6a3db6ecd"
+    },
+    "official_repository:https://github.com/huggingface/faceberg": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "ad4a5b067d6ed574"
+    },
+    "official_repository:https://github.com/huggingface/accelerate": {
+      "last_seen": "2026-07-22",
+      "fingerprint": "ee33233aeb6cd521"
     }
   }
 }

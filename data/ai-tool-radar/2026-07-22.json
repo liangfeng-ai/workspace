@@ -1,0 +1,568 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T00:11:25.022694+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 22,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/accelerate",
+      "kind": "official_repository",
+      "name": "huggingface/accelerate",
+      "url": "https://github.com/huggingface/accelerate",
+      "provider": "huggingface",
+      "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 9786,
+        "pushed_at": "2026-07-21T14:27:03Z",
+        "updated_at": "2026-07-21T23:51:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ee33233aeb6cd521",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/faceberg",
+      "kind": "official_repository",
+      "name": "huggingface/faceberg",
+      "url": "https://github.com/huggingface/faceberg",
+      "provider": "huggingface",
+      "description": "Expose HuggingFace datasets as Apache Iceberg tables",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 27,
+        "pushed_at": "2026-07-14T09:42:48Z",
+        "updated_at": "2026-07-22T00:07:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ad4a5b067d6ed574",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dolthub/dolt",
+      "kind": "github_repository",
+      "name": "dolthub/dolt",
+      "url": "https://github.com/dolthub/dolt",
+      "provider": "GitHub",
+      "description": "Dolt – Git for Data",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 23922,
+        "forks": 838,
+        "pushed_at": "2026-07-22T00:04:37Z",
+        "updated_at": "2026-07-22T00:04:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "49a3af706b0b737f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nesquena/hermes-webui",
+      "kind": "github_repository",
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "provider": "GitHub",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 16370,
+        "forks": 2192,
+        "pushed_at": "2026-07-21T23:59:43Z",
+        "updated_at": "2026-07-21T23:59:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9857aea6a3db6ecd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/strands-agents/harness-sdk",
+      "kind": "github_repository",
+      "name": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "provider": "GitHub",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6662,
+        "forks": 977,
+        "pushed_at": "2026-07-22T00:08:35Z",
+        "updated_at": "2026-07-22T00:08:45Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7614538e87e1a1f7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SolaceLabs/solace-agent-mesh",
+      "kind": "github_repository",
+      "name": "SolaceLabs/solace-agent-mesh",
+      "url": "https://github.com/SolaceLabs/solace-agent-mesh",
+      "provider": "GitHub",
+      "description": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4968,
+        "forks": 271,
+        "pushed_at": "2026-07-21T23:47:03Z",
+        "updated_at": "2026-07-21T23:46:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9fe7e0071ba87505",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dmMaze/BallonsTranslator",
+      "kind": "github_repository",
+      "name": "dmMaze/BallonsTranslator",
+      "url": "https://github.com/dmMaze/BallonsTranslator",
+      "provider": "GitHub",
+      "description": "深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4962,
+        "forks": 332,
+        "pushed_at": "2026-07-21T18:29:13Z",
+        "updated_at": "2026-07-21T18:29:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0e3c0ee293691b75",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mock-server/mockserver-monorepo",
+      "kind": "github_repository",
+      "name": "mock-server/mockserver-monorepo",
+      "url": "https://github.com/mock-server/mockserver-monorepo",
+      "provider": "GitHub",
+      "description": "MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more on a single port, with additional support for HTTP/3, message brokers, and AI/LLM APIs.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4920,
+        "forks": 1112,
+        "pushed_at": "2026-07-22T00:07:05Z",
+        "updated_at": "2026-07-22T00:07:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "20627bd40edc161f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HeyWillow/willow",
+      "kind": "github_repository",
+      "name": "HeyWillow/willow",
+      "url": "https://github.com/HeyWillow/willow",
+      "provider": "GitHub",
+      "description": "Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3076,
+        "forks": 121,
+        "pushed_at": "2026-07-21T21:43:17Z",
+        "updated_at": "2026-07-21T23:08:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cf8e6ab8c5f886a5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vitali87/code-graph-rag",
+      "kind": "github_repository",
+      "name": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "provider": "GitHub",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2339,
+        "forks": 390,
+        "pushed_at": "2026-07-22T00:10:22Z",
+        "updated_at": "2026-07-22T00:08:29Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2fd74076b5d650f0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/fcakyon/claude-codex-settings",
+      "kind": "github_repository",
+      "name": "fcakyon/claude-codex-settings",
+      "url": "https://github.com/fcakyon/claude-codex-settings",
+      "provider": "GitHub",
+      "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 808,
+        "forks": 69,
+        "pushed_at": "2026-07-21T23:43:53Z",
+        "updated_at": "2026-07-21T23:43:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2dc44746f80d47c8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Muesli-HQ/muesli",
+      "kind": "github_repository",
+      "name": "Muesli-HQ/muesli",
+      "url": "https://github.com/Muesli-HQ/muesli",
+      "provider": "GitHub",
+      "description": "Muesli - local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 801,
+        "forks": 85,
+        "pushed_at": "2026-07-21T21:46:46Z",
+        "updated_at": "2026-07-21T21:47:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6b0dd337a7290861",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Picovoice/cheetah",
+      "kind": "github_repository",
+      "name": "Picovoice/cheetah",
+      "url": "https://github.com/Picovoice/cheetah",
+      "provider": "GitHub",
+      "description": "On-device streaming speech-to-text engine powered by deep learning",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 669,
+        "forks": 77,
+        "pushed_at": "2026-07-21T23:13:29Z",
+        "updated_at": "2026-07-21T23:11:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7a3042ed36cba804",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bugbakery/transcribee",
+      "kind": "github_repository",
+      "name": "bugbakery/transcribee",
+      "url": "https://github.com/bugbakery/transcribee",
+      "provider": "GitHub",
+      "description": "open source audio and video transcription software",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 505,
+        "forks": 41,
+        "pushed_at": "2026-07-21T23:32:03Z",
+        "updated_at": "2026-07-21T23:05:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4cb43c7eea4d3666",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kevinpbuckley/VibeUE",
+      "kind": "github_repository",
+      "name": "kevinpbuckley/VibeUE",
+      "url": "https://github.com/kevinpbuckley/VibeUE",
+      "provider": "GitHub",
+      "description": "Unreal Engine Vibe Coding tool",
+      "capability_tags": [
+        "ai-tools",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 504,
+        "forks": 106,
+        "pushed_at": "2026-07-21T23:59:42Z",
+        "updated_at": "2026-07-21T23:59:47Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bee85a6af9f80e84",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/usemoss/moss",
+      "kind": "github_repository",
+      "name": "usemoss/moss",
+      "url": "https://github.com/usemoss/moss",
+      "provider": "GitHub",
+      "description": "The retrieval layer for production AI systems. Lightning-fast (<10ms) search without vector databases. Built for browser, edge, on-device, and cloud.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 501,
+        "forks": 79,
+        "pushed_at": "2026-07-22T00:07:36Z",
+        "updated_at": "2026-07-21T23:53:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a885d75343678ce1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ryantsai/KKTerm",
+      "kind": "github_repository",
+      "name": "ryantsai/KKTerm",
+      "url": "https://github.com/ryantsai/KKTerm",
+      "provider": "GitHub",
+      "description": "Super-tool for vibe coders & system admins — terminals, SSH, SFTP, RDP/VNC, dashboards, install helpers, and a built-in AI assistant.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 423,
+        "forks": 54,
+        "pushed_at": "2026-07-21T22:25:45Z",
+        "updated_at": "2026-07-21T22:25:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a10abca1e01909e8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DougTrajano/pydantic-ai-skills",
+      "kind": "github_repository",
+      "name": "DougTrajano/pydantic-ai-skills",
+      "url": "https://github.com/DougTrajano/pydantic-ai-skills",
+      "provider": "GitHub",
+      "description": "This package implements Agent Skills (https://agentskills.io) support with progressive disclosure for Pydantic AI. Supports filesystem and programmatic skills.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 346,
+        "forks": 28,
+        "pushed_at": "2026-07-22T00:09:14Z",
+        "updated_at": "2026-07-22T00:08:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b3a1da15d1e69457",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aartiq/servicenow-mcp",
+      "kind": "github_repository",
+      "name": "aartiq/servicenow-mcp",
+      "url": "https://github.com/aartiq/servicenow-mcp",
+      "provider": "GitHub",
+      "description": "ServiceNow MCP server: 450+ tools and 26 AI capabilities for any AI (Claude, ChatGPT, Gemini, Cursor, Copilot). Multi-transport (stdio, SSE, HTTP), A2A, dynamic schema discovery, read-only by default. Open source. Part of the NowAIKit suite.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 290,
+        "forks": 86,
+        "pushed_at": "2026-07-21T23:54:11Z",
+        "updated_at": "2026-07-21T23:54:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7dac240bab627d4b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ciddwd/overlay-translator",
+      "kind": "github_repository",
+      "name": "ciddwd/overlay-translator",
+      "url": "https://github.com/ciddwd/overlay-translator",
+      "provider": "GitHub",
+      "description": "无需 ROOT 的开源 Android 屏幕实时翻译工具，适合游戏、视觉小说和漫画。支持端侧与云端 OCR、离线 LLM、多种翻译服务和文字朗读（TTS），译文可直接显示在画面上。Open-source no-root Android real-time screen translator for games, visual novels, and manga. Supports on-device and cloud OCR, offline LLMs, multiple translation services, on-screen translations, and text-to-speech (TTS).",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 284,
+        "forks": 11,
+        "pushed_at": "2026-07-21T16:41:00Z",
+        "updated_at": "2026-07-21T23:23:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3ae7a79639387bca",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ErickWendel/localstudio",
+      "kind": "github_repository",
+      "name": "ErickWendel/localstudio",
+      "url": "https://github.com/ErickWendel/localstudio",
+      "provider": "GitHub",
+      "description": "Browser-only Canva-style presentation studio, powered by local Web AI.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 241,
+        "forks": 12,
+        "pushed_at": "2026-07-21T23:33:46Z",
+        "updated_at": "2026-07-22T00:10:43Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1647c0e9dea17f5f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DecapodLabs/decapod",
+      "kind": "github_repository",
+      "name": "DecapodLabs/decapod",
+      "url": "https://github.com/DecapodLabs/decapod",
+      "provider": "GitHub",
+      "description": "Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and proof-backed work across coding agent graphs. 🦀",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 224,
+        "forks": 21,
+        "pushed_at": "2026-07-22T00:09:03Z",
+        "updated_at": "2026-07-22T00:07:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b1ecce1c76d17f78",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
