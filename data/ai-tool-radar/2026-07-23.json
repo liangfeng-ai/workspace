@@ -1,0 +1,483 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T00:16:07.570488+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 18,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/fence",
+      "kind": "official_repository",
+      "name": "openai/fence",
+      "url": "https://github.com/openai/fence",
+      "provider": "openai",
+      "description": "A fence keeps things out, but also in. This project is still in early, and active development.",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 19,
+        "pushed_at": "2026-07-22T20:28:12Z",
+        "updated_at": "2026-07-23T00:08:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c80dc1705b02c16a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/mlclaw",
+      "kind": "official_repository",
+      "name": "huggingface/mlclaw",
+      "url": "https://github.com/huggingface/mlclaw",
+      "provider": "huggingface",
+      "description": "ML Claw: deploy OpenClaw agents on Hugging Face",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 5,
+        "pushed_at": "2026-07-22T13:28:13Z",
+        "updated_at": "2026-07-23T00:15:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "83c5682d55cefdb3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/n8n-io/n8n",
+      "kind": "github_repository",
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "provider": "GitHub",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 197516,
+        "forks": 59547,
+        "pushed_at": "2026-07-23T00:14:20Z",
+        "updated_at": "2026-07-23T00:15:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4a5a4feae72913b6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/thedotmack/claude-mem",
+      "kind": "github_repository",
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "provider": "GitHub",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 88260,
+        "forks": 7661,
+        "pushed_at": "2026-07-23T00:09:05Z",
+        "updated_at": "2026-07-23T00:13:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b12e6c23b90f145f",
+        "novel": false,
+        "dedup_age_days": 8
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/getzep/graphiti",
+      "kind": "github_repository",
+      "name": "getzep/graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "provider": "GitHub",
+      "description": "Build Real-Time Knowledge Graphs for AI Agents",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 29062,
+        "forks": 2933,
+        "pushed_at": "2026-07-23T00:13:47Z",
+        "updated_at": "2026-07-23T00:13:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e5d145bd749b4236",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mastra-ai/mastra",
+      "kind": "github_repository",
+      "name": "mastra-ai/mastra",
+      "url": "https://github.com/mastra-ai/mastra",
+      "provider": "GitHub",
+      "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 26453,
+        "forks": 2495,
+        "pushed_at": "2026-07-23T00:15:45Z",
+        "updated_at": "2026-07-23T00:12:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a7e5d7048d47aa82",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/google/adk-python",
+      "kind": "github_repository",
+      "name": "google/adk-python",
+      "url": "https://github.com/google/adk-python",
+      "provider": "GitHub",
+      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 20844,
+        "forks": 3737,
+        "pushed_at": "2026-07-23T00:14:24Z",
+        "updated_at": "2026-07-23T00:14:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "84a06f8a53525cab",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/FunAudioLLM/SenseVoice",
+      "kind": "github_repository",
+      "name": "FunAudioLLM/SenseVoice",
+      "url": "https://github.com/FunAudioLLM/SenseVoice",
+      "provider": "GitHub",
+      "description": "Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8917,
+        "forks": 796,
+        "pushed_at": "2026-07-22T22:15:11Z",
+        "updated_at": "2026-07-22T22:15:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4fb123a1b6bbf763",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/modelscope/FunClip",
+      "kind": "github_repository",
+      "name": "modelscope/FunClip",
+      "url": "https://github.com/modelscope/FunClip",
+      "provider": "GitHub",
+      "description": "FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6047,
+        "forks": 721,
+        "pushed_at": "2026-07-22T22:10:16Z",
+        "updated_at": "2026-07-22T22:10:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8a72ac2d9c807f4b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/morphik-org/morphik-core",
+      "kind": "github_repository",
+      "name": "morphik-org/morphik-core",
+      "url": "https://github.com/morphik-org/morphik-core",
+      "provider": "GitHub",
+      "description": "Open-source multimodal retrieval engine (Morphik Core). By Morphik — AI back office for skilled nursing & senior living (morphik.ai).",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3633,
+        "forks": 309,
+        "pushed_at": "2026-07-23T00:14:24Z",
+        "updated_at": "2026-07-23T00:13:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9725d19b8bb5cbb8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/icereed/paperless-gpt",
+      "kind": "github_repository",
+      "name": "icereed/paperless-gpt",
+      "url": "https://github.com/icereed/paperless-gpt",
+      "provider": "GitHub",
+      "description": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2554,
+        "forks": 187,
+        "pushed_at": "2026-07-22T21:45:05Z",
+        "updated_at": "2026-07-22T21:48:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7fc2a8b21cb08bd0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nimbalyst/nimbalyst",
+      "kind": "github_repository",
+      "name": "nimbalyst/nimbalyst",
+      "url": "https://github.com/nimbalyst/nimbalyst",
+      "provider": "GitHub",
+      "description": "Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile companion for iOS and Android.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1295,
+        "forks": 175,
+        "pushed_at": "2026-07-23T00:15:55Z",
+        "updated_at": "2026-07-23T00:15:55Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4d7f419ce1522274",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/moonshotai/Kimi-K2.7-Code",
+      "kind": "hf_model",
+      "name": "moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/models/moonshotai/Kimi-K2.7-Code",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "compressed-tensors",
+        "conversational",
+        "custom_code",
+        "eval-results",
+        "feature-extraction",
+        "image-text-to-text",
+        "kimi_k25",
+        "license:other",
+        "region:us",
+        "safetensors",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 722058,
+        "likes": 1222,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bf2304c04013524a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mittagessen/kraken",
+      "kind": "github_repository",
+      "name": "mittagessen/kraken",
+      "url": "https://github.com/mittagessen/kraken",
+      "provider": "GitHub",
+      "description": "OCR engine for all the languages",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1037,
+        "forks": 168,
+        "pushed_at": "2026-07-22T19:18:42Z",
+        "updated_at": "2026-07-22T19:19:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e3b887a125c036b1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CopilotKit/aimock",
+      "kind": "github_repository",
+      "name": "CopilotKit/aimock",
+      "url": "https://github.com/CopilotKit/aimock",
+      "provider": "GitHub",
+      "description": "Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 651,
+        "forks": 46,
+        "pushed_at": "2026-07-23T00:12:24Z",
+        "updated_at": "2026-07-23T00:11:35Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cb89f0db4c761eb9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Pasta-Devs/Marinara-Engine",
+      "kind": "github_repository",
+      "name": "Pasta-Devs/Marinara-Engine",
+      "url": "https://github.com/Pasta-Devs/Marinara-Engine",
+      "provider": "GitHub",
+      "description": "AI frontend",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 515,
+        "forks": 138,
+        "pushed_at": "2026-07-23T00:12:39Z",
+        "updated_at": "2026-07-23T00:12:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "28c4ef6a22d27940",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/joewinke/jat",
+      "kind": "github_repository",
+      "name": "joewinke/jat",
+      "url": "https://github.com/joewinke/jat",
+      "provider": "GitHub",
+      "description": "The World's First Agentic IDE. Visual dashboard: live sessions, task management, code editor, terminal. Epic Swarm parallel workflows. Auto-proceed rules. Automation patterns. Beads + Agent Mail + 50 bash tools. Supervise 20+ agents from one UI.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 249,
+        "forks": 27,
+        "pushed_at": "2026-07-23T00:13:30Z",
+        "updated_at": "2026-07-23T00:13:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c8d8589e71b0cc15",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/microsoft/Mage-Flow",
+      "kind": "hf_model",
+      "name": "microsoft/Mage-Flow",
+      "url": "https://huggingface.co/models/microsoft/Mage-Flow",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2607.19064",
+        "diffusers",
+        "diffusers:mageflowpipeline",
+        "diffusion",
+        "image-editing",
+        "image-generation",
+        "license:mit",
+        "mage-flow",
+        "rectified-flow",
+        "region:us",
+        "safetensors",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 116,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1c7ed224bb04b4c2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

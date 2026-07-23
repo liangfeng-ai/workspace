@@ -190,8 +190,8 @@
       "fingerprint": "67a4116c6c31d6f8"
     },
     "github_repository:https://github.com/thedotmack/claude-mem": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "fcd5a51da13c56db"
+      "last_seen": "2026-07-23",
+      "fingerprint": "b12e6c23b90f145f"
     },
     "github_repository:https://github.com/Lyellr88/marm-memory": {
       "last_seen": "2026-07-15",
@@ -1092,6 +1092,74 @@
     "official_repository:https://github.com/huggingface/accelerate": {
       "last_seen": "2026-07-22",
       "fingerprint": "ee33233aeb6cd521"
+    },
+    "github_repository:https://github.com/modelscope/FunClip": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "8a72ac2d9c807f4b"
+    },
+    "github_repository:https://github.com/icereed/paperless-gpt": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "7fc2a8b21cb08bd0"
+    },
+    "github_repository:https://github.com/mittagessen/kraken": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "e3b887a125c036b1"
+    },
+    "github_repository:https://github.com/FunAudioLLM/SenseVoice": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "4fb123a1b6bbf763"
+    },
+    "github_repository:https://github.com/nimbalyst/nimbalyst": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "4d7f419ce1522274"
+    },
+    "github_repository:https://github.com/n8n-io/n8n": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "4a5a4feae72913b6"
+    },
+    "github_repository:https://github.com/mastra-ai/mastra": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "a7e5d7048d47aa82"
+    },
+    "github_repository:https://github.com/CopilotKit/aimock": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "cb89f0db4c761eb9"
+    },
+    "github_repository:https://github.com/getzep/graphiti": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "e5d145bd749b4236"
+    },
+    "github_repository:https://github.com/morphik-org/morphik-core": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "9725d19b8bb5cbb8"
+    },
+    "github_repository:https://github.com/google/adk-python": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "84a06f8a53525cab"
+    },
+    "github_repository:https://github.com/joewinke/jat": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "c8d8589e71b0cc15"
+    },
+    "github_repository:https://github.com/Pasta-Devs/Marinara-Engine": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "28c4ef6a22d27940"
+    },
+    "official_repository:https://github.com/openai/fence": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "c80dc1705b02c16a"
+    },
+    "official_repository:https://github.com/huggingface/mlclaw": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "83c5682d55cefdb3"
+    },
+    "hf_model:https://huggingface.co/models/moonshotai/Kimi-K2.7-Code": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "bf2304c04013524a"
+    },
+    "hf_model:https://huggingface.co/models/microsoft/Mage-Flow": {
+      "last_seen": "2026-07-23",
+      "fingerprint": "1c7ed224bb04b4c2"
     }
   }
 }
