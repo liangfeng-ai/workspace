@@ -1160,6 +1160,94 @@
     "hf_model:https://huggingface.co/models/microsoft/Mage-Flow": {
       "last_seen": "2026-07-23",
       "fingerprint": "1c7ed224bb04b4c2"
+    },
+    "github_repository:https://github.com/WrongStack/WrongStack": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "0d099da41dd2e18a"
+    },
+    "github_repository:https://github.com/pydantic/logfire": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "15a20427b068f124"
+    },
+    "github_repository:https://github.com/Zipstack/unstract": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "13d07eb2c6e8b798"
+    },
+    "github_repository:https://github.com/ballerine-io/ballerine": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "17f2807f62b71f74"
+    },
+    "github_repository:https://github.com/bpwhelan/GameSentenceMiner": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "61280f87e9339021"
+    },
+    "github_repository:https://github.com/Blaizzy/mlx-audio": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "11cd9b4d664dcec8"
+    },
+    "github_repository:https://github.com/QuintinShaw/openasr": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "369f748dd8b50b85"
+    },
+    "github_repository:https://github.com/xuzhougeng/wisp-science": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "d7b4f2bd41096619"
+    },
+    "github_repository:https://github.com/Signet-AI/signetai": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "81658a619852c88a"
+    },
+    "github_repository:https://github.com/punkpeye/awesome-mcp-servers": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "9a565be1c4bfe1ba"
+    },
+    "github_repository:https://github.com/nicobailon/pi-mcp-adapter": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "d244d3970e1b85f0"
+    },
+    "github_repository:https://github.com/dondai1234/master-fetch": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "173cde29a31c41b1"
+    },
+    "github_repository:https://github.com/NirDiamant/RAG_Techniques": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "18397be41dfd9367"
+    },
+    "github_repository:https://github.com/yilewang/llm-for-zotero": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "86e2758e1bbd8df1"
+    },
+    "github_repository:https://github.com/arc53/DocsGPT": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "bdfa8cdc7a8ebfa4"
+    },
+    "github_repository:https://github.com/MicrosoftDocs/mcp": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "861b0c8867769381"
+    },
+    "github_repository:https://github.com/sipyourdrink-ltd/bernstein": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "6c279b4034722a08"
+    },
+    "github_repository:https://github.com/boshu2/agentops": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "24a7136ed8f10692"
+    },
+    "official_repository:https://github.com/openai/symphony": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "f0b3eeac9d1efc61"
+    },
+    "official_repository:https://github.com/huggingface/tokenizers": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "50184f9eadf88fa9"
+    },
+    "hf_space:https://huggingface.co/spaces/yijunwang2/krea2-outpaint": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "5f8a7b56bea85624"
+    },
+    "hf_space:https://huggingface.co/spaces/microsoft/mage-flow": {
+      "last_seen": "2026-07-24",
+      "fingerprint": "a8e245c06e4d5838"
     }
   }
 }
