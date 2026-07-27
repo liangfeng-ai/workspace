@@ -1248,6 +1248,90 @@
     "hf_space:https://huggingface.co/spaces/microsoft/mage-flow": {
       "last_seen": "2026-07-24",
       "fingerprint": "a8e245c06e4d5838"
+    },
+    "github_repository:https://github.com/EdgeTypE/better-deepseek": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "dac09e7c43f386df"
+    },
+    "github_repository:https://github.com/tesseract-ocr/tesseract": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "17d5141b7012b317"
+    },
+    "github_repository:https://github.com/eikek/docspell": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "a9bace421a6151a8"
+    },
+    "github_repository:https://github.com/scribeocr/scribe.js": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "34afb15238a5ba04"
+    },
+    "github_repository:https://github.com/amicalhq/amical": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "8000207f2e5350d3"
+    },
+    "github_repository:https://github.com/island-io/mila": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "2f62ce4524256a10"
+    },
+    "github_repository:https://github.com/vshulcz/deja-vu": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "b0df11b730d993b4"
+    },
+    "github_repository:https://github.com/neomjs/neo": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "79c1b299dfe6a2b1"
+    },
+    "github_repository:https://github.com/vinkius-labs/mcpfusion": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "81b5ba4a4c1df43b"
+    },
+    "github_repository:https://github.com/awslabs/mcp": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "7d9614ca4b115499"
+    },
+    "github_repository:https://github.com/tianma-if/edgeever": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "83d71fd091514cc3"
+    },
+    "github_repository:https://github.com/eddmpython/dartlab": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "4129d8dfbd46bb92"
+    },
+    "github_repository:https://github.com/ucsandman/DashClaw": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "ba00d81d8e9523a1"
+    },
+    "github_repository:https://github.com/416rehman/DeepZero": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "7be657878cc8627b"
+    },
+    "github_repository:https://github.com/alookai/alook": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "b26b96cf1c2780cc"
+    },
+    "github_repository:https://github.com/777genius/agent-teams-ai": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "0d0fb52073611ba4"
+    },
+    "hf_model:https://huggingface.co/models/Kwaipilot/KAT-Coder-V2.5-Dev": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "bf51fbc0badcf853"
+    },
+    "hf_model:https://huggingface.co/models/owensong/Inflect-Micro-v2": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "bf7a91aff4e78ebe"
+    },
+    "hf_model:https://huggingface.co/models/fdtn-ai/antares-1b": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "96b2dc440f251067"
+    },
+    "hf_space:https://huggingface.co/spaces/cinderholm/wan2-2-i2v-v3": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "ea13359502d80030"
+    },
+    "hf_space:https://huggingface.co/spaces/owensong/Inflect-v2": {
+      "last_seen": "2026-07-27",
+      "fingerprint": "30479af3249d12c1"
     }
   }
 }

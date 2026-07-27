@@ -1,0 +1,586 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T00:16:33.074849+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "github_repository:https://github.com/tesseract-ocr/tesseract",
+      "kind": "github_repository",
+      "name": "tesseract-ocr/tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "provider": "GitHub",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 75568,
+        "forks": 10709,
+        "pushed_at": "2026-07-26T21:42:13Z",
+        "updated_at": "2026-07-26T23:15:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "17d5141b7012b317",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/awslabs/mcp",
+      "kind": "github_repository",
+      "name": "awslabs/mcp",
+      "url": "https://github.com/awslabs/mcp",
+      "provider": "GitHub",
+      "description": "Open source MCP Servers for AWS",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 9505,
+        "forks": 1661,
+        "pushed_at": "2026-07-27T00:10:01Z",
+        "updated_at": "2026-07-27T00:10:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7d9614ca4b115499",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/neomjs/neo",
+      "kind": "github_repository",
+      "name": "neomjs/neo",
+      "url": "https://github.com/neomjs/neo",
+      "provider": "GitHub",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3243,
+        "forks": 224,
+        "pushed_at": "2026-07-27T00:13:53Z",
+        "updated_at": "2026-07-27T00:13:57Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "79c1b299dfe6a2b1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/eikek/docspell",
+      "kind": "github_repository",
+      "name": "eikek/docspell",
+      "url": "https://github.com/eikek/docspell",
+      "provider": "GitHub",
+      "description": "Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2278,
+        "forks": 177,
+        "pushed_at": "2026-07-26T21:26:18Z",
+        "updated_at": "2026-07-26T21:04:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a9bace421a6151a8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/777genius/agent-teams-ai",
+      "kind": "github_repository",
+      "name": "777genius/agent-teams-ai",
+      "url": "https://github.com/777genius/agent-teams-ai",
+      "provider": "GitHub",
+      "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1696,
+        "forks": 299,
+        "pushed_at": "2026-07-27T00:02:44Z",
+        "updated_at": "2026-07-27T00:12:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0d0fb52073611ba4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/amicalhq/amical",
+      "kind": "github_repository",
+      "name": "amicalhq/amical",
+      "url": "https://github.com/amicalhq/amical",
+      "provider": "GitHub",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1468,
+        "forks": 132,
+        "pushed_at": "2026-07-26T22:45:15Z",
+        "updated_at": "2026-07-26T23:35:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8000207f2e5350d3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/alookai/alook",
+      "kind": "github_repository",
+      "name": "alookai/alook",
+      "url": "https://github.com/alookai/alook",
+      "provider": "GitHub",
+      "description": "The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 981,
+        "forks": 153,
+        "pushed_at": "2026-07-27T00:11:22Z",
+        "updated_at": "2026-07-27T00:11:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b26b96cf1c2780cc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tianma-if/edgeever",
+      "kind": "github_repository",
+      "name": "tianma-if/edgeever",
+      "url": "https://github.com/tianma-if/edgeever",
+      "provider": "GitHub",
+      "description": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 634,
+        "forks": 255,
+        "pushed_at": "2026-07-27T00:09:31Z",
+        "updated_at": "2026-07-27T00:09:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "83d71fd091514cc3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/416rehman/DeepZero",
+      "kind": "github_repository",
+      "name": "416rehman/DeepZero",
+      "url": "https://github.com/416rehman/DeepZero",
+      "provider": "GitHub",
+      "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 599,
+        "forks": 78,
+        "pushed_at": "2026-07-27T00:15:29Z",
+        "updated_at": "2026-07-27T00:15:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7be657878cc8627b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vshulcz/deja-vu",
+      "kind": "github_repository",
+      "name": "vshulcz/deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "provider": "GitHub",
+      "description": "Your agents already solved this. deja finds it — memory operations for sixteen coding agents: retroactive search and MCP recall (84.9% hit@1 on LongMemEval-S, no LLM), search by when it happened, a local memory viewer, trust scopes, curated notes with tags. One zero-dep binary, fully local.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 478,
+        "forks": 29,
+        "pushed_at": "2026-07-27T00:15:09Z",
+        "updated_at": "2026-07-27T00:15:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b0df11b730d993b4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/EdgeTypE/better-deepseek",
+      "kind": "github_repository",
+      "name": "EdgeTypE/better-deepseek",
+      "url": "https://github.com/EdgeTypE/better-deepseek",
+      "provider": "GitHub",
+      "description": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 343,
+        "forks": 39,
+        "pushed_at": "2026-07-26T22:00:28Z",
+        "updated_at": "2026-07-26T22:00:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dac09e7c43f386df",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/scribeocr/scribe.js",
+      "kind": "github_repository",
+      "name": "scribeocr/scribe.js",
+      "url": "https://github.com/scribeocr/scribe.js",
+      "provider": "GitHub",
+      "description": "JavaScript OCR and text extraction for images and PDFs.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 307,
+        "forks": 22,
+        "pushed_at": "2026-07-26T20:09:16Z",
+        "updated_at": "2026-07-26T20:09:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "34afb15238a5ba04",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ucsandman/DashClaw",
+      "kind": "github_repository",
+      "name": "ucsandman/DashClaw",
+      "url": "https://github.com/ucsandman/DashClaw",
+      "provider": "GitHub",
+      "description": "🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 286,
+        "forks": 50,
+        "pushed_at": "2026-07-27T00:03:36Z",
+        "updated_at": "2026-07-27T00:03:39Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ba00d81d8e9523a1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vinkius-labs/mcpfusion",
+      "kind": "github_repository",
+      "name": "vinkius-labs/mcpfusion",
+      "url": "https://github.com/vinkius-labs/mcpfusion",
+      "provider": "GitHub",
+      "description": "MCP Fusion - The TypeScript framework for secure MCP servers.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 257,
+        "forks": 23,
+        "pushed_at": "2026-07-27T00:12:45Z",
+        "updated_at": "2026-07-27T00:12:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "81b5ba4a4c1df43b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/eddmpython/dartlab",
+      "kind": "github_repository",
+      "name": "eddmpython/dartlab",
+      "url": "https://github.com/eddmpython/dartlab",
+      "provider": "GitHub",
+      "description": "Korean DART + SEC EDGAR filings as structured Python data for company analysis",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 41,
+        "pushed_at": "2026-07-27T00:09:17Z",
+        "updated_at": "2026-07-27T00:09:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4129d8dfbd46bb92",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/island-io/mila",
+      "kind": "github_repository",
+      "name": "island-io/mila",
+      "url": "https://github.com/island-io/mila",
+      "provider": "GitHub",
+      "description": "Mila — native macOS local transcription app (whisper.cpp) with optional speaker diarization. Apache-2.0.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 23,
+        "pushed_at": "2026-07-26T18:25:56Z",
+        "updated_at": "2026-07-26T18:26:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2f62ce4524256a10",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Kwaipilot/KAT-Coder-V2.5-Dev",
+      "kind": "hf_model",
+      "name": "Kwaipilot/KAT-Coder-V2.5-Dev",
+      "url": "https://huggingface.co/models/Kwaipilot/KAT-Coder-V2.5-Dev",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "agent",
+        "agentic-coding",
+        "arxiv:2607.05471",
+        "code",
+        "coding",
+        "conversational",
+        "en",
+        "endpoints_compatible",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "moe",
+        "qwen3_5_moe",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers",
+        "zh"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 3764,
+        "likes": 196,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bf51fbc0badcf853",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/fdtn-ai/antares-1b",
+      "kind": "hf_model",
+      "name": "fdtn-ai/antares-1b",
+      "url": "https://huggingface.co/models/fdtn-ai/antares-1b",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "agentic",
+        "base_model:finetune:ibm-granite/granite-4.0-1b",
+        "base_model:ibm-granite/granite-4.0-1b",
+        "conversational",
+        "en",
+        "endpoints_compatible",
+        "granite",
+        "granitemoehybrid",
+        "license:apache-2.0",
+        "region:us",
+        "reinforcement-learning",
+        "safetensors",
+        "security",
+        "terminal-agent",
+        "text-generation",
+        "transformers",
+        "vulnerability-detection"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 5978,
+        "likes": 185,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "96b2dc440f251067",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/owensong/Inflect-Micro-v2",
+      "kind": "hf_model",
+      "name": "owensong/Inflect-Micro-v2",
+      "url": "https://huggingface.co/models/owensong/Inflect-Micro-v2",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "24khz",
+        "base-model",
+        "cpu",
+        "edge-ai",
+        "en",
+        "license:apache-2.0",
+        "local-tts",
+        "pytorch",
+        "region:us",
+        "small-model",
+        "speech-synthesis",
+        "text-to-speech",
+        "vits"
+      ],
+      "input_output": "text-to-speech -> inference result",
+      "signals": {
+        "downloads": 298,
+        "likes": 177,
+        "updated_at": null,
+        "pipeline_tag": "text-to-speech"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bf7a91aff4e78ebe",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/cinderholm/wan2-2-i2v-v3",
+      "kind": "hf_space",
+      "name": "cinderholm/wan2-2-i2v-v3",
+      "url": "https://huggingface.co/spaces/cinderholm/wan2-2-i2v-v3",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 50,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ea13359502d80030",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/owensong/Inflect-v2",
+      "kind": "hf_space",
+      "name": "owensong/Inflect-v2",
+      "url": "https://huggingface.co/spaces/owensong/Inflect-v2",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "edge-ai",
+        "gradio",
+        "local-tts",
+        "region:us",
+        "text-to-speech"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 41,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "30479af3249d12c1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
