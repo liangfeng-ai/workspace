@@ -1,0 +1,525 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T00:13:37.387625+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "id": "github_repository:https://github.com/huggingface/speech-to-speech",
+      "kind": "github_repository",
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "provider": "huggingface",
+      "description": "Build local voice agents with open-source models",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6606,
+        "forks": 908,
+        "pushed_at": "2026-07-28T00:05:09Z",
+        "updated_at": "2026-07-28T00:12:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3f328ffdb005e037",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/crewAIInc/crewAI",
+      "kind": "github_repository",
+      "name": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "provider": "GitHub",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 56236,
+        "forks": 7987,
+        "pushed_at": "2026-07-28T00:12:28Z",
+        "updated_at": "2026-07-28T00:13:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "af34d5aad33bc3fb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langchain-ai/langgraph",
+      "kind": "github_repository",
+      "name": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "provider": "GitHub",
+      "description": "Build resilient agents.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 38265,
+        "forks": 6438,
+        "pushed_at": "2026-07-27T23:24:47Z",
+        "updated_at": "2026-07-27T23:39:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "99c34a1da5bed1dd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/can1357/oh-my-pi",
+      "kind": "github_repository",
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "provider": "GitHub",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 20243,
+        "forks": 1894,
+        "pushed_at": "2026-07-28T00:06:28Z",
+        "updated_at": "2026-07-28T00:09:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a9fe0de22090af6f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/RyanCodrai/turbovec",
+      "kind": "github_repository",
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "provider": "GitHub",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 14451,
+        "forks": 1280,
+        "pushed_at": "2026-07-28T00:09:37Z",
+        "updated_at": "2026-07-27T23:20:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4db1537f08e67310",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HIllya51/LunaTranslator",
+      "kind": "github_repository",
+      "name": "HIllya51/LunaTranslator",
+      "url": "https://github.com/HIllya51/LunaTranslator",
+      "provider": "GitHub",
+      "description": "视觉小说翻译器 / Visual Novel Translator",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12507,
+        "forks": 1126,
+        "pushed_at": "2026-07-27T16:34:09Z",
+        "updated_at": "2026-07-27T19:41:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d1b0d444293ce971",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/codexu/note-gen",
+      "kind": "github_repository",
+      "name": "codexu/note-gen",
+      "url": "https://github.com/codexu/note-gen",
+      "provider": "GitHub",
+      "description": "A cross-platform Markdown AI note-taking software.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12348,
+        "forks": 931,
+        "pushed_at": "2026-07-27T23:58:04Z",
+        "updated_at": "2026-07-27T23:58:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0216e148a244d021",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/steel-dev/steel-browser",
+      "kind": "github_repository",
+      "name": "steel-dev/steel-browser",
+      "url": "https://github.com/steel-dev/steel-browser",
+      "provider": "GitHub",
+      "description": "🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7389,
+        "forks": 952,
+        "pushed_at": "2026-07-27T21:26:18Z",
+        "updated_at": "2026-07-27T23:44:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0606a9bede6f3963",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/moonshotai/Kimi-K3",
+      "kind": "hf_model",
+      "name": "moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/models/moonshotai/Kimi-K3",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "compressed-tensors",
+        "conversational",
+        "custom_code",
+        "eval-results",
+        "feature-extraction",
+        "image-text-to-text",
+        "kimi_k3",
+        "license:other",
+        "region:us",
+        "safetensors",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 2850,
+        "likes": 6047,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0a56b300375fd761",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ruvnet/RuVector",
+      "kind": "github_repository",
+      "name": "ruvnet/RuVector",
+      "url": "https://github.com/ruvnet/RuVector",
+      "provider": "GitHub",
+      "description": "RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4396,
+        "forks": 582,
+        "pushed_at": "2026-07-28T00:10:01Z",
+        "updated_at": "2026-07-28T00:10:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2d639d1453b2aa71",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nyldn/claude-octopus",
+      "kind": "github_repository",
+      "name": "nyldn/claude-octopus",
+      "url": "https://github.com/nyldn/claude-octopus",
+      "provider": "GitHub",
+      "description": "Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding task.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3890,
+        "forks": 365,
+        "pushed_at": "2026-07-28T00:13:20Z",
+        "updated_at": "2026-07-28T00:13:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a9d2e14ebfd1c28e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/microsoft/foundry-local",
+      "kind": "github_repository",
+      "name": "microsoft/foundry-local",
+      "url": "https://github.com/microsoft/foundry-local",
+      "provider": "GitHub",
+      "description": "",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2463,
+        "forks": 346,
+        "pushed_at": "2026-07-27T22:37:11Z",
+        "updated_at": "2026-07-27T23:36:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "504834d9be167bd7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hgmzhn/manga-translator-ui",
+      "kind": "github_repository",
+      "name": "hgmzhn/manga-translator-ui",
+      "url": "https://github.com/hgmzhn/manga-translator-ui",
+      "provider": "GitHub",
+      "description": "基于 manga-image-translator 的开源漫画翻译工具。支持日/韩/美漫自动翻译，内置 OpenAI、Gemini 等 5 种翻译引擎，并提供可视化编辑器自由调整文本样式。一键安装，开箱即用。如果喜欢，欢迎点亮 ⭐ Star 支持！",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2373,
+        "forks": 113,
+        "pushed_at": "2026-07-27T17:40:54Z",
+        "updated_at": "2026-07-27T22:46:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "800da8ad81c800d0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/stacklok/toolhive",
+      "kind": "github_repository",
+      "name": "stacklok/toolhive",
+      "url": "https://github.com/stacklok/toolhive",
+      "provider": "GitHub",
+      "description": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1977,
+        "forks": 262,
+        "pushed_at": "2026-07-28T00:13:17Z",
+        "updated_at": "2026-07-28T00:12:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "31f8847d0fd7b1a9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tong-io/tongflow",
+      "kind": "github_repository",
+      "name": "tong-io/tongflow",
+      "url": "https://github.com/tong-io/tongflow",
+      "provider": "GitHub",
+      "description": "TongFlow : An Open-Source Multi-Modal GenAI Workflow Studio",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 641,
+        "forks": 94,
+        "pushed_at": "2026-07-27T23:45:07Z",
+        "updated_at": "2026-07-27T23:36:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "448757cb51a1257f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SirAllap/agentglass",
+      "kind": "github_repository",
+      "name": "SirAllap/agentglass",
+      "url": "https://github.com/SirAllap/agentglass",
+      "provider": "GitHub",
+      "description": "🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 274,
+        "forks": 31,
+        "pushed_at": "2026-07-28T00:12:24Z",
+        "updated_at": "2026-07-28T00:09:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "69129b6b9d0c461d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ramakay/claude-self-reflect",
+      "kind": "github_repository",
+      "name": "ramakay/claude-self-reflect",
+      "url": "https://github.com/ramakay/claude-self-reflect",
+      "provider": "GitHub",
+      "description": "Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 219,
+        "forks": 26,
+        "pushed_at": "2026-07-28T00:07:13Z",
+        "updated_at": "2026-07-28T00:07:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6a2738b128a3ff90",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/microsoft/Fara1.5-27B",
+      "kind": "hf_model",
+      "name": "microsoft/Fara1.5-27B",
+      "url": "https://huggingface.co/models/microsoft/Fara1.5-27B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "agent",
+        "arxiv:2606.20785",
+        "base_model:finetune:qwen/qwen3.5-27b",
+        "base_model:qwen/qwen3.5-27b",
+        "browser-automation",
+        "computer-use",
+        "conversational",
+        "cua",
+        "en",
+        "endpoints_compatible",
+        "fara",
+        "image-text-to-text",
+        "license:mit",
+        "magentic",
+        "multimodal",
+        "qwen3_5",
+        "region:us",
+        "safetensors",
+        "transformers",
+        "vision-language",
+        "web-agent"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 1406,
+        "likes": 138,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c22bc82989acae68",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/t-tech/t-search-blog",
+      "kind": "hf_space",
+      "name": "t-tech/t-search-blog",
+      "url": "https://huggingface.co/spaces/t-tech/t-search-blog",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "agents",
+        "docker",
+        "rag",
+        "region:us",
+        "reinforcement-learning",
+        "retrieval"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 38,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7f5f7af49fdff2b5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/orgs/mistralai/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded",
+    "https://api.github.com/orgs/groq/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded",
+    "https://api.github.com/orgs/openai/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded",
+    "https://api.github.com/orgs/huggingface/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded"
+  ],
+  "status": "partial"
+}

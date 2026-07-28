@@ -1332,6 +1332,82 @@
     "hf_space:https://huggingface.co/spaces/owensong/Inflect-v2": {
       "last_seen": "2026-07-27",
       "fingerprint": "30479af3249d12c1"
+    },
+    "github_repository:https://github.com/tong-io/tongflow": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "448757cb51a1257f"
+    },
+    "github_repository:https://github.com/steel-dev/steel-browser": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "0606a9bede6f3963"
+    },
+    "github_repository:https://github.com/ruvnet/RuVector": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "2d639d1453b2aa71"
+    },
+    "github_repository:https://github.com/hgmzhn/manga-translator-ui": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "800da8ad81c800d0"
+    },
+    "github_repository:https://github.com/HIllya51/LunaTranslator": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "d1b0d444293ce971"
+    },
+    "github_repository:https://github.com/huggingface/speech-to-speech": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "3f328ffdb005e037"
+    },
+    "github_repository:https://github.com/microsoft/foundry-local": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "504834d9be167bd7"
+    },
+    "github_repository:https://github.com/stacklok/toolhive": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "31f8847d0fd7b1a9"
+    },
+    "github_repository:https://github.com/ramakay/claude-self-reflect": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "6a2738b128a3ff90"
+    },
+    "github_repository:https://github.com/can1357/oh-my-pi": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "a9fe0de22090af6f"
+    },
+    "github_repository:https://github.com/codexu/note-gen": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "0216e148a244d021"
+    },
+    "github_repository:https://github.com/langchain-ai/langgraph": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "99c34a1da5bed1dd"
+    },
+    "github_repository:https://github.com/RyanCodrai/turbovec": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "4db1537f08e67310"
+    },
+    "github_repository:https://github.com/nyldn/claude-octopus": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "a9d2e14ebfd1c28e"
+    },
+    "github_repository:https://github.com/crewAIInc/crewAI": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "af34d5aad33bc3fb"
+    },
+    "github_repository:https://github.com/SirAllap/agentglass": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "69129b6b9d0c461d"
+    },
+    "hf_model:https://huggingface.co/models/moonshotai/Kimi-K3": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "0a56b300375fd761"
+    },
+    "hf_model:https://huggingface.co/models/microsoft/Fara1.5-27B": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "c22bc82989acae68"
+    },
+    "hf_space:https://huggingface.co/spaces/t-tech/t-search-blog": {
+      "last_seen": "2026-07-28",
+      "fingerprint": "7f5f7af49fdff2b5"
     }
   }
 }
