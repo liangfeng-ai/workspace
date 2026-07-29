@@ -370,8 +370,8 @@
       "fingerprint": "cffd8fd5ceeb4756"
     },
     "github_repository:https://github.com/Agent-Field/agentfield": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "fbbba62852db8a94"
+      "last_seen": "2026-07-29",
+      "fingerprint": "85852a54094090f4"
     },
     "github_repository:https://github.com/nexu-io/open-design": {
       "last_seen": "2026-07-15",
@@ -1408,6 +1408,78 @@
     "hf_space:https://huggingface.co/spaces/t-tech/t-search-blog": {
       "last_seen": "2026-07-28",
       "fingerprint": "7f5f7af49fdff2b5"
+    },
+    "github_repository:https://github.com/delexw/claude-code-trace": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "8b467ffdb80ef6fe"
+    },
+    "github_repository:https://github.com/dollspace-gay/chainlink": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "aeef7e08b6cd5c8b"
+    },
+    "github_repository:https://github.com/argmaxinc/argmax-oss-swift": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "0eb890163f567095"
+    },
+    "github_repository:https://github.com/FrigadeHQ/yap": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "2c50dee0e379a641"
+    },
+    "github_repository:https://github.com/backmeupplz/voicy": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "aaa38f4269e16f05"
+    },
+    "github_repository:https://github.com/jatinkrmalik/vocalinux": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "4dcfb4cc0c4800ea"
+    },
+    "github_repository:https://github.com/mcp-use/mcp-use": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "98d89ab9f025cd49"
+    },
+    "github_repository:https://github.com/dyoshikawa/rulesync": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "cde354ec60186157"
+    },
+    "github_repository:https://github.com/mudler/LocalAI": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "9b31ea4ed64188db"
+    },
+    "github_repository:https://github.com/xr843/fojin": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "ce7da27eb05c4de5"
+    },
+    "github_repository:https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "bde64be6b9a22dee"
+    },
+    "github_repository:https://github.com/EvotecIT/OfficeIMO": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "d3d54ac32dbb61e9"
+    },
+    "github_repository:https://github.com/asklokesh/loki-mode": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "163ea425a5e98822"
+    },
+    "github_repository:https://github.com/e2b-dev/infra": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "bb5882e32e35a4cb"
+    },
+    "official_repository:https://github.com/openai/codex-security": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "635c613e2e4b8ad8"
+    },
+    "official_repository:https://github.com/openai/whisper": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "d884c303583b156e"
+    },
+    "official_repository:https://github.com/huggingface/huggingface.js": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "9d39995bce2f3559"
+    },
+    "hf_model:https://huggingface.co/models/unsloth/Kimi-K3": {
+      "last_seen": "2026-07-29",
+      "fingerprint": "ca6a427107283bcf"
     }
   }
 }

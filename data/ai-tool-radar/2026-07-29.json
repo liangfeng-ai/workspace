@@ -1,0 +1,502 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T00:13:25.047753+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/whisper",
+      "kind": "official_repository",
+      "name": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "provider": "openai",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 105941,
+        "pushed_at": "2026-07-28T20:18:29Z",
+        "updated_at": "2026-07-29T00:02:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d884c303583b156e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/huggingface.js",
+      "kind": "official_repository",
+      "name": "huggingface/huggingface.js",
+      "url": "https://github.com/huggingface/huggingface.js",
+      "provider": "huggingface",
+      "description": "Use Hugging Face with JavaScript",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2477,
+        "pushed_at": "2026-07-28T16:43:00Z",
+        "updated_at": "2026-07-29T00:06:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9d39995bce2f3559",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/codex-security",
+      "kind": "official_repository",
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "provider": "openai",
+      "description": "SDKs and CLI for Codex Security",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 819,
+        "pushed_at": "2026-07-28T23:54:00Z",
+        "updated_at": "2026-07-29T00:13:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "635c613e2e4b8ad8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mudler/LocalAI",
+      "kind": "github_repository",
+      "name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "provider": "GitHub",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 47966,
+        "forks": 4298,
+        "pushed_at": "2026-07-29T00:05:16Z",
+        "updated_at": "2026-07-29T00:07:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9b31ea4ed64188db",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mcp-use/mcp-use",
+      "kind": "github_repository",
+      "name": "mcp-use/mcp-use",
+      "url": "https://github.com/mcp-use/mcp-use",
+      "provider": "GitHub",
+      "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 10410,
+        "forks": 1386,
+        "pushed_at": "2026-07-29T00:09:54Z",
+        "updated_at": "2026-07-29T00:10:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "98d89ab9f025cd49",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/argmaxinc/argmax-oss-swift",
+      "kind": "github_repository",
+      "name": "argmaxinc/argmax-oss-swift",
+      "url": "https://github.com/argmaxinc/argmax-oss-swift",
+      "provider": "GitHub",
+      "description": "On-device Speech AI for Apple Silicon",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6291,
+        "forks": 591,
+        "pushed_at": "2026-07-28T23:05:28Z",
+        "updated_at": "2026-07-28T23:06:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0eb890163f567095",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Agent-Field/agentfield",
+      "kind": "github_repository",
+      "name": "Agent-Field/agentfield",
+      "url": "https://github.com/Agent-Field/agentfield",
+      "provider": "GitHub",
+      "description": "Build, run and scale AI agents like API and microservices",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2457,
+        "forks": 389,
+        "pushed_at": "2026-07-28T23:59:46Z",
+        "updated_at": "2026-07-28T23:56:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "85852a54094090f4",
+        "novel": false,
+        "dedup_age_days": 14
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "kind": "github_repository",
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "provider": "GitHub",
+      "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated reporting. The VSS Blueprint uses vision language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, RAG, and NVIDIA NIMs.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1754,
+        "forks": 365,
+        "pushed_at": "2026-07-29T00:07:56Z",
+        "updated_at": "2026-07-28T23:40:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bde64be6b9a22dee",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/e2b-dev/infra",
+      "kind": "github_repository",
+      "name": "e2b-dev/infra",
+      "url": "https://github.com/e2b-dev/infra",
+      "provider": "GitHub",
+      "description": "Infrastructure that's powering E2B Cloud.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1280,
+        "forks": 373,
+        "pushed_at": "2026-07-29T00:12:58Z",
+        "updated_at": "2026-07-29T00:10:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bb5882e32e35a4cb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dyoshikawa/rulesync",
+      "kind": "github_repository",
+      "name": "dyoshikawa/rulesync",
+      "url": "https://github.com/dyoshikawa/rulesync",
+      "provider": "GitHub",
+      "description": "A Utility CLI for AI Coding Agents",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1266,
+        "forks": 140,
+        "pushed_at": "2026-07-29T00:09:52Z",
+        "updated_at": "2026-07-29T00:09:57Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cde354ec60186157",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/asklokesh/loki-mode",
+      "kind": "github_repository",
+      "name": "asklokesh/loki-mode",
+      "url": "https://github.com/asklokesh/loki-mode",
+      "provider": "GitHub",
+      "description": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 8 quality gates.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1026,
+        "forks": 200,
+        "pushed_at": "2026-07-29T00:11:53Z",
+        "updated_at": "2026-07-29T00:12:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "163ea425a5e98822",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/backmeupplz/voicy",
+      "kind": "github_repository",
+      "name": "backmeupplz/voicy",
+      "url": "https://github.com/backmeupplz/voicy",
+      "provider": "GitHub",
+      "description": "@voicybot Telegram bot main repository",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 905,
+        "forks": 164,
+        "pushed_at": "2026-07-28T21:43:06Z",
+        "updated_at": "2026-07-28T21:43:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "aaa38f4269e16f05",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jatinkrmalik/vocalinux",
+      "kind": "github_repository",
+      "name": "jatinkrmalik/vocalinux",
+      "url": "https://github.com/jatinkrmalik/vocalinux",
+      "provider": "GitHub",
+      "description": "Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 685,
+        "forks": 76,
+        "pushed_at": "2026-07-28T21:23:13Z",
+        "updated_at": "2026-07-28T23:19:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4dcfb4cc0c4800ea",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/EvotecIT/OfficeIMO",
+      "kind": "github_repository",
+      "name": "EvotecIT/OfficeIMO",
+      "url": "https://github.com/EvotecIT/OfficeIMO",
+      "provider": "GitHub",
+      "description": "MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, email, OneNote, and text formats.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 492,
+        "forks": 69,
+        "pushed_at": "2026-07-28T23:59:08Z",
+        "updated_at": "2026-07-28T23:46:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d3d54ac32dbb61e9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/delexw/claude-code-trace",
+      "kind": "github_repository",
+      "name": "delexw/claude-code-trace",
+      "url": "https://github.com/delexw/claude-code-trace",
+      "provider": "GitHub",
+      "description": "Claude Code session log viewer for JSONL files in ~/.claude/projects. Browse conversations, tool calls, tokens, and live tail sessions on desktop, web, and TUI.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 357,
+        "forks": 17,
+        "pushed_at": "2026-07-28T23:52:58Z",
+        "updated_at": "2026-07-28T23:52:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8b467ffdb80ef6fe",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dollspace-gay/chainlink",
+      "kind": "github_repository",
+      "name": "dollspace-gay/chainlink",
+      "url": "https://github.com/dollspace-gay/chainlink",
+      "provider": "GitHub",
+      "description": "A CLI issue tracker for AI Agents",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 351,
+        "forks": 29,
+        "pushed_at": "2026-07-28T22:07:43Z",
+        "updated_at": "2026-07-28T22:08:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "aeef7e08b6cd5c8b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xr843/fojin",
+      "kind": "github_repository",
+      "name": "xr843/fojin",
+      "url": "https://github.com/xr843/fojin",
+      "provider": "GitHub",
+      "description": "Buddhist Digital Text Platform — 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full-text search",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 322,
+        "forks": 59,
+        "pushed_at": "2026-07-28T23:56:34Z",
+        "updated_at": "2026-07-28T23:56:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ce7da27eb05c4de5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/FrigadeHQ/yap",
+      "kind": "github_repository",
+      "name": "FrigadeHQ/yap",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "provider": "GitHub",
+      "description": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud, no API keys, no account.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 241,
+        "forks": 10,
+        "pushed_at": "2026-07-28T22:15:38Z",
+        "updated_at": "2026-07-28T23:58:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2c50dee0e379a641",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/unsloth/Kimi-K3",
+      "kind": "hf_model",
+      "name": "unsloth/Kimi-K3",
+      "url": "https://huggingface.co/models/unsloth/Kimi-K3",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "base_model:moonshotai/kimi-k3",
+        "base_model:quantized:moonshotai/kimi-k3",
+        "compressed-tensors",
+        "conversational",
+        "custom_code",
+        "eval-results",
+        "feature-extraction",
+        "image-text-to-text",
+        "kimi_k3",
+        "license:other",
+        "region:us",
+        "safetensors",
+        "transformers",
+        "unsloth"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 410,
+        "likes": 146,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ca6a427107283bcf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
