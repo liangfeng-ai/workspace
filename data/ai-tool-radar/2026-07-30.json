@@ -1,0 +1,625 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T00:14:24.765460+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/peft",
+      "kind": "official_repository",
+      "name": "huggingface/peft",
+      "url": "https://github.com/huggingface/peft",
+      "provider": "huggingface",
+      "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 21463,
+        "pushed_at": "2026-07-28T13:35:09Z",
+        "updated_at": "2026-07-29T23:47:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f076500efcfd9733",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-appgen",
+      "kind": "official_repository",
+      "name": "groq/groq-appgen",
+      "url": "https://github.com/groq/groq-appgen",
+      "provider": "groq",
+      "description": "Project showcasing Llama 3.3 70B HTML codegen abilities",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 655,
+        "pushed_at": "2026-07-16T21:15:04Z",
+        "updated_at": "2026-07-29T08:16:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b86b296bd5e792b5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/chroma-core/chroma",
+      "kind": "github_repository",
+      "name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "provider": "GitHub",
+      "description": "Search infrastructure for AI",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 28904,
+        "forks": 2411,
+        "pushed_at": "2026-07-30T00:10:39Z",
+        "updated_at": "2026-07-30T00:10:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3ec3625e7d2d20b9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/EverMind-AI/EverOS",
+      "kind": "github_repository",
+      "name": "EverMind-AI/EverOS",
+      "url": "https://github.com/EverMind-AI/EverOS",
+      "provider": "GitHub",
+      "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11655,
+        "forks": 872,
+        "pushed_at": "2026-07-29T23:25:29Z",
+        "updated_at": "2026-07-29T23:49:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a5a9ee3c6efff338",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/TheJoeFin/Text-Grab",
+      "kind": "github_repository",
+      "name": "TheJoeFin/Text-Grab",
+      "url": "https://github.com/TheJoeFin/Text-Grab",
+      "provider": "GitHub",
+      "description": "Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4838,
+        "forks": 310,
+        "pushed_at": "2026-07-29T23:45:20Z",
+        "updated_at": "2026-07-29T22:23:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "461a36efcbb561ea",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mongodb-developer/GenAI-Showcase",
+      "kind": "github_repository",
+      "name": "mongodb-developer/GenAI-Showcase",
+      "url": "https://github.com/mongodb-developer/GenAI-Showcase",
+      "provider": "GitHub",
+      "description": "GenAI Cookbook",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4258,
+        "forks": 742,
+        "pushed_at": "2026-07-30T00:12:29Z",
+        "updated_at": "2026-07-30T00:12:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "795246b6dae1ec15",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/the-open-engine/zeroshot",
+      "kind": "github_repository",
+      "name": "the-open-engine/zeroshot",
+      "url": "https://github.com/the-open-engine/zeroshot",
+      "provider": "GitHub",
+      "description": "Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI with trivial setup.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1680,
+        "forks": 146,
+        "pushed_at": "2026-07-30T00:07:51Z",
+        "updated_at": "2026-07-30T00:09:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5da8a3afbbdf0fa4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ihor-sokoliuk/mcp-searxng",
+      "kind": "github_repository",
+      "name": "ihor-sokoliuk/mcp-searxng",
+      "url": "https://github.com/ihor-sokoliuk/mcp-searxng",
+      "provider": "GitHub",
+      "description": "Private web search for AI assistants via SearXNG — supports Claude, Cursor, and any MCP client",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1084,
+        "forks": 148,
+        "pushed_at": "2026-07-30T00:09:05Z",
+        "updated_at": "2026-07-30T00:05:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b810970421caf1db",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SamurAIGPT/muapi-cli",
+      "kind": "github_repository",
+      "name": "SamurAIGPT/muapi-cli",
+      "url": "https://github.com/SamurAIGPT/muapi-cli",
+      "provider": "GitHub",
+      "description": "Official CLI for muapi.ai — generate images, videos & audio from the terminal. MCP server, 14 AI models, npm + pip installable.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1031,
+        "forks": 94,
+        "pushed_at": "2026-07-29T20:53:03Z",
+        "updated_at": "2026-07-29T20:53:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "697da942d27bb932",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/obot-platform/obot",
+      "kind": "github_repository",
+      "name": "obot-platform/obot",
+      "url": "https://github.com/obot-platform/obot",
+      "provider": "GitHub",
+      "description": "Complete AI Governance Platform from Obot AI",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 910,
+        "forks": 191,
+        "pushed_at": "2026-07-30T00:04:06Z",
+        "updated_at": "2026-07-30T00:04:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5bb0dda3caaed67f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tomasz-tomczyk/crit",
+      "kind": "github_repository",
+      "name": "tomasz-tomczyk/crit",
+      "url": "https://github.com/tomasz-tomczyk/crit",
+      "provider": "GitHub",
+      "description": "Your feedback loop with the agent",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 843,
+        "forks": 58,
+        "pushed_at": "2026-07-29T21:33:45Z",
+        "updated_at": "2026-07-29T21:34:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ce1b5a2eb7485c25",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/helixml/helix",
+      "kind": "github_repository",
+      "name": "helixml/helix",
+      "url": "https://github.com/helixml/helix",
+      "provider": "GitHub",
+      "description": "♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 794,
+        "forks": 75,
+        "pushed_at": "2026-07-30T00:10:56Z",
+        "updated_at": "2026-07-29T23:38:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ee8aa7922f1c27cd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/taracodlabs/aiden",
+      "kind": "github_repository",
+      "name": "taracodlabs/aiden",
+      "url": "https://github.com/taracodlabs/aiden",
+      "provider": "GitHub",
+      "description": "Aiden — Autonomous AI agent that operates your computer with prompts: browser control, terminal execution, workflows, tools, recovery systems, and persistent memory. Built solo. AGPL-3.0.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 765,
+        "forks": 136,
+        "pushed_at": "2026-07-29T23:54:39Z",
+        "updated_at": "2026-07-29T23:54:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7fdf9b46266b4ad7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/desplega-ai/agent-swarm",
+      "kind": "github_repository",
+      "name": "desplega-ai/agent-swarm",
+      "url": "https://github.com/desplega-ai/agent-swarm",
+      "provider": "GitHub",
+      "description": "Your Company Agentic Operating System",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 655,
+        "forks": 79,
+        "pushed_at": "2026-07-30T00:02:08Z",
+        "updated_at": "2026-07-30T00:02:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "31219eb8e55da883",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/gotempsh/temps",
+      "kind": "github_repository",
+      "name": "gotempsh/temps",
+      "url": "https://github.com/gotempsh/temps",
+      "provider": "GitHub",
+      "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCode — deployments, analytics, session replay, error tracking, OpenTelemetry, email, sandboxes & AI gateway in one self-hosted Rust binary.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 572,
+        "forks": 41,
+        "pushed_at": "2026-07-30T00:10:34Z",
+        "updated_at": "2026-07-30T00:10:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "af32a2fda72c1d8d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/egeominotti/bunqueue",
+      "kind": "github_repository",
+      "name": "egeominotti/bunqueue",
+      "url": "https://github.com/egeominotti/bunqueue",
+      "provider": "GitHub",
+      "description": "⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents and automation",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 522,
+        "forks": 18,
+        "pushed_at": "2026-07-30T00:10:04Z",
+        "updated_at": "2026-07-30T00:10:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f508f07404337526",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JungHoonGhae/tossinvest-cli",
+      "kind": "github_repository",
+      "name": "JungHoonGhae/tossinvest-cli",
+      "url": "https://github.com/JungHoonGhae/tossinvest-cli",
+      "provider": "GitHub",
+      "description": "토스증권을 AI 에이전트와 터미널에서 다루는 도구. CLI 와 MCP 서버로 계좌·시세·주문은 물론 웹앱 전용 기능(수급·AI 시그널·스크리너·배당)까지, JSON·CSV 구조화 출력으로 AI 도구·자동화에 바로 연동.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 463,
+        "forks": 78,
+        "pushed_at": "2026-07-30T00:01:56Z",
+        "updated_at": "2026-07-30T00:02:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "83354df3f9053ae9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/juyterman1000/entroly",
+      "kind": "github_repository",
+      "name": "juyterman1000/entroly",
+      "url": "https://github.com/juyterman1000/entroly",
+      "provider": "GitHub",
+      "description": "Compress tool outputs, logs, files, conversations, and RAG context before they reach the model. On measured workloads, Entroly reduces unnecessary tokens by up to 90% while preserving answer-critical evidence through budget-aware selection, content-addressed recovery, and auditable Context Receipt. Works with Claude, Chatgpt/Codex,Openclaw.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 431,
+        "forks": 70,
+        "pushed_at": "2026-07-30T00:14:07Z",
+        "updated_at": "2026-07-30T00:14:11Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fbf1a6d328115c5f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/danpla/dpscreenocr",
+      "kind": "github_repository",
+      "name": "danpla/dpscreenocr",
+      "url": "https://github.com/danpla/dpscreenocr",
+      "provider": "GitHub",
+      "description": "A program to recognize text on the screen",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 296,
+        "forks": 18,
+        "pushed_at": "2026-07-29T22:52:26Z",
+        "updated_at": "2026-07-29T22:52:43Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "29e95b4f1fb0a725",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/RManLuo/gfm-rag",
+      "kind": "github_repository",
+      "name": "RManLuo/gfm-rag",
+      "url": "https://github.com/RManLuo/gfm-rag",
+      "provider": "GitHub",
+      "description": "[NeurIPS'25, ICLR'26] Graph Foundation Model for Retrieval Augmented Generation",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 285,
+        "forks": 35,
+        "pushed_at": "2026-07-29T23:56:24Z",
+        "updated_at": "2026-07-29T23:56:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "309acfc5328e7c23",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/PrismorSec/prismor",
+      "kind": "github_repository",
+      "name": "PrismorSec/prismor",
+      "url": "https://github.com/PrismorSec/prismor",
+      "provider": "GitHub",
+      "description": "Runtime Firewall for AI agents which catches the rogue tool call before it runs. Dangerous commands, secret leaks, prompt injection. For Claude Code, Codex and framework SDKs",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 257,
+        "forks": 21,
+        "pushed_at": "2026-07-30T00:05:18Z",
+        "updated_at": "2026-07-30T00:05:33Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6631812c1a8f6ba",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lyonzin/knowledge-rag",
+      "kind": "github_repository",
+      "name": "lyonzin/knowledge-rag",
+      "url": "https://github.com/lyonzin/knowledge-rag",
+      "provider": "GitHub",
+      "description": "Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format parsers. Zero external servers, zero API keys.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 238,
+        "forks": 33,
+        "pushed_at": "2026-07-29T23:45:48Z",
+        "updated_at": "2026-07-29T23:45:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e1adf8f441d40178",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/testdriverai/testdriverai",
+      "kind": "github_repository",
+      "name": "testdriverai/testdriverai",
+      "url": "https://github.com/testdriverai/testdriverai",
+      "provider": "GitHub",
+      "description": "Computer-Use SDK for E2E QA Testing",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 236,
+        "forks": 34,
+        "pushed_at": "2026-07-29T23:23:16Z",
+        "updated_at": "2026-07-29T23:23:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6943db17e7265450",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/unsloth/Kimi-K3-GGUF",
+      "kind": "hf_model",
+      "name": "unsloth/Kimi-K3-GGUF",
+      "url": "https://huggingface.co/models/unsloth/Kimi-K3-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:moonshotai/kimi-k3",
+        "base_model:quantized:moonshotai/kimi-k3",
+        "conversational",
+        "endpoints_compatible",
+        "gguf",
+        "image-text-to-text",
+        "imatrix",
+        "license:other",
+        "region:us",
+        "transformers",
+        "unsloth"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 157,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b0fee8712a360b16",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

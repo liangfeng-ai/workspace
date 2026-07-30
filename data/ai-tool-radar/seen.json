@@ -1480,6 +1480,102 @@
     "hf_model:https://huggingface.co/models/unsloth/Kimi-K3": {
       "last_seen": "2026-07-29",
       "fingerprint": "ca6a427107283bcf"
+    },
+    "github_repository:https://github.com/taracodlabs/aiden": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "7fdf9b46266b4ad7"
+    },
+    "github_repository:https://github.com/testdriverai/testdriverai": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "6943db17e7265450"
+    },
+    "github_repository:https://github.com/tomasz-tomczyk/crit": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "ce1b5a2eb7485c25"
+    },
+    "github_repository:https://github.com/SamurAIGPT/muapi-cli": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "697da942d27bb932"
+    },
+    "github_repository:https://github.com/danpla/dpscreenocr": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "29e95b4f1fb0a725"
+    },
+    "github_repository:https://github.com/TheJoeFin/Text-Grab": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "461a36efcbb561ea"
+    },
+    "github_repository:https://github.com/juyterman1000/entroly": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "fbf1a6d328115c5f"
+    },
+    "github_repository:https://github.com/ihor-sokoliuk/mcp-searxng": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "b810970421caf1db"
+    },
+    "github_repository:https://github.com/PrismorSec/prismor": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "a6631812c1a8f6ba"
+    },
+    "github_repository:https://github.com/obot-platform/obot": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "5bb0dda3caaed67f"
+    },
+    "github_repository:https://github.com/JungHoonGhae/tossinvest-cli": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "83354df3f9053ae9"
+    },
+    "github_repository:https://github.com/mongodb-developer/GenAI-Showcase": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "795246b6dae1ec15"
+    },
+    "github_repository:https://github.com/RManLuo/gfm-rag": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "309acfc5328e7c23"
+    },
+    "github_repository:https://github.com/lyonzin/knowledge-rag": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "e1adf8f441d40178"
+    },
+    "github_repository:https://github.com/helixml/helix": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "ee8aa7922f1c27cd"
+    },
+    "github_repository:https://github.com/EverMind-AI/EverOS": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "a5a9ee3c6efff338"
+    },
+    "github_repository:https://github.com/chroma-core/chroma": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "3ec3625e7d2d20b9"
+    },
+    "github_repository:https://github.com/egeominotti/bunqueue": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "f508f07404337526"
+    },
+    "github_repository:https://github.com/gotempsh/temps": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "af32a2fda72c1d8d"
+    },
+    "github_repository:https://github.com/the-open-engine/zeroshot": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "5da8a3afbbdf0fa4"
+    },
+    "github_repository:https://github.com/desplega-ai/agent-swarm": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "31219eb8e55da883"
+    },
+    "official_repository:https://github.com/groq/groq-appgen": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "b86b296bd5e792b5"
+    },
+    "official_repository:https://github.com/huggingface/peft": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "f076500efcfd9733"
+    },
+    "hf_model:https://huggingface.co/models/unsloth/Kimi-K3-GGUF": {
+      "last_seen": "2026-07-30",
+      "fingerprint": "b0fee8712a360b16"
     }
   }
 }
