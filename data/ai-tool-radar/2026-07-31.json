@@ -1,0 +1,511 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T00:17:39.005101+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/pytorch-image-models",
+      "kind": "official_repository",
+      "name": "huggingface/pytorch-image-models",
+      "url": "https://github.com/huggingface/pytorch-image-models",
+      "provider": "huggingface",
+      "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 37028,
+        "pushed_at": "2026-07-27T21:10:58Z",
+        "updated_at": "2026-07-30T23:40:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c7a7210203a3a049",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/opendatalab/MinerU",
+      "kind": "github_repository",
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "provider": "GitHub",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 76289,
+        "forks": 6407,
+        "pushed_at": "2026-07-30T15:46:54Z",
+        "updated_at": "2026-07-31T00:02:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0c7f861b4ea3302d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/MODSetter/SurfSense",
+      "kind": "github_repository",
+      "name": "MODSetter/SurfSense",
+      "url": "https://github.com/MODSetter/SurfSense",
+      "provider": "GitHub",
+      "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 15640,
+        "forks": 1492,
+        "pushed_at": "2026-07-31T00:06:20Z",
+        "updated_at": "2026-07-30T23:55:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "827feaf6528eb939",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CVHub520/X-AnyLabeling",
+      "kind": "github_repository",
+      "name": "CVHub520/X-AnyLabeling",
+      "url": "https://github.com/CVHub520/X-AnyLabeling",
+      "provider": "GitHub",
+      "description": "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art AI models and flexible multi-format export.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 9938,
+        "forks": 1082,
+        "pushed_at": "2026-07-30T16:29:12Z",
+        "updated_at": "2026-07-30T16:31:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a4a2dd2aae732620",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Uberi/speech_recognition",
+      "kind": "github_repository",
+      "name": "Uberi/speech_recognition",
+      "url": "https://github.com/Uberi/speech_recognition",
+      "provider": "GitHub",
+      "description": "Speech recognition module for Python, supporting several engines and APIs, online and offline.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8977,
+        "forks": 2415,
+        "pushed_at": "2026-07-30T22:12:35Z",
+        "updated_at": "2026-07-30T22:12:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a29b34138b8fc7fa",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/killkimno/MORT",
+      "kind": "github_repository",
+      "name": "killkimno/MORT",
+      "url": "https://github.com/killkimno/MORT",
+      "provider": "GitHub",
+      "description": "MORT 번역기 프로젝트 - Real-time game translator with OCR",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1640,
+        "forks": 84,
+        "pushed_at": "2026-07-30T15:49:19Z",
+        "updated_at": "2026-07-30T15:52:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "22d5566bdc4f4e76",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Kieirra/murmure",
+      "kind": "github_repository",
+      "name": "Kieirra/murmure",
+      "url": "https://github.com/Kieirra/murmure",
+      "provider": "GitHub",
+      "description": "Fully local, private and cross platform Speech-to-Text with LLM Post-processing",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 979,
+        "forks": 88,
+        "pushed_at": "2026-07-30T20:33:23Z",
+        "updated_at": "2026-07-30T21:01:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "367d7514cb7e4e7c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/luckyPipewrench/pipelock",
+      "kind": "github_repository",
+      "name": "luckyPipewrench/pipelock",
+      "url": "https://github.com/luckyPipewrench/pipelock",
+      "provider": "GitHub",
+      "description": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 786,
+        "forks": 90,
+        "pushed_at": "2026-07-31T00:09:13Z",
+        "updated_at": "2026-07-31T00:09:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "508e6ae6e5391d6c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/felladrin/MiniSearch",
+      "kind": "github_repository",
+      "name": "felladrin/MiniSearch",
+      "url": "https://github.com/felladrin/MiniSearch",
+      "provider": "GitHub",
+      "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 579,
+        "forks": 65,
+        "pushed_at": "2026-07-31T00:14:58Z",
+        "updated_at": "2026-07-31T00:16:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e602b907444e9f32",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Johell1NS/browser-search",
+      "kind": "github_repository",
+      "name": "Johell1NS/browser-search",
+      "url": "https://github.com/Johell1NS/browser-search",
+      "provider": "GitHub",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 466,
+        "forks": 36,
+        "pushed_at": "2026-07-30T22:53:54Z",
+        "updated_at": "2026-07-30T22:53:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "146644c4355c5cfa",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hardness1020/awesome-agent-architecture",
+      "kind": "github_repository",
+      "name": "hardness1020/awesome-agent-architecture",
+      "url": "https://github.com/hardness1020/awesome-agent-architecture",
+      "provider": "GitHub",
+      "description": "Learn AI agents from scratch.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 432,
+        "forks": 47,
+        "pushed_at": "2026-07-31T00:10:29Z",
+        "updated_at": "2026-07-31T00:09:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23ecfb3e2cc2b057",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agent-sh/agnix",
+      "kind": "github_repository",
+      "name": "agent-sh/agnix",
+      "url": "https://github.com/agent-sh/agnix",
+      "provider": "GitHub",
+      "description": "The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 372,
+        "forks": 31,
+        "pushed_at": "2026-07-31T00:10:08Z",
+        "updated_at": "2026-07-31T00:03:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1a722ab3772b8ab6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mixpeek/amux",
+      "kind": "github_repository",
+      "name": "mixpeek/amux",
+      "url": "https://github.com/mixpeek/amux",
+      "provider": "GitHub",
+      "description": "Open-source control plane for AI coding agents — run, monitor & orchestrate dozens of parallel Claude Code, Codex & Gemini sessions from one web dashboard or your phone. Self-healing, single-file, tmux-native.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 320,
+        "forks": 35,
+        "pushed_at": "2026-07-31T00:11:01Z",
+        "updated_at": "2026-07-31T00:11:05Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c3d91be5ed48936e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/multikernel/sandlock",
+      "kind": "github_repository",
+      "name": "multikernel/sandlock",
+      "url": "https://github.com/multikernel/sandlock",
+      "provider": "GitHub",
+      "description": "The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 311,
+        "forks": 35,
+        "pushed_at": "2026-07-31T00:11:47Z",
+        "updated_at": "2026-07-31T00:11:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e00290daee303236",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jeff-nasseri/mikrotik-mcp",
+      "kind": "github_repository",
+      "name": "jeff-nasseri/mikrotik-mcp",
+      "url": "https://github.com/jeff-nasseri/mikrotik-mcp",
+      "provider": "GitHub",
+      "description": "MCP server for Mikrotik",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 241,
+        "forks": 51,
+        "pushed_at": "2026-07-30T23:36:46Z",
+        "updated_at": "2026-07-30T23:35:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3d039fa1a76e12f6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/grisuno/LazyOwn",
+      "kind": "github_repository",
+      "name": "grisuno/LazyOwn",
+      "url": "https://github.com/grisuno/LazyOwn",
+      "provider": "GitHub",
+      "description": "LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 216,
+        "forks": 46,
+        "pushed_at": "2026-07-31T00:15:59Z",
+        "updated_at": "2026-07-31T00:16:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f84e365c05d0b60b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/melgarafael/DeskcommCRM",
+      "kind": "github_repository",
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "provider": "GitHub",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 206,
+        "forks": 114,
+        "pushed_at": "2026-07-30T23:51:21Z",
+        "updated_at": "2026-07-30T23:51:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b90426ebdca2a808",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mftnakrsu/Automatic_Number_Plate_Recognition_YOLO_OCR",
+      "kind": "github_repository",
+      "name": "mftnakrsu/Automatic_Number_Plate_Recognition_YOLO_OCR",
+      "url": "https://github.com/mftnakrsu/Automatic_Number_Plate_Recognition_YOLO_OCR",
+      "provider": "GitHub",
+      "description": "Automatic Number Plate Recognition pipeline — fast-alpr + fast-plate-ocr + FastAPI. Privacy-aware (HMAC + KVKK + GDPR). pip install anpr-pipeline",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 201,
+        "forks": 44,
+        "pushed_at": "2026-07-30T21:19:06Z",
+        "updated_at": "2026-07-30T21:19:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "88755851aca842a0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Audio8/Audio8-TTS-Preview-0.6b",
+      "kind": "hf_model",
+      "name": "Audio8/Audio8-TTS-Preview-0.6b",
+      "url": "https://huggingface.co/models/Audio8/Audio8-TTS-Preview-0.6b",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arktts",
+        "audio",
+        "custom_code",
+        "de",
+        "en",
+        "es",
+        "feature-extraction",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "license:apache-2.0",
+        "multilingual",
+        "nl",
+        "pl",
+        "region:us",
+        "safetensors",
+        "text-to-speech",
+        "transformers",
+        "tts",
+        "voice-cloning",
+        "yue",
+        "zero-shot",
+        "zh"
+      ],
+      "input_output": "text-to-speech -> inference result",
+      "signals": {
+        "downloads": 225,
+        "likes": 125,
+        "updated_at": null,
+        "pipeline_tag": "text-to-speech"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5ebf39dd4b54f684",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

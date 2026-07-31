@@ -1576,6 +1576,82 @@
     "hf_model:https://huggingface.co/models/unsloth/Kimi-K3-GGUF": {
       "last_seen": "2026-07-30",
       "fingerprint": "b0fee8712a360b16"
+    },
+    "github_repository:https://github.com/jeff-nasseri/mikrotik-mcp": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "3d039fa1a76e12f6"
+    },
+    "github_repository:https://github.com/Johell1NS/browser-search": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "146644c4355c5cfa"
+    },
+    "github_repository:https://github.com/mftnakrsu/Automatic_Number_Plate_Recognition_YOLO_OCR": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "88755851aca842a0"
+    },
+    "github_repository:https://github.com/CVHub520/X-AnyLabeling": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "a4a2dd2aae732620"
+    },
+    "github_repository:https://github.com/killkimno/MORT": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "22d5566bdc4f4e76"
+    },
+    "github_repository:https://github.com/opendatalab/MinerU": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "0c7f861b4ea3302d"
+    },
+    "github_repository:https://github.com/Uberi/speech_recognition": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "a29b34138b8fc7fa"
+    },
+    "github_repository:https://github.com/Kieirra/murmure": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "367d7514cb7e4e7c"
+    },
+    "github_repository:https://github.com/grisuno/LazyOwn": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "f84e365c05d0b60b"
+    },
+    "github_repository:https://github.com/mixpeek/amux": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "c3d91be5ed48936e"
+    },
+    "github_repository:https://github.com/felladrin/MiniSearch": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "e602b907444e9f32"
+    },
+    "github_repository:https://github.com/MODSetter/SurfSense": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "827feaf6528eb939"
+    },
+    "github_repository:https://github.com/melgarafael/DeskcommCRM": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "b90426ebdca2a808"
+    },
+    "github_repository:https://github.com/multikernel/sandlock": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "e00290daee303236"
+    },
+    "github_repository:https://github.com/hardness1020/awesome-agent-architecture": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "23ecfb3e2cc2b057"
+    },
+    "github_repository:https://github.com/luckyPipewrench/pipelock": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "508e6ae6e5391d6c"
+    },
+    "github_repository:https://github.com/agent-sh/agnix": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "1a722ab3772b8ab6"
+    },
+    "official_repository:https://github.com/huggingface/pytorch-image-models": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "c7a7210203a3a049"
+    },
+    "hf_model:https://huggingface.co/models/Audio8/Audio8-TTS-Preview-0.6b": {
+      "last_seen": "2026-07-31",
+      "fingerprint": "5ebf39dd4b54f684"
     }
   }
 }
