@@ -1652,6 +1652,82 @@
     "hf_model:https://huggingface.co/models/Audio8/Audio8-TTS-Preview-0.6b": {
       "last_seen": "2026-07-31",
       "fingerprint": "5ebf39dd4b54f684"
+    },
+    "github_repository:https://github.com/cyanheads/obsidian-mcp-server": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "9efb103755fbc460"
+    },
+    "github_repository:https://github.com/EmulationAI/awesome-large-audio-models": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "75cd270d22d3ba9d"
+    },
+    "github_repository:https://github.com/TensorBlock/awesome-mcp-servers": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "315945693fe36746"
+    },
+    "github_repository:https://github.com/openclaw/mcporter": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "202aa1255d0c8f61"
+    },
+    "github_repository:https://github.com/Atmosphere/atmosphere": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "46b2e017388efcf8"
+    },
+    "github_repository:https://github.com/triggerdotdev/trigger.dev": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "e55f5f47a56d4e1c"
+    },
+    "github_repository:https://github.com/giselles-ai/giselle": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "afa1c6d8e027c9e5"
+    },
+    "github_repository:https://github.com/Snailclimb/interview-guide": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "acde2c8fffbf786a"
+    },
+    "github_repository:https://github.com/bartolli/codanna": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "86b2ac70933ce7eb"
+    },
+    "github_repository:https://github.com/pipeshub-ai/pipeshub-ai": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "861142d96ce809f7"
+    },
+    "github_repository:https://github.com/jayminwest/warren": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "9f4d83bf07f6101d"
+    },
+    "github_repository:https://github.com/professorpalmer/Puppetmaster": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "f1e28daa8d78c056"
+    },
+    "github_repository:https://github.com/opral/lix": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "8c394b80cccf63c0"
+    },
+    "github_repository:https://github.com/YoanWai/agent-manager": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "2d10fa1f6a8cd32f"
+    },
+    "official_repository:https://github.com/openai/ten-proofs": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "625ea0287f561aa5"
+    },
+    "official_repository:https://github.com/openai/openai-agents-python": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "77fd46ca26fe0c82"
+    },
+    "hf_model:https://huggingface.co/models/thinkingmachines/Inkling-Small": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "5bdcae024d9ff3b5"
+    },
+    "hf_model:https://huggingface.co/models/microsoft/Mage-VL": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "a86f8ceeedbc1cc7"
+    },
+    "hf_space:https://huggingface.co/spaces/cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo": {
+      "last_seen": "2026-08-03",
+      "fingerprint": "265c39483253d416"
     }
   }
 }

@@ -1,0 +1,513 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T00:16:11.338169+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/openai-agents-python",
+      "kind": "official_repository",
+      "name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "provider": "openai",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 28346,
+        "pushed_at": "2026-08-03T00:15:20Z",
+        "updated_at": "2026-08-03T00:11:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "77fd46ca26fe0c82",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/ten-proofs",
+      "kind": "official_repository",
+      "name": "openai/ten-proofs",
+      "url": "https://github.com/openai/ten-proofs",
+      "provider": "openai",
+      "description": "Lean certificates accompanying proofs in mathematics and theoretical computer science",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 338,
+        "pushed_at": "2026-08-02T00:22:34Z",
+        "updated_at": "2026-08-03T00:13:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "625ea0287f561aa5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/triggerdotdev/trigger.dev",
+      "kind": "github_repository",
+      "name": "triggerdotdev/trigger.dev",
+      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "provider": "GitHub",
+      "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 15859,
+        "forks": 1388,
+        "pushed_at": "2026-08-03T00:02:13Z",
+        "updated_at": "2026-08-03T00:15:36Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e55f5f47a56d4e1c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/openclaw/mcporter",
+      "kind": "github_repository",
+      "name": "openclaw/mcporter",
+      "url": "https://github.com/openclaw/mcporter",
+      "provider": "GitHub",
+      "description": "Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4857,
+        "forks": 327,
+        "pushed_at": "2026-08-03T00:15:24Z",
+        "updated_at": "2026-08-03T00:15:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "202aa1255d0c8f61",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Atmosphere/atmosphere",
+      "kind": "github_repository",
+      "name": "Atmosphere/atmosphere",
+      "url": "https://github.com/Atmosphere/atmosphere",
+      "provider": "GitHub",
+      "description": "Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, and WebTransport/HTTP3. Talk MCP, A2A and AG-UI.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3791,
+        "forks": 759,
+        "pushed_at": "2026-08-03T00:08:52Z",
+        "updated_at": "2026-08-03T00:08:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "46b2e017388efcf8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pipeshub-ai/pipeshub-ai",
+      "kind": "github_repository",
+      "name": "pipeshub-ai/pipeshub-ai",
+      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+      "provider": "GitHub",
+      "description": "PipesHub is an open-source fully extensible AI context layer that unifies your business data for explainable enterprise search and agentic workflow automation.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3148,
+        "forks": 480,
+        "pushed_at": "2026-08-02T22:14:27Z",
+        "updated_at": "2026-08-02T22:14:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "861142d96ce809f7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Snailclimb/interview-guide",
+      "kind": "github_repository",
+      "name": "Snailclimb/interview-guide",
+      "url": "https://github.com/Snailclimb/interview-guide",
+      "provider": "GitHub",
+      "description": "基于 Spring Boot 4.1 + Java 21 + Spring AI 2.0 + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2914,
+        "forks": 659,
+        "pushed_at": "2026-08-02T22:56:46Z",
+        "updated_at": "2026-08-02T22:56:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "acde2c8fffbf786a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/TensorBlock/awesome-mcp-servers",
+      "kind": "github_repository",
+      "name": "TensorBlock/awesome-mcp-servers",
+      "url": "https://github.com/TensorBlock/awesome-mcp-servers",
+      "provider": "GitHub",
+      "description": "A comprehensive collection of Model Context Protocol (MCP) servers",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 798,
+        "forks": 656,
+        "pushed_at": "2026-08-03T00:16:02Z",
+        "updated_at": "2026-08-03T00:16:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "315945693fe36746",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/EmulationAI/awesome-large-audio-models",
+      "kind": "github_repository",
+      "name": "EmulationAI/awesome-large-audio-models",
+      "url": "https://github.com/EmulationAI/awesome-large-audio-models",
+      "provider": "GitHub",
+      "description": "Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 735,
+        "forks": 51,
+        "pushed_at": "2026-08-02T21:22:25Z",
+        "updated_at": "2026-08-02T21:22:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "75cd270d22d3ba9d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/opral/lix",
+      "kind": "github_repository",
+      "name": "opral/lix",
+      "url": "https://github.com/opral/lix",
+      "provider": "GitHub",
+      "description": "Version control system for any file format",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 729,
+        "forks": 24,
+        "pushed_at": "2026-08-03T00:01:40Z",
+        "updated_at": "2026-08-03T00:01:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8c394b80cccf63c0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bartolli/codanna",
+      "kind": "github_repository",
+      "name": "bartolli/codanna",
+      "url": "https://github.com/bartolli/codanna",
+      "provider": "GitHub",
+      "description": "Local code intelligence MCP server and CLI for AI coding agents",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 715,
+        "forks": 67,
+        "pushed_at": "2026-08-03T00:15:48Z",
+        "updated_at": "2026-08-03T00:16:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "86b2ac70933ce7eb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cyanheads/obsidian-mcp-server",
+      "kind": "github_repository",
+      "name": "cyanheads/obsidian-mcp-server",
+      "url": "https://github.com/cyanheads/obsidian-mcp-server",
+      "provider": "GitHub",
+      "description": "Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 646,
+        "forks": 101,
+        "pushed_at": "2026-08-02T22:10:54Z",
+        "updated_at": "2026-08-02T22:11:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9efb103755fbc460",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/giselles-ai/giselle",
+      "kind": "github_repository",
+      "name": "giselles-ai/giselle",
+      "url": "https://github.com/giselles-ai/giselle",
+      "provider": "GitHub",
+      "description": "Giselle: AI App Builder. Open Source.",
+      "capability_tags": [
+        "ai-agents",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 550,
+        "forks": 125,
+        "pushed_at": "2026-08-03T00:12:18Z",
+        "updated_at": "2026-08-03T00:12:20Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "afa1c6d8e027c9e5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/professorpalmer/Puppetmaster",
+      "kind": "github_repository",
+      "name": "professorpalmer/Puppetmaster",
+      "url": "https://github.com/professorpalmer/Puppetmaster",
+      "provider": "GitHub",
+      "description": "Provider-neutral control plane for durable-state agent swarms: subprocess workers, leases, artifacts, memory, and deterministic stitching.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 278,
+        "forks": 30,
+        "pushed_at": "2026-08-03T00:05:53Z",
+        "updated_at": "2026-08-03T00:01:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f1e28daa8d78c056",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/YoanWai/agent-manager",
+      "kind": "github_repository",
+      "name": "YoanWai/agent-manager",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "provider": "GitHub",
+      "description": "Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok, Gemini CLI) in tmux: live status, group tree, quick prompts, diff review. macOS, Linux, Windows via WSL2.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 248,
+        "forks": 12,
+        "pushed_at": "2026-08-02T23:59:39Z",
+        "updated_at": "2026-08-02T23:59:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2d10fa1f6a8cd32f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jayminwest/warren",
+      "kind": "github_repository",
+      "name": "jayminwest/warren",
+      "url": "https://github.com/jayminwest/warren",
+      "provider": "GitHub",
+      "description": "Coolify for coding agents. Control plane for your agents that operate in isolation, self-manage, self-repair, and self-improve all on your infrastructure.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 244,
+        "forks": 58,
+        "pushed_at": "2026-08-03T00:13:55Z",
+        "updated_at": "2026-08-03T00:13:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9f4d83bf07f6101d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/thinkingmachines/Inkling-Small",
+      "kind": "hf_model",
+      "name": "thinkingmachines/Inkling-Small",
+      "url": "https://huggingface.co/models/thinkingmachines/Inkling-Small",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "audio-text-to-text",
+        "conversational",
+        "endpoints_compatible",
+        "eval-results",
+        "image-text-to-text",
+        "inkling_mm_model",
+        "license:apache-2.0",
+        "moe",
+        "region:us",
+        "safetensors",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 6839,
+        "likes": 227,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5bdcae024d9ff3b5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/microsoft/Mage-VL",
+      "kind": "hf_model",
+      "name": "microsoft/Mage-VL",
+      "url": "https://huggingface.co/models/microsoft/Mage-VL",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2607.24904",
+        "conversational",
+        "custom_code",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "mage-vl",
+        "mage_vl",
+        "multimodal",
+        "region:us",
+        "safetensors",
+        "streaming",
+        "transformers",
+        "video-understanding",
+        "vision-language-model"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 272148,
+        "likes": 183,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a86f8ceeedbc1cc7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
+      "kind": "hf_space",
+      "name": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
+      "url": "https://huggingface.co/spaces/cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 144,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "265c39483253d416",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
