@@ -1,0 +1,402 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T00:17:32.895829+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 15,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/pwc-cli",
+      "kind": "official_repository",
+      "name": "huggingface/pwc-cli",
+      "url": "https://github.com/huggingface/pwc-cli",
+      "provider": "huggingface",
+      "description": "A Command-Line Interface (CLI) and Skill to interact with Papers with Code. For agents and humans.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 16,
+        "pushed_at": "2026-08-03T15:53:29Z",
+        "updated_at": "2026-08-04T00:15:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23b682c853f6681c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Mintplex-Labs/anything-llm",
+      "kind": "github_repository",
+      "name": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "provider": "GitHub",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 64298,
+        "forks": 7062,
+        "pushed_at": "2026-08-03T23:45:50Z",
+        "updated_at": "2026-08-04T00:14:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e812d3ee0042aa15",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/danny-avila/LibreChat",
+      "kind": "github_repository",
+      "name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "provider": "GitHub",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 41629,
+        "forks": 8578,
+        "pushed_at": "2026-08-04T00:10:18Z",
+        "updated_at": "2026-08-04T00:16:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "74d90918356bf966",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/docmd-io/docmd",
+      "kind": "github_repository",
+      "name": "docmd-io/docmd",
+      "url": "https://github.com/docmd-io/docmd",
+      "provider": "GitHub",
+      "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2218,
+        "forks": 119,
+        "pushed_at": "2026-08-04T00:12:19Z",
+        "updated_at": "2026-08-04T00:11:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ea9fd8c971a69426",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/waybarrios/vllm-mlx",
+      "kind": "github_repository",
+      "name": "waybarrios/vllm-mlx",
+      "url": "https://github.com/waybarrios/vllm-mlx",
+      "provider": "GitHub",
+      "description": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1484,
+        "forks": 206,
+        "pushed_at": "2026-08-03T23:52:57Z",
+        "updated_at": "2026-08-03T23:53:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "70b1262d46d2e9b1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/limecloud/lime",
+      "kind": "github_repository",
+      "name": "limecloud/lime",
+      "url": "https://github.com/limecloud/lime",
+      "provider": "GitHub",
+      "description": "AI content workspace for Chinese creators: desktop writing, research, prompt library, knowledge base, and multi-model workflows.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1462,
+        "forks": 202,
+        "pushed_at": "2026-08-04T00:16:38Z",
+        "updated_at": "2026-08-04T00:16:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9cd3b14058dfa83c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/MiniMaxAI/MiniMax-H3",
+      "kind": "hf_model",
+      "name": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/models/MiniMaxAI/MiniMax-H3",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "audio-to-audio-video",
+        "audio-video-generation",
+        "diffusers",
+        "image-text-to-audio-video",
+        "image-text-to-video",
+        "image-to-audio-video",
+        "image-to-video",
+        "license:other",
+        "multimodal",
+        "reference-to-audio-video",
+        "region:us",
+        "safetensors",
+        "synchronized-audio-video",
+        "text-to-audio-video",
+        "text-to-video",
+        "video-to-audio-video",
+        "video-to-video"
+      ],
+      "input_output": "image-text-to-video -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 1438,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9e569842414a0b50",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/matthiasn/lotti",
+      "kind": "github_repository",
+      "name": "matthiasn/lotti",
+      "url": "https://github.com/matthiasn/lotti",
+      "provider": "GitHub",
+      "description": "Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for end-to-end encrypted sync between your own devices.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1158,
+        "forks": 113,
+        "pushed_at": "2026-08-04T00:16:39Z",
+        "updated_at": "2026-08-04T00:16:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0084e8d9cb85d21d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/marckrenn/claude-code-changelog",
+      "kind": "github_repository",
+      "name": "marckrenn/claude-code-changelog",
+      "url": "https://github.com/marckrenn/claude-code-changelog",
+      "provider": "GitHub",
+      "description": "Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 869,
+        "forks": 71,
+        "pushed_at": "2026-08-04T00:17:19Z",
+        "updated_at": "2026-08-04T00:17:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a4325b32be3fb557",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/archie0732/healthy-diet-ai-agent",
+      "kind": "github_repository",
+      "name": "archie0732/healthy-diet-ai-agent",
+      "url": "https://github.com/archie0732/healthy-diet-ai-agent",
+      "provider": "GitHub",
+      "description": "Healthy Diet AI Agent is a Bun + TypeScript backend for nutrition chat, food-image analysis, RAG document ingestion, and knowledge-grounded diet guidance.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 750,
+        "forks": 5,
+        "pushed_at": "2026-08-03T23:40:18Z",
+        "updated_at": "2026-08-03T23:57:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a261296e00b0acb5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kiwifs/kiwifs",
+      "kind": "github_repository",
+      "name": "kiwifs/kiwifs",
+      "url": "https://github.com/kiwifs/kiwifs",
+      "provider": "GitHub",
+      "description": "Markdown filesystem for agents and teams.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 624,
+        "forks": 191,
+        "pushed_at": "2026-08-04T00:16:23Z",
+        "updated_at": "2026-08-04T00:12:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1035849ce0f8c2bd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agnt-gg/agnt",
+      "kind": "github_repository",
+      "name": "agnt-gg/agnt",
+      "url": "https://github.com/agnt-gg/agnt",
+      "provider": "GitHub",
+      "description": "The local-first operating system for building, running, and improving AI agents, workflows, and autonomous goals.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 510,
+        "forks": 64,
+        "pushed_at": "2026-08-04T00:15:32Z",
+        "updated_at": "2026-08-04T00:15:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1a3356853162497b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rlaope/oh-my-hermes",
+      "kind": "github_repository",
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "provider": "GitHub",
+      "description": "Just install once. Anyone can use hermes-agent professionally. the powerful intelligence and memory system for your agent ⚚",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 479,
+        "forks": 47,
+        "pushed_at": "2026-08-03T23:35:36Z",
+        "updated_at": "2026-08-03T23:35:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "170165e9b104a9f9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mobile-next/mobilecli",
+      "kind": "github_repository",
+      "name": "mobile-next/mobilecli",
+      "url": "https://github.com/mobile-next/mobilecli",
+      "provider": "GitHub",
+      "description": "Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 245,
+        "forks": 29,
+        "pushed_at": "2026-08-03T22:35:49Z",
+        "updated_at": "2026-08-04T00:06:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6be55d633812b311",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/multimodalart/minimax-h3",
+      "kind": "hf_space",
+      "name": "multimodalart/minimax-h3",
+      "url": "https://huggingface.co/spaces/multimodalart/minimax-h3",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 30,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "45d10c4602af5fd2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

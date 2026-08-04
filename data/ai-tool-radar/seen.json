@@ -1728,6 +1728,66 @@
     "hf_space:https://huggingface.co/spaces/cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo": {
       "last_seen": "2026-08-03",
       "fingerprint": "265c39483253d416"
+    },
+    "github_repository:https://github.com/rlaope/oh-my-hermes": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "170165e9b104a9f9"
+    },
+    "github_repository:https://github.com/mobile-next/mobilecli": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "6be55d633812b311"
+    },
+    "github_repository:https://github.com/waybarrios/vllm-mlx": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "70b1262d46d2e9b1"
+    },
+    "github_repository:https://github.com/limecloud/lime": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "9cd3b14058dfa83c"
+    },
+    "github_repository:https://github.com/docmd-io/docmd": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "ea9fd8c971a69426"
+    },
+    "github_repository:https://github.com/danny-avila/LibreChat": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "74d90918356bf966"
+    },
+    "github_repository:https://github.com/Mintplex-Labs/anything-llm": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "e812d3ee0042aa15"
+    },
+    "github_repository:https://github.com/archie0732/healthy-diet-ai-agent": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "a261296e00b0acb5"
+    },
+    "github_repository:https://github.com/marckrenn/claude-code-changelog": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "a4325b32be3fb557"
+    },
+    "github_repository:https://github.com/matthiasn/lotti": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "0084e8d9cb85d21d"
+    },
+    "github_repository:https://github.com/agnt-gg/agnt": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "1a3356853162497b"
+    },
+    "github_repository:https://github.com/kiwifs/kiwifs": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "1035849ce0f8c2bd"
+    },
+    "official_repository:https://github.com/huggingface/pwc-cli": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "23b682c853f6681c"
+    },
+    "hf_model:https://huggingface.co/models/MiniMaxAI/MiniMax-H3": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "9e569842414a0b50"
+    },
+    "hf_space:https://huggingface.co/spaces/multimodalart/minimax-h3": {
+      "last_seen": "2026-08-04",
+      "fingerprint": "45d10c4602af5fd2"
     }
   }
 }
