@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T00:16:53.204499+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 20,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/transformers.js",
+      "kind": "official_repository",
+      "name": "huggingface/transformers.js",
+      "url": "https://github.com/huggingface/transformers.js",
+      "provider": "huggingface",
+      "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 16230,
+        "pushed_at": "2026-07-31T13:17:52Z",
+        "updated_at": "2026-08-05T00:07:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bf32fd2b768bf415",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langchain-ai/langchain",
+      "kind": "github_repository",
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "provider": "GitHub",
+      "description": "The agent engineering platform.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 143424,
+        "forks": 23887,
+        "pushed_at": "2026-08-05T00:13:51Z",
+        "updated_at": "2026-08-05T00:11:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "73e858f6bb99f293",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nukeop/nuclear",
+      "kind": "github_repository",
+      "name": "nukeop/nuclear",
+      "url": "https://github.com/nukeop/nuclear",
+      "provider": "GitHub",
+      "description": "Streaming music player that finds free music for you",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 18193,
+        "forks": 1309,
+        "pushed_at": "2026-08-05T00:16:26Z",
+        "updated_at": "2026-08-05T00:16:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "16ce218dbe68b266",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ArvinLovegood/go-stock",
+      "kind": "github_repository",
+      "name": "ArvinLovegood/go-stock",
+      "url": "https://github.com/ArvinLovegood/go-stock",
+      "provider": "GitHub",
+      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7132,
+        "forks": 1254,
+        "pushed_at": "2026-08-04T23:36:03Z",
+        "updated_at": "2026-08-04T23:36:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c3bf74bb2fd35fa1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/memgraph/memgraph",
+      "kind": "github_repository",
+      "name": "memgraph/memgraph",
+      "url": "https://github.com/memgraph/memgraph",
+      "provider": "GitHub",
+      "description": "High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4313,
+        "forks": 252,
+        "pushed_at": "2026-08-05T00:15:03Z",
+        "updated_at": "2026-08-05T00:15:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "900b7cf6e8e5dbd6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agentgateway/agentgateway",
+      "kind": "github_repository",
+      "name": "agentgateway/agentgateway",
+      "url": "https://github.com/agentgateway/agentgateway",
+      "provider": "GitHub",
+      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4218,
+        "forks": 703,
+        "pushed_at": "2026-08-05T00:08:47Z",
+        "updated_at": "2026-08-05T00:09:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "434443c110248eeb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/skalesapp/skales",
+      "kind": "github_repository",
+      "name": "skalesapp/skales",
+      "url": "https://github.com/skalesapp/skales",
+      "provider": "GitHub",
+      "description": "Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1386,
+        "forks": 200,
+        "pushed_at": "2026-08-05T00:16:15Z",
+        "updated_at": "2026-08-05T00:16:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "247f98809be22460",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Team-Commonly/commonly",
+      "kind": "github_repository",
+      "name": "Team-Commonly/commonly",
+      "url": "https://github.com/Team-Commonly/commonly",
+      "provider": "GitHub",
+      "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1285,
+        "forks": 179,
+        "pushed_at": "2026-08-05T00:13:07Z",
+        "updated_at": "2026-08-05T00:13:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "12b8ca35373914f8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/awslabs/cli-agent-orchestrator",
+      "kind": "github_repository",
+      "name": "awslabs/cli-agent-orchestrator",
+      "url": "https://github.com/awslabs/cli-agent-orchestrator",
+      "provider": "GitHub",
+      "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 990,
+        "forks": 195,
+        "pushed_at": "2026-08-05T00:15:36Z",
+        "updated_at": "2026-08-05T00:15:52Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d403dc14574f3fdf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tjboudreaux/cc-thinking-skills",
+      "kind": "github_repository",
+      "name": "tjboudreaux/cc-thinking-skills",
+      "url": "https://github.com/tjboudreaux/cc-thinking-skills",
+      "provider": "GitHub",
+      "description": "28 eval-informed mental models and critical-thinking skills for Claude Code, GitHub Copilot, Codex, Cursor, and other Agent Skills-compatible tools",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 929,
+        "forks": 129,
+        "pushed_at": "2026-08-04T23:55:53Z",
+        "updated_at": "2026-08-04T23:55:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bb4d4dbe5dcead75",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bgauryy/octocode",
+      "kind": "github_repository",
+      "name": "bgauryy/octocode",
+      "url": "https://github.com/bgauryy/octocode",
+      "provider": "GitHub",
+      "description": "Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 902,
+        "forks": 77,
+        "pushed_at": "2026-08-04T23:43:01Z",
+        "updated_at": "2026-08-04T23:43:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8f4dbfcebf468d1e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Ark0N/Codeman",
+      "kind": "github_repository",
+      "name": "Ark0N/Codeman",
+      "url": "https://github.com/Ark0N/Codeman",
+      "provider": "GitHub",
+      "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Codex, and Gemini CLI 24/7, from any device, watch every subagent live",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 551,
+        "forks": 74,
+        "pushed_at": "2026-08-05T00:12:07Z",
+        "updated_at": "2026-08-05T00:11:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ad43a176a01a3425",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kirodotdev/KiroCrew",
+      "kind": "github_repository",
+      "name": "kirodotdev/KiroCrew",
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "provider": "GitHub",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 460,
+        "forks": 29,
+        "pushed_at": "2026-08-05T00:16:31Z",
+        "updated_at": "2026-08-05T00:16:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "200d7c21b2bbf6de",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/antflydb/antfly",
+      "kind": "github_repository",
+      "name": "antflydb/antfly",
+      "url": "https://github.com/antflydb/antfly",
+      "provider": "GitHub",
+      "description": "",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 419,
+        "forks": 26,
+        "pushed_at": "2026-08-05T00:02:36Z",
+        "updated_at": "2026-08-04T23:51:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c33a87a95c8aba5a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/smithersai/smithers",
+      "kind": "github_repository",
+      "name": "smithersai/smithers",
+      "url": "https://github.com/smithersai/smithers",
+      "provider": "GitHub",
+      "description": "Agent workflows with full observability and time travel: watch every step live, rewind, fork, replay any run. Claude Code, Codex, Gemini, any model or harness.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 351,
+        "forks": 47,
+        "pushed_at": "2026-08-05T00:13:42Z",
+        "updated_at": "2026-08-05T00:13:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "31d84b5c7bb953bf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aa0101181514/tw-legal-rag",
+      "kind": "github_repository",
+      "name": "aa0101181514/tw-legal-rag",
+      "url": "https://github.com/aa0101181514/tw-legal-rag",
+      "provider": "GitHub",
+      "description": "Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (Claude/ChatGPT), and run a bundle-level citation check. Bring your own LLM; retrieval-only.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 231,
+        "forks": 39,
+        "pushed_at": "2026-08-04T23:41:32Z",
+        "updated_at": "2026-08-04T23:41:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "355d7d228aec0d25",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/microsoft/shell-use",
+      "kind": "github_repository",
+      "name": "microsoft/shell-use",
+      "url": "https://github.com/microsoft/shell-use",
+      "provider": "GitHub",
+      "description": "💻 Make the terminal / shell accessible for AI agents. Automate tasks with ease.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 217,
+        "forks": 20,
+        "pushed_at": "2026-08-04T23:50:57Z",
+        "updated_at": "2026-08-04T23:50:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3e949c26047d8dde",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/team-telnyx/ai",
+      "kind": "github_repository",
+      "name": "team-telnyx/ai",
+      "url": "https://github.com/team-telnyx/ai",
+      "provider": "GitHub",
+      "description": "Official one-stop shop for AI Agents and developers building with Telnyx.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 201,
+        "forks": 20,
+        "pushed_at": "2026-08-04T22:20:03Z",
+        "updated_at": "2026-08-04T22:20:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0e6897567365541e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+      "kind": "hf_model",
+      "name": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+      "url": "https://huggingface.co/models/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "abliterated",
+        "base_model:finetune:llmfan46/qwen3-vl-32b-instruct-ultra-uncensored-heretic",
+        "base_model:llmfan46/qwen3-vl-32b-instruct-ultra-uncensored-heretic",
+        "comfyui",
+        "convrot",
+        "en",
+        "heretic",
+        "image-text-to-text",
+        "int8",
+        "license:apache-2.0",
+        "minimax-h3",
+        "quantized",
+        "qwen3-vl",
+        "qwen3-vl-32b",
+        "region:us",
+        "uncensored"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 188,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ba8e834da9b8e426",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/Alissonerdx/charactersheet-lora-demo",
+      "kind": "hf_space",
+      "name": "Alissonerdx/charactersheet-lora-demo",
+      "url": "https://huggingface.co/spaces/Alissonerdx/charactersheet-lora-demo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 41,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dc7b9c5034710c40",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

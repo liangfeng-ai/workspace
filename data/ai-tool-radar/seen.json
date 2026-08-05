@@ -1788,6 +1788,86 @@
     "hf_space:https://huggingface.co/spaces/multimodalart/minimax-h3": {
       "last_seen": "2026-08-04",
       "fingerprint": "45d10c4602af5fd2"
+    },
+    "github_repository:https://github.com/tjboudreaux/cc-thinking-skills": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "bb4d4dbe5dcead75"
+    },
+    "github_repository:https://github.com/microsoft/shell-use": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "3e949c26047d8dde"
+    },
+    "github_repository:https://github.com/bgauryy/octocode": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "8f4dbfcebf468d1e"
+    },
+    "github_repository:https://github.com/ArvinLovegood/go-stock": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "c3bf74bb2fd35fa1"
+    },
+    "github_repository:https://github.com/team-telnyx/ai": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "0e6897567365541e"
+    },
+    "github_repository:https://github.com/nukeop/nuclear": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "16ce218dbe68b266"
+    },
+    "github_repository:https://github.com/skalesapp/skales": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "247f98809be22460"
+    },
+    "github_repository:https://github.com/awslabs/cli-agent-orchestrator": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "d403dc14574f3fdf"
+    },
+    "github_repository:https://github.com/agentgateway/agentgateway": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "434443c110248eeb"
+    },
+    "github_repository:https://github.com/langchain-ai/langchain": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "73e858f6bb99f293"
+    },
+    "github_repository:https://github.com/antflydb/antfly": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "c33a87a95c8aba5a"
+    },
+    "github_repository:https://github.com/aa0101181514/tw-legal-rag": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "355d7d228aec0d25"
+    },
+    "github_repository:https://github.com/kirodotdev/KiroCrew": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "200d7c21b2bbf6de"
+    },
+    "github_repository:https://github.com/memgraph/memgraph": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "900b7cf6e8e5dbd6"
+    },
+    "github_repository:https://github.com/smithersai/smithers": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "31d84b5c7bb953bf"
+    },
+    "github_repository:https://github.com/Team-Commonly/commonly": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "12b8ca35373914f8"
+    },
+    "github_repository:https://github.com/Ark0N/Codeman": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "ad43a176a01a3425"
+    },
+    "official_repository:https://github.com/huggingface/transformers.js": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "bf32fd2b768bf415"
+    },
+    "hf_model:https://huggingface.co/models/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "ba8e834da9b8e426"
+    },
+    "hf_space:https://huggingface.co/spaces/Alissonerdx/charactersheet-lora-demo": {
+      "last_seen": "2026-08-05",
+      "fingerprint": "dc7b9c5034710c40"
     }
   }
 }
