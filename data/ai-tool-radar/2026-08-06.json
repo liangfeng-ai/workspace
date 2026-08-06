@@ -1,0 +1,447 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T00:13:15.218536+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 16,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/OpenEnv",
+      "kind": "official_repository",
+      "name": "huggingface/OpenEnv",
+      "url": "https://github.com/huggingface/OpenEnv",
+      "provider": "huggingface",
+      "description": "An interface library for RL post training with environments.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2481,
+        "pushed_at": "2026-08-05T14:47:00Z",
+        "updated_at": "2026-08-06T00:06:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d351c6e182688455",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/sandbox-server",
+      "kind": "official_repository",
+      "name": "huggingface/sandbox-server",
+      "url": "https://github.com/huggingface/sandbox-server",
+      "provider": "huggingface",
+      "description": "Static in-sandbox server for 'hf sandbox' — command exec, file transfer and port forwarding on Hugging Face Jobs",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 9,
+        "pushed_at": "2026-07-07T10:06:37Z",
+        "updated_at": "2026-08-06T00:00:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "634842c95deeb14e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/QwenLM/qwen-code",
+      "kind": "github_repository",
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "provider": "GitHub",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 26752,
+        "forks": 2789,
+        "pushed_at": "2026-08-06T00:03:44Z",
+        "updated_at": "2026-08-06T00:03:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "24ddee3cd7abc259",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/genkit-ai/genkit",
+      "kind": "github_repository",
+      "name": "genkit-ai/genkit",
+      "url": "https://github.com/genkit-ai/genkit",
+      "provider": "GitHub",
+      "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6319,
+        "forks": 815,
+        "pushed_at": "2026-08-05T23:57:57Z",
+        "updated_at": "2026-08-05T23:54:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d1b53269933f2d41",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/54yyyu/zotero-mcp",
+      "kind": "github_repository",
+      "name": "54yyyu/zotero-mcp",
+      "url": "https://github.com/54yyyu/zotero-mcp",
+      "provider": "GitHub",
+      "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4549,
+        "forks": 370,
+        "pushed_at": "2026-08-06T00:11:46Z",
+        "updated_at": "2026-08-06T00:11:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a4e717e111f42acc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Open-Less/openless",
+      "kind": "github_repository",
+      "name": "Open-Less/openless",
+      "url": "https://github.com/Open-Less/openless",
+      "provider": "GitHub",
+      "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2963,
+        "forks": 266,
+        "pushed_at": "2026-08-05T21:37:22Z",
+        "updated_at": "2026-08-05T21:10:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "964f6828aa299980",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agavra/tuicr",
+      "kind": "github_repository",
+      "name": "agavra/tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "provider": "GitHub",
+      "description": "a code review TUI with vim keybindings",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2418,
+        "forks": 187,
+        "pushed_at": "2026-08-05T23:32:02Z",
+        "updated_at": "2026-08-05T23:31:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f78de16e646117d3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zelon88/HRConvert2",
+      "kind": "github_repository",
+      "name": "zelon88/HRConvert2",
+      "url": "https://github.com/zelon88/HRConvert2",
+      "provider": "GitHub",
+      "description": "A self-hosted file conversion server & share tool that supports 445 file formats in 17 languages.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1358,
+        "forks": 82,
+        "pushed_at": "2026-08-05T22:49:33Z",
+        "updated_at": "2026-08-05T22:49:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b831099a4829b40b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mikehasa/agentacct",
+      "kind": "github_repository",
+      "name": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "provider": "GitHub",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 548,
+        "forks": 68,
+        "pushed_at": "2026-08-06T00:10:40Z",
+        "updated_at": "2026-08-06T00:10:41Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f86247887aea2b97",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/XYZAILab/XYZ-Aquila-mini",
+      "kind": "hf_model",
+      "name": "XYZAILab/XYZ-Aquila-mini",
+      "url": "https://huggingface.co/models/XYZAILab/XYZ-Aquila-mini",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "agentic-search",
+        "base_model:finetune:qwen/qwen3.6-35b-a3b",
+        "base_model:qwen/qwen3.6-35b-a3b",
+        "conversational",
+        "endpoints_compatible",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "qwen3.6",
+        "qwen3_5_moe",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 1317,
+        "likes": 416,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c34f5c2a359f574b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dicklesworthstone/ntm",
+      "kind": "github_repository",
+      "name": "Dicklesworthstone/ntm",
+      "url": "https://github.com/Dicklesworthstone/ntm",
+      "provider": "GitHub",
+      "description": "Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 415,
+        "forks": 61,
+        "pushed_at": "2026-08-06T00:13:05Z",
+        "updated_at": "2026-08-06T00:13:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3d43ee928f8fc31b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Anionex/agent-vision-toolkit",
+      "kind": "github_repository",
+      "name": "Anionex/agent-vision-toolkit",
+      "url": "https://github.com/Anionex/agent-vision-toolkit",
+      "provider": "GitHub",
+      "description": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 300,
+        "forks": 14,
+        "pushed_at": "2026-08-05T19:41:35Z",
+        "updated_at": "2026-08-05T19:41:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7b907c0fafdf572a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+      "kind": "hf_model",
+      "name": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+      "url": "https://huggingface.co/models/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "abliterated",
+        "awq",
+        "base_model:finetune:llmfan46/qwen3-vl-32b-instruct-ultra-uncensored-heretic",
+        "base_model:llmfan46/qwen3-vl-32b-instruct-ultra-uncensored-heretic",
+        "bf16",
+        "comfyui",
+        "convrot",
+        "en",
+        "h3",
+        "heretic",
+        "image-text-to-text",
+        "int8",
+        "license:apache-2.0",
+        "nvfp4",
+        "quantized",
+        "qwen3-vl",
+        "qwen3-vl-32b",
+        "region:us",
+        "uncensored"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 279,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5eb6a33350e0dfe9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/deepgram/deepgram-js-sdk",
+      "kind": "github_repository",
+      "name": "deepgram/deepgram-js-sdk",
+      "url": "https://github.com/deepgram/deepgram-js-sdk",
+      "provider": "GitHub",
+      "description": "Official JavaScript SDK for Deepgram.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 270,
+        "forks": 95,
+        "pushed_at": "2026-08-05T20:04:52Z",
+        "updated_at": "2026-08-05T22:16:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3fd50dbcb0f8f5e0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/lodestones/Kroma",
+      "kind": "hf_model",
+      "name": "lodestones/Kroma",
+      "url": "https://huggingface.co/models/lodestones/Kroma",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "comfyui",
+        "krea",
+        "krea2",
+        "license:mit",
+        "lora",
+        "region:us",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 190,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5c4a376d6cd23ffd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/multimodalart/minimax-h3-reference",
+      "kind": "hf_space",
+      "name": "multimodalart/minimax-h3-reference",
+      "url": "https://huggingface.co/spaces/multimodalart/minimax-h3-reference",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 35,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6ba497a1c94ec462",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

@@ -1868,6 +1868,70 @@
     "hf_space:https://huggingface.co/spaces/Alissonerdx/charactersheet-lora-demo": {
       "last_seen": "2026-08-05",
       "fingerprint": "dc7b9c5034710c40"
+    },
+    "github_repository:https://github.com/agavra/tuicr": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "f78de16e646117d3"
+    },
+    "github_repository:https://github.com/zelon88/HRConvert2": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "b831099a4829b40b"
+    },
+    "github_repository:https://github.com/Anionex/agent-vision-toolkit": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "7b907c0fafdf572a"
+    },
+    "github_repository:https://github.com/Open-Less/openless": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "964f6828aa299980"
+    },
+    "github_repository:https://github.com/deepgram/deepgram-js-sdk": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "3fd50dbcb0f8f5e0"
+    },
+    "github_repository:https://github.com/54yyyu/zotero-mcp": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "a4e717e111f42acc"
+    },
+    "github_repository:https://github.com/mikehasa/agentacct": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "f86247887aea2b97"
+    },
+    "github_repository:https://github.com/QwenLM/qwen-code": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "24ddee3cd7abc259"
+    },
+    "github_repository:https://github.com/genkit-ai/genkit": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "d1b53269933f2d41"
+    },
+    "github_repository:https://github.com/Dicklesworthstone/ntm": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "3d43ee928f8fc31b"
+    },
+    "official_repository:https://github.com/huggingface/OpenEnv": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "d351c6e182688455"
+    },
+    "official_repository:https://github.com/huggingface/sandbox-server": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "634842c95deeb14e"
+    },
+    "hf_model:https://huggingface.co/models/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "5eb6a33350e0dfe9"
+    },
+    "hf_model:https://huggingface.co/models/lodestones/Kroma": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "5c4a376d6cd23ffd"
+    },
+    "hf_model:https://huggingface.co/models/XYZAILab/XYZ-Aquila-mini": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "c34f5c2a359f574b"
+    },
+    "hf_space:https://huggingface.co/spaces/multimodalart/minimax-h3-reference": {
+      "last_seen": "2026-08-06",
+      "fingerprint": "6ba497a1c94ec462"
     }
   }
 }
