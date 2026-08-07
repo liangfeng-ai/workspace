@@ -1932,6 +1932,58 @@
     "hf_space:https://huggingface.co/spaces/multimodalart/minimax-h3-reference": {
       "last_seen": "2026-08-06",
       "fingerprint": "6ba497a1c94ec462"
+    },
+    "github_repository:https://github.com/xiufengsun/TokenTracker": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "a8fb9c9cd5c9643e"
+    },
+    "github_repository:https://github.com/QVerisAI/qveris-agent-toolkit": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "50798a071f666d74"
+    },
+    "github_repository:https://github.com/Dicklesworthstone/franken_ocr": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "33b4105fb78c45ed"
+    },
+    "github_repository:https://github.com/misyaguziya/VRCT": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "09daf1de6c558e41"
+    },
+    "github_repository:https://github.com/mahimairaja/voiceai": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "a0ae692fb5b4e932"
+    },
+    "github_repository:https://github.com/lobehub/lobehub": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "6aec81c7117bc347"
+    },
+    "github_repository:https://github.com/Brhiza/mingyu": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "b08f37928e2f1902"
+    },
+    "github_repository:https://github.com/zhu1090093659/deepseek-pp": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "a6b49c5c96c65c68"
+    },
+    "github_repository:https://github.com/tensorlakeai/tensorlake": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "9a709b7cd1ee4c56"
+    },
+    "github_repository:https://github.com/arcboxlabs/arcbox": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "de3c0c96c1a88189"
+    },
+    "github_repository:https://github.com/aeonfun/aeon": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "92ea1acf158c2d94"
+    },
+    "hf_model:https://huggingface.co/models/larryvrh/MiniMax-H3-Turbo-Lora": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "3c71155e472bcaf5"
+    },
+    "hf_space:https://huggingface.co/spaces/prithivMLmods/FireRed-Image-Edit-1.0-Fast": {
+      "last_seen": "2026-08-07",
+      "fingerprint": "654fccb5eac6744c"
     }
   }
 }

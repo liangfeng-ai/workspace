@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T01:43:49.609203+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 13,
+  "candidates": [
+    {
+      "id": "github_repository:https://github.com/lobehub/lobehub",
+      "kind": "github_repository",
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "provider": "GitHub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 81342,
+        "forks": 15778,
+        "pushed_at": "2026-08-07T01:34:37Z",
+        "updated_at": "2026-08-07T01:43:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6aec81c7117bc347",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "kind": "hf_space",
+      "name": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "url": "https://huggingface.co/spaces/prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 1591,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "654fccb5eac6744c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zhu1090093659/deepseek-pp",
+      "kind": "github_repository",
+      "name": "zhu1090093659/deepseek-pp",
+      "url": "https://github.com/zhu1090093659/deepseek-pp",
+      "provider": "GitHub",
+      "description": "DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1480,
+        "forks": 189,
+        "pushed_at": "2026-08-07T01:32:53Z",
+        "updated_at": "2026-08-07T01:41:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6b49c5c96c65c68",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xiufengsun/TokenTracker",
+      "kind": "github_repository",
+      "name": "xiufengsun/TokenTracker",
+      "url": "https://github.com/xiufengsun/TokenTracker",
+      "provider": "GitHub",
+      "description": "Local-first AI token usage & cost tracker for 28 coding tools incl. Claude Code, Codex, Cursor, Gemini & Qoder—with native apps. Never reads prompts.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1209,
+        "forks": 124,
+        "pushed_at": "2026-08-07T01:31:17Z",
+        "updated_at": "2026-08-07T01:31:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a8fb9c9cd5c9643e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tensorlakeai/tensorlake",
+      "kind": "github_repository",
+      "name": "tensorlakeai/tensorlake",
+      "url": "https://github.com/tensorlakeai/tensorlake",
+      "provider": "GitHub",
+      "description": "Tensorlake is a serverless runtime for sandboxes and deploying background agentic applications",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 981,
+        "forks": 136,
+        "pushed_at": "2026-08-07T01:40:50Z",
+        "updated_at": "2026-08-07T01:40:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9a709b7cd1ee4c56",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aeonfun/aeon",
+      "kind": "github_repository",
+      "name": "aeonfun/aeon",
+      "url": "https://github.com/aeonfun/aeon",
+      "provider": "GitHub",
+      "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 594,
+        "forks": 216,
+        "pushed_at": "2026-08-07T01:37:31Z",
+        "updated_at": "2026-08-07T01:37:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "92ea1acf158c2d94",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/misyaguziya/VRCT",
+      "kind": "github_repository",
+      "name": "misyaguziya/VRCT",
+      "url": "https://github.com/misyaguziya/VRCT",
+      "provider": "GitHub",
+      "description": "VRCT(VRChat Chatbox Translator & Transcription)",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 417,
+        "forks": 42,
+        "pushed_at": "2026-08-07T01:11:54Z",
+        "updated_at": "2026-08-07T01:12:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "09daf1de6c558e41",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mahimairaja/voiceai",
+      "kind": "github_repository",
+      "name": "mahimairaja/voiceai",
+      "url": "https://github.com/mahimairaja/voiceai",
+      "provider": "GitHub",
+      "description": "Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 307,
+        "forks": 31,
+        "pushed_at": "2026-08-06T22:37:40Z",
+        "updated_at": "2026-08-06T22:37:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a0ae692fb5b4e932",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/larryvrh/MiniMax-H3-Turbo-Lora",
+      "kind": "hf_model",
+      "name": "larryvrh/MiniMax-H3-Turbo-Lora",
+      "url": "https://huggingface.co/models/larryvrh/MiniMax-H3-Turbo-Lora",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "audio-video",
+        "base_model:adapter:comfy-org/minimax-h3",
+        "base_model:comfy-org/minimax-h3",
+        "comfyui",
+        "license:apache-2.0",
+        "lora",
+        "minimax-h3",
+        "region:us",
+        "text-to-audio",
+        "text-to-video"
+      ],
+      "input_output": "text-to-video -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 300,
+        "updated_at": null,
+        "pipeline_tag": "text-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3c71155e472bcaf5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dicklesworthstone/franken_ocr",
+      "kind": "github_repository",
+      "name": "Dicklesworthstone/franken_ocr",
+      "url": "https://github.com/Dicklesworthstone/franken_ocr",
+      "provider": "GitHub",
+      "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-model zoo, custom int8 kernels, no ML framework, no Python, no GPU.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 282,
+        "forks": 34,
+        "pushed_at": "2026-08-06T23:33:43Z",
+        "updated_at": "2026-08-06T23:33:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "33b4105fb78c45ed",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Brhiza/mingyu",
+      "kind": "github_repository",
+      "name": "Brhiza/mingyu",
+      "url": "https://github.com/Brhiza/mingyu",
+      "provider": "GitHub",
+      "description": "八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式排盘，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 274,
+        "forks": 81,
+        "pushed_at": "2026-08-07T01:33:44Z",
+        "updated_at": "2026-08-07T01:33:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b08f37928e2f1902",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/arcboxlabs/arcbox",
+      "kind": "github_repository",
+      "name": "arcboxlabs/arcbox",
+      "url": "https://github.com/arcboxlabs/arcbox",
+      "provider": "GitHub",
+      "description": "Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 273,
+        "forks": 11,
+        "pushed_at": "2026-08-07T01:41:47Z",
+        "updated_at": "2026-08-07T01:39:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "de3c0c96c1a88189",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/QVerisAI/qveris-agent-toolkit",
+      "kind": "github_repository",
+      "name": "QVerisAI/qveris-agent-toolkit",
+      "url": "https://github.com/QVerisAI/qveris-agent-toolkit",
+      "provider": "GitHub",
+      "description": "Open-source toolkit for the QVeris capability routing network: CLI, MCP server, Python SDK, skills, and REST API docs for agents to discover, inspect, call, and audit real-world tools.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 254,
+        "forks": 24,
+        "pushed_at": "2026-08-07T00:42:08Z",
+        "updated_at": "2026-08-07T00:42:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "50798a071f666d74",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
