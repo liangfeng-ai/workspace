@@ -1,0 +1,575 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-10",
+  "generated_at": "2026-08-09T23:51:23.238327+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/moon-ide",
+      "kind": "official_repository",
+      "name": "huggingface/moon-ide",
+      "url": "https://github.com/huggingface/moon-ide",
+      "provider": "huggingface",
+      "description": "IDE for moon team",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 7,
+        "pushed_at": "2026-08-09T23:37:38Z",
+        "updated_at": "2026-08-09T23:37:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "93fcc89d41f85ba1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/agent-manager",
+      "kind": "official_repository",
+      "name": "huggingface/agent-manager",
+      "url": "https://github.com/huggingface/agent-manager",
+      "provider": "huggingface",
+      "description": "",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 6,
+        "pushed_at": "2026-08-09T23:46:24Z",
+        "updated_at": "2026-08-09T23:46:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2b3a15a10beb31f0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/code-yeongyu/oh-my-openagent",
+      "kind": "github_repository",
+      "name": "code-yeongyu/oh-my-openagent",
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "provider": "GitHub",
+      "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 67567,
+        "forks": 5508,
+        "pushed_at": "2026-08-09T23:47:53Z",
+        "updated_at": "2026-08-09T23:49:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fbceb5214d083510",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zebbern/claude-code-guide",
+      "kind": "github_repository",
+      "name": "zebbern/claude-code-guide",
+      "url": "https://github.com/zebbern/claude-code-guide",
+      "provider": "GitHub",
+      "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4546,
+        "forks": 458,
+        "pushed_at": "2026-08-09T23:46:53Z",
+        "updated_at": "2026-08-09T23:46:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0cf0f1fb64b66449",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ahmetoner/whisper-asr-webservice",
+      "kind": "github_repository",
+      "name": "ahmetoner/whisper-asr-webservice",
+      "url": "https://github.com/ahmetoner/whisper-asr-webservice",
+      "provider": "GitHub",
+      "description": "OpenAI Whisper ASR Webservice API",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3316,
+        "forks": 581,
+        "pushed_at": "2026-08-09T20:36:38Z",
+        "updated_at": "2026-08-09T20:36:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "64b5a82107be01c3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Vexa-ai/vexa",
+      "kind": "github_repository",
+      "name": "Vexa-ai/vexa",
+      "url": "https://github.com/Vexa-ai/vexa",
+      "provider": "GitHub",
+      "description": "Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2665,
+        "forks": 423,
+        "pushed_at": "2026-08-09T20:49:43Z",
+        "updated_at": "2026-08-09T19:57:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2b70962195c4e21b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/reconmap/reconmap",
+      "kind": "github_repository",
+      "name": "reconmap/reconmap",
+      "url": "https://github.com/reconmap/reconmap",
+      "provider": "GitHub",
+      "description": "Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 972,
+        "forks": 137,
+        "pushed_at": "2026-08-09T21:22:40Z",
+        "updated_at": "2026-08-09T21:56:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b61959e43cbc1372",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Deodat-Lawson/LaunchStack",
+      "kind": "github_repository",
+      "name": "Deodat-Lawson/LaunchStack",
+      "url": "https://github.com/Deodat-Lawson/LaunchStack",
+      "provider": "GitHub",
+      "description": "AI-powered StartUp Accelerator Engine built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 885,
+        "forks": 123,
+        "pushed_at": "2026-08-09T22:58:29Z",
+        "updated_at": "2026-08-09T22:57:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "86c4fd16cf9a24bc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dimastatz/whisper-flow",
+      "kind": "github_repository",
+      "name": "dimastatz/whisper-flow",
+      "url": "https://github.com/dimastatz/whisper-flow",
+      "provider": "GitHub",
+      "description": "Whisper-Flow is a framework designed to enable real-time transcription of audio content using OpenAI’s Whisper model. Rather than processing entire files after upload (“batch mode”), Whisper-Flow accepts a continuous stream of audio chunks and produces incremental transcripts immediately.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 824,
+        "forks": 120,
+        "pushed_at": "2026-08-09T19:03:37Z",
+        "updated_at": "2026-08-09T19:01:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9ff8dd8b1235fa15",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rapidaai/voice-ai",
+      "kind": "github_repository",
+      "name": "rapidaai/voice-ai",
+      "url": "https://github.com/rapidaai/voice-ai",
+      "provider": "GitHub",
+      "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 710,
+        "forks": 115,
+        "pushed_at": "2026-08-09T16:38:29Z",
+        "updated_at": "2026-08-09T19:01:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3323fa9ba690e8b1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/angelnicolasc/graymatter",
+      "kind": "github_repository",
+      "name": "angelnicolasc/graymatter",
+      "url": "https://github.com/angelnicolasc/graymatter",
+      "provider": "GitHub",
+      "description": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 452,
+        "forks": 35,
+        "pushed_at": "2026-08-09T23:19:45Z",
+        "updated_at": "2026-08-09T23:19:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ed81df298595b2bc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Hacker-Valley-Media/Interceptor",
+      "kind": "github_repository",
+      "name": "Hacker-Valley-Media/Interceptor",
+      "url": "https://github.com/Hacker-Valley-Media/Interceptor",
+      "provider": "GitHub",
+      "description": "Agent-driven Chrome extension for full browser control via CLI",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 348,
+        "forks": 45,
+        "pushed_at": "2026-08-09T22:16:30Z",
+        "updated_at": "2026-08-09T22:15:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d5ffeb3ade620664",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SakuraByteCore/codexmate",
+      "kind": "github_repository",
+      "name": "SakuraByteCore/codexmate",
+      "url": "https://github.com/SakuraByteCore/codexmate",
+      "provider": "GitHub",
+      "description": "One dashboard for all your local AI coding agents. Switch providers, manage sessions, and orchestrate tasks across Codex, Claude Code, OpenCode, KiloCode, and OpenClaw. Zero cloud, local-first control plane.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 330,
+        "forks": 34,
+        "pushed_at": "2026-08-09T23:38:05Z",
+        "updated_at": "2026-08-09T23:38:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "70da3b248f38c756",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AltanS/collie",
+      "kind": "github_repository",
+      "name": "AltanS/collie",
+      "url": "https://github.com/AltanS/collie",
+      "provider": "GitHub",
+      "description": "PWA to manage 🐑 herdr on the go. Tailnet accessible, push notifications, quick actions and more.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 312,
+        "forks": 44,
+        "pushed_at": "2026-08-09T23:33:45Z",
+        "updated_at": "2026-08-09T23:32:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f20a36cc1a8c68c4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/FootprintAI/Containarium",
+      "kind": "github_repository",
+      "name": "FootprintAI/Containarium",
+      "url": "https://github.com/FootprintAI/Containarium",
+      "provider": "GitHub",
+      "description": "Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 268,
+        "forks": 20,
+        "pushed_at": "2026-08-09T23:46:17Z",
+        "updated_at": "2026-08-09T23:44:54Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2cf18bd8c9e9146a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+      "kind": "hf_model",
+      "name": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+      "url": "https://huggingface.co/models/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "4-step",
+        "accelerated-inference",
+        "adapter",
+        "audio-generation",
+        "audio-video",
+        "base_model:adapter:comfy-org/minimax-h3",
+        "base_model:comfy-org/minimax-h3",
+        "beta-scheduler",
+        "bf16",
+        "bfloat16",
+        "checkpoint-500",
+        "checkpoint-600",
+        "checkpoint-850",
+        "comfyui",
+        "curve-form",
+        "ema",
+        "euler",
+        "few-step",
+        "four-step",
+        "further-trained",
+        "license:apache-2.0",
+        "lora",
+        "minimax-h3",
+        "partial-conversion",
+        "pruned",
+        "pruned-model",
+        "region:us",
+        "safetensors",
+        "synchronized-audio",
+        "text-to-audio",
+        "text-to-video",
+        "turbo",
+        "v4",
+        "video-generation"
+      ],
+      "input_output": "text-to-video -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 231,
+        "updated_at": null,
+        "pipeline_tag": "text-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7c41b8b54bac9e27",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rffrasca/PDFKeeper",
+      "kind": "github_repository",
+      "name": "rffrasca/PDFKeeper",
+      "url": "https://github.com/rffrasca/PDFKeeper",
+      "provider": "GitHub",
+      "description": "Open Source PDF Document Management",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 228,
+        "forks": 18,
+        "pushed_at": "2026-08-09T18:29:47Z",
+        "updated_at": "2026-08-09T18:30:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "003a78decedcd50d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DemonDamon/AgenticX",
+      "kind": "github_repository",
+      "name": "DemonDamon/AgenticX",
+      "url": "https://github.com/DemonDamon/AgenticX",
+      "provider": "GitHub",
+      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 208,
+        "forks": 44,
+        "pushed_at": "2026-08-09T23:40:38Z",
+        "updated_at": "2026-08-09T23:37:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "87f5b9adb8bb99d4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lobu-ai/lobu",
+      "kind": "github_repository",
+      "name": "lobu-ai/lobu",
+      "url": "https://github.com/lobu-ai/lobu",
+      "provider": "GitHub",
+      "description": "Open-source control plane and runtime for organisational agents: shared company context, isolated execution, approvals and MCP.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 201,
+        "forks": 25,
+        "pushed_at": "2026-08-09T23:47:04Z",
+        "updated_at": "2026-08-09T23:47:09Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e35ca1022a623e8b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast",
+      "kind": "hf_space",
+      "name": "mrfakename/minimax-h3-ultra-fast",
+      "url": "https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 52,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0b41f924c1b47e70",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow",
+      "kind": "hf_space",
+      "name": "wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow",
+      "url": "https://huggingface.co/spaces/wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 34,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "806c9746919e1f0b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

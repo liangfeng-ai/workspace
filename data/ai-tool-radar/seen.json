@@ -1984,6 +1984,90 @@
     "hf_space:https://huggingface.co/spaces/prithivMLmods/FireRed-Image-Edit-1.0-Fast": {
       "last_seen": "2026-08-07",
       "fingerprint": "654fccb5eac6744c"
+    },
+    "github_repository:https://github.com/SakuraByteCore/codexmate": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "70da3b248f38c756"
+    },
+    "github_repository:https://github.com/AltanS/collie": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "f20a36cc1a8c68c4"
+    },
+    "github_repository:https://github.com/angelnicolasc/graymatter": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "ed81df298595b2bc"
+    },
+    "github_repository:https://github.com/Hacker-Valley-Media/Interceptor": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "d5ffeb3ade620664"
+    },
+    "github_repository:https://github.com/reconmap/reconmap": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "b61959e43cbc1372"
+    },
+    "github_repository:https://github.com/rffrasca/PDFKeeper": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "003a78decedcd50d"
+    },
+    "github_repository:https://github.com/ahmetoner/whisper-asr-webservice": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "64b5a82107be01c3"
+    },
+    "github_repository:https://github.com/Vexa-ai/vexa": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "2b70962195c4e21b"
+    },
+    "github_repository:https://github.com/dimastatz/whisper-flow": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "9ff8dd8b1235fa15"
+    },
+    "github_repository:https://github.com/rapidaai/voice-ai": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "3323fa9ba690e8b1"
+    },
+    "github_repository:https://github.com/lobu-ai/lobu": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "e35ca1022a623e8b"
+    },
+    "github_repository:https://github.com/zebbern/claude-code-guide": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "0cf0f1fb64b66449"
+    },
+    "github_repository:https://github.com/FootprintAI/Containarium": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "2cf18bd8c9e9146a"
+    },
+    "github_repository:https://github.com/DemonDamon/AgenticX": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "87f5b9adb8bb99d4"
+    },
+    "github_repository:https://github.com/Deodat-Lawson/LaunchStack": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "86c4fd16cf9a24bc"
+    },
+    "github_repository:https://github.com/code-yeongyu/oh-my-openagent": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "fbceb5214d083510"
+    },
+    "official_repository:https://github.com/huggingface/agent-manager": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "2b3a15a10beb31f0"
+    },
+    "official_repository:https://github.com/huggingface/moon-ide": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "93fcc89d41f85ba1"
+    },
+    "hf_model:https://huggingface.co/models/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "7c41b8b54bac9e27"
+    },
+    "hf_space:https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "0b41f924c1b47e70"
+    },
+    "hf_space:https://huggingface.co/spaces/wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow": {
+      "last_seen": "2026-08-10",
+      "fingerprint": "806c9746919e1f0b"
     }
   }
 }
