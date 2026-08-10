@@ -2068,6 +2068,82 @@
     "hf_space:https://huggingface.co/spaces/wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow": {
       "last_seen": "2026-08-10",
       "fingerprint": "806c9746919e1f0b"
+    },
+    "github_repository:https://github.com/microsoft/tui-test": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "2af988e3ca5036bf"
+    },
+    "github_repository:https://github.com/CCExtractor/ccextractor": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "a7778c6b284c9a23"
+    },
+    "github_repository:https://github.com/amebalabs/TRex": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "1438b299af883f3e"
+    },
+    "github_repository:https://github.com/oxbshw/watch-skill": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "968bad9b24271c73"
+    },
+    "github_repository:https://github.com/mg-chao/snow-apps": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "a7eafc190050eb95"
+    },
+    "github_repository:https://github.com/getopenscreen/openscreen": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "aab3616c91c426c2"
+    },
+    "github_repository:https://github.com/VocaHQ/vocalinux": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "857d9bf5ad7c67ab"
+    },
+    "github_repository:https://github.com/devopness/devopness": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "22120e38a0ca4313"
+    },
+    "github_repository:https://github.com/pipeboard-co/meta-ads-mcp": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "056c774354c7b3a2"
+    },
+    "github_repository:https://github.com/dosco/graphjin": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "c6ef1c2fb2b7c8d7"
+    },
+    "github_repository:https://github.com/HoangP8/tokless": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "00c3597e22f1fe8d"
+    },
+    "github_repository:https://github.com/opensquilla/opensquilla": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "d8a0d372231898ed"
+    },
+    "github_repository:https://github.com/neuml/txtai": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "d30a8834919eb8ba"
+    },
+    "github_repository:https://github.com/codelibs/fess": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "b733130a95a23fb4"
+    },
+    "github_repository:https://github.com/kodustech/kodus-ai": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "e4eb74b24ce30608"
+    },
+    "github_repository:https://github.com/junhoyeo/tokscale": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "8b8ae5c914ed953f"
+    },
+    "official_repository:https://github.com/openai/git": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "f5605909fd695fd1"
+    },
+    "hf_model:https://huggingface.co/models/meta-models/Muse-Glimmer-30B": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "6dafa7f35f11ff46"
+    },
+    "hf_model:https://huggingface.co/models/unsloth/Muse-Glimmer-30B-GGUF": {
+      "last_seen": "2026-08-11",
+      "fingerprint": "31339a5d5ce38ab2"
     }
   }
 }

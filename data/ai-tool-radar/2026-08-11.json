@@ -1,0 +1,513 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-11",
+  "generated_at": "2026-08-10T23:53:41.310110+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/git",
+      "kind": "official_repository",
+      "name": "openai/git",
+      "url": "https://github.com/openai/git",
+      "provider": "openai",
+      "description": "\"the information manager from hell\" - linus torvalds [e83c516, 7 Apr 2005]",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 183,
+        "pushed_at": "2026-08-10T23:49:52Z",
+        "updated_at": "2026-08-10T23:50:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f5605909fd695fd1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/neuml/txtai",
+      "kind": "github_repository",
+      "name": "neuml/txtai",
+      "url": "https://github.com/neuml/txtai",
+      "provider": "GitHub",
+      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12844,
+        "forks": 866,
+        "pushed_at": "2026-08-10T23:39:22Z",
+        "updated_at": "2026-08-10T23:34:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d30a8834919eb8ba",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/opensquilla/opensquilla",
+      "kind": "github_repository",
+      "name": "opensquilla/opensquilla",
+      "url": "https://github.com/opensquilla/opensquilla",
+      "provider": "GitHub",
+      "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6534,
+        "forks": 508,
+        "pushed_at": "2026-08-10T23:51:30Z",
+        "updated_at": "2026-08-10T23:47:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d8a0d372231898ed",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mg-chao/snow-apps",
+      "kind": "github_repository",
+      "name": "mg-chao/snow-apps",
+      "url": "https://github.com/mg-chao/snow-apps",
+      "provider": "GitHub",
+      "description": "Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4899,
+        "forks": 293,
+        "pushed_at": "2026-08-10T19:25:47Z",
+        "updated_at": "2026-08-10T19:29:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a7eafc190050eb95",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/junhoyeo/tokscale",
+      "kind": "github_repository",
+      "name": "junhoyeo/tokscale",
+      "url": "https://github.com/junhoyeo/tokscale",
+      "provider": "GitHub",
+      "description": "🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4897,
+        "forks": 404,
+        "pushed_at": "2026-08-10T23:52:08Z",
+        "updated_at": "2026-08-10T23:53:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8b8ae5c914ed953f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dosco/graphjin",
+      "kind": "github_repository",
+      "name": "dosco/graphjin",
+      "url": "https://github.com/dosco/graphjin",
+      "provider": "GitHub",
+      "description": "One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3137,
+        "forks": 188,
+        "pushed_at": "2026-08-10T23:49:38Z",
+        "updated_at": "2026-08-10T23:49:44Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c6ef1c2fb2b7c8d7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/amebalabs/TRex",
+      "kind": "github_repository",
+      "name": "amebalabs/TRex",
+      "url": "https://github.com/amebalabs/TRex",
+      "provider": "GitHub",
+      "description": "Copy any text on your screen, stop retyping.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1871,
+        "forks": 63,
+        "pushed_at": "2026-08-10T20:54:00Z",
+        "updated_at": "2026-08-10T20:54:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1438b299af883f3e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/getopenscreen/openscreen",
+      "kind": "github_repository",
+      "name": "getopenscreen/openscreen",
+      "url": "https://github.com/getopenscreen/openscreen",
+      "provider": "GitHub",
+      "description": "Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1440,
+        "forks": 79,
+        "pushed_at": "2026-08-10T21:09:22Z",
+        "updated_at": "2026-08-10T23:27:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "aab3616c91c426c2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kodustech/kodus-ai",
+      "kind": "github_repository",
+      "name": "kodustech/kodus-ai",
+      "url": "https://github.com/kodustech/kodus-ai",
+      "provider": "GitHub",
+      "description": "AI Code Review with Full Control Over Model Choice and Costs.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1303,
+        "forks": 133,
+        "pushed_at": "2026-08-10T23:52:12Z",
+        "updated_at": "2026-08-10T23:52:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e4eb74b24ce30608",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pipeboard-co/meta-ads-mcp",
+      "kind": "github_repository",
+      "name": "pipeboard-co/meta-ads-mcp",
+      "url": "https://github.com/pipeboard-co/meta-ads-mcp",
+      "provider": "GitHub",
+      "description": "Meta Ads (Facebook/Instagram) MCP server for Claude, ChatGPT, Perplexity & Cursor — the Meta node of Pipeboard’s 5-platform family (+ Google, TikTok, Snap, Reddit). Hosted remote MCP, badged Meta Business Partner, free plan — no self-hosting required.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1158,
+        "forks": 266,
+        "pushed_at": "2026-08-10T23:53:33Z",
+        "updated_at": "2026-08-10T23:51:31Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "056c774354c7b3a2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/codelibs/fess",
+      "kind": "github_repository",
+      "name": "codelibs/fess",
+      "url": "https://github.com/codelibs/fess",
+      "provider": "GitHub",
+      "description": "Open-source, self-hosted enterprise & site search server built on OpenSearch. Crawls web / file / DB / cloud sources, 20+ languages, REST API, and AI/RAG & semantic search. Apache-2.0.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1124,
+        "forks": 173,
+        "pushed_at": "2026-08-10T23:43:42Z",
+        "updated_at": "2026-08-10T23:30:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b733130a95a23fb4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CCExtractor/ccextractor",
+      "kind": "github_repository",
+      "name": "CCExtractor/ccextractor",
+      "url": "https://github.com/CCExtractor/ccextractor",
+      "provider": "GitHub",
+      "description": "CCExtractor - Official version maintained by the core team",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 896,
+        "forks": 582,
+        "pushed_at": "2026-08-10T23:42:45Z",
+        "updated_at": "2026-08-10T23:43:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a7778c6b284c9a23",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/VocaHQ/vocalinux",
+      "kind": "github_repository",
+      "name": "VocaHQ/vocalinux",
+      "url": "https://github.com/VocaHQ/vocalinux",
+      "provider": "GitHub",
+      "description": "Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 733,
+        "forks": 80,
+        "pushed_at": "2026-08-10T21:04:36Z",
+        "updated_at": "2026-08-10T21:03:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "857d9bf5ad7c67ab",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/meta-models/Muse-Glimmer-30B",
+      "kind": "hf_model",
+      "name": "meta-models/Muse-Glimmer-30B",
+      "url": "https://huggingface.co/models/meta-models/Muse-Glimmer-30B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2504.13181",
+        "arxiv:2602.06036",
+        "conversational",
+        "endpoints_compatible",
+        "eval-results",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "muse_glimmer",
+        "region:us",
+        "safetensors",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 688,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6dafa7f35f11ff46",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/devopness/devopness",
+      "kind": "github_repository",
+      "name": "devopness/devopness",
+      "url": "https://github.com/devopness/devopness",
+      "provider": "GitHub",
+      "description": "Devopness: AI DevOps on your cloud. Deploy apps, infra and CI/CD. Any cloud and any stack, one MCP. Deterministic API, opinionated and fully configurable. No cloud credentials in AI chats. Free plan.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 436,
+        "forks": 160,
+        "pushed_at": "2026-08-10T23:52:35Z",
+        "updated_at": "2026-08-10T23:52:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "22120e38a0ca4313",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/oxbshw/watch-skill",
+      "kind": "github_repository",
+      "name": "oxbshw/watch-skill",
+      "url": "https://github.com/oxbshw/watch-skill",
+      "provider": "GitHub",
+      "description": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence—then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
+      "capability_tags": [
+        "ocr",
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 277,
+        "forks": 41,
+        "pushed_at": "2026-08-10T19:56:53Z",
+        "updated_at": "2026-08-10T23:21:33Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "968bad9b24271c73",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/microsoft/tui-test",
+      "kind": "github_repository",
+      "name": "microsoft/tui-test",
+      "url": "https://github.com/microsoft/tui-test",
+      "provider": "GitHub",
+      "description": "💻 testing framework and cli for driving tests for terminal apps - native ai agent support",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 221,
+        "forks": 20,
+        "pushed_at": "2026-08-10T21:53:32Z",
+        "updated_at": "2026-08-10T21:53:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2af988e3ca5036bf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HoangP8/tokless",
+      "kind": "github_repository",
+      "name": "HoangP8/tokless",
+      "url": "https://github.com/HoangP8/tokless",
+      "provider": "GitHub",
+      "description": "An effective and efficient coding-agent setup in under 30 seconds: best tools, unified instructions, any OS.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 219,
+        "forks": 25,
+        "pushed_at": "2026-08-10T23:48:46Z",
+        "updated_at": "2026-08-10T23:48:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "00c3597e22f1fe8d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/unsloth/Muse-Glimmer-30B-GGUF",
+      "kind": "hf_model",
+      "name": "unsloth/Muse-Glimmer-30B-GGUF",
+      "url": "https://huggingface.co/models/unsloth/Muse-Glimmer-30B-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2504.13181",
+        "arxiv:2602.06036",
+        "base_model:meta-models/muse-glimmer-30b",
+        "base_model:quantized:meta-models/muse-glimmer-30b",
+        "conversational",
+        "endpoints_compatible",
+        "gguf",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "meta",
+        "region:us",
+        "transformers",
+        "unsloth"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 201,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "31339a5d5ce38ab2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
