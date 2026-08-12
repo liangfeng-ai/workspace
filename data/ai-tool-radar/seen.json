@@ -2144,6 +2144,62 @@
     "hf_model:https://huggingface.co/models/unsloth/Muse-Glimmer-30B-GGUF": {
       "last_seen": "2026-08-11",
       "fingerprint": "31339a5d5ce38ab2"
+    },
+    "github_repository:https://github.com/dadbodgeoff/drift": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "cc61ae35bf1daa2b"
+    },
+    "github_repository:https://github.com/landing-ai/ade-cli": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "6282f185e7bafdfe"
+    },
+    "github_repository:https://github.com/jasoncheng7115/jt-doc-tools": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "912e6e3131256f75"
+    },
+    "github_repository:https://github.com/zacharywhitley/awesome-ocr": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "a730b6bc389a830b"
+    },
+    "github_repository:https://github.com/Picovoice/web-voice-processor": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "e639a7ae27623cb9"
+    },
+    "github_repository:https://github.com/smg-project/smg": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "c238f5c89c086000"
+    },
+    "github_repository:https://github.com/VelornLabs/velorn": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "a3e4c795b833c03e"
+    },
+    "github_repository:https://github.com/hashgraph-online/hol-guard": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "747d365b5a1712b4"
+    },
+    "github_repository:https://github.com/ag-ui-protocol/ag-ui": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "627cd09663ccbb2f"
+    },
+    "github_repository:https://github.com/kris-hansen/comanda": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "2b6dd7f70673bb15"
+    },
+    "github_repository:https://github.com/herdrdev/herdr": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "b862a8b418d8a238"
+    },
+    "official_repository:https://github.com/huggingface/ml-intern": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "f44ce0c506a149c5"
+    },
+    "hf_model:https://huggingface.co/models/meta-models/Muse-Glimmer-30B-GGUF": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "e211c14b70958f65"
+    },
+    "hf_model:https://huggingface.co/models/Lightricks/LTX-2.5": {
+      "last_seen": "2026-08-12",
+      "fingerprint": "865809ece42a1c9f"
     }
   }
 }

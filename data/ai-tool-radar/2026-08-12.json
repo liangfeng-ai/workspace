@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T00:02:25.278738+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 14,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/ml-intern",
+      "kind": "official_repository",
+      "name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "provider": "huggingface",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 10725,
+        "pushed_at": "2026-07-30T22:54:26Z",
+        "updated_at": "2026-08-11T22:58:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f44ce0c506a149c5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/herdrdev/herdr",
+      "kind": "github_repository",
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "provider": "GitHub",
+      "description": "the runtime your coding agents live on",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 27650,
+        "forks": 1950,
+        "pushed_at": "2026-08-11T23:49:32Z",
+        "updated_at": "2026-08-12T00:00:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b862a8b418d8a238",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ag-ui-protocol/ag-ui",
+      "kind": "github_repository",
+      "name": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "provider": "GitHub",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 15252,
+        "forks": 1379,
+        "pushed_at": "2026-08-11T23:52:34Z",
+        "updated_at": "2026-08-11T23:52:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "627cd09663ccbb2f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/landing-ai/ade-cli",
+      "kind": "github_repository",
+      "name": "landing-ai/ade-cli",
+      "url": "https://github.com/landing-ai/ade-cli",
+      "provider": "GitHub",
+      "description": "The official CLI for Agentic Document Extraction (ADE) by LandingAI — parse documents and extract schema-shaped data from your terminal",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2398,
+        "forks": 256,
+        "pushed_at": "2026-08-11T23:02:26Z",
+        "updated_at": "2026-08-11T23:02:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6282f185e7bafdfe",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zacharywhitley/awesome-ocr",
+      "kind": "github_repository",
+      "name": "zacharywhitley/awesome-ocr",
+      "url": "https://github.com/zacharywhitley/awesome-ocr",
+      "provider": "GitHub",
+      "description": "",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1014,
+        "forks": 125,
+        "pushed_at": "2026-08-11T19:56:53Z",
+        "updated_at": "2026-08-11T19:57:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a730b6bc389a830b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dadbodgeoff/drift",
+      "kind": "github_repository",
+      "name": "dadbodgeoff/drift",
+      "url": "https://github.com/dadbodgeoff/drift",
+      "provider": "GitHub",
+      "description": "Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 783,
+        "forks": 62,
+        "pushed_at": "2026-08-11T23:53:58Z",
+        "updated_at": "2026-08-11T23:44:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cc61ae35bf1daa2b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/smg-project/smg",
+      "kind": "github_repository",
+      "name": "smg-project/smg",
+      "url": "https://github.com/smg-project/smg",
+      "provider": "GitHub",
+      "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 457,
+        "forks": 136,
+        "pushed_at": "2026-08-12T00:01:19Z",
+        "updated_at": "2026-08-12T00:00:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c238f5c89c086000",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hashgraph-online/hol-guard",
+      "kind": "github_repository",
+      "name": "hashgraph-online/hol-guard",
+      "url": "https://github.com/hashgraph-online/hol-guard",
+      "provider": "GitHub",
+      "description": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 432,
+        "forks": 12,
+        "pushed_at": "2026-08-12T00:00:53Z",
+        "updated_at": "2026-08-11T23:51:23Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "747d365b5a1712b4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/VelornLabs/velorn",
+      "kind": "github_repository",
+      "name": "VelornLabs/velorn",
+      "url": "https://github.com/VelornLabs/velorn",
+      "provider": "GitHub",
+      "description": "AI-native video editing built around real creative timelines, generative workflows, and local agent control.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 396,
+        "forks": 51,
+        "pushed_at": "2026-08-11T23:56:48Z",
+        "updated_at": "2026-08-11T23:56:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a3e4c795b833c03e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kris-hansen/comanda",
+      "kind": "github_repository",
+      "name": "kris-hansen/comanda",
+      "url": "https://github.com/kris-hansen/comanda",
+      "provider": "GitHub",
+      "description": "The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the terminal is where real work happens.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 318,
+        "forks": 26,
+        "pushed_at": "2026-08-11T23:51:16Z",
+        "updated_at": "2026-08-11T23:51:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2b6dd7f70673bb15",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Picovoice/web-voice-processor",
+      "kind": "github_repository",
+      "name": "Picovoice/web-voice-processor",
+      "url": "https://github.com/Picovoice/web-voice-processor",
+      "provider": "GitHub",
+      "description": "A library for real-time voice processing in web browsers",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 247,
+        "forks": 23,
+        "pushed_at": "2026-08-11T22:18:50Z",
+        "updated_at": "2026-08-11T22:18:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e639a7ae27623cb9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jasoncheng7115/jt-doc-tools",
+      "kind": "github_repository",
+      "name": "jasoncheng7115/jt-doc-tools",
+      "url": "https://github.com/jasoncheng7115/jt-doc-tools",
+      "provider": "GitHub",
+      "description": "整合式 PDF / Office 文件處理平台，自架、開源、可控。",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 50,
+        "pushed_at": "2026-08-11T21:38:20Z",
+        "updated_at": "2026-08-11T21:38:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "912e6e3131256f75",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/meta-models/Muse-Glimmer-30B-GGUF",
+      "kind": "hf_model",
+      "name": "meta-models/Muse-Glimmer-30B-GGUF",
+      "url": "https://huggingface.co/models/meta-models/Muse-Glimmer-30B-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2504.13181",
+        "arxiv:2602.06036",
+        "base_model:meta-models/muse-glimmer-30b",
+        "base_model:quantized:meta-models/muse-glimmer-30b",
+        "conversational",
+        "endpoints_compatible",
+        "gguf",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 202,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e211c14b70958f65",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Lightricks/LTX-2.5",
+      "kind": "hf_model",
+      "name": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/models/Lightricks/LTX-2.5",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2601.03233",
+        "audio-to-audio",
+        "audio-to-video",
+        "comfyui",
+        "de",
+        "diffusion-single-file",
+        "en",
+        "es",
+        "fr",
+        "image-text-to-audio-video",
+        "image-text-to-video",
+        "image-to-audio-video",
+        "image-to-video",
+        "it",
+        "ja",
+        "ko",
+        "license:other",
+        "lightricks",
+        "ltx-2.5",
+        "ltx-video",
+        "pt",
+        "region:us",
+        "text-to-audio",
+        "text-to-audio-video",
+        "text-to-video",
+        "video-to-audio",
+        "video-to-video",
+        "zh"
+      ],
+      "input_output": "image-to-video -> inference result",
+      "signals": {
+        "downloads": 39,
+        "likes": 190,
+        "updated_at": null,
+        "pipeline_tag": "image-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "865809ece42a1c9f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
