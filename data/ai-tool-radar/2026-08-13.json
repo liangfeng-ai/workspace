@@ -1,0 +1,466 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T00:01:38.741320+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 18,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/candle",
+      "kind": "official_repository",
+      "name": "huggingface/candle",
+      "url": "https://github.com/huggingface/candle",
+      "provider": "huggingface",
+      "description": "Minimalist ML framework for Rust",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 20897,
+        "pushed_at": "2026-08-06T18:46:32Z",
+        "updated_at": "2026-08-12T23:55:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "85b13327e27546d7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-api-cookbook",
+      "kind": "official_repository",
+      "name": "groq/groq-api-cookbook",
+      "url": "https://github.com/groq/groq-api-cookbook",
+      "provider": "groq",
+      "description": "groq-api-cookbook",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 1406,
+        "pushed_at": "2026-08-12T22:39:35Z",
+        "updated_at": "2026-08-12T23:33:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b96f95bce854e8e8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/hub-docs",
+      "kind": "official_repository",
+      "name": "huggingface/hub-docs",
+      "url": "https://github.com/huggingface/hub-docs",
+      "provider": "huggingface",
+      "description": "Docs of the Hugging Face Hub",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 587,
+        "pushed_at": "2026-08-12T23:17:59Z",
+        "updated_at": "2026-08-12T23:54:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fa3a1a87103830e0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/realtime-eval",
+      "kind": "official_repository",
+      "name": "groq/realtime-eval",
+      "url": "https://github.com/groq/realtime-eval",
+      "provider": "groq",
+      "description": "Realtime News and Information Eval",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 20,
+        "pushed_at": "2026-08-12T22:39:52Z",
+        "updated_at": "2026-08-12T22:39:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8da73a2619c051e4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/orchestrate",
+      "kind": "official_repository",
+      "name": "groq/orchestrate",
+      "url": "https://github.com/groq/orchestrate",
+      "provider": "groq",
+      "description": "Orchestrate",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 8,
+        "pushed_at": "2026-08-12T22:39:52Z",
+        "updated_at": "2026-08-12T22:39:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d08321f46a2f0411",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/VectifyAI/PageIndex",
+      "kind": "github_repository",
+      "name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "provider": "GitHub",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 35156,
+        "forks": 3087,
+        "pushed_at": "2026-08-12T23:33:33Z",
+        "updated_at": "2026-08-12T23:32:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "baf6a55088621aab",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/googleapis/mcp-toolbox",
+      "kind": "github_repository",
+      "name": "googleapis/mcp-toolbox",
+      "url": "https://github.com/googleapis/mcp-toolbox",
+      "provider": "GitHub",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 16159,
+        "forks": 1674,
+        "pushed_at": "2026-08-13T00:00:24Z",
+        "updated_at": "2026-08-12T23:59:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3f52b8c083f671da",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/plastic-labs/honcho",
+      "kind": "github_repository",
+      "name": "plastic-labs/honcho",
+      "url": "https://github.com/plastic-labs/honcho",
+      "provider": "GitHub",
+      "description": "Memory library for building stateful agents",
+      "capability_tags": [
+        "ai-agents",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6615,
+        "forks": 811,
+        "pushed_at": "2026-08-12T23:55:44Z",
+        "updated_at": "2026-08-12T23:55:46Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "201eb1f8849f1dee",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/strukto-ai/mirage",
+      "kind": "github_repository",
+      "name": "strukto-ai/mirage",
+      "url": "https://github.com/strukto-ai/mirage",
+      "provider": "GitHub",
+      "description": "The World's First Unified Virtual Filesystem For AI Agents",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3402,
+        "forks": 252,
+        "pushed_at": "2026-08-13T00:00:30Z",
+        "updated_at": "2026-08-13T00:00:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "153c67690867cc69",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/liaohch3/claude-tap",
+      "kind": "github_repository",
+      "name": "liaohch3/claude-tap",
+      "url": "https://github.com/liaohch3/claude-tap",
+      "provider": "GitHub",
+      "description": "Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3042,
+        "forks": 264,
+        "pushed_at": "2026-08-12T22:11:27Z",
+        "updated_at": "2026-08-12T23:44:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "188c814b95f57ffb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Syngnat/GoNavi",
+      "kind": "github_repository",
+      "name": "Syngnat/GoNavi",
+      "url": "https://github.com/Syngnat/GoNavi",
+      "provider": "GitHub",
+      "description": "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1853,
+        "forks": 197,
+        "pushed_at": "2026-08-12T23:58:30Z",
+        "updated_at": "2026-08-12T23:58:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e5ff2e9dacb1fdd3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/macro-inc/macro",
+      "kind": "github_repository",
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "provider": "GitHub",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1763,
+        "forks": 221,
+        "pushed_at": "2026-08-12T23:59:13Z",
+        "updated_at": "2026-08-13T00:00:54Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "702af34614037120",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ridafkih/keeper.sh",
+      "kind": "github_repository",
+      "name": "ridafkih/keeper.sh",
+      "url": "https://github.com/ridafkih/keeper.sh",
+      "provider": "GitHub",
+      "description": "Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1242,
+        "forks": 44,
+        "pushed_at": "2026-08-13T00:01:29Z",
+        "updated_at": "2026-08-13T00:01:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3eb0d2e12353728a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kdlbs/kandev",
+      "kind": "github_repository",
+      "name": "kdlbs/kandev",
+      "url": "https://github.com/kdlbs/kandev",
+      "provider": "GitHub",
+      "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 599,
+        "forks": 88,
+        "pushed_at": "2026-08-13T00:00:33Z",
+        "updated_at": "2026-08-13T00:00:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7c47babc43eac6d9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/coreyhaines31/makerskills",
+      "kind": "github_repository",
+      "name": "coreyhaines31/makerskills",
+      "url": "https://github.com/coreyhaines31/makerskills",
+      "provider": "GitHub",
+      "description": "AI agent skills for the personal operator's craft — decisions, research, second-brain, content rotation, scenario modeling, and meta-skills to author more. Works with Claude Code, Codex, Cursor.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 563,
+        "forks": 46,
+        "pushed_at": "2026-08-12T23:59:42Z",
+        "updated_at": "2026-08-12T23:59:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "de84faee90a2490d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/avibe-bot/avibe",
+      "kind": "github_repository",
+      "name": "avibe-bot/avibe",
+      "url": "https://github.com/avibe-bot/avibe",
+      "provider": "GitHub",
+      "description": "The local-first Agent OS — your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode from your browser or any chat app.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 491,
+        "forks": 75,
+        "pushed_at": "2026-08-12T23:58:43Z",
+        "updated_at": "2026-08-12T23:58:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2f61caa2acec1719",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/superdesigndev/treg",
+      "kind": "github_repository",
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "provider": "GitHub",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 331,
+        "forks": 25,
+        "pushed_at": "2026-08-13T00:00:04Z",
+        "updated_at": "2026-08-13T00:00:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fb92a25f767a34c3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/modu-ai/moai-cowork",
+      "kind": "github_repository",
+      "name": "modu-ai/moai-cowork",
+      "url": "https://github.com/modu-ai/moai-cowork",
+      "provider": "GitHub",
+      "description": "비개발자를 위한 한국 실무 AI 코워커 패밀리 — Claude Cowork·ChatGPT Work에서 /project 한 번으로 시작",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 291,
+        "forks": 72,
+        "pushed_at": "2026-08-12T21:31:39Z",
+        "updated_at": "2026-08-12T21:31:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f8e9d4aa53fcca7e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

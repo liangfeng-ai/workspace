@@ -2200,6 +2200,78 @@
     "hf_model:https://huggingface.co/models/Lightricks/LTX-2.5": {
       "last_seen": "2026-08-12",
       "fingerprint": "865809ece42a1c9f"
+    },
+    "github_repository:https://github.com/liaohch3/claude-tap": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "188c814b95f57ffb"
+    },
+    "github_repository:https://github.com/modu-ai/moai-cowork": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "f8e9d4aa53fcca7e"
+    },
+    "github_repository:https://github.com/ridafkih/keeper.sh": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "3eb0d2e12353728a"
+    },
+    "github_repository:https://github.com/superdesigndev/treg": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "fb92a25f767a34c3"
+    },
+    "github_repository:https://github.com/googleapis/mcp-toolbox": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "3f52b8c083f671da"
+    },
+    "github_repository:https://github.com/macro-inc/macro": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "702af34614037120"
+    },
+    "github_repository:https://github.com/Syngnat/GoNavi": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "e5ff2e9dacb1fdd3"
+    },
+    "github_repository:https://github.com/plastic-labs/honcho": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "201eb1f8849f1dee"
+    },
+    "github_repository:https://github.com/VectifyAI/PageIndex": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "baf6a55088621aab"
+    },
+    "github_repository:https://github.com/kdlbs/kandev": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "7c47babc43eac6d9"
+    },
+    "github_repository:https://github.com/strukto-ai/mirage": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "153c67690867cc69"
+    },
+    "github_repository:https://github.com/coreyhaines31/makerskills": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "de84faee90a2490d"
+    },
+    "github_repository:https://github.com/avibe-bot/avibe": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "2f61caa2acec1719"
+    },
+    "official_repository:https://github.com/groq/groq-api-cookbook": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "b96f95bce854e8e8"
+    },
+    "official_repository:https://github.com/groq/orchestrate": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "d08321f46a2f0411"
+    },
+    "official_repository:https://github.com/groq/realtime-eval": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "8da73a2619c051e4"
+    },
+    "official_repository:https://github.com/huggingface/candle": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "85b13327e27546d7"
+    },
+    "official_repository:https://github.com/huggingface/hub-docs": {
+      "last_seen": "2026-08-13",
+      "fingerprint": "fa3a1a87103830e0"
     }
   }
 }
