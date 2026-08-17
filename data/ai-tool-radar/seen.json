@@ -38,7 +38,7 @@
       "fingerprint": "fd1c541ce7319604"
     },
     "github_repository:https://github.com/zzet/gortex": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-18",
       "fingerprint": "7e1680d601142c48"
     },
     "github_repository:https://github.com/readur/readur": {
@@ -134,7 +134,7 @@
       "fingerprint": "190e3d9055901c53"
     },
     "github_repository:https://github.com/bex-co/bex": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-18",
       "fingerprint": "138cf1ddb0429cab"
     },
     "github_repository:https://github.com/GlitterKill/sdl-mcp": {
@@ -182,7 +182,7 @@
       "fingerprint": "1bb1732ceed994f7"
     },
     "github_repository:https://github.com/promptfoo/promptfoo": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-18",
       "fingerprint": "517fefaefa4c0acf"
     },
     "github_repository:https://github.com/TeleAI-UAGI/Awesome-Agent-Memory": {
@@ -206,7 +206,7 @@
       "fingerprint": "38ef2828347083cf"
     },
     "github_repository:https://github.com/marcusquinn/aidevops": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-18",
       "fingerprint": "a6f35268706d8cff"
     },
     "github_repository:https://github.com/firecrawl/firecrawl": {
@@ -214,7 +214,7 @@
       "fingerprint": "32401ba5aed008d7"
     },
     "github_repository:https://github.com/stablyai/orca": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-18",
       "fingerprint": "2149099ea4e39512"
     },
     "official_repository:https://github.com/mistralai/mistral-vibe": {
@@ -234,7 +234,7 @@
       "fingerprint": "cd78e3ea89aafaff"
     },
     "official_repository:https://github.com/groq/groq-typescript": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-18",
       "fingerprint": "9c3de148d4ed44e0"
     },
     "official_repository:https://github.com/groq/kustomize-lint": {
@@ -458,11 +458,11 @@
       "fingerprint": "188109252a410910"
     },
     "github_repository:https://github.com/hackerai-tech/hackerai": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-18",
       "fingerprint": "4a812ff0ca4ed00f"
     },
     "github_repository:https://github.com/lightningpixel/modly": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-18",
       "fingerprint": "5910e2d4fe5285ed"
     },
     "github_repository:https://github.com/aiptimizer/TurboOCR": {
@@ -474,7 +474,7 @@
       "fingerprint": "37c0dcb717bdb48b"
     },
     "github_repository:https://github.com/Unstructured-IO/unstructured": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-18",
       "fingerprint": "a6aeb7c2653f9d85"
     },
     "github_repository:https://github.com/scambier/obsidian-omnisearch": {
@@ -490,7 +490,7 @@
       "fingerprint": "c43ac2719f32019a"
     },
     "github_repository:https://github.com/moona3k/macparakeet": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-18",
       "fingerprint": "322c0ad4947b8352"
     },
     "github_repository:https://github.com/tmoroney/auto-subs": {
@@ -578,7 +578,7 @@
       "fingerprint": "5c18bc17df35f9a1"
     },
     "official_repository:https://github.com/mistralai/mistral-common": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-18",
       "fingerprint": "8bde2203ced8102c"
     },
     "official_repository:https://github.com/openai/terraform-provider-openai": {
@@ -2428,6 +2428,46 @@
     "hf_space:https://huggingface.co/spaces/jimmycarter/krea2-turbo-bbox-canvas": {
       "last_seen": "2026-08-17",
       "fingerprint": "a42b0aa706f8f3ac"
+    },
+    "github_repository:https://github.com/best-of-ai/best-of-ai": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "eeb384587bce2e53"
+    },
+    "github_repository:https://github.com/Capsize-Games/airunner": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "b8c7b7567447f684"
+    },
+    "github_repository:https://github.com/1ay1/agentty": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "9eea40c7ac422d9a"
+    },
+    "github_repository:https://github.com/basicmachines-co/basic-memory": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "2e4cd6e29f07b899"
+    },
+    "github_repository:https://github.com/cactus-compute/cactus": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "4ec2b58df129ae9f"
+    },
+    "github_repository:https://github.com/MemoriLabs/Memori": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "e083d5e3bf632279"
+    },
+    "github_repository:https://github.com/michaelwilhelmsen/humla": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "b8f2fb89be6cfb86"
+    },
+    "github_repository:https://github.com/chadbyte/clay": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "5909f38cb3f4c2e9"
+    },
+    "github_repository:https://github.com/runvendo/vendo": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "a75a9e385a6d69be"
+    },
+    "official_repository:https://github.com/huggingface/harbor-hf": {
+      "last_seen": "2026-08-18",
+      "fingerprint": "4daf52601f91419f"
     }
   }
 }

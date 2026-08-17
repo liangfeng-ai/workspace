@@ -1,0 +1,539 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-18",
+  "generated_at": "2026-08-17T23:40:59.522048+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/mistralai/mistral-common",
+      "kind": "official_repository",
+      "name": "mistralai/mistral-common",
+      "url": "https://github.com/mistralai/mistral-common",
+      "provider": "mistralai",
+      "description": "Official inference library for pre-processing of Mistral models",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 932,
+        "pushed_at": "2026-08-06T15:58:19Z",
+        "updated_at": "2026-08-17T06:28:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8bde2203ced8102c",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-typescript",
+      "kind": "official_repository",
+      "name": "groq/groq-typescript",
+      "url": "https://github.com/groq/groq-typescript",
+      "provider": "groq",
+      "description": "The official Node.js / Typescript library for the Groq API",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 264,
+        "pushed_at": "2026-08-13T00:16:49Z",
+        "updated_at": "2026-08-17T22:30:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9c3de148d4ed44e0",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/harbor-hf",
+      "kind": "official_repository",
+      "name": "huggingface/harbor-hf",
+      "url": "https://github.com/huggingface/harbor-hf",
+      "provider": "huggingface",
+      "description": "Run reproducible Harbor benchmarks on Hugging Face infrastructure.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 1,
+        "pushed_at": "2026-08-17T23:08:04Z",
+        "updated_at": "2026-08-17T23:08:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4daf52601f91419f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/stablyai/orca",
+      "kind": "github_repository",
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "provider": "GitHub",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 47378,
+        "forks": 3291,
+        "pushed_at": "2026-08-17T23:40:01Z",
+        "updated_at": "2026-08-17T23:40:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2149099ea4e39512",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/promptfoo/promptfoo",
+      "kind": "github_repository",
+      "name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "provider": "GitHub",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 24318,
+        "forks": 2199,
+        "pushed_at": "2026-08-17T23:31:27Z",
+        "updated_at": "2026-08-17T22:45:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "517fefaefa4c0acf",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/MemoriLabs/Memori",
+      "kind": "github_repository",
+      "name": "MemoriLabs/Memori",
+      "url": "https://github.com/MemoriLabs/Memori",
+      "provider": "GitHub",
+      "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 16131,
+        "forks": 3188,
+        "pushed_at": "2026-08-17T22:45:04Z",
+        "updated_at": "2026-08-17T22:39:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e083d5e3bf632279",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Unstructured-IO/unstructured",
+      "kind": "github_repository",
+      "name": "Unstructured-IO/unstructured",
+      "url": "https://github.com/Unstructured-IO/unstructured",
+      "provider": "GitHub",
+      "description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 15319,
+        "forks": 1298,
+        "pushed_at": "2026-08-17T20:19:15Z",
+        "updated_at": "2026-08-17T20:19:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6aeb7c2653f9d85",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lightningpixel/modly",
+      "kind": "github_repository",
+      "name": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "provider": "GitHub",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6342,
+        "forks": 632,
+        "pushed_at": "2026-08-17T21:17:19Z",
+        "updated_at": "2026-08-17T23:21:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5910e2d4fe5285ed",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cactus-compute/cactus",
+      "kind": "github_repository",
+      "name": "cactus-compute/cactus",
+      "url": "https://github.com/cactus-compute/cactus",
+      "provider": "GitHub",
+      "description": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5805,
+        "forks": 481,
+        "pushed_at": "2026-08-17T22:52:22Z",
+        "updated_at": "2026-08-17T22:51:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4ec2b58df129ae9f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/basicmachines-co/basic-memory",
+      "kind": "github_repository",
+      "name": "basicmachines-co/basic-memory",
+      "url": "https://github.com/basicmachines-co/basic-memory",
+      "provider": "GitHub",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3674,
+        "forks": 260,
+        "pushed_at": "2026-08-17T23:28:45Z",
+        "updated_at": "2026-08-17T23:28:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2e4cd6e29f07b899",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Capsize-Games/airunner",
+      "kind": "github_repository",
+      "name": "Capsize-Games/airunner",
+      "url": "https://github.com/Capsize-Games/airunner",
+      "provider": "GitHub",
+      "description": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1312,
+        "forks": 102,
+        "pushed_at": "2026-08-17T23:38:25Z",
+        "updated_at": "2026-08-17T23:36:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b8c7b7567447f684",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zzet/gortex",
+      "kind": "github_repository",
+      "name": "zzet/gortex",
+      "url": "https://github.com/zzet/gortex",
+      "provider": "GitHub",
+      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1184,
+        "forks": 114,
+        "pushed_at": "2026-08-17T20:40:25Z",
+        "updated_at": "2026-08-17T23:40:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7e1680d601142c48",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/best-of-ai/best-of-ai",
+      "kind": "github_repository",
+      "name": "best-of-ai/best-of-ai",
+      "url": "https://github.com/best-of-ai/best-of-ai",
+      "provider": "GitHub",
+      "description": "A curated list of best ai tools",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 697,
+        "forks": 112,
+        "pushed_at": "2026-08-17T21:38:26Z",
+        "updated_at": "2026-08-17T21:28:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "eeb384587bce2e53",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hackerai-tech/hackerai",
+      "kind": "github_repository",
+      "name": "hackerai-tech/hackerai",
+      "url": "https://github.com/hackerai-tech/hackerai",
+      "provider": "GitHub",
+      "description": "Find and fix vulnerabilities by chatting with AI",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 647,
+        "forks": 151,
+        "pushed_at": "2026-08-17T23:16:39Z",
+        "updated_at": "2026-08-17T23:05:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4a812ff0ca4ed00f",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/1ay1/agentty",
+      "kind": "github_repository",
+      "name": "1ay1/agentty",
+      "url": "https://github.com/1ay1/agentty",
+      "provider": "GitHub",
+      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 610,
+        "forks": 17,
+        "pushed_at": "2026-08-17T23:30:27Z",
+        "updated_at": "2026-08-17T23:30:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9eea40c7ac422d9a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/moona3k/macparakeet",
+      "kind": "github_repository",
+      "name": "moona3k/macparakeet",
+      "url": "https://github.com/moona3k/macparakeet",
+      "provider": "GitHub",
+      "description": "Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 571,
+        "forks": 60,
+        "pushed_at": "2026-08-17T22:42:21Z",
+        "updated_at": "2026-08-17T22:43:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "322c0ad4947b8352",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/runvendo/vendo",
+      "kind": "github_repository",
+      "name": "runvendo/vendo",
+      "url": "https://github.com/runvendo/vendo",
+      "provider": "GitHub",
+      "description": "Embedded agents your customers use to automate work, build views, and connect their tools.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 443,
+        "forks": 68,
+        "pushed_at": "2026-08-17T23:33:52Z",
+        "updated_at": "2026-08-17T23:34:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a75a9e385a6d69be",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bex-co/bex",
+      "kind": "github_repository",
+      "name": "bex-co/bex",
+      "url": "https://github.com/bex-co/bex",
+      "provider": "GitHub",
+      "description": "The open-source Render alternative — AI-native. Git push → build → deploy on your own infrastructure; agents are first-class users.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 417,
+        "forks": 46,
+        "pushed_at": "2026-08-17T23:38:35Z",
+        "updated_at": "2026-08-17T23:38:43Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "138cf1ddb0429cab",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/marcusquinn/aidevops",
+      "kind": "github_repository",
+      "name": "marcusquinn/aidevops",
+      "url": "https://github.com/marcusquinn/aidevops",
+      "provider": "GitHub",
+      "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 377,
+        "forks": 63,
+        "pushed_at": "2026-08-17T23:37:05Z",
+        "updated_at": "2026-08-17T23:38:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6f35268706d8cff",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/chadbyte/clay",
+      "kind": "github_repository",
+      "name": "chadbyte/clay",
+      "url": "https://github.com/chadbyte/clay",
+      "provider": "GitHub",
+      "description": "Multiplayer Claude Code and Codex. Self-hosted team workspace for Claude Code and Codex. Multi-user, browser-based, AI mates with memory.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 368,
+        "forks": 50,
+        "pushed_at": "2026-08-17T23:39:44Z",
+        "updated_at": "2026-08-17T23:39:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5909f38cb3f4c2e9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/michaelwilhelmsen/humla",
+      "kind": "github_repository",
+      "name": "michaelwilhelmsen/humla",
+      "url": "https://github.com/michaelwilhelmsen/humla",
+      "provider": "GitHub",
+      "description": "Open-source AI meeting notes for Mac. Records mic + system audio with no bot, transcribes on-device or via OpenAI / Deepgram / Groq, identifies speakers offline, and writes summaries that fuse your notes with the transcript. Ask your notes and get cited answers. Tauri 2 + Rust + Swift.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 214,
+        "forks": 23,
+        "pushed_at": "2026-08-17T22:21:47Z",
+        "updated_at": "2026-08-17T23:36:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b8f2fb89be6cfb86",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
