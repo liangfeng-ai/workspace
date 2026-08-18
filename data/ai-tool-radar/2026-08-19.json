@@ -1,0 +1,653 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-19",
+  "generated_at": "2026-08-18T23:42:23.085913+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/transformers",
+      "kind": "official_repository",
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "provider": "huggingface",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 164226,
+        "pushed_at": "2026-08-18T23:32:05Z",
+        "updated_at": "2026-08-18T23:20:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "320399bef82642d6",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/diffusers",
+      "kind": "official_repository",
+      "name": "huggingface/diffusers",
+      "url": "https://github.com/huggingface/diffusers",
+      "provider": "huggingface",
+      "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 34339,
+        "pushed_at": "2026-08-18T20:15:11Z",
+        "updated_at": "2026-08-18T23:20:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c2c29741b8643303",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/openai-python",
+      "kind": "official_repository",
+      "name": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
+      "provider": "openai",
+      "description": "The official Python library for the OpenAI API",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 31400,
+        "pushed_at": "2026-08-18T21:17:02Z",
+        "updated_at": "2026-08-18T23:39:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "edd1b3b4fa25a618",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/openai-node",
+      "kind": "official_repository",
+      "name": "openai/openai-node",
+      "url": "https://github.com/openai/openai-node",
+      "provider": "openai",
+      "description": "Official JavaScript / TypeScript library for the OpenAI API",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 11123,
+        "pushed_at": "2026-08-18T23:41:16Z",
+        "updated_at": "2026-08-18T23:34:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8df81deee2b33aa8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/openbench",
+      "kind": "official_repository",
+      "name": "groq/openbench",
+      "url": "https://github.com/groq/openbench",
+      "provider": "groq",
+      "description": "Provider-agnostic, open-source evaluation infrastructure for language models",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 802,
+        "pushed_at": "2026-08-18T18:55:16Z",
+        "updated_at": "2026-08-18T23:28:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1b51eea56b0829ce",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-python",
+      "kind": "official_repository",
+      "name": "groq/groq-python",
+      "url": "https://github.com/groq/groq-python",
+      "provider": "groq",
+      "description": "The official Python Library for the Groq API",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 613,
+        "pushed_at": "2026-08-18T19:12:24Z",
+        "updated_at": "2026-08-18T19:16:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cd78e3ea89aafaff",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/cli",
+      "kind": "official_repository",
+      "name": "mistralai/cli",
+      "url": "https://github.com/mistralai/cli",
+      "provider": "mistralai",
+      "description": "",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 0,
+        "pushed_at": "2026-08-18T11:48:59Z",
+        "updated_at": "2026-08-18T11:49:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "541cb2183af89f07",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/simstudioai/sim",
+      "kind": "github_repository",
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "provider": "GitHub",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 29432,
+        "forks": 3776,
+        "pushed_at": "2026-08-18T23:36:20Z",
+        "updated_at": "2026-08-18T23:13:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c5008fef6c26edbc",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cocoindex-io/cocoindex",
+      "kind": "github_repository",
+      "name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "provider": "GitHub",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11346,
+        "forks": 885,
+        "pushed_at": "2026-08-18T23:11:51Z",
+        "updated_at": "2026-08-18T23:12:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dde3cb02fce173e3",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lidge-jun/opencodex",
+      "kind": "github_repository",
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "provider": "GitHub",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11019,
+        "forks": 808,
+        "pushed_at": "2026-08-18T23:11:00Z",
+        "updated_at": "2026-08-18T23:25:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23102615b9b2a991",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/embabel/embabel-agent",
+      "kind": "github_repository",
+      "name": "embabel/embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "provider": "GitHub",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4304,
+        "forks": 417,
+        "pushed_at": "2026-08-18T23:37:35Z",
+        "updated_at": "2026-08-18T23:37:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "261815133b681ec9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/butterbase-ai/butterbase",
+      "kind": "github_repository",
+      "name": "butterbase-ai/butterbase",
+      "url": "https://github.com/butterbase-ai/butterbase",
+      "provider": "GitHub",
+      "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3136,
+        "forks": 157,
+        "pushed_at": "2026-08-18T23:34:04Z",
+        "updated_at": "2026-08-18T23:34:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8307cbe9c4a939a8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/FluidInference/FluidAudio",
+      "kind": "github_repository",
+      "name": "FluidInference/FluidAudio",
+      "url": "https://github.com/FluidInference/FluidAudio",
+      "provider": "GitHub",
+      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2659,
+        "forks": 386,
+        "pushed_at": "2026-08-18T23:16:39Z",
+        "updated_at": "2026-08-18T22:58:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b00a4aa82ff90edc",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+      "kind": "github_repository",
+      "name": "jeremylongshore/claude-code-plugins-plus-skills",
+      "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+      "provider": "GitHub",
+      "description": "471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2651,
+        "forks": 390,
+        "pushed_at": "2026-08-18T23:40:49Z",
+        "updated_at": "2026-08-18T23:38:14Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7a7cda48949ca161",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vercel/workflow",
+      "kind": "github_repository",
+      "name": "vercel/workflow",
+      "url": "https://github.com/vercel/workflow",
+      "provider": "GitHub",
+      "description": "Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2328,
+        "forks": 339,
+        "pushed_at": "2026-08-18T23:40:07Z",
+        "updated_at": "2026-08-18T23:41:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0dcba0e718580e60",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/MCPJam/inspector",
+      "kind": "github_repository",
+      "name": "MCPJam/inspector",
+      "url": "https://github.com/MCPJam/inspector",
+      "provider": "GitHub",
+      "description": "Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2145,
+        "forks": 270,
+        "pushed_at": "2026-08-18T23:38:27Z",
+        "updated_at": "2026-08-18T23:37:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "190e3d9055901c53",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/modelcontextprotocol/php-sdk",
+      "kind": "github_repository",
+      "name": "modelcontextprotocol/php-sdk",
+      "url": "https://github.com/modelcontextprotocol/php-sdk",
+      "provider": "GitHub",
+      "description": "The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1588,
+        "forks": 166,
+        "pushed_at": "2026-08-18T23:36:56Z",
+        "updated_at": "2026-08-18T23:37:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ef3911cfdb593010",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dicklesworthstone/coding_agent_session_search",
+      "kind": "github_repository",
+      "name": "Dicklesworthstone/coding_agent_session_search",
+      "url": "https://github.com/Dicklesworthstone/coding_agent_session_search",
+      "provider": "GitHub",
+      "description": "Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1069,
+        "forks": 130,
+        "pushed_at": "2026-08-18T23:38:31Z",
+        "updated_at": "2026-08-18T23:38:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fd0327a9cc5e4634",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/christopherkarani/Wax",
+      "kind": "github_repository",
+      "name": "christopherkarani/Wax",
+      "url": "https://github.com/christopherkarani/Wax",
+      "provider": "GitHub",
+      "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 781,
+        "forks": 48,
+        "pushed_at": "2026-08-18T22:56:28Z",
+        "updated_at": "2026-08-18T22:56:35Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4fa823f272ff69f1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "kind": "github_repository",
+      "name": "TeleAI-UAGI/Awesome-Agent-Memory",
+      "url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "provider": "GitHub",
+      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 585,
+        "forks": 83,
+        "pushed_at": "2026-08-18T23:07:20Z",
+        "updated_at": "2026-08-18T23:07:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3e7a053e2fba39cc",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "kind": "hf_model",
+      "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "url": "https://huggingface.co/models/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "4-bit",
+        "8-bit",
+        "abliterated",
+        "ai-red-team",
+        "apple-silicon",
+        "base_model:quantized:qwen/qwen3.8-27b",
+        "base_model:qwen/qwen3.8-27b",
+        "en",
+        "function-calling",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "mlx",
+        "multimodal",
+        "quantized",
+        "qwen3.8",
+        "qwen3_5",
+        "reasoning",
+        "red-teaming",
+        "region:us",
+        "safetensors",
+        "uncensored",
+        "vision-language",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 250,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "afaebf250eec1bb7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/chenxiachan/thoughtdag",
+      "kind": "github_repository",
+      "name": "chenxiachan/thoughtdag",
+      "url": "https://github.com/chenxiachan/thoughtdag",
+      "provider": "GitHub",
+      "description": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 248,
+        "forks": 29,
+        "pushed_at": "2026-08-18T23:22:23Z",
+        "updated_at": "2026-08-18T23:37:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6d6f4b29869ed06b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Gazingstars123/Anima-2.9B",
+      "kind": "hf_model",
+      "name": "Gazingstars123/Anima-2.9B",
+      "url": "https://huggingface.co/models/Gazingstars123/Anima-2.9B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "anima",
+        "arxiv:2401.02415",
+        "base_model:circlestone-labs/anima",
+        "base_model:finetune:circlestone-labs/anima",
+        "comfyui",
+        "diffusion-single-file",
+        "en",
+        "license:other",
+        "region:us",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 24893,
+        "likes": 247,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e40730c0106799a3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/amisima/Wan_2.2_I2V_14B_Custom_Lora",
+      "kind": "hf_space",
+      "name": "amisima/Wan_2.2_I2V_14B_Custom_Lora",
+      "url": "https://huggingface.co/spaces/amisima/Wan_2.2_I2V_14B_Custom_Lora",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "civitai",
+        "gradio",
+        "image-to-video",
+        "lora",
+        "mcp-server",
+        "region:us",
+        "video",
+        "wan",
+        "wan2.2",
+        "zerogpu"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 45,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8781c8957ac074a8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/search/repositories?q=topic%3Aocr+stars%3A%3E%3D200+pushed%3A%3E%3D2026-07-20+archived%3Afalse&sort=updated&order=desc&per_page=10: Gateway Timeout"
+  ],
+  "status": "partial"
+}
