@@ -66,7 +66,7 @@
       "fingerprint": "900bd839a606029c"
     },
     "github_repository:https://github.com/SylphxAI/pdf-reader-mcp": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-20",
       "fingerprint": "3a9d248448d7cbdf"
     },
     "github_repository:https://github.com/tisfeng/Easydict": {
@@ -174,7 +174,7 @@
       "fingerprint": "c298f932ea3f90ff"
     },
     "github_repository:https://github.com/langgenius/dify": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-20",
       "fingerprint": "472bbcf1726e26ef"
     },
     "github_repository:https://github.com/headroomlabs-ai/headroom": {
@@ -326,7 +326,7 @@
       "fingerprint": "ccd398e1fa261167"
     },
     "hf_space:https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-20",
       "fingerprint": "608decf7243866a3"
     },
     "hf_space:https://huggingface.co/spaces/OpenMOSS-Team/MOSS-transcribe-diarize": {
@@ -466,11 +466,11 @@
       "fingerprint": "5910e2d4fe5285ed"
     },
     "github_repository:https://github.com/aiptimizer/TurboOCR": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-20",
       "fingerprint": "d31122d57f097e1a"
     },
     "github_repository:https://github.com/run-llama/ParseBench": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-20",
       "fingerprint": "37c0dcb717bdb48b"
     },
     "github_repository:https://github.com/Unstructured-IO/unstructured": {
@@ -574,7 +574,7 @@
       "fingerprint": "3029a56adfe06d26"
     },
     "official_repository:https://github.com/mistralai/platform-docs-public": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-20",
       "fingerprint": "5c18bc17df35f9a1"
     },
     "official_repository:https://github.com/mistralai/mistral-common": {
@@ -582,7 +582,7 @@
       "fingerprint": "8bde2203ced8102c"
     },
     "official_repository:https://github.com/openai/terraform-provider-openai": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-20",
       "fingerprint": "20492b3bd141ac2d"
     },
     "official_repository:https://github.com/openai/softnet": {
@@ -734,7 +734,7 @@
       "fingerprint": "97d977cdc75350f6"
     },
     "hf_space:https://huggingface.co/spaces/M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-20",
       "fingerprint": "64b7912370ad4ae2"
     },
     "github_repository:https://github.com/dsphper/lanhu-mcp": {
@@ -814,7 +814,7 @@
       "fingerprint": "c3047252ae8fd1ef"
     },
     "github_repository:https://github.com/kentcdodds/kody": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-20",
       "fingerprint": "3d98e56cef163a9d"
     },
     "github_repository:https://github.com/Ikalus1988/MisakaNet": {
@@ -894,7 +894,7 @@
       "fingerprint": "91f5702d8bfd3095"
     },
     "github_repository:https://github.com/LeanBitLab/LeanType": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-20",
       "fingerprint": "ad936fc2665064e6"
     },
     "github_repository:https://github.com/vlm-run/vlmrun-cookbook": {
@@ -954,7 +954,7 @@
       "fingerprint": "c917f9a533a38b3c"
     },
     "github_repository:https://github.com/askimo-ai/askimo": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-20",
       "fingerprint": "e241ac5a6477a751"
     },
     "github_repository:https://github.com/w8123/EnterpriseAgentFramework": {
@@ -2520,6 +2520,82 @@
     "hf_space:https://huggingface.co/spaces/amisima/Wan_2.2_I2V_14B_Custom_Lora": {
       "last_seen": "2026-08-19",
       "fingerprint": "8781c8957ac074a8"
+    },
+    "github_repository:https://github.com/0xsline/awesome-deepseek-harness": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "028486f4d081622a"
+    },
+    "github_repository:https://github.com/agentuse/agentuse": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "be56178fdde33869"
+    },
+    "github_repository:https://github.com/AaronGIG/pdf2zh-desktop": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "00da92d12a1f32b4"
+    },
+    "github_repository:https://github.com/ibrahimqureshae/mdflux": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "32745347b08c4ea6"
+    },
+    "github_repository:https://github.com/debpalash/VoiceStudio": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "a2d898ea662b9619"
+    },
+    "github_repository:https://github.com/VRCWizard/TTS-Voice-Wizard": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "3abb8a9a107dbcfc"
+    },
+    "github_repository:https://github.com/zhuyansen/agent-skills-hub": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "2aa4245e47dc40d5"
+    },
+    "github_repository:https://github.com/apify/apify-mcp-server": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "cc6131597ce9949d"
+    },
+    "github_repository:https://github.com/CalebYcj/codex-rehome": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "72721481f66bbaec"
+    },
+    "github_repository:https://github.com/bojieli/ai-agent-book": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "a6b4145d522f0205"
+    },
+    "github_repository:https://github.com/labsai/EDDI": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "c32be577b51ac4f0"
+    },
+    "github_repository:https://github.com/caura-ai/caura": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "6f93b2206c6dacfb"
+    },
+    "github_repository:https://github.com/eneskirca/nodeterm": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "3550bfee0697e9d2"
+    },
+    "github_repository:https://github.com/sandbaseai/sandbase-harness": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "05e943c87e286bd0"
+    },
+    "official_repository:https://github.com/groq/groq-mcp-server": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "dbb28f4d2ba31ace"
+    },
+    "official_repository:https://github.com/huggingface/skills": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "a1611509c84ed523"
+    },
+    "hf_model:https://huggingface.co/models/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "86abfaf78132ec66"
+    },
+    "hf_model:https://huggingface.co/models/dots-studio/dots3-note-prev": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "1c0a252b0d4889c8"
+    },
+    "hf_space:https://huggingface.co/spaces/Rchoks/wan555": {
+      "last_seen": "2026-08-20",
+      "fingerprint": "27a047d9c9b6950d"
     }
   }
 }
