@@ -1,0 +1,612 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-21",
+  "generated_at": "2026-08-20T23:44:03.284101+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 23,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/trl",
+      "kind": "official_repository",
+      "name": "huggingface/trl",
+      "url": "https://github.com/huggingface/trl",
+      "provider": "huggingface",
+      "description": "Train transformer language models with reinforcement learning.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 19111,
+        "pushed_at": "2026-08-20T23:36:18Z",
+        "updated_at": "2026-08-20T23:12:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e5334c1705dcf48a",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/codex-action",
+      "kind": "official_repository",
+      "name": "openai/codex-action",
+      "url": "https://github.com/openai/codex-action",
+      "provider": "openai",
+      "description": "",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 1199,
+        "pushed_at": "2026-08-20T23:40:37Z",
+        "updated_at": "2026-08-20T23:39:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9ab1597c36194a5c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/llm-d-router-public",
+      "kind": "official_repository",
+      "name": "mistralai/llm-d-router-public",
+      "url": "https://github.com/mistralai/llm-d-router-public",
+      "provider": "mistralai",
+      "description": "Inference scheduler for llm-d",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2,
+        "pushed_at": "2026-08-20T16:12:38Z",
+        "updated_at": "2026-08-20T16:25:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bfd100e12d95af48",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/diegosouzapw/OmniRoute",
+      "kind": "github_repository",
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "provider": "GitHub",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 51969,
+        "forks": 7090,
+        "pushed_at": "2026-08-20T23:42:57Z",
+        "updated_at": "2026-08-20T23:43:59Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "da7928dfecbbaa82",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nocobase/nocobase",
+      "kind": "github_repository",
+      "name": "nocobase/nocobase",
+      "url": "https://github.com/nocobase/nocobase",
+      "provider": "GitHub",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "capability_tags": [
+        "ai-agents",
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 23713,
+        "forks": 2826,
+        "pushed_at": "2026-08-20T23:41:10Z",
+        "updated_at": "2026-08-20T23:39:15Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4b54ae81b260ac9b",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nesquena/hermes-webui",
+      "kind": "github_repository",
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "provider": "GitHub",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 17566,
+        "forks": 2429,
+        "pushed_at": "2026-08-20T23:38:53Z",
+        "updated_at": "2026-08-20T23:40:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9857aea6a3db6ecd",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NVIDIA/SkillSpector",
+      "kind": "github_repository",
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "provider": "GitHub",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 14826,
+        "forks": 1234,
+        "pushed_at": "2026-08-20T23:42:07Z",
+        "updated_at": "2026-08-20T23:43:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "257de89d64f51e5f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/KoljaB/RealtimeSTT",
+      "kind": "github_repository",
+      "name": "KoljaB/RealtimeSTT",
+      "url": "https://github.com/KoljaB/RealtimeSTT",
+      "provider": "GitHub",
+      "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 10067,
+        "forks": 847,
+        "pushed_at": "2026-08-20T23:39:22Z",
+        "updated_at": "2026-08-20T23:40:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b8410750032baa16",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/omnigent-ai/omnigent",
+      "kind": "github_repository",
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "provider": "GitHub",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 9102,
+        "forks": 1389,
+        "pushed_at": "2026-08-20T23:43:15Z",
+        "updated_at": "2026-08-20T23:43:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4d8d8951d9e1815e",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cyanfish/naps2",
+      "kind": "github_repository",
+      "name": "cyanfish/naps2",
+      "url": "https://github.com/cyanfish/naps2",
+      "provider": "GitHub",
+      "description": "Scan documents to PDF and more, as simply as possible.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4441,
+        "forks": 448,
+        "pushed_at": "2026-08-20T23:03:16Z",
+        "updated_at": "2026-08-20T23:03:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9749d6d21bf647f1",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/TypeWhisper/typewhisper-mac",
+      "kind": "github_repository",
+      "name": "TypeWhisper/typewhisper-mac",
+      "url": "https://github.com/TypeWhisper/typewhisper-mac",
+      "provider": "GitHub",
+      "description": "Local speech-to-text for macOS on-device AI, fully private, optional cloud",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1715,
+        "forks": 123,
+        "pushed_at": "2026-08-20T23:08:12Z",
+        "updated_at": "2026-08-20T23:08:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "21be25c577ceec48",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/software-mansion/react-native-executorch",
+      "kind": "github_repository",
+      "name": "software-mansion/react-native-executorch",
+      "url": "https://github.com/software-mansion/react-native-executorch",
+      "provider": "GitHub",
+      "description": "Declarative way to run AI models in React Native on device, powered by ExecuTorch.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1694,
+        "forks": 94,
+        "pushed_at": "2026-08-20T20:10:49Z",
+        "updated_at": "2026-08-20T23:20:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b258a15208f72d6c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Paritok-official/paritok-4b-v1",
+      "kind": "github_repository",
+      "name": "Paritok-official/paritok-4b-v1",
+      "url": "https://github.com/Paritok-official/paritok-4b-v1",
+      "provider": "GitHub",
+      "description": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cursor, Codex, OpenHands, and any BASE_URL agent.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1445,
+        "forks": 136,
+        "pushed_at": "2026-08-20T23:39:48Z",
+        "updated_at": "2026-08-20T23:40:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b3f75188d217e39f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/oisee/vibing-steampunk",
+      "kind": "github_repository",
+      "name": "oisee/vibing-steampunk",
+      "url": "https://github.com/oisee/vibing-steampunk",
+      "provider": "GitHub",
+      "description": "vs-punk: ADT to MCP bridge - Vibe code in ABAP / AMDP",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 443,
+        "forks": 105,
+        "pushed_at": "2026-08-20T23:37:51Z",
+        "updated_at": "2026-08-20T23:37:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3985c4b779eabaa6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ratel-ai/ratel",
+      "kind": "github_repository",
+      "name": "ratel-ai/ratel",
+      "url": "https://github.com/ratel-ai/ratel",
+      "provider": "GitHub",
+      "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and semantic retrieval. Progressive Disclosure. No vector DB.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 425,
+        "forks": 20,
+        "pushed_at": "2026-08-20T23:14:11Z",
+        "updated_at": "2026-08-20T23:03:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0ce0c449baa1d31a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ErickWendel/localstudio",
+      "kind": "github_repository",
+      "name": "ErickWendel/localstudio",
+      "url": "https://github.com/ErickWendel/localstudio",
+      "provider": "GitHub",
+      "description": "Browser-only Canva-style presentation studio, powered by local Web AI.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 354,
+        "forks": 15,
+        "pushed_at": "2026-08-20T21:45:59Z",
+        "updated_at": "2026-08-20T21:51:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1647c0e9dea17f5f",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/LuqP2/Image-MetaHub",
+      "kind": "github_repository",
+      "name": "LuqP2/Image-MetaHub",
+      "url": "https://github.com/LuqP2/Image-MetaHub",
+      "provider": "GitHub",
+      "description": "A local-first workspace that keeps your generated media connected to the prompts, models and workflows that created them. Search, compare and send anything straight back into ComfyUI — nothing leaves your machine.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 312,
+        "forks": 24,
+        "pushed_at": "2026-08-20T22:23:57Z",
+        "updated_at": "2026-08-20T22:23:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ee0fc46c83443c75",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mezmo/aura",
+      "kind": "github_repository",
+      "name": "mezmo/aura",
+      "url": "https://github.com/mezmo/aura",
+      "provider": "GitHub",
+      "description": "AURA is a production-tested SRE agent platform you can deploy in minutes. AURA handles the guardrails, APIs, state management, streaming, and failure handling required to put AI to work safely on production infrastructure.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 254,
+        "forks": 23,
+        "pushed_at": "2026-08-20T23:23:18Z",
+        "updated_at": "2026-08-20T23:23:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8a79d414d1996e2c",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DitriXNew/EDT-MCP",
+      "kind": "github_repository",
+      "name": "DitriXNew/EDT-MCP",
+      "url": "https://github.com/DitriXNew/EDT-MCP",
+      "provider": "GitHub",
+      "description": "MCP for 1C:EDT",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 244,
+        "forks": 52,
+        "pushed_at": "2026-08-20T23:42:21Z",
+        "updated_at": "2026-08-20T23:42:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4545d2c0187c0744",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/suboss87/FDEOps",
+      "kind": "github_repository",
+      "name": "suboss87/FDEOps",
+      "url": "https://github.com/suboss87/FDEOps",
+      "provider": "GitHub",
+      "description": "Second brain for Forward Deployed Engineers: engagement memory + execution skills across discovery, delivery, and handoff.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 238,
+        "forks": 30,
+        "pushed_at": "2026-08-20T23:24:49Z",
+        "updated_at": "2026-08-20T22:36:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "962099d017a0ff89",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "kind": "hf_model",
+      "name": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "url": "https://huggingface.co/models/empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:quantized:qwen/qwen3.8-27b",
+        "base_model:qwen/qwen3.8-27b",
+        "conversational",
+        "en",
+        "endpoints_compatible",
+        "gated-deltanet",
+        "gguf",
+        "image-text-to-text",
+        "imatrix",
+        "license:apache-2.0",
+        "llama.cpp",
+        "long-context",
+        "mtp",
+        "multimodal",
+        "quantized",
+        "qwen3.5",
+        "qwen3.8",
+        "reasoning",
+        "region:us",
+        "ridge",
+        "vision",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 55074,
+        "likes": 222,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6bc4c9139c0feaf7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/puritysb/AgentDeck",
+      "kind": "github_repository",
+      "name": "puritysb/AgentDeck",
+      "url": "https://github.com/puritysb/AgentDeck",
+      "provider": "GitHub",
+      "description": "Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 204,
+        "forks": 40,
+        "pushed_at": "2026-08-20T23:41:37Z",
+        "updated_at": "2026-08-20T23:41:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ea193aa70a97360a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
+      "kind": "hf_space",
+      "name": "pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
+      "url": "https://huggingface.co/spaces/pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 48,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bd4798a7570b82da",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

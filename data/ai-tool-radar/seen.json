@@ -434,7 +434,7 @@
       "fingerprint": "c85ace65d71237e9"
     },
     "github_repository:https://github.com/omnigent-ai/omnigent": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-21",
       "fingerprint": "4d8d8951d9e1815e"
     },
     "official_repository:https://github.com/openai/plugins": {
@@ -498,7 +498,7 @@
       "fingerprint": "f73e07ccd3b52335"
     },
     "github_repository:https://github.com/TypeWhisper/typewhisper-mac": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-21",
       "fingerprint": "21be25c577ceec48"
     },
     "github_repository:https://github.com/Blaizzy/mlx-audio-swift": {
@@ -538,7 +538,7 @@
       "fingerprint": "2f71b2fc66899324"
     },
     "github_repository:https://github.com/mezmo/aura": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-21",
       "fingerprint": "8a79d414d1996e2c"
     },
     "github_repository:https://github.com/henrydaum/second-brain": {
@@ -726,7 +726,7 @@
       "fingerprint": "9d3e22906a0a6468"
     },
     "official_repository:https://github.com/huggingface/trl": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-21",
       "fingerprint": "e5334c1705dcf48a"
     },
     "hf_model:https://huggingface.co/models/unsloth/Qwen3.6-27B-NVFP4": {
@@ -750,7 +750,7 @@
       "fingerprint": "b3a46d1eea235927"
     },
     "github_repository:https://github.com/LuqP2/Image-MetaHub": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-21",
       "fingerprint": "ee0fc46c83443c75"
     },
     "github_repository:https://github.com/jazzenchen/VibeAround": {
@@ -882,7 +882,7 @@
       "fingerprint": "6d88c076f68b2b39"
     },
     "github_repository:https://github.com/nocobase/nocobase": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-21",
       "fingerprint": "4b54ae81b260ac9b"
     },
     "github_repository:https://github.com/johannesjo/parallel-code": {
@@ -902,7 +902,7 @@
       "fingerprint": "4df5600e5c404dea"
     },
     "github_repository:https://github.com/cyanfish/naps2": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-21",
       "fingerprint": "9749d6d21bf647f1"
     },
     "github_repository:https://github.com/lzhgus/Capso": {
@@ -930,7 +930,7 @@
       "fingerprint": "9a28ea10d2f813cd"
     },
     "github_repository:https://github.com/diegosouzapw/OmniRoute": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-21",
       "fingerprint": "da7928dfecbbaa82"
     },
     "github_repository:https://github.com/aipoch/open-science": {
@@ -1030,7 +1030,7 @@
       "fingerprint": "3ae7a79639387bca"
     },
     "github_repository:https://github.com/ErickWendel/localstudio": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-08-21",
       "fingerprint": "1647c0e9dea17f5f"
     },
     "github_repository:https://github.com/Picovoice/cheetah": {
@@ -1082,7 +1082,7 @@
       "fingerprint": "49a3af706b0b737f"
     },
     "github_repository:https://github.com/nesquena/hermes-webui": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-08-21",
       "fingerprint": "9857aea6a3db6ecd"
     },
     "official_repository:https://github.com/huggingface/faceberg": {
@@ -2596,6 +2596,58 @@
     "hf_space:https://huggingface.co/spaces/Rchoks/wan555": {
       "last_seen": "2026-08-20",
       "fingerprint": "27a047d9c9b6950d"
+    },
+    "github_repository:https://github.com/suboss87/FDEOps": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "962099d017a0ff89"
+    },
+    "github_repository:https://github.com/software-mansion/react-native-executorch": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "b258a15208f72d6c"
+    },
+    "github_repository:https://github.com/KoljaB/RealtimeSTT": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "b8410750032baa16"
+    },
+    "github_repository:https://github.com/DitriXNew/EDT-MCP": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "4545d2c0187c0744"
+    },
+    "github_repository:https://github.com/NVIDIA/SkillSpector": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "257de89d64f51e5f"
+    },
+    "github_repository:https://github.com/oisee/vibing-steampunk": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "3985c4b779eabaa6"
+    },
+    "github_repository:https://github.com/ratel-ai/ratel": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "0ce0c449baa1d31a"
+    },
+    "github_repository:https://github.com/puritysb/AgentDeck": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "ea193aa70a97360a"
+    },
+    "github_repository:https://github.com/Paritok-official/paritok-4b-v1": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "b3f75188d217e39f"
+    },
+    "official_repository:https://github.com/mistralai/llm-d-router-public": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "bfd100e12d95af48"
+    },
+    "official_repository:https://github.com/openai/codex-action": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "9ab1597c36194a5c"
+    },
+    "hf_model:https://huggingface.co/models/empero-ai/Qwen3.8-27B-Ridge-GGUF": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "6bc4c9139c0feaf7"
+    },
+    "hf_space:https://huggingface.co/spaces/pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo": {
+      "last_seen": "2026-08-21",
+      "fingerprint": "bd4798a7570b82da"
     }
   }
 }
