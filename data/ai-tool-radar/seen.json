@@ -190,7 +190,7 @@
       "fingerprint": "3e7a053e2fba39cc"
     },
     "github_repository:https://github.com/thedotmack/claude-mem": {
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-08-24",
       "fingerprint": "b12e6c23b90f145f"
     },
     "github_repository:https://github.com/Lyellr88/marm-memory": {
@@ -394,7 +394,7 @@
       "fingerprint": "f5ed541ee5844dbb"
     },
     "official_repository:https://github.com/huggingface/tau": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-24",
       "fingerprint": "a6b82e6a173cf32d"
     },
     "github_repository:https://github.com/1jehuang/jcode": {
@@ -650,7 +650,7 @@
       "fingerprint": "99dfca28439d8179"
     },
     "github_repository:https://github.com/peteonrails/voxtype": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-24",
       "fingerprint": "e56263fcc12fe438"
     },
     "github_repository:https://github.com/FluidInference/FluidAudio": {
@@ -754,7 +754,7 @@
       "fingerprint": "ee0fc46c83443c75"
     },
     "github_repository:https://github.com/jazzenchen/VibeAround": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-24",
       "fingerprint": "01ba1ac36b1e46ef"
     },
     "github_repository:https://github.com/y3owk1n/neru": {
@@ -786,11 +786,11 @@
       "fingerprint": "bc8754fe7146b6cb"
     },
     "github_repository:https://github.com/goodroot/hyprwhspr": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-24",
       "fingerprint": "57b7a9445ca2eaca"
     },
     "github_repository:https://github.com/osaurus-ai/osaurus": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-24",
       "fingerprint": "faeccf8aee757038"
     },
     "github_repository:https://github.com/shiwenwen/hope-agent": {
@@ -858,7 +858,7 @@
       "fingerprint": "1b51eea56b0829ce"
     },
     "official_repository:https://github.com/huggingface/smolagents": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-24",
       "fingerprint": "188634f04cdf1679"
     },
     "hf_model:https://huggingface.co/models/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF": {
@@ -974,7 +974,7 @@
       "fingerprint": "bda441f024851353"
     },
     "github_repository:https://github.com/bytedance/deer-flow": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-24",
       "fingerprint": "a6eaf81c770a1f48"
     },
     "github_repository:https://github.com/monarchjuno/tradingcodex": {
@@ -994,7 +994,7 @@
       "fingerprint": "33a5edab97cff2d2"
     },
     "official_repository:https://github.com/huggingface/speech-to-speech": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-24",
       "fingerprint": "94af92d0b43c764a"
     },
     "hf_model:https://huggingface.co/models/openbmb/MiniCPM-RobotManip": {
@@ -1022,7 +1022,7 @@
       "fingerprint": "a10abca1e01909e8"
     },
     "github_repository:https://github.com/dmMaze/BallonsTranslator": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-08-24",
       "fingerprint": "0e3c0ee293691b75"
     },
     "github_repository:https://github.com/ciddwd/overlay-translator": {
@@ -1054,7 +1054,7 @@
       "fingerprint": "7614538e87e1a1f7"
     },
     "github_repository:https://github.com/vitali87/code-graph-rag": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-08-24",
       "fingerprint": "2fd74076b5d650f0"
     },
     "github_repository:https://github.com/mock-server/mockserver-monorepo": {
@@ -1162,7 +1162,7 @@
       "fingerprint": "1c7ed224bb04b4c2"
     },
     "github_repository:https://github.com/WrongStack/WrongStack": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-08-24",
       "fingerprint": "0d099da41dd2e18a"
     },
     "github_repository:https://github.com/pydantic/logfire": {
@@ -2648,6 +2648,62 @@
     "hf_space:https://huggingface.co/spaces/pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo": {
       "last_seen": "2026-08-21",
       "fingerprint": "bd4798a7570b82da"
+    },
+    "github_repository:https://github.com/robocorp/rpaframework": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "55fc066d6a40d880"
+    },
+    "github_repository:https://github.com/mkiol/dsnote": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "0d92cb92901b4c0f"
+    },
+    "github_repository:https://github.com/razzant/claudexor": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "229dc9d2e8f05ec9"
+    },
+    "github_repository:https://github.com/macOS26/Agent": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "27e224cacbda36bf"
+    },
+    "github_repository:https://github.com/langroid/langroid": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "5fca0be58ff14966"
+    },
+    "github_repository:https://github.com/EthanYoQ/AI-Novel-Writer": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "72e477465eb5c6ba"
+    },
+    "github_repository:https://github.com/rudrankriyam/Foundation-Models-Framework-Lab": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "969ac3830babfbab"
+    },
+    "github_repository:https://github.com/virgiliojr94/book-to-skill": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "5b1176266d7a382d"
+    },
+    "github_repository:https://github.com/Cotal-AI/Cotal": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "78977d99e62cbbfe"
+    },
+    "github_repository:https://github.com/BradGroux/veritas-kanban": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "970495c0ee130f03"
+    },
+    "hf_model:https://huggingface.co/models/ornith-ai/Ornith-1.5-35B-A3B": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "dc9376c5735f01bb"
+    },
+    "hf_model:https://huggingface.co/models/orcarouter/Qwen3.8-27B-Uncensored-GGUF": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "e35dcc45431e9bbc"
+    },
+    "hf_model:https://huggingface.co/models/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "68d023bb0877a93f"
+    },
+    "hf_space:https://huggingface.co/spaces/amisima/LTX-2.3-10Eros_I2V": {
+      "last_seen": "2026-08-24",
+      "fingerprint": "7098213a69cfc0db"
     }
   }
 }

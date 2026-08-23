@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-24",
+  "generated_at": "2026-08-23T23:39:43.679138+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 26,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/smolagents",
+      "kind": "official_repository",
+      "name": "huggingface/smolagents",
+      "url": "https://github.com/huggingface/smolagents",
+      "provider": "huggingface",
+      "description": "🤗 smolagents: a barebones library for agents that think in code.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 28947,
+        "pushed_at": "2026-08-22T12:10:32Z",
+        "updated_at": "2026-08-23T23:35:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "188634f04cdf1679",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/speech-to-speech",
+      "kind": "official_repository",
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "provider": "huggingface",
+      "description": "Build voice agents with open-source models",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 12803,
+        "pushed_at": "2026-08-21T23:14:41Z",
+        "updated_at": "2026-08-23T22:47:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "94af92d0b43c764a",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/tau",
+      "kind": "official_repository",
+      "name": "huggingface/tau",
+      "url": "https://github.com/huggingface/tau",
+      "provider": "huggingface",
+      "description": "A Python port of Pi’s minimalist coding agent.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2445,
+        "pushed_at": "2026-08-23T23:21:18Z",
+        "updated_at": "2026-08-23T22:37:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6b82e6a173cf32d",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/thedotmack/claude-mem",
+      "kind": "github_repository",
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "provider": "GitHub",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 91610,
+        "forks": 8025,
+        "pushed_at": "2026-08-23T22:58:45Z",
+        "updated_at": "2026-08-23T23:36:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b12e6c23b90f145f",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bytedance/deer-flow",
+      "kind": "github_repository",
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "provider": "GitHub",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 80704,
+        "forks": 11106,
+        "pushed_at": "2026-08-23T23:37:36Z",
+        "updated_at": "2026-08-23T23:37:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6eaf81c770a1f48",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/virgiliojr94/book-to-skill",
+      "kind": "github_repository",
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "provider": "GitHub",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 24628,
+        "forks": 2577,
+        "pushed_at": "2026-08-23T23:06:28Z",
+        "updated_at": "2026-08-23T23:38:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5b1176266d7a382d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/osaurus-ai/osaurus",
+      "kind": "github_repository",
+      "name": "osaurus-ai/osaurus",
+      "url": "https://github.com/osaurus-ai/osaurus",
+      "provider": "GitHub",
+      "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7683,
+        "forks": 450,
+        "pushed_at": "2026-08-23T23:34:59Z",
+        "updated_at": "2026-08-23T23:35:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "faeccf8aee757038",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dmMaze/BallonsTranslator",
+      "kind": "github_repository",
+      "name": "dmMaze/BallonsTranslator",
+      "url": "https://github.com/dmMaze/BallonsTranslator",
+      "provider": "GitHub",
+      "description": "深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5053,
+        "forks": 342,
+        "pushed_at": "2026-08-23T18:44:59Z",
+        "updated_at": "2026-08-23T18:45:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0e3c0ee293691b75",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vitali87/code-graph-rag",
+      "kind": "github_repository",
+      "name": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "provider": "GitHub",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4795,
+        "forks": 636,
+        "pushed_at": "2026-08-23T23:26:40Z",
+        "updated_at": "2026-08-23T23:07:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2fd74076b5d650f0",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langroid/langroid",
+      "kind": "github_repository",
+      "name": "langroid/langroid",
+      "url": "https://github.com/langroid/langroid",
+      "provider": "GitHub",
+      "description": "Harness LLMs with Multi-Agent Programming",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4100,
+        "forks": 396,
+        "pushed_at": "2026-08-23T23:24:57Z",
+        "updated_at": "2026-08-23T23:25:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5fca0be58ff14966",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mkiol/dsnote",
+      "kind": "github_repository",
+      "name": "mkiol/dsnote",
+      "url": "https://github.com/mkiol/dsnote",
+      "provider": "GitHub",
+      "description": "Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1607,
+        "forks": 72,
+        "pushed_at": "2026-08-23T17:56:11Z",
+        "updated_at": "2026-08-23T17:56:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0d92cb92901b4c0f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/robocorp/rpaframework",
+      "kind": "github_repository",
+      "name": "robocorp/rpaframework",
+      "url": "https://github.com/robocorp/rpaframework",
+      "provider": "GitHub",
+      "description": "Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1549,
+        "forks": 277,
+        "pushed_at": "2026-08-23T18:08:11Z",
+        "updated_at": "2026-08-23T19:56:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "55fc066d6a40d880",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/peteonrails/voxtype",
+      "kind": "github_repository",
+      "name": "peteonrails/voxtype",
+      "url": "https://github.com/peteonrails/voxtype",
+      "provider": "GitHub",
+      "description": "Voice-to-text with push-to-talk for Wayland compositors",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1211,
+        "forks": 92,
+        "pushed_at": "2026-08-23T19:46:24Z",
+        "updated_at": "2026-08-23T23:07:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e56263fcc12fe438",
+        "novel": false,
+        "dedup_age_days": 38
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rudrankriyam/Foundation-Models-Framework-Lab",
+      "kind": "github_repository",
+      "name": "rudrankriyam/Foundation-Models-Framework-Lab",
+      "url": "https://github.com/rudrankriyam/Foundation-Models-Framework-Lab",
+      "provider": "GitHub",
+      "description": "A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1176,
+        "forks": 69,
+        "pushed_at": "2026-08-23T23:32:32Z",
+        "updated_at": "2026-08-23T23:08:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "969ac3830babfbab",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/goodroot/hyprwhspr",
+      "kind": "github_repository",
+      "name": "goodroot/hyprwhspr",
+      "url": "https://github.com/goodroot/hyprwhspr",
+      "provider": "GitHub",
+      "description": "Native speech-to-text for Linux - Fast, accurate, private, and hackable system-wide dictation",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1171,
+        "forks": 94,
+        "pushed_at": "2026-08-23T19:19:52Z",
+        "updated_at": "2026-08-23T20:54:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "57b7a9445ca2eaca",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/BradGroux/veritas-kanban",
+      "kind": "github_repository",
+      "name": "BradGroux/veritas-kanban",
+      "url": "https://github.com/BradGroux/veritas-kanban",
+      "provider": "GitHub",
+      "description": "Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 813,
+        "forks": 99,
+        "pushed_at": "2026-08-23T23:34:49Z",
+        "updated_at": "2026-08-23T23:34:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "970495c0ee130f03",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/macOS26/Agent",
+      "kind": "github_repository",
+      "name": "macOS26/Agent",
+      "url": "https://github.com/macOS26/Agent",
+      "provider": "GitHub",
+      "description": "Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 583,
+        "forks": 58,
+        "pushed_at": "2026-08-23T23:37:23Z",
+        "updated_at": "2026-08-23T23:37:41Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "27e224cacbda36bf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jazzenchen/VibeAround",
+      "kind": "github_repository",
+      "name": "jazzenchen/VibeAround",
+      "url": "https://github.com/jazzenchen/VibeAround",
+      "provider": "GitHub",
+      "description": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 521,
+        "forks": 55,
+        "pushed_at": "2026-08-23T20:32:02Z",
+        "updated_at": "2026-08-23T22:14:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "01ba1ac36b1e46ef",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/EthanYoQ/AI-Novel-Writer",
+      "kind": "github_repository",
+      "name": "EthanYoQ/AI-Novel-Writer",
+      "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
+      "provider": "GitHub",
+      "description": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 436,
+        "forks": 62,
+        "pushed_at": "2026-08-23T23:22:24Z",
+        "updated_at": "2026-08-23T23:22:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "72e477465eb5c6ba",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/razzant/claudexor",
+      "kind": "github_repository",
+      "name": "razzant/claudexor",
+      "url": "https://github.com/razzant/claudexor",
+      "provider": "GitHub",
+      "description": "Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 422,
+        "forks": 40,
+        "pushed_at": "2026-08-23T23:38:46Z",
+        "updated_at": "2026-08-23T23:38:53Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "229dc9d2e8f05ec9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "kind": "hf_model",
+      "name": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "url": "https://huggingface.co/models/orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "abliterated",
+        "ai-red-team",
+        "base_model:quantized:qwen/qwen3.8-27b",
+        "base_model:qwen/qwen3.8-27b",
+        "conversational",
+        "en",
+        "endpoints_compatible",
+        "function-calling",
+        "gguf",
+        "image-text-to-text",
+        "imatrix",
+        "license:apache-2.0",
+        "llama.cpp",
+        "mmproj",
+        "mtp",
+        "qwen",
+        "qwen3",
+        "qwen3.8",
+        "reasoning",
+        "red-teaming",
+        "region:us",
+        "uncensored",
+        "vision-language",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 108666,
+        "likes": 374,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e35dcc45431e9bbc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/ornith-ai/Ornith-1.5-35B-A3B",
+      "kind": "hf_model",
+      "name": "ornith-ai/Ornith-1.5-35B-A3B",
+      "url": "https://huggingface.co/models/ornith-ai/Ornith-1.5-35B-A3B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "conversational",
+        "endpoints_compatible",
+        "eval-results",
+        "image-text-to-text",
+        "license:mit",
+        "qwen3_5_moe",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 23516,
+        "likes": 362,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dc9376c5735f01bb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "kind": "hf_model",
+      "name": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "url": "https://huggingface.co/models/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "abliterated",
+        "base_model:quantized:qwen/qwen3.8-27b",
+        "base_model:qwen/qwen3.8-27b",
+        "conversational",
+        "endpoints_compatible",
+        "gguf",
+        "huihui",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "qwen3",
+        "region:us",
+        "transformers",
+        "uncensored",
+        "unsloth"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 943360,
+        "likes": 296,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "68d023bb0877a93f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Cotal-AI/Cotal",
+      "kind": "github_repository",
+      "name": "Cotal-AI/Cotal",
+      "url": "https://github.com/Cotal-AI/Cotal",
+      "provider": "GitHub",
+      "description": "The open standard for agent coordination",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 250,
+        "forks": 24,
+        "pushed_at": "2026-08-23T23:38:53Z",
+        "updated_at": "2026-08-23T23:35:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "78977d99e62cbbfe",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/WrongStack/WrongStack",
+      "kind": "github_repository",
+      "name": "WrongStack/WrongStack",
+      "url": "https://github.com/WrongStack/WrongStack",
+      "provider": "GitHub",
+      "description": "An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, and a browser UI, while you keep your hand on every permission.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 239,
+        "forks": 30,
+        "pushed_at": "2026-08-23T23:28:32Z",
+        "updated_at": "2026-08-23T23:28:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0d099da41dd2e18a",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/amisima/LTX-2.3-10Eros_I2V",
+      "kind": "hf_space",
+      "name": "amisima/LTX-2.3-10Eros_I2V",
+      "url": "https://huggingface.co/spaces/amisima/LTX-2.3-10Eros_I2V",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "audio",
+        "civitai",
+        "gradio",
+        "image-to-video",
+        "lora",
+        "ltx",
+        "ltx-video",
+        "region:us",
+        "video",
+        "zerogpu"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 74,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7098213a69cfc0db",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
