@@ -18,7 +18,7 @@
       "fingerprint": "2ff255a277be7d91"
     },
     "github_repository:https://github.com/browser-use/browser-use": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-25",
       "fingerprint": "cae28f83b9d950c0"
     },
     "github_repository:https://github.com/qf-studio/pilot": {
@@ -142,7 +142,7 @@
       "fingerprint": "7b419af92a61e20d"
     },
     "github_repository:https://github.com/heygen-com/hyperframes": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-25",
       "fingerprint": "0a895c1fcda1a8e7"
     },
     "github_repository:https://github.com/speakeasy-api/gram": {
@@ -198,8 +198,8 @@
       "fingerprint": "a8ed77b9f85b23e2"
     },
     "github_repository:https://github.com/thunderbird/thunderbolt": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "666eed945d739ffa"
+      "last_seen": "2026-08-25",
+      "fingerprint": "8c9770e3fef395db"
     },
     "github_repository:https://github.com/Nano-Collective/nanocoder": {
       "last_seen": "2026-07-15",
@@ -254,7 +254,7 @@
       "fingerprint": "da749c0e40b6dfe6"
     },
     "official_repository:https://github.com/huggingface/lerobot": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-25",
       "fingerprint": "84375b7f41a6221b"
     },
     "official_repository:https://github.com/huggingface/agents-course": {
@@ -962,11 +962,11 @@
       "fingerprint": "188db102441f87bf"
     },
     "github_repository:https://github.com/open-webui/open-webui": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-25",
       "fingerprint": "f1070d9ee31aa5d2"
     },
     "github_repository:https://github.com/cortexkit/aft": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-25",
       "fingerprint": "70dbcf012b818d56"
     },
     "github_repository:https://github.com/google/mantis": {
@@ -1042,7 +1042,7 @@
       "fingerprint": "4cb43c7eea4d3666"
     },
     "github_repository:https://github.com/Muesli-HQ/muesli": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-08-25",
       "fingerprint": "6b0dd337a7290861"
     },
     "github_repository:https://github.com/HeyWillow/willow": {
@@ -1178,7 +1178,7 @@
       "fingerprint": "17f2807f62b71f74"
     },
     "github_repository:https://github.com/bpwhelan/GameSentenceMiner": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-08-25",
       "fingerprint": "61280f87e9339021"
     },
     "github_repository:https://github.com/Blaizzy/mlx-audio": {
@@ -1218,7 +1218,7 @@
       "fingerprint": "86e2758e1bbd8df1"
     },
     "github_repository:https://github.com/arc53/DocsGPT": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-08-25",
       "fingerprint": "bdfa8cdc7a8ebfa4"
     },
     "github_repository:https://github.com/MicrosoftDocs/mcp": {
@@ -2704,6 +2704,66 @@
     "hf_space:https://huggingface.co/spaces/amisima/LTX-2.3-10Eros_I2V": {
       "last_seen": "2026-08-24",
       "fingerprint": "7098213a69cfc0db"
+    },
+    "github_repository:https://github.com/IvanMurzak/Godot-MCP": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "266fe62bad9c2672"
+    },
+    "github_repository:https://github.com/zclucas/RMT": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "a38ec207564e3df5"
+    },
+    "github_repository:https://github.com/kmonkeyhead/MORT": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "523d13bc162908d5"
+    },
+    "github_repository:https://github.com/speechbrain/speechbrain": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "42b55040998e0fdb"
+    },
+    "github_repository:https://github.com/dograh-hq/dograh": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "deca2ecfe634121c"
+    },
+    "github_repository:https://github.com/mxsm/rocketmq-rust": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "a2da391bf9691da5"
+    },
+    "github_repository:https://github.com/taylorwilsdon/google_workspace_mcp": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "2099fb513c1c47e5"
+    },
+    "github_repository:https://github.com/Higangssh/homebutler": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "7e0947a04ea6bb24"
+    },
+    "github_repository:https://github.com/ComposioHQ/composio": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "1be08548e7bb5594"
+    },
+    "github_repository:https://github.com/sooperset/mcp-atlassian": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "d904b9d2e807e2f5"
+    },
+    "github_repository:https://github.com/homeassistant-ai/ha-mcp": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "16f2bcd851d59091"
+    },
+    "github_repository:https://github.com/Dicklesworthstone/pi_agent_rust": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "8bcfab9885a26389"
+    },
+    "github_repository:https://github.com/gakonst/nanocodex": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "eda45e03e7aa2e68"
+    },
+    "official_repository:https://github.com/huggingface/huggingface-llama-recipes": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "0e886a6b4d202ad9"
+    },
+    "hf_space:https://huggingface.co/spaces/hugging-apps/sensenova-sensenova-u1-5-8b-mot": {
+      "last_seen": "2026-08-25",
+      "fingerprint": "628c289d28b9de6e"
     }
   }
 }

@@ -1,0 +1,615 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-25",
+  "generated_at": "2026-08-24T23:40:40.583729+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/lerobot",
+      "kind": "official_repository",
+      "name": "huggingface/lerobot",
+      "url": "https://github.com/huggingface/lerobot",
+      "provider": "huggingface",
+      "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 26883,
+        "pushed_at": "2026-08-24T23:03:46Z",
+        "updated_at": "2026-08-24T23:33:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "84375b7f41a6221b",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/huggingface-llama-recipes",
+      "kind": "official_repository",
+      "name": "huggingface/huggingface-llama-recipes",
+      "url": "https://github.com/huggingface/huggingface-llama-recipes",
+      "provider": "huggingface",
+      "description": "",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 709,
+        "pushed_at": "2026-08-24T20:53:46Z",
+        "updated_at": "2026-08-24T23:33:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0e886a6b4d202ad9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/open-webui/open-webui",
+      "kind": "github_repository",
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "provider": "GitHub",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 149803,
+        "forks": 21854,
+        "pushed_at": "2026-08-24T23:25:05Z",
+        "updated_at": "2026-08-24T23:29:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f1070d9ee31aa5d2",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/browser-use/browser-use",
+      "kind": "github_repository",
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "provider": "GitHub",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 110364,
+        "forks": 12139,
+        "pushed_at": "2026-08-24T23:15:05Z",
+        "updated_at": "2026-08-24T23:17:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cae28f83b9d950c0",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/heygen-com/hyperframes",
+      "kind": "github_repository",
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "provider": "GitHub",
+      "description": "Write HTML. Render video. Built for agents.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 42468,
+        "forks": 4069,
+        "pushed_at": "2026-08-24T23:38:48Z",
+        "updated_at": "2026-08-24T23:39:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0a895c1fcda1a8e7",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ComposioHQ/composio",
+      "kind": "github_repository",
+      "name": "ComposioHQ/composio",
+      "url": "https://github.com/ComposioHQ/composio",
+      "provider": "GitHub",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 29862,
+        "forks": 4734,
+        "pushed_at": "2026-08-24T23:40:26Z",
+        "updated_at": "2026-08-24T23:38:46Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1be08548e7bb5594",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/arc53/DocsGPT",
+      "kind": "github_repository",
+      "name": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "provider": "GitHub",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 18223,
+        "forks": 2132,
+        "pushed_at": "2026-08-24T23:38:35Z",
+        "updated_at": "2026-08-24T23:38:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bdfa8cdc7a8ebfa4",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/speechbrain/speechbrain",
+      "kind": "github_repository",
+      "name": "speechbrain/speechbrain",
+      "url": "https://github.com/speechbrain/speechbrain",
+      "provider": "GitHub",
+      "description": "A PyTorch-based Speech Toolkit",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11773,
+        "forks": 1716,
+        "pushed_at": "2026-08-24T21:57:12Z",
+        "updated_at": "2026-08-24T21:58:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "42b55040998e0fdb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/sooperset/mcp-atlassian",
+      "kind": "github_repository",
+      "name": "sooperset/mcp-atlassian",
+      "url": "https://github.com/sooperset/mcp-atlassian",
+      "provider": "GitHub",
+      "description": "MCP server for Atlassian tools (Confluence, Jira)",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5790,
+        "forks": 1326,
+        "pushed_at": "2026-08-24T23:37:27Z",
+        "updated_at": "2026-08-24T23:38:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d904b9d2e807e2f5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dograh-hq/dograh",
+      "kind": "github_repository",
+      "name": "dograh-hq/dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "provider": "GitHub",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5485,
+        "forks": 1332,
+        "pushed_at": "2026-08-24T20:44:49Z",
+        "updated_at": "2026-08-24T23:20:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "deca2ecfe634121c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/thunderbird/thunderbolt",
+      "kind": "github_repository",
+      "name": "thunderbird/thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "provider": "GitHub",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4768,
+        "forks": 328,
+        "pushed_at": "2026-08-24T23:38:04Z",
+        "updated_at": "2026-08-24T23:38:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8c9770e3fef395db",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/homeassistant-ai/ha-mcp",
+      "kind": "github_repository",
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "provider": "GitHub",
+      "description": "The Unofficial and Awesome Home Assistant MCP Server",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4503,
+        "forks": 196,
+        "pushed_at": "2026-08-24T23:38:34Z",
+        "updated_at": "2026-08-24T23:37:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "16f2bcd851d59091",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/taylorwilsdon/google_workspace_mcp",
+      "kind": "github_repository",
+      "name": "taylorwilsdon/google_workspace_mcp",
+      "url": "https://github.com/taylorwilsdon/google_workspace_mcp",
+      "provider": "GitHub",
+      "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3061,
+        "forks": 959,
+        "pushed_at": "2026-08-24T23:39:31Z",
+        "updated_at": "2026-08-24T23:39:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2099fb513c1c47e5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kmonkeyhead/MORT",
+      "kind": "github_repository",
+      "name": "kmonkeyhead/MORT",
+      "url": "https://github.com/kmonkeyhead/MORT",
+      "provider": "GitHub",
+      "description": "MORT 번역기 프로젝트 - Real-time game translator with OCR",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1725,
+        "forks": 85,
+        "pushed_at": "2026-08-24T16:16:15Z",
+        "updated_at": "2026-08-24T16:20:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "523d13bc162908d5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dicklesworthstone/pi_agent_rust",
+      "kind": "github_repository",
+      "name": "Dicklesworthstone/pi_agent_rust",
+      "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
+      "provider": "GitHub",
+      "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1645,
+        "forks": 197,
+        "pushed_at": "2026-08-24T23:37:11Z",
+        "updated_at": "2026-08-24T23:37:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8bcfab9885a26389",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mxsm/rocketmq-rust",
+      "kind": "github_repository",
+      "name": "mxsm/rocketmq-rust",
+      "url": "https://github.com/mxsm/rocketmq-rust",
+      "provider": "GitHub",
+      "description": "🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage. ⭐ Star to support our work❤️!",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1505,
+        "forks": 247,
+        "pushed_at": "2026-08-24T23:40:24Z",
+        "updated_at": "2026-08-24T23:40:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a2da391bf9691da5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zclucas/RMT",
+      "kind": "github_repository",
+      "name": "zclucas/RMT",
+      "url": "https://github.com/zclucas/RMT",
+      "provider": "GitHub",
+      "description": "RMT (RuoMengTu) is a free, open-source macro tool built on AHKv2. Let the code handle the tedious work—you have more meaningful things to do.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1088,
+        "forks": 89,
+        "pushed_at": "2026-08-24T17:01:18Z",
+        "updated_at": "2026-08-24T17:04:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a38ec207564e3df5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Muesli-HQ/muesli",
+      "kind": "github_repository",
+      "name": "Muesli-HQ/muesli",
+      "url": "https://github.com/Muesli-HQ/muesli",
+      "provider": "GitHub",
+      "description": "Muesli - agent-native local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1021,
+        "forks": 116,
+        "pushed_at": "2026-08-24T21:21:21Z",
+        "updated_at": "2026-08-24T23:24:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6b0dd337a7290861",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bpwhelan/GameSentenceMiner",
+      "kind": "github_repository",
+      "name": "bpwhelan/GameSentenceMiner",
+      "url": "https://github.com/bpwhelan/GameSentenceMiner",
+      "provider": "GitHub",
+      "description": "An immersion toolkit for learning Languages through games and other visual media.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 791,
+        "forks": 54,
+        "pushed_at": "2026-08-24T19:23:40Z",
+        "updated_at": "2026-08-24T19:24:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "61280f87e9339021",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/gakonst/nanocodex",
+      "kind": "github_repository",
+      "name": "gakonst/nanocodex",
+      "url": "https://github.com/gakonst/nanocodex",
+      "provider": "GitHub",
+      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 425,
+        "forks": 49,
+        "pushed_at": "2026-08-24T23:34:06Z",
+        "updated_at": "2026-08-24T23:34:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "eda45e03e7aa2e68",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cortexkit/aft",
+      "kind": "github_repository",
+      "name": "cortexkit/aft",
+      "url": "https://github.com/cortexkit/aft",
+      "provider": "GitHub",
+      "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, background tasks, PTY.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 258,
+        "forks": 32,
+        "pushed_at": "2026-08-24T23:10:15Z",
+        "updated_at": "2026-08-24T23:10:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "70dbcf012b818d56",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Higangssh/homebutler",
+      "kind": "github_repository",
+      "name": "Higangssh/homebutler",
+      "url": "https://github.com/Higangssh/homebutler",
+      "provider": "GitHub",
+      "description": "🏠 Manage your homelab from chat. Single binary, zero dependencies.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 248,
+        "forks": 16,
+        "pushed_at": "2026-08-24T23:38:53Z",
+        "updated_at": "2026-08-24T23:39:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7e0947a04ea6bb24",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/IvanMurzak/Godot-MCP",
+      "kind": "github_repository",
+      "name": "IvanMurzak/Godot-MCP",
+      "url": "https://github.com/IvanMurzak/Godot-MCP",
+      "provider": "GitHub",
+      "description": "Godot-MCP — Model Context Protocol (MCP) integration for the Godot Engine. AI tools for the Godot Editor in C#, with cloud connection to ai-game.dev. Apache-2.0.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 223,
+        "forks": 17,
+        "pushed_at": "2026-08-24T22:49:14Z",
+        "updated_at": "2026-08-24T22:46:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "266fe62bad9c2672",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/hugging-apps/sensenova-sensenova-u1-5-8b-mot",
+      "kind": "hf_space",
+      "name": "hugging-apps/sensenova-sensenova-u1-5-8b-mot",
+      "url": "https://huggingface.co/spaces/hugging-apps/sensenova-sensenova-u1-5-8b-mot",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 38,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "628c289d28b9de6e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
