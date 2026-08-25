@@ -478,7 +478,7 @@
       "fingerprint": "a6aeb7c2653f9d85"
     },
     "github_repository:https://github.com/scambier/obsidian-omnisearch": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-26",
       "fingerprint": "c262cf9a219a5fe6"
     },
     "github_repository:https://github.com/pymupdf/PyMuPDF": {
@@ -774,7 +774,7 @@
       "fingerprint": "22e15e61085b4d92"
     },
     "github_repository:https://github.com/karolswdev/HoldSpeak": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-26",
       "fingerprint": "67d2b7a7355f5ca3"
     },
     "github_repository:https://github.com/k2-fsa/sherpa-onnx": {
@@ -810,7 +810,7 @@
       "fingerprint": "296f8130054ca3dd"
     },
     "github_repository:https://github.com/archestra-ai/archestra": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-26",
       "fingerprint": "c3047252ae8fd1ef"
     },
     "github_repository:https://github.com/kentcdodds/kody": {
@@ -850,7 +850,7 @@
       "fingerprint": "353f2c707028f8c5"
     },
     "official_repository:https://github.com/mistralai/client-python": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-26",
       "fingerprint": "c22dc61d5841faca"
     },
     "official_repository:https://github.com/groq/openbench": {
@@ -1098,7 +1098,7 @@
       "fingerprint": "8a72ac2d9c807f4b"
     },
     "github_repository:https://github.com/icereed/paperless-gpt": {
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-08-26",
       "fingerprint": "7fc2a8b21cb08bd0"
     },
     "github_repository:https://github.com/mittagessen/kraken": {
@@ -1278,7 +1278,7 @@
       "fingerprint": "b0df11b730d993b4"
     },
     "github_repository:https://github.com/neomjs/neo": {
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-08-26",
       "fingerprint": "79c1b299dfe6a2b1"
     },
     "github_repository:https://github.com/vinkius-labs/mcpfusion": {
@@ -2764,6 +2764,54 @@
     "hf_space:https://huggingface.co/spaces/hugging-apps/sensenova-sensenova-u1-5-8b-mot": {
       "last_seen": "2026-08-25",
       "fingerprint": "628c289d28b9de6e"
+    },
+    "github_repository:https://github.com/wilfredinni/noodle": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "cdf5e17c0451c961"
+    },
+    "github_repository:https://github.com/blackdotsh/getIPIntel": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "33e27dfac6936ed2"
+    },
+    "github_repository:https://github.com/thiagotigaz/ocr-it": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "151da1036b33b3f5"
+    },
+    "github_repository:https://github.com/lemonade-sdk/lemonade": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "2f5c9e61ed072c3e"
+    },
+    "github_repository:https://github.com/Classic298/open-webui-plugins": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "1f02899bac422a29"
+    },
+    "github_repository:https://github.com/LTplus-AG/ifc-lite": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "c6ccaaf28212303e"
+    },
+    "github_repository:https://github.com/vivekchand/clawmetry": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "36927f05a306e0cc"
+    },
+    "github_repository:https://github.com/elie222/rakazo": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "4315eb1838d5ca66"
+    },
+    "hf_model:https://huggingface.co/models/superwhisper/s1-mini": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "227052f029088256"
+    },
+    "hf_space:https://huggingface.co/spaces/wank3r/Wan_2.2_I2V_14B-Clean": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "5558328d98384ab4"
+    },
+    "hf_space:https://huggingface.co/spaces/Lynote/free-ai-image-detector": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "876c5dfd48e078cb"
+    },
+    "hf_space:https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE": {
+      "last_seen": "2026-08-26",
+      "fingerprint": "a8fd1f7976cbe403"
     }
   }
 }

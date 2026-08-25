@@ -1,0 +1,492 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-26",
+  "generated_at": "2026-08-25T23:42:43.010782+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 18,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/mistralai/client-python",
+      "kind": "official_repository",
+      "name": "mistralai/client-python",
+      "url": "https://github.com/mistralai/client-python",
+      "provider": "mistralai",
+      "description": "Python client library for Mistral AI platform",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 763,
+        "pushed_at": "2026-08-21T18:06:05Z",
+        "updated_at": "2026-08-25T18:34:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c22dc61d5841faca",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lemonade-sdk/lemonade",
+      "kind": "github_repository",
+      "name": "lemonade-sdk/lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "provider": "GitHub",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5454,
+        "forks": 478,
+        "pushed_at": "2026-08-25T23:41:30Z",
+        "updated_at": "2026-08-25T23:42:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2f5c9e61ed072c3e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/archestra-ai/archestra",
+      "kind": "github_repository",
+      "name": "archestra-ai/archestra",
+      "url": "https://github.com/archestra-ai/archestra",
+      "provider": "GitHub",
+      "description": "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4231,
+        "forks": 1184,
+        "pushed_at": "2026-08-25T23:39:55Z",
+        "updated_at": "2026-08-25T23:36:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c3047252ae8fd1ef",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/neomjs/neo",
+      "kind": "github_repository",
+      "name": "neomjs/neo",
+      "url": "https://github.com/neomjs/neo",
+      "provider": "GitHub",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3261,
+        "forks": 231,
+        "pushed_at": "2026-08-25T23:28:00Z",
+        "updated_at": "2026-08-25T23:28:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "79c1b299dfe6a2b1",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/icereed/paperless-gpt",
+      "kind": "github_repository",
+      "name": "icereed/paperless-gpt",
+      "url": "https://github.com/icereed/paperless-gpt",
+      "provider": "GitHub",
+      "description": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2651,
+        "forks": 202,
+        "pushed_at": "2026-08-25T17:32:50Z",
+        "updated_at": "2026-08-25T21:35:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7fc2a8b21cb08bd0",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/scambier/obsidian-omnisearch",
+      "kind": "github_repository",
+      "name": "scambier/obsidian-omnisearch",
+      "url": "https://github.com/scambier/obsidian-omnisearch",
+      "provider": "GitHub",
+      "description": "A search engine that \"just works\" for Obsidian. Supports OCR and PDF indexing.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2125,
+        "forks": 113,
+        "pushed_at": "2026-08-25T16:43:46Z",
+        "updated_at": "2026-08-25T16:47:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c262cf9a219a5fe6",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/elie222/rakazo",
+      "kind": "github_repository",
+      "name": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "provider": "GitHub",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1286,
+        "forks": 206,
+        "pushed_at": "2026-08-25T23:39:54Z",
+        "updated_at": "2026-08-25T23:40:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4315eb1838d5ca66",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Classic298/open-webui-plugins",
+      "kind": "github_repository",
+      "name": "Classic298/open-webui-plugins",
+      "url": "https://github.com/Classic298/open-webui-plugins",
+      "provider": "GitHub",
+      "description": "A curated collection of Open WebUI plugins - tools, skills, filters, pipes, actions and events that extend your AI chat experience.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 529,
+        "forks": 25,
+        "pushed_at": "2026-08-25T23:40:01Z",
+        "updated_at": "2026-08-25T23:40:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1f02899bac422a29",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vivekchand/clawmetry",
+      "kind": "github_repository",
+      "name": "vivekchand/clawmetry",
+      "url": "https://github.com/vivekchand/clawmetry",
+      "provider": "GitHub",
+      "description": "See your agent think. Zero-config observability & governance for 26 AI agent runtimes: Claude Code, Cursor, OpenAI Codex, GitHub Copilot, Gemini CLI, Cline, OpenHands, Aider, Goose, OpenClaw, NVIDIA NemoClaw & more. Live token costs, sessions, tool calls, crons.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 401,
+        "forks": 65,
+        "pushed_at": "2026-08-25T23:42:12Z",
+        "updated_at": "2026-08-25T23:42:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "36927f05a306e0cc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/LTplus-AG/ifc-lite",
+      "kind": "github_repository",
+      "name": "LTplus-AG/ifc-lite",
+      "url": "https://github.com/LTplus-AG/ifc-lite",
+      "provider": "GitHub",
+      "description": "Open-source IFC toolkit: WebGPU rendering, columnar in-memory store, exact-arithmetic geometry kernel. Runs from a CDN. 30+ TypeScript packages and 5 Rust crates.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 346,
+        "forks": 96,
+        "pushed_at": "2026-08-25T23:42:29Z",
+        "updated_at": "2026-08-25T23:39:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c6ccaaf28212303e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/blackdotsh/getIPIntel",
+      "kind": "github_repository",
+      "name": "blackdotsh/getIPIntel",
+      "url": "https://github.com/blackdotsh/getIPIntel",
+      "provider": "GitHub",
+      "description": "IP Intelligence is a free Proxy VPN TOR and Bad IP detection tool to prevent Fraud, stolen content, and malicious users. Block proxies, VPN connections, web host IPs, TOR IPs, and compromised systems with a simple API. GeoIP lookup available.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 330,
+        "forks": 48,
+        "pushed_at": "2026-08-25T22:43:36Z",
+        "updated_at": "2026-08-25T22:47:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "33e27dfac6936ed2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/wilfredinni/noodle",
+      "kind": "github_repository",
+      "name": "wilfredinni/noodle",
+      "url": "https://github.com/wilfredinni/noodle",
+      "provider": "GitHub",
+      "description": "A delicious REST client for your terminal",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 269,
+        "forks": 4,
+        "pushed_at": "2026-08-25T23:17:24Z",
+        "updated_at": "2026-08-25T23:18:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cdf5e17c0451c961",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/karolswdev/HoldSpeak",
+      "kind": "github_repository",
+      "name": "karolswdev/HoldSpeak",
+      "url": "https://github.com/karolswdev/HoldSpeak",
+      "provider": "GitHub",
+      "description": "Cross-platform local voice typing and meeting transcription for macOS and Linux.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 248,
+        "forks": 2,
+        "pushed_at": "2026-08-25T21:28:36Z",
+        "updated_at": "2026-08-25T21:28:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "67d2b7a7355f5ca3",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/thiagotigaz/ocr-it",
+      "kind": "github_repository",
+      "name": "thiagotigaz/ocr-it",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "provider": "GitHub",
+      "description": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 239,
+        "forks": 14,
+        "pushed_at": "2026-08-25T21:22:15Z",
+        "updated_at": "2026-08-25T21:46:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "151da1036b33b3f5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/superwhisper/s1-mini",
+      "kind": "hf_model",
+      "name": "superwhisper/s1-mini",
+      "url": "https://huggingface.co/models/superwhisper/s1-mini",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2505.09388",
+        "asr",
+        "automatic-speech-recognition",
+        "base_model:finetune:qwen/qwen3-0.6b",
+        "base_model:qwen/qwen3-0.6b",
+        "conversational",
+        "dictation",
+        "en",
+        "endpoints_compatible",
+        "inverse-text-normalization",
+        "license:other",
+        "post-processing",
+        "punctuation",
+        "qwen3",
+        "region:us",
+        "safetensors",
+        "speech-to-text",
+        "text-generation",
+        "text-generation-inference",
+        "text-normalization",
+        "transformers",
+        "truecasing"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 3474,
+        "likes": 238,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "227052f029088256",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/Lynote/free-ai-image-detector",
+      "kind": "hf_space",
+      "name": "Lynote/free-ai-image-detector",
+      "url": "https://huggingface.co/spaces/Lynote/free-ai-image-detector",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "ai-image-checker",
+        "ai-image-detection",
+        "computer-vision",
+        "content-moderation",
+        "image-classification",
+        "image-generation",
+        "multilingual",
+        "region:us",
+        "static",
+        "synthetic-image-detection"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 79,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "876c5dfd48e078cb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/wank3r/Wan_2.2_I2V_14B-Clean",
+      "kind": "hf_space",
+      "name": "wank3r/Wan_2.2_I2V_14B-Clean",
+      "url": "https://huggingface.co/spaces/wank3r/Wan_2.2_I2V_14B-Clean",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 60,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5558328d98384ab4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE",
+      "kind": "hf_space",
+      "name": "kulkas2pintu/QWEN_EDIT_IMAGE",
+      "url": "https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 39,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a8fd1f7976cbe403",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
