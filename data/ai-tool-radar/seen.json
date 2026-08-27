@@ -58,7 +58,7 @@
       "fingerprint": "bc7b30c6a34fb6eb"
     },
     "github_repository:https://github.com/opendataloader-project/opendataloader-pdf": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-27",
       "fingerprint": "1bb5797e6f0fcca7"
     },
     "github_repository:https://github.com/JabRef/jabref": {
@@ -406,7 +406,7 @@
       "fingerprint": "445db4344e2a0d95"
     },
     "github_repository:https://github.com/infiniflow/ragflow": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-27",
       "fingerprint": "7049451086bb35e4"
     },
     "github_repository:https://github.com/simstudioai/sim": {
@@ -622,7 +622,7 @@
       "fingerprint": "566396cd0b856c8e"
     },
     "github_repository:https://github.com/Javis603/token-monitor": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-27",
       "fingerprint": "eaf087af50450ed2"
     },
     "github_repository:https://github.com/Nexus-JPF/note-companion": {
@@ -638,7 +638,7 @@
       "fingerprint": "57dda70164b50382"
     },
     "github_repository:https://github.com/zibo-chen/rust-paddle-ocr": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-27",
       "fingerprint": "0bb0818475d2a999"
     },
     "github_repository:https://github.com/ocrmypdf/OCRmyPDF": {
@@ -946,7 +946,7 @@
       "fingerprint": "ba3e0088dc8621ae"
     },
     "github_repository:https://github.com/run-llama/llama_index": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-27",
       "fingerprint": "fab4407881d4c7b2"
     },
     "github_repository:https://github.com/opensolon/solon-ai": {
@@ -1266,7 +1266,7 @@
       "fingerprint": "34afb15238a5ba04"
     },
     "github_repository:https://github.com/amicalhq/amical": {
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-08-27",
       "fingerprint": "8000207f2e5350d3"
     },
     "github_repository:https://github.com/island-io/mila": {
@@ -1350,7 +1350,7 @@
       "fingerprint": "800da8ad81c800d0"
     },
     "github_repository:https://github.com/HIllya51/LunaTranslator": {
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-08-27",
       "fingerprint": "d1b0d444293ce971"
     },
     "github_repository:https://github.com/huggingface/speech-to-speech": {
@@ -2812,6 +2812,90 @@
     "hf_space:https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE": {
       "last_seen": "2026-08-26",
       "fingerprint": "a8fd1f7976cbe403"
+    },
+    "github_repository:https://github.com/FunplayAI/funplay-unity-mcp": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "be5d014e3d2a3066"
+    },
+    "github_repository:https://github.com/alfredxw/denova": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "9d9e14f6c57a9c4f"
+    },
+    "github_repository:https://github.com/oomol-lab/pdf-craft": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "a990611831398b50"
+    },
+    "github_repository:https://github.com/LaoFeng-mouse/flyingmouse-format": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "a7aea95b92828df0"
+    },
+    "github_repository:https://github.com/TextGrabber2-app/TextGrabber2": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "83856c5399070a7c"
+    },
+    "github_repository:https://github.com/jamsch/expo-speech-recognition": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "bdcd2ae939efce5a"
+    },
+    "github_repository:https://github.com/RunanywhereAI/RCLI": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "ea612eb3dd424d56"
+    },
+    "github_repository:https://github.com/hi-godot/godot-ai": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "9a3f2a06c1b6ca98"
+    },
+    "github_repository:https://github.com/webiny/webiny-js": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "8209d9a244288d2c"
+    },
+    "github_repository:https://github.com/haydenbleasel/ultracite": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "507ae75632266812"
+    },
+    "github_repository:https://github.com/t8y2/dbx": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "9573535c823669e1"
+    },
+    "github_repository:https://github.com/ongridio/ongrid": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "879cd4befde80129"
+    },
+    "github_repository:https://github.com/Tencent/WeKnora": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "b408a21ed56bed53"
+    },
+    "github_repository:https://github.com/ZJU-REAL/Polaris": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "3a07ccd1b0c0931f"
+    },
+    "github_repository:https://github.com/23blocks-OS/ai-maestro": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "894b809b09ec0cc9"
+    },
+    "github_repository:https://github.com/theexperiencecompany/gaia": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "0a944123a49042c8"
+    },
+    "github_repository:https://github.com/jeremylongshore/tons-of-skills-marketplace": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "8bf62f76d177069b"
+    },
+    "official_repository:https://github.com/huggingface/huggingface_hub": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "17736985f2eb76cb"
+    },
+    "hf_model:https://huggingface.co/models/Qwen/Qwen3.8-Flash-Next": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "f4737e04df61d66d"
+    },
+    "hf_model:https://huggingface.co/models/zai-org/GLM-5.3-Flash": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "7461e2e22391759e"
+    },
+    "hf_model:https://huggingface.co/models/unsloth/Qwen3.8-Flash-Next-GGUF": {
+      "last_seen": "2026-08-27",
+      "fingerprint": "38853d6da9e3320e"
     }
   }
 }

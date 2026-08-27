@@ -1,0 +1,739 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T04:33:04.532690+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 28,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/huggingface_hub",
+      "kind": "official_repository",
+      "name": "huggingface/huggingface_hub",
+      "url": "https://github.com/huggingface/huggingface_hub",
+      "provider": "huggingface",
+      "description": "The official CLI and Python client for the Hugging Face Hub.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 3846,
+        "pushed_at": "2026-08-26T18:35:22Z",
+        "updated_at": "2026-08-27T03:49:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "17736985f2eb76cb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/infiniflow/ragflow",
+      "kind": "github_repository",
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "provider": "GitHub",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 89342,
+        "forks": 10514,
+        "pushed_at": "2026-08-27T04:18:18Z",
+        "updated_at": "2026-08-27T04:22:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7049451086bb35e4",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/run-llama/llama_index",
+      "kind": "github_repository",
+      "name": "run-llama/llama_index",
+      "url": "https://github.com/run-llama/llama_index",
+      "provider": "GitHub",
+      "description": "LlamaIndex is the leading document agent and OCR platform",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 51885,
+        "forks": 8029,
+        "pushed_at": "2026-08-27T04:16:34Z",
+        "updated_at": "2026-08-27T04:18:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fab4407881d4c7b2",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/opendataloader-project/opendataloader-pdf",
+      "kind": "github_repository",
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "provider": "GitHub",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 28819,
+        "forks": 2750,
+        "pushed_at": "2026-08-27T01:46:17Z",
+        "updated_at": "2026-08-27T03:13:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1bb5797e6f0fcca7",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Tencent/WeKnora",
+      "kind": "github_repository",
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "provider": "GitHub",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 20720,
+        "forks": 2975,
+        "pushed_at": "2026-08-27T03:53:45Z",
+        "updated_at": "2026-08-27T04:29:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b408a21ed56bed53",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/t8y2/dbx",
+      "kind": "github_repository",
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "provider": "GitHub",
+      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 16744,
+        "forks": 1647,
+        "pushed_at": "2026-08-27T04:28:20Z",
+        "updated_at": "2026-08-27T04:28:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9573535c823669e1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HIllya51/LunaTranslator",
+      "kind": "github_repository",
+      "name": "HIllya51/LunaTranslator",
+      "url": "https://github.com/HIllya51/LunaTranslator",
+      "provider": "GitHub",
+      "description": "视觉小说翻译器 / Visual Novel Translator",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12913,
+        "forks": 1134,
+        "pushed_at": "2026-08-27T04:05:53Z",
+        "updated_at": "2026-08-27T04:07:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d1b0d444293ce971",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/webiny/webiny-js",
+      "kind": "github_repository",
+      "name": "webiny/webiny-js",
+      "url": "https://github.com/webiny/webiny-js",
+      "provider": "GitHub",
+      "description": "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8031,
+        "forks": 673,
+        "pushed_at": "2026-08-27T04:30:10Z",
+        "updated_at": "2026-08-27T04:30:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8209d9a244288d2c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/oomol-lab/pdf-craft",
+      "kind": "github_repository",
+      "name": "oomol-lab/pdf-craft",
+      "url": "https://github.com/oomol-lab/pdf-craft",
+      "provider": "GitHub",
+      "description": "PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6226,
+        "forks": 442,
+        "pushed_at": "2026-08-27T04:10:19Z",
+        "updated_at": "2026-08-27T04:11:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a990611831398b50",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "kind": "github_repository",
+      "name": "LaoFeng-mouse/flyingmouse-format",
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "provider": "GitHub",
+      "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4622,
+        "forks": 411,
+        "pushed_at": "2026-08-27T03:37:19Z",
+        "updated_at": "2026-08-27T04:30:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a7aea95b92828df0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Qwen/Qwen3.8-Flash-Next",
+      "kind": "hf_model",
+      "name": "Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/models/Qwen/Qwen3.8-Flash-Next",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "conversational",
+        "endpoints_compatible",
+        "eval-results",
+        "image-text-to-text",
+        "license:other",
+        "qwen4_exp",
+        "region:us",
+        "safetensors",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 2551,
+        "likes": 3699,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f4737e04df61d66d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/haydenbleasel/ultracite",
+      "kind": "github_repository",
+      "name": "haydenbleasel/ultracite",
+      "url": "https://github.com/haydenbleasel/ultracite",
+      "provider": "GitHub",
+      "description": "A highly opinionated, zero-configuration linter and formatter.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3158,
+        "forks": 123,
+        "pushed_at": "2026-08-27T04:28:51Z",
+        "updated_at": "2026-08-27T04:29:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "507ae75632266812",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jeremylongshore/tons-of-skills-marketplace",
+      "kind": "github_repository",
+      "name": "jeremylongshore/tons-of-skills-marketplace",
+      "url": "https://github.com/jeremylongshore/tons-of-skills-marketplace",
+      "provider": "GitHub",
+      "description": "471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2679,
+        "forks": 393,
+        "pushed_at": "2026-08-27T04:25:52Z",
+        "updated_at": "2026-08-27T04:26:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8bf62f76d177069b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hi-godot/godot-ai",
+      "kind": "github_repository",
+      "name": "hi-godot/godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "provider": "GitHub",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1931,
+        "forks": 119,
+        "pushed_at": "2026-08-27T04:32:42Z",
+        "updated_at": "2026-08-27T04:32:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9a3f2a06c1b6ca98",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Javis603/token-monitor",
+      "kind": "github_repository",
+      "name": "Javis603/token-monitor",
+      "url": "https://github.com/Javis603/token-monitor",
+      "provider": "GitHub",
+      "description": "Local-first desktop widget for tracking token usage, costs, and limits across 32+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1751,
+        "forks": 163,
+        "pushed_at": "2026-08-27T03:12:14Z",
+        "updated_at": "2026-08-27T03:59:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "eaf087af50450ed2",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/RunanywhereAI/RCLI",
+      "kind": "github_repository",
+      "name": "RunanywhereAI/RCLI",
+      "url": "https://github.com/RunanywhereAI/RCLI",
+      "provider": "GitHub",
+      "description": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1542,
+        "forks": 84,
+        "pushed_at": "2026-08-26T21:18:17Z",
+        "updated_at": "2026-08-26T21:35:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ea612eb3dd424d56",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/amicalhq/amical",
+      "kind": "github_repository",
+      "name": "amicalhq/amical",
+      "url": "https://github.com/amicalhq/amical",
+      "provider": "GitHub",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1506,
+        "forks": 138,
+        "pushed_at": "2026-08-26T21:27:29Z",
+        "updated_at": "2026-08-26T21:36:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8000207f2e5350d3",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/zai-org/GLM-5.3-Flash",
+      "kind": "hf_model",
+      "name": "zai-org/GLM-5.3-Flash",
+      "url": "https://huggingface.co/models/zai-org/GLM-5.3-Flash",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2602.15763",
+        "conversational",
+        "en",
+        "endpoints_compatible",
+        "eval-results",
+        "fp8",
+        "glm5_next",
+        "image-text-to-text",
+        "license:mit",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers",
+        "zh"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 981,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7461e2e22391759e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ongridio/ongrid",
+      "kind": "github_repository",
+      "name": "ongridio/ongrid",
+      "url": "https://github.com/ongridio/ongrid",
+      "provider": "GitHub",
+      "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 900,
+        "forks": 196,
+        "pushed_at": "2026-08-27T04:06:52Z",
+        "updated_at": "2026-08-27T04:20:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "879cd4befde80129",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/23blocks-OS/ai-maestro",
+      "kind": "github_repository",
+      "name": "23blocks-OS/ai-maestro",
+      "url": "https://github.com/23blocks-OS/ai-maestro",
+      "provider": "GitHub",
+      "description": "AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents between computers and locations",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 759,
+        "forks": 100,
+        "pushed_at": "2026-08-27T04:29:27Z",
+        "updated_at": "2026-08-27T04:29:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "894b809b09ec0cc9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jamsch/expo-speech-recognition",
+      "kind": "github_repository",
+      "name": "jamsch/expo-speech-recognition",
+      "url": "https://github.com/jamsch/expo-speech-recognition",
+      "provider": "GitHub",
+      "description": "Speech Recognition for React Native Expo projects",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 668,
+        "forks": 50,
+        "pushed_at": "2026-08-27T00:54:23Z",
+        "updated_at": "2026-08-27T00:53:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bdcd2ae939efce5a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/alfredxw/denova",
+      "kind": "github_repository",
+      "name": "alfredxw/denova",
+      "url": "https://github.com/alfredxw/denova",
+      "provider": "GitHub",
+      "description": "An AI creative platform for novel writing and AI generated RPG, with built-in support for AI agents, Skills, subagent workflows, automations, image generation, and version control. 一个面向小说创作与 AI 角色扮演游戏的 AI 创作平台，内置支持 AI Agents、Skills、Subagent Workflows、Automations、图像自动生成与项目版本管理等核心能力",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 656,
+        "forks": 113,
+        "pushed_at": "2026-08-27T03:03:53Z",
+        "updated_at": "2026-08-27T03:05:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9d9e14f6c57a9c4f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/unsloth/Qwen3.8-Flash-Next-GGUF",
+      "kind": "hf_model",
+      "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "url": "https://huggingface.co/models/unsloth/Qwen3.8-Flash-Next-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:quantized:qwen/qwen3.8-flash-next",
+        "base_model:qwen/qwen3.8-flash-next",
+        "conversational",
+        "endpoints_compatible",
+        "gguf",
+        "image-text-to-text",
+        "imatrix",
+        "license:other",
+        "region:us",
+        "unsloth"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 370,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "38853d6da9e3320e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zibo-chen/rust-paddle-ocr",
+      "kind": "github_repository",
+      "name": "zibo-chen/rust-paddle-ocr",
+      "url": "https://github.com/zibo-chen/rust-paddle-ocr",
+      "provider": "GitHub",
+      "description": "高性能OCR识别库，支持上百种语言，提供命令行、图形界面及C API多种调用方式，使用便捷高效。 High-performance OCR library powered by PaddleOCR v4/v5/v6 with MNN backend. Supports 10+ languages (Chinese, English, Japanese, Korean, Arabic, Cyrillic, Thai, etc). Provides Rust crate + C API + CLI tools. Fast, lightweight, easy-to-integrate.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 318,
+        "forks": 42,
+        "pushed_at": "2026-08-27T01:36:26Z",
+        "updated_at": "2026-08-27T01:37:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0bb0818475d2a999",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/theexperiencecompany/gaia",
+      "kind": "github_repository",
+      "name": "theexperiencecompany/gaia",
+      "url": "https://github.com/theexperiencecompany/gaia",
+      "provider": "GitHub",
+      "description": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 278,
+        "forks": 36,
+        "pushed_at": "2026-08-27T04:31:56Z",
+        "updated_at": "2026-08-27T04:26:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0a944123a49042c8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/TextGrabber2-app/TextGrabber2",
+      "kind": "github_repository",
+      "name": "TextGrabber2-app/TextGrabber2",
+      "url": "https://github.com/TextGrabber2-app/TextGrabber2",
+      "provider": "GitHub",
+      "description": "Mac menu bar “Copy-to-Action” tool with support for extracting text from images.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 237,
+        "forks": 10,
+        "pushed_at": "2026-08-27T03:00:36Z",
+        "updated_at": "2026-08-27T03:02:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "83856c5399070a7c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/FunplayAI/funplay-unity-mcp",
+      "kind": "github_repository",
+      "name": "FunplayAI/funplay-unity-mcp",
+      "url": "https://github.com/FunplayAI/funplay-unity-mcp",
+      "provider": "GitHub",
+      "description": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input simulation, screenshots, and play mode automation.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 226,
+        "forks": 16,
+        "pushed_at": "2026-08-27T03:27:50Z",
+        "updated_at": "2026-08-27T03:32:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "be5d014e3d2a3066",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ZJU-REAL/Polaris",
+      "kind": "github_repository",
+      "name": "ZJU-REAL/Polaris",
+      "url": "https://github.com/ZJU-REAL/Polaris",
+      "provider": "GitHub",
+      "description": "Toward Autonomous Scientific Discovery",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 212,
+        "forks": 29,
+        "pushed_at": "2026-08-27T04:32:23Z",
+        "updated_at": "2026-08-27T04:32:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3a07ccd1b0c0931f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
