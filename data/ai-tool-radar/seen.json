@@ -98,7 +98,7 @@
       "fingerprint": "40dca180ef7e834b"
     },
     "github_repository:https://github.com/Osmantic/ODS": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-28",
       "fingerprint": "217acbd04b5164e0"
     },
     "github_repository:https://github.com/istupakov/onnx-asr": {
@@ -122,7 +122,7 @@
       "fingerprint": "eeaf04df23a5a786"
     },
     "github_repository:https://github.com/koala73/worldmonitor": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-08-28",
       "fingerprint": "812a574c81036a31"
     },
     "github_repository:https://github.com/openclaw/Peekaboo": {
@@ -194,8 +194,8 @@
       "fingerprint": "b12e6c23b90f145f"
     },
     "github_repository:https://github.com/Lyellr88/marm-memory": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "a8ed77b9f85b23e2"
+      "last_seen": "2026-08-28",
+      "fingerprint": "206c2ac714f4713c"
     },
     "github_repository:https://github.com/thunderbird/thunderbolt": {
       "last_seen": "2026-08-25",
@@ -610,7 +610,7 @@
       "fingerprint": "20773a1654ce917e"
     },
     "github_repository:https://github.com/Stack-Cairn/LiveAgent": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-28",
       "fingerprint": "a5e02f69b8a5e28c"
     },
     "github_repository:https://github.com/voidcraft-dev/memory-forge-rs": {
@@ -1110,7 +1110,7 @@
       "fingerprint": "4fb123a1b6bbf763"
     },
     "github_repository:https://github.com/nimbalyst/nimbalyst": {
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-08-28",
       "fingerprint": "4d7f419ce1522274"
     },
     "github_repository:https://github.com/n8n-io/n8n": {
@@ -1170,7 +1170,7 @@
       "fingerprint": "15a20427b068f124"
     },
     "github_repository:https://github.com/Zipstack/unstract": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-08-28",
       "fingerprint": "13d07eb2c6e8b798"
     },
     "github_repository:https://github.com/ballerine-io/ballerine": {
@@ -1262,7 +1262,7 @@
       "fingerprint": "a9bace421a6151a8"
     },
     "github_repository:https://github.com/scribeocr/scribe.js": {
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-08-28",
       "fingerprint": "34afb15238a5ba04"
     },
     "github_repository:https://github.com/amicalhq/amical": {
@@ -1442,7 +1442,7 @@
       "fingerprint": "cde354ec60186157"
     },
     "github_repository:https://github.com/mudler/LocalAI": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-08-28",
       "fingerprint": "9b31ea4ed64188db"
     },
     "github_repository:https://github.com/xr843/fojin": {
@@ -1466,7 +1466,7 @@
       "fingerprint": "bb5882e32e35a4cb"
     },
     "official_repository:https://github.com/openai/codex-security": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-08-28",
       "fingerprint": "635c613e2e4b8ad8"
     },
     "official_repository:https://github.com/openai/whisper": {
@@ -2896,6 +2896,94 @@
     "hf_model:https://huggingface.co/models/unsloth/Qwen3.8-Flash-Next-GGUF": {
       "last_seen": "2026-08-27",
       "fingerprint": "38853d6da9e3320e"
+    },
+    "github_repository:https://github.com/syrizelink/OpenFic": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "311955c4a1ca70ed"
+    },
+    "github_repository:https://github.com/shawnxie94/infinitum": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "604047042e44df59"
+    },
+    "github_repository:https://github.com/youngwoocho02/unity-cli": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "6c88bba99dc443c8"
+    },
+    "github_repository:https://github.com/ZumingHuang/awesome-ocr-resources": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "57db755a418e1686"
+    },
+    "github_repository:https://github.com/franklioxygen/v2s": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "76fa8839a0817574"
+    },
+    "github_repository:https://github.com/0xShug0/audio.cpp": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "a3579054edfd7cbf"
+    },
+    "github_repository:https://github.com/onecli/onecli": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "3f2f9d74dd9bf619"
+    },
+    "github_repository:https://github.com/Yanyutin753/LambChat": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "dc518f7542acc0dc"
+    },
+    "github_repository:https://github.com/comunica/comunica": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "d26f6473efca90fa"
+    },
+    "github_repository:https://github.com/nirholas/XActions": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "0f8659c3234cb398"
+    },
+    "github_repository:https://github.com/doobidoo/mcp-memory-service": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "70d829d8c45aeccd"
+    },
+    "github_repository:https://github.com/deepset-ai/haystack": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "ed200fd8cf1fbb40"
+    },
+    "github_repository:https://github.com/modelscope/evalscope": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "749e5a5222cf3277"
+    },
+    "github_repository:https://github.com/MemTensor/MemOS": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "01cb9bb55ec07232"
+    },
+    "github_repository:https://github.com/GreptimeTeam/greptimedb": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "0977f8ea450052f2"
+    },
+    "github_repository:https://github.com/datawhalechina/deepagents-in-action": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "99d8f3431129e349"
+    },
+    "github_repository:https://github.com/MervinPraison/PraisonAI": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "de132267fd81bf48"
+    },
+    "github_repository:https://github.com/kubeshop/testkube": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "6fab9fecbf5f923f"
+    },
+    "official_repository:https://github.com/groq/compound-mcp-server": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "5c0b4fc9537f6786"
+    },
+    "official_repository:https://github.com/openai/tiktoken": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "70f4bf3db214afad"
+    },
+    "official_repository:https://github.com/huggingface/transformers-mlinter": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "3875dca784455ae7"
+    },
+    "hf_space:https://huggingface.co/spaces/hugging-apps/4danyone-multiview-demo": {
+      "last_seen": "2026-08-28",
+      "fingerprint": "f4db2c7f604b83d2"
     }
   }
 }
