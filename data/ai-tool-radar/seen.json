@@ -554,7 +554,7 @@
       "fingerprint": "94e68fdd3979f670"
     },
     "github_repository:https://github.com/openwong2kim/wmux": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-08-31",
       "fingerprint": "e6a523f5816764c9"
     },
     "github_repository:https://github.com/InsForge/InsForge": {
@@ -626,7 +626,7 @@
       "fingerprint": "eaf087af50450ed2"
     },
     "github_repository:https://github.com/Nexus-JPF/note-companion": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-31",
       "fingerprint": "ff4fdd9663271ee1"
     },
     "github_repository:https://github.com/SnapXL/SnapX": {
@@ -698,7 +698,7 @@
       "fingerprint": "1324a9bf9be85940"
     },
     "github_repository:https://github.com/lioensky/VCPToolBox": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-31",
       "fingerprint": "1385ad52b69e582e"
     },
     "github_repository:https://github.com/chrisryugj/Docufinder": {
@@ -958,7 +958,7 @@
       "fingerprint": "e241ac5a6477a751"
     },
     "github_repository:https://github.com/w8123/EnterpriseAgentFramework": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-31",
       "fingerprint": "188db102441f87bf"
     },
     "github_repository:https://github.com/open-webui/open-webui": {
@@ -1342,7 +1342,7 @@
       "fingerprint": "0606a9bede6f3963"
     },
     "github_repository:https://github.com/ruvnet/RuVector": {
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-08-31",
       "fingerprint": "2d639d1453b2aa71"
     },
     "github_repository:https://github.com/hgmzhn/manga-translator-ui": {
@@ -1606,7 +1606,7 @@
       "fingerprint": "a29b34138b8fc7fa"
     },
     "github_repository:https://github.com/Kieirra/murmure": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-31",
       "fingerprint": "367d7514cb7e4e7c"
     },
     "github_repository:https://github.com/grisuno/LazyOwn": {
@@ -2984,6 +2984,74 @@
     "hf_space:https://huggingface.co/spaces/hugging-apps/4danyone-multiview-demo": {
       "last_seen": "2026-08-28",
       "fingerprint": "f4db2c7f604b83d2"
+    },
+    "github_repository:https://github.com/spring-ai-community/spring-ai-agent-utils": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "20cb09928040043f"
+    },
+    "github_repository:https://github.com/Zackriya-Solutions/meetily": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "545770f0a27069c4"
+    },
+    "github_repository:https://github.com/moltis-org/moltis": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "90e173219a4d1bee"
+    },
+    "github_repository:https://github.com/hatayama/unity-cli-loop": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "4227408103a7cc29"
+    },
+    "github_repository:https://github.com/samuelgursky/davinci-resolve-mcp": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "b01495460b911596"
+    },
+    "github_repository:https://github.com/yyjeqhc/webcodex": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "7e3d2cbb0f70b08a"
+    },
+    "github_repository:https://github.com/fancyboi999/ai-engineering-from-scratch-zh": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "c3b3420860c74504"
+    },
+    "github_repository:https://github.com/deeplethe/utopia": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "67ca3f66bb09eeea"
+    },
+    "github_repository:https://github.com/alibaba/skill-up": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "d52c04820d2b3c3b"
+    },
+    "github_repository:https://github.com/acryldev/acryl": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "853fce66d3eb7315"
+    },
+    "github_repository:https://github.com/earthtojake/text-to-cad": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "9228899be8ed7743"
+    },
+    "official_repository:https://github.com/mistralai/workflows-starter-app": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "ed64b09643139bde"
+    },
+    "official_repository:https://github.com/huggingface/datasets": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "cc074e3293407998"
+    },
+    "hf_model:https://huggingface.co/models/BreezeBlue/Breeze-TTS-2": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "1ca13d95be1e9043"
+    },
+    "hf_model:https://huggingface.co/models/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "65d787aca32ae661"
+    },
+    "hf_space:https://huggingface.co/spaces/victor/MiniMax-Music3-Jam": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "54123a0858b0432e"
+    },
+    "hf_space:https://huggingface.co/spaces/hugging-apps/firered-tts3": {
+      "last_seen": "2026-08-31",
+      "fingerprint": "1d2a70df83e5243c"
     }
   }
 }

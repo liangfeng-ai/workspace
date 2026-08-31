@@ -1,0 +1,621 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T01:24:09.537758+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 23,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/datasets",
+      "kind": "official_repository",
+      "name": "huggingface/datasets",
+      "url": "https://github.com/huggingface/datasets",
+      "provider": "huggingface",
+      "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 21879,
+        "pushed_at": "2026-08-28T13:21:25Z",
+        "updated_at": "2026-08-31T01:17:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cc074e3293407998",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/workflows-starter-app",
+      "kind": "official_repository",
+      "name": "mistralai/workflows-starter-app",
+      "url": "https://github.com/mistralai/workflows-starter-app",
+      "provider": "mistralai",
+      "description": "Base template to register and invoke workflows",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 33,
+        "pushed_at": "2026-08-28T15:09:07Z",
+        "updated_at": "2026-08-30T19:55:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ed64b09643139bde",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Zackriya-Solutions/meetily",
+      "kind": "github_repository",
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "provider": "GitHub",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 30110,
+        "forks": 3243,
+        "pushed_at": "2026-08-30T23:58:02Z",
+        "updated_at": "2026-08-31T01:20:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "545770f0a27069c4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/earthtojake/text-to-cad",
+      "kind": "github_repository",
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "provider": "GitHub",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 14051,
+        "forks": 1494,
+        "pushed_at": "2026-08-31T01:23:53Z",
+        "updated_at": "2026-08-31T01:17:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9228899be8ed7743",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ruvnet/RuVector",
+      "kind": "github_repository",
+      "name": "ruvnet/RuVector",
+      "url": "https://github.com/ruvnet/RuVector",
+      "provider": "GitHub",
+      "description": "RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4470,
+        "forks": 591,
+        "pushed_at": "2026-08-30T16:22:10Z",
+        "updated_at": "2026-08-30T20:04:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2d639d1453b2aa71",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/moltis-org/moltis",
+      "kind": "github_repository",
+      "name": "moltis-org/moltis",
+      "url": "https://github.com/moltis-org/moltis",
+      "provider": "GitHub",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2841,
+        "forks": 342,
+        "pushed_at": "2026-08-31T01:22:47Z",
+        "updated_at": "2026-08-31T01:22:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "90e173219a4d1bee",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/samuelgursky/davinci-resolve-mcp",
+      "kind": "github_repository",
+      "name": "samuelgursky/davinci-resolve-mcp",
+      "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+      "provider": "GitHub",
+      "description": "MCP server integration for DaVinci Resolve Studio",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2332,
+        "forks": 271,
+        "pushed_at": "2026-08-31T01:22:24Z",
+        "updated_at": "2026-08-31T01:22:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b01495460b911596",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lioensky/VCPToolBox",
+      "kind": "github_repository",
+      "name": "lioensky/VCPToolBox",
+      "url": "https://github.com/lioensky/VCPToolBox",
+      "provider": "GitHub",
+      "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2277,
+        "forks": 373,
+        "pushed_at": "2026-08-31T00:45:35Z",
+        "updated_at": "2026-08-31T00:45:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1385ad52b69e582e",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Kieirra/murmure",
+      "kind": "github_repository",
+      "name": "Kieirra/murmure",
+      "url": "https://github.com/Kieirra/murmure",
+      "provider": "GitHub",
+      "description": "Fully local, private and cross platform Speech-to-Text with LLM Post-processing",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1043,
+        "forks": 94,
+        "pushed_at": "2026-08-30T22:39:05Z",
+        "updated_at": "2026-08-30T22:39:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "367d7514cb7e4e7c",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "kind": "github_repository",
+      "name": "fancyboi999/ai-engineering-from-scratch-zh",
+      "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "provider": "GitHub",
+      "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1007,
+        "forks": 159,
+        "pushed_at": "2026-08-31T01:21:23Z",
+        "updated_at": "2026-08-31T01:21:30Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c3b3420860c74504",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Nexus-JPF/note-companion",
+      "kind": "github_repository",
+      "name": "Nexus-JPF/note-companion",
+      "url": "https://github.com/Nexus-JPF/note-companion",
+      "provider": "GitHub",
+      "description": "Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 859,
+        "forks": 119,
+        "pushed_at": "2026-08-31T00:38:57Z",
+        "updated_at": "2026-08-31T00:39:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ff4fdd9663271ee1",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/alibaba/skill-up",
+      "kind": "github_repository",
+      "name": "alibaba/skill-up",
+      "url": "https://github.com/alibaba/skill-up",
+      "provider": "GitHub",
+      "description": "An evaluation and evolution tool for Agent Skills.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 757,
+        "forks": 55,
+        "pushed_at": "2026-08-31T01:19:15Z",
+        "updated_at": "2026-08-31T01:19:41Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d52c04820d2b3c3b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/deeplethe/utopia",
+      "kind": "github_repository",
+      "name": "deeplethe/utopia",
+      "url": "https://github.com/deeplethe/utopia",
+      "provider": "GitHub",
+      "description": "World's first open-source enterprise world model.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 725,
+        "forks": 64,
+        "pushed_at": "2026-08-31T01:16:39Z",
+        "updated_at": "2026-08-31T00:57:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "67ca3f66bb09eeea",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/w8123/EnterpriseAgentFramework",
+      "kind": "github_repository",
+      "name": "w8123/EnterpriseAgentFramework",
+      "url": "https://github.com/w8123/EnterpriseAgentFramework",
+      "provider": "GitHub",
+      "description": "ReachAI企业级智能体开发平台：快速、安全完成已有业务系统智能化改造，让 AI 在 OA、ERP、CRM 等原系统中查数据、填表单、办业务。ReachAI: Quickly and securely bring AI to existing enterprise systems, enabling AI to query data, fill out forms, and execute business tasks directly within OA, ERP, CRM, and other business applications.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 619,
+        "forks": 47,
+        "pushed_at": "2026-08-31T01:09:51Z",
+        "updated_at": "2026-08-31T01:10:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "188db102441f87bf",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/spring-ai-community/spring-ai-agent-utils",
+      "kind": "github_repository",
+      "name": "spring-ai-community/spring-ai-agent-utils",
+      "url": "https://github.com/spring-ai-community/spring-ai-agent-utils",
+      "provider": "GitHub",
+      "description": "A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 610,
+        "forks": 117,
+        "pushed_at": "2026-08-30T22:49:45Z",
+        "updated_at": "2026-08-30T22:45:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "20cb09928040043f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hatayama/unity-cli-loop",
+      "kind": "github_repository",
+      "name": "hatayama/unity-cli-loop",
+      "url": "https://github.com/hatayama/unity-cli-loop",
+      "provider": "GitHub",
+      "description": "Let AI Drive Unity, from Editor to Play Mode.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 520,
+        "forks": 44,
+        "pushed_at": "2026-08-31T01:23:14Z",
+        "updated_at": "2026-08-30T17:52:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4227408103a7cc29",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/openwong2kim/wmux",
+      "kind": "github_repository",
+      "name": "openwong2kim/wmux",
+      "url": "https://github.com/openwong2kim/wmux",
+      "provider": "GitHub",
+      "description": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 362,
+        "forks": 62,
+        "pushed_at": "2026-08-31T01:22:24Z",
+        "updated_at": "2026-08-31T01:22:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e6a523f5816764c9",
+        "novel": false,
+        "dedup_age_days": 46
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/acryldev/acryl",
+      "kind": "github_repository",
+      "name": "acryldev/acryl",
+      "url": "https://github.com/acryldev/acryl",
+      "provider": "GitHub",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 228,
+        "forks": 26,
+        "pushed_at": "2026-08-31T01:17:40Z",
+        "updated_at": "2026-08-31T01:17:43Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "853fce66d3eb7315",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/BreezeBlue/Breeze-TTS-2",
+      "kind": "hf_model",
+      "name": "BreezeBlue/Breeze-TTS-2",
+      "url": "https://huggingface.co/models/BreezeBlue/Breeze-TTS-2",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "breeze",
+        "cuda",
+        "en",
+        "endpoints_compatible",
+        "license:other",
+        "pytorch",
+        "region:us",
+        "safetensors",
+        "speech-generation",
+        "text-generation",
+        "text-to-speech",
+        "transformers",
+        "voice-clone",
+        "voice-design",
+        "voice-direction",
+        "zh"
+      ],
+      "input_output": "text-to-speech -> inference result",
+      "signals": {
+        "downloads": 1838,
+        "likes": 212,
+        "updated_at": null,
+        "pipeline_tag": "text-to-speech"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1ca13d95be1e9043",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yyjeqhc/webcodex",
+      "kind": "github_repository",
+      "name": "yyjeqhc/webcodex",
+      "url": "https://github.com/yyjeqhc/webcodex",
+      "provider": "GitHub",
+      "description": "Give cloud AI agents a real development environment on your own machines.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 24,
+        "pushed_at": "2026-08-31T01:22:00Z",
+        "updated_at": "2026-08-31T01:22:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7e3d2cbb0f70b08a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+      "kind": "hf_model",
+      "name": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+      "url": "https://huggingface.co/models/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2405.14867",
+        "audio",
+        "base_model:finetune:minimaxai/minimax-h3",
+        "base_model:minimaxai/minimax-h3",
+        "diffusers",
+        "distillation",
+        "dmd2",
+        "fasth3",
+        "fastvideo",
+        "few-step",
+        "license:other",
+        "minimax-h3",
+        "preview",
+        "region:us",
+        "safetensors",
+        "text-to-audio-video",
+        "text-to-video",
+        "video"
+      ],
+      "input_output": "text-to-video -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 193,
+        "updated_at": null,
+        "pipeline_tag": "text-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "65d787aca32ae661",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/victor/MiniMax-Music3-Jam",
+      "kind": "hf_space",
+      "name": "victor/MiniMax-Music3-Jam",
+      "url": "https://huggingface.co/spaces/victor/MiniMax-Music3-Jam",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 62,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "54123a0858b0432e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/hugging-apps/firered-tts3",
+      "kind": "hf_space",
+      "name": "hugging-apps/firered-tts3",
+      "url": "https://huggingface.co/spaces/hugging-apps/firered-tts3",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 61,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1d2a70df83e5243c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
