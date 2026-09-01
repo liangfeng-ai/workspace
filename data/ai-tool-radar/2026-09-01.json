@@ -1,0 +1,600 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T01:52:06.602980+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 23,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/sentence-transformers",
+      "kind": "official_repository",
+      "name": "huggingface/sentence-transformers",
+      "url": "https://github.com/huggingface/sentence-transformers",
+      "provider": "huggingface",
+      "description": "State-of-the-Art Embeddings, Retrieval, and Reranking",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 19053,
+        "pushed_at": "2026-08-31T13:38:19Z",
+        "updated_at": "2026-09-01T01:48:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1c5ea1f92f86fb01",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/search-starter-app",
+      "kind": "official_repository",
+      "name": "mistralai/search-starter-app",
+      "url": "https://github.com/mistralai/search-starter-app",
+      "provider": "mistralai",
+      "description": "Base template to build, manage and improve search engines",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 31,
+        "pushed_at": "2026-08-31T13:42:06Z",
+        "updated_at": "2026-08-31T22:17:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "995981aca03f2fd4",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/PDFMathTranslate/PDFMathTranslate",
+      "kind": "github_repository",
+      "name": "PDFMathTranslate/PDFMathTranslate",
+      "url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
+      "provider": "GitHub",
+      "description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 36528,
+        "forks": 3266,
+        "pushed_at": "2026-09-01T01:48:55Z",
+        "updated_at": "2026-09-01T01:49:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a24b297a6c95a795",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cjpais/Handy",
+      "kind": "github_repository",
+      "name": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "provider": "GitHub",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 30770,
+        "forks": 2772,
+        "pushed_at": "2026-08-31T23:21:44Z",
+        "updated_at": "2026-09-01T01:51:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "99dfca28439d8179",
+        "novel": false,
+        "dedup_age_days": 46
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/getzep/graphiti",
+      "kind": "github_repository",
+      "name": "getzep/graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "provider": "GitHub",
+      "description": "Build Real-Time Knowledge Graphs for AI Agents",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 30468,
+        "forks": 3091,
+        "pushed_at": "2026-09-01T01:49:21Z",
+        "updated_at": "2026-09-01T01:43:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e5d145bd749b4236",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/casdoor/casdoor",
+      "kind": "github_repository",
+      "name": "casdoor/casdoor",
+      "url": "https://github.com/casdoor/casdoor",
+      "provider": "GitHub",
+      "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 14303,
+        "forks": 1792,
+        "pushed_at": "2026-09-01T01:46:28Z",
+        "updated_at": "2026-09-01T01:45:41Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5bbf71abd8a129fd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Uberi/speech_recognition",
+      "kind": "github_repository",
+      "name": "Uberi/speech_recognition",
+      "url": "https://github.com/Uberi/speech_recognition",
+      "provider": "GitHub",
+      "description": "Speech recognition module for Python, supporting several engines and APIs, online and offline.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8987,
+        "forks": 2417,
+        "pushed_at": "2026-08-31T23:18:41Z",
+        "updated_at": "2026-08-31T23:19:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a29b34138b8fc7fa",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CursorTouch/Windows-MCP",
+      "kind": "github_repository",
+      "name": "CursorTouch/Windows-MCP",
+      "url": "https://github.com/CursorTouch/Windows-MCP",
+      "provider": "GitHub",
+      "description": "MCP Server for Computer Use in Windows",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6865,
+        "forks": 831,
+        "pushed_at": "2026-09-01T01:51:31Z",
+        "updated_at": "2026-09-01T01:51:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3db4a7b335398986",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pydantic/logfire",
+      "kind": "github_repository",
+      "name": "pydantic/logfire",
+      "url": "https://github.com/pydantic/logfire",
+      "provider": "GitHub",
+      "description": "AI observability platform for production LLM and agent systems.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4448,
+        "forks": 283,
+        "pushed_at": "2026-09-01T01:43:24Z",
+        "updated_at": "2026-09-01T01:43:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "15a20427b068f124",
+        "novel": false,
+        "dedup_age_days": 39
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SteveTheKiller/KillerPDF",
+      "kind": "github_repository",
+      "name": "SteveTheKiller/KillerPDF",
+      "url": "https://github.com/SteveTheKiller/KillerPDF",
+      "provider": "GitHub",
+      "description": "Free and open-source PDF editor for Windows with a built-in PDF 2.0 engine. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, draw, sign, fill forms, print, flatten, and open password-protected PDFs without a subscription.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3724,
+        "forks": 290,
+        "pushed_at": "2026-08-31T23:04:00Z",
+        "updated_at": "2026-09-01T01:18:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e856e5fb83ab774f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/future-agi/future-agi",
+      "kind": "github_repository",
+      "name": "future-agi/future-agi",
+      "url": "https://github.com/future-agi/future-agi",
+      "provider": "GitHub",
+      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1881,
+        "forks": 567,
+        "pushed_at": "2026-09-01T01:30:18Z",
+        "updated_at": "2026-09-01T01:51:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3593d1f6e34273b7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/PaulDuvall/ai-development-patterns",
+      "kind": "github_repository",
+      "name": "PaulDuvall/ai-development-patterns",
+      "url": "https://github.com/PaulDuvall/ai-development-patterns",
+      "provider": "GitHub",
+      "description": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations patterns with practical examples and anti-patterns.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 646,
+        "forks": 54,
+        "pushed_at": "2026-09-01T00:25:03Z",
+        "updated_at": "2026-09-01T00:25:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2c1584df94e7d89d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/alibaba/anolisa",
+      "kind": "github_repository",
+      "name": "alibaba/anolisa",
+      "url": "https://github.com/alibaba/anolisa",
+      "provider": "GitHub",
+      "description": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 616,
+        "forks": 106,
+        "pushed_at": "2026-09-01T01:49:56Z",
+        "updated_at": "2026-09-01T01:50:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "70cede5e954c5387",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/felladrin/MiniSearch",
+      "kind": "github_repository",
+      "name": "felladrin/MiniSearch",
+      "url": "https://github.com/felladrin/MiniSearch",
+      "provider": "GitHub",
+      "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 586,
+        "forks": 65,
+        "pushed_at": "2026-09-01T01:32:56Z",
+        "updated_at": "2026-09-01T01:33:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e602b907444e9f32",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/duriantaco/skylos",
+      "kind": "github_repository",
+      "name": "duriantaco/skylos",
+      "url": "https://github.com/duriantaco/skylos",
+      "provider": "GitHub",
+      "description": "Open source local-first PR scanner that finds dead code, security bugs, secrets, quality regressions, and AI-code mistakes before merge. For first timers refer to https://duriantaco.github.io/skylos/repo-map/",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 545,
+        "forks": 30,
+        "pushed_at": "2026-09-01T01:47:24Z",
+        "updated_at": "2026-09-01T01:47:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "019120790ed0aae7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kgoedecke/doop",
+      "kind": "github_repository",
+      "name": "kgoedecke/doop",
+      "url": "https://github.com/kgoedecke/doop",
+      "provider": "GitHub",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 541,
+        "forks": 62,
+        "pushed_at": "2026-09-01T01:51:36Z",
+        "updated_at": "2026-09-01T01:51:22Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7eafcaf7812a21c2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aqm857886159/Nomi",
+      "kind": "github_repository",
+      "name": "aqm857886159/Nomi",
+      "url": "https://github.com/aqm857886159/Nomi",
+      "provider": "GitHub",
+      "description": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 468,
+        "forks": 101,
+        "pushed_at": "2026-09-01T01:46:25Z",
+        "updated_at": "2026-09-01T01:49:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b337b5a5bb50358b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xzf-thu/VoiceMem",
+      "kind": "github_repository",
+      "name": "xzf-thu/VoiceMem",
+      "url": "https://github.com/xzf-thu/VoiceMem",
+      "provider": "GitHub",
+      "description": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 460,
+        "forks": 45,
+        "pushed_at": "2026-09-01T01:12:28Z",
+        "updated_at": "2026-09-01T01:13:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "55d2d297d1a5d44b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JetBrains/thinkrail",
+      "kind": "github_repository",
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "provider": "GitHub",
+      "description": "Vibe code with pi in a lightweight, real IDE - The Vibe You Need",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 375,
+        "forks": 26,
+        "pushed_at": "2026-09-01T01:19:30Z",
+        "updated_at": "2026-09-01T00:57:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "946d039676c46ac8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "kind": "hf_model",
+      "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "url": "https://huggingface.co/models/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "deepseek_v4",
+        "endpoints_compatible",
+        "eval-results",
+        "fp8",
+        "image-text-to-text",
+        "license:mit",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 353,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "15d9fdf8bdde9926",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yuxino/kiri",
+      "kind": "github_repository",
+      "name": "yuxino/kiri",
+      "url": "https://github.com/yuxino/kiri",
+      "provider": "GitHub",
+      "description": "A fast, local-first workspace for screenshots, annotation, OCR, and screen recording.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 221,
+        "forks": 33,
+        "pushed_at": "2026-09-01T01:06:08Z",
+        "updated_at": "2026-09-01T01:06:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1496b0e313bed875",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/wank3r/wan2-2-i2v-v3-WOW",
+      "kind": "hf_space",
+      "name": "wank3r/wan2-2-i2v-v3-WOW",
+      "url": "https://huggingface.co/spaces/wank3r/wan2-2-i2v-v3-WOW",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 66,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3fc655b1909a2a2b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/BreezeBlue/breeze-tts-2-demo",
+      "kind": "hf_space",
+      "name": "BreezeBlue/breeze-tts-2-demo",
+      "url": "https://huggingface.co/spaces/BreezeBlue/breeze-tts-2-demo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 29,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "283606190b4de7e3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

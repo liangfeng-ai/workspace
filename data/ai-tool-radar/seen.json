@@ -646,7 +646,7 @@
       "fingerprint": "698e864b28ec4dc2"
     },
     "github_repository:https://github.com/cjpais/Handy": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-09-01",
       "fingerprint": "99dfca28439d8179"
     },
     "github_repository:https://github.com/peteonrails/voxtype": {
@@ -986,7 +986,7 @@
       "fingerprint": "b194d798f144f754"
     },
     "official_repository:https://github.com/mistralai/search-starter-app": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-01",
       "fingerprint": "995981aca03f2fd4"
     },
     "official_repository:https://github.com/openai/orchard": {
@@ -1126,7 +1126,7 @@
       "fingerprint": "cb89f0db4c761eb9"
     },
     "github_repository:https://github.com/getzep/graphiti": {
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-09-01",
       "fingerprint": "e5d145bd749b4236"
     },
     "github_repository:https://github.com/morphik-org/morphik-core": {
@@ -1166,7 +1166,7 @@
       "fingerprint": "0d099da41dd2e18a"
     },
     "github_repository:https://github.com/pydantic/logfire": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-09-01",
       "fingerprint": "15a20427b068f124"
     },
     "github_repository:https://github.com/Zipstack/unstract": {
@@ -1602,7 +1602,7 @@
       "fingerprint": "0c7f861b4ea3302d"
     },
     "github_repository:https://github.com/Uberi/speech_recognition": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-09-01",
       "fingerprint": "a29b34138b8fc7fa"
     },
     "github_repository:https://github.com/Kieirra/murmure": {
@@ -1618,7 +1618,7 @@
       "fingerprint": "c3d91be5ed48936e"
     },
     "github_repository:https://github.com/felladrin/MiniSearch": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-09-01",
       "fingerprint": "e602b907444e9f32"
     },
     "github_repository:https://github.com/MODSetter/SurfSense": {
@@ -3052,6 +3052,74 @@
     "hf_space:https://huggingface.co/spaces/hugging-apps/firered-tts3": {
       "last_seen": "2026-08-31",
       "fingerprint": "1d2a70df83e5243c"
+    },
+    "github_repository:https://github.com/xzf-thu/VoiceMem": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "55d2d297d1a5d44b"
+    },
+    "github_repository:https://github.com/JetBrains/thinkrail": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "946d039676c46ac8"
+    },
+    "github_repository:https://github.com/PaulDuvall/ai-development-patterns": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "2c1584df94e7d89d"
+    },
+    "github_repository:https://github.com/yuxino/kiri": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "1496b0e313bed875"
+    },
+    "github_repository:https://github.com/SteveTheKiller/KillerPDF": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "e856e5fb83ab774f"
+    },
+    "github_repository:https://github.com/CursorTouch/Windows-MCP": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "3db4a7b335398986"
+    },
+    "github_repository:https://github.com/kgoedecke/doop": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "7eafcaf7812a21c2"
+    },
+    "github_repository:https://github.com/PDFMathTranslate/PDFMathTranslate": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "a24b297a6c95a795"
+    },
+    "github_repository:https://github.com/aqm857886159/Nomi": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "b337b5a5bb50358b"
+    },
+    "github_repository:https://github.com/casdoor/casdoor": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "5bbf71abd8a129fd"
+    },
+    "github_repository:https://github.com/future-agi/future-agi": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "3593d1f6e34273b7"
+    },
+    "github_repository:https://github.com/alibaba/anolisa": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "70cede5e954c5387"
+    },
+    "github_repository:https://github.com/duriantaco/skylos": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "019120790ed0aae7"
+    },
+    "official_repository:https://github.com/huggingface/sentence-transformers": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "1c5ea1f92f86fb01"
+    },
+    "hf_model:https://huggingface.co/models/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "15d9fdf8bdde9926"
+    },
+    "hf_space:https://huggingface.co/spaces/BreezeBlue/breeze-tts-2-demo": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "283606190b4de7e3"
+    },
+    "hf_space:https://huggingface.co/spaces/wank3r/wan2-2-i2v-v3-WOW": {
+      "last_seen": "2026-09-01",
+      "fingerprint": "3fc655b1909a2a2b"
     }
   }
 }
