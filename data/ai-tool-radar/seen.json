@@ -210,7 +210,7 @@
       "fingerprint": "a6f35268706d8cff"
     },
     "github_repository:https://github.com/firecrawl/firecrawl": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-09-02",
       "fingerprint": "32401ba5aed008d7"
     },
     "github_repository:https://github.com/stablyai/orca": {
@@ -382,8 +382,8 @@
       "fingerprint": "5ce5d69f97c2b29e"
     },
     "github_repository:https://github.com/RunMaestro/Maestro": {
-      "last_seen": "2026-07-15",
-      "fingerprint": "074fb16cbb1f4803"
+      "last_seen": "2026-09-02",
+      "fingerprint": "0a9636a440f75930"
     },
     "github_repository:https://github.com/BlockRunAI/ClawRouter": {
       "last_seen": "2026-07-15",
@@ -634,7 +634,7 @@
       "fingerprint": "fa64ff28ae309483"
     },
     "github_repository:https://github.com/meangrinch/MangaTranslator": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-09-02",
       "fingerprint": "57dda70164b50382"
     },
     "github_repository:https://github.com/zibo-chen/rust-paddle-ocr": {
@@ -642,7 +642,7 @@
       "fingerprint": "0bb0818475d2a999"
     },
     "github_repository:https://github.com/ocrmypdf/OCRmyPDF": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-09-02",
       "fingerprint": "698e864b28ec4dc2"
     },
     "github_repository:https://github.com/cjpais/Handy": {
@@ -906,7 +906,7 @@
       "fingerprint": "9749d6d21bf647f1"
     },
     "github_repository:https://github.com/lzhgus/Capso": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-02",
       "fingerprint": "888c7cf8ba26c387"
     },
     "github_repository:https://github.com/qurator-spk/eynollah": {
@@ -1058,7 +1058,7 @@
       "fingerprint": "2fd74076b5d650f0"
     },
     "github_repository:https://github.com/mock-server/mockserver-monorepo": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-09-02",
       "fingerprint": "20627bd40edc161f"
     },
     "github_repository:https://github.com/usemoss/moss": {
@@ -1226,7 +1226,7 @@
       "fingerprint": "861b0c8867769381"
     },
     "github_repository:https://github.com/sipyourdrink-ltd/bernstein": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-09-02",
       "fingerprint": "6c279b4034722a08"
     },
     "github_repository:https://github.com/boshu2/agentops": {
@@ -1626,7 +1626,7 @@
       "fingerprint": "827feaf6528eb939"
     },
     "github_repository:https://github.com/melgarafael/DeskcommCRM": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-09-02",
       "fingerprint": "b90426ebdca2a808"
     },
     "github_repository:https://github.com/multikernel/sandlock": {
@@ -1714,7 +1714,7 @@
       "fingerprint": "625ea0287f561aa5"
     },
     "official_repository:https://github.com/openai/openai-agents-python": {
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-09-02",
       "fingerprint": "77fd46ca26fe0c82"
     },
     "hf_model:https://huggingface.co/models/thinkingmachines/Inkling-Small": {
@@ -3120,6 +3120,70 @@
     "hf_space:https://huggingface.co/spaces/wank3r/wan2-2-i2v-v3-WOW": {
       "last_seen": "2026-09-01",
       "fingerprint": "3fc655b1909a2a2b"
+    },
+    "github_repository:https://github.com/marc-shade/world-intel-mcp": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "f3f4c42d7cde6e27"
+    },
+    "github_repository:https://github.com/riponcm/projectmem": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "8525b1ccfb1c1ead"
+    },
+    "github_repository:https://github.com/meizhong986/WhisperJAV": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "7c4987afc1152e20"
+    },
+    "github_repository:https://github.com/QwenAudio/Fun-ASR": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "49797bbd884fdc5c"
+    },
+    "github_repository:https://github.com/Dominic789654/awesome-deepseek-harness": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "6940c2b3332128f8"
+    },
+    "github_repository:https://github.com/open-metadata/OpenMetadata": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "0db415575955c2f6"
+    },
+    "github_repository:https://github.com/Hmbown/CodeWhale": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "03c2f984dc8f9a65"
+    },
+    "github_repository:https://github.com/moyangzhan/langchain4j-aideepin": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "015d7cf322c16ec7"
+    },
+    "github_repository:https://github.com/KnockOutEZ/wigolo": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "bb1d76f5c202d595"
+    },
+    "github_repository:https://github.com/microsoft/graphrag": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "0449b3a29a899f73"
+    },
+    "github_repository:https://github.com/1Panel-dev/MaxKB": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "d7a4297295b8f76a"
+    },
+    "github_repository:https://github.com/tinyhumansai/openhuman": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "ccae742f6b78f247"
+    },
+    "github_repository:https://github.com/jentic/jentic-public-apis": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "6fac6ee7f8b53e7f"
+    },
+    "github_repository:https://github.com/Prysai/Prysai-LLM-Playbook": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "497eaf13676926a5"
+    },
+    "hf_model:https://huggingface.co/models/pipecat-ai/phonellm-alpha-1": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "94102c7349f1db6e"
+    },
+    "hf_space:https://huggingface.co/spaces/Saravutw/WAN2.2_I2V_LIGHTNING_4-8step_custom": {
+      "last_seen": "2026-09-02",
+      "fingerprint": "4e0d32e1cb4bad39"
     }
   }
 }
