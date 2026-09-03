@@ -1,0 +1,556 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T01:10:43.535425+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/openai-go",
+      "kind": "official_repository",
+      "name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "provider": "openai",
+      "description": "The official Go library for the OpenAI API",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 3445,
+        "pushed_at": "2026-09-02T23:14:46Z",
+        "updated_at": "2026-09-03T00:56:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3cf513bd939c9a4c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/datatrove",
+      "kind": "official_repository",
+      "name": "huggingface/datatrove",
+      "url": "https://github.com/huggingface/datatrove",
+      "provider": "huggingface",
+      "description": "Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 3319,
+        "pushed_at": "2026-08-13T16:04:51Z",
+        "updated_at": "2026-09-03T00:18:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "67cb2e4a445aa869",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/lighteval",
+      "kind": "official_repository",
+      "name": "huggingface/lighteval",
+      "url": "https://github.com/huggingface/lighteval",
+      "provider": "huggingface",
+      "description": "Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2534,
+        "pushed_at": "2026-08-11T13:10:37Z",
+        "updated_at": "2026-09-03T00:19:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "045a7cd6f58b6b66",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Mintplex-Labs/anything-llm",
+      "kind": "github_repository",
+      "name": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "provider": "GitHub",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 65527,
+        "forks": 7244,
+        "pushed_at": "2026-09-03T00:42:42Z",
+        "updated_at": "2026-09-03T01:03:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e812d3ee0042aa15",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langchain-ai/langgraph",
+      "kind": "github_repository",
+      "name": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "provider": "GitHub",
+      "description": "Build resilient agents.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 40946,
+        "forks": 6908,
+        "pushed_at": "2026-09-03T00:38:34Z",
+        "updated_at": "2026-09-03T00:39:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "99c34a1da5bed1dd",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Hmbown/Codewhale",
+      "kind": "github_repository",
+      "name": "Hmbown/Codewhale",
+      "url": "https://github.com/Hmbown/Codewhale",
+      "provider": "GitHub",
+      "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 40900,
+        "forks": 3539,
+        "pushed_at": "2026-09-03T01:06:26Z",
+        "updated_at": "2026-09-03T01:06:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3c8453e783a92660",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/electerm/electerm",
+      "kind": "github_repository",
+      "name": "electerm/electerm",
+      "url": "https://github.com/electerm/electerm",
+      "provider": "GitHub",
+      "description": "📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 14989,
+        "forks": 1210,
+        "pushed_at": "2026-09-03T01:07:40Z",
+        "updated_at": "2026-09-03T01:07:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3882508855945fb3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/sirmalloc/ccstatusline",
+      "kind": "github_repository",
+      "name": "sirmalloc/ccstatusline",
+      "url": "https://github.com/sirmalloc/ccstatusline",
+      "provider": "GitHub",
+      "description": "🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12731,
+        "forks": 557,
+        "pushed_at": "2026-09-03T00:45:30Z",
+        "updated_at": "2026-09-03T00:16:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a69b2ce7c69b6a4f",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dataelement/bisheng",
+      "kind": "github_repository",
+      "name": "dataelement/bisheng",
+      "url": "https://github.com/dataelement/bisheng",
+      "provider": "GitHub",
+      "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11921,
+        "forks": 1956,
+        "pushed_at": "2026-09-02T14:36:16Z",
+        "updated_at": "2026-09-02T16:53:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9db5959cebfc0b92",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/metalbear-co/mirrord",
+      "kind": "github_repository",
+      "name": "metalbear-co/mirrord",
+      "url": "https://github.com/metalbear-co/mirrord",
+      "provider": "GitHub",
+      "description": "Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5292,
+        "forks": 212,
+        "pushed_at": "2026-09-03T01:09:14Z",
+        "updated_at": "2026-09-03T01:09:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b194d798f144f754",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/MiniMaxAI/MiniMax-H3",
+      "kind": "hf_model",
+      "name": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/models/MiniMaxAI/MiniMax-H3",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "audio-to-audio-video",
+        "audio-video-generation",
+        "diffusers",
+        "image-text-to-audio-video",
+        "image-text-to-video",
+        "image-to-audio-video",
+        "image-to-video",
+        "license:other",
+        "minimax-h3",
+        "multimodal",
+        "reference-to-audio-video",
+        "region:us",
+        "safetensors",
+        "synchronized-audio-video",
+        "text-to-audio-video",
+        "text-to-video",
+        "video-to-audio-video",
+        "video-to-video"
+      ],
+      "input_output": "image-text-to-video -> inference result",
+      "signals": {
+        "downloads": 5532597,
+        "likes": 4811,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9e569842414a0b50",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/microsoft/foundry-local",
+      "kind": "github_repository",
+      "name": "microsoft/foundry-local",
+      "url": "https://github.com/microsoft/foundry-local",
+      "provider": "GitHub",
+      "description": "",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2537,
+        "forks": 365,
+        "pushed_at": "2026-09-02T23:55:42Z",
+        "updated_at": "2026-09-02T23:19:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "504834d9be167bd7",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "kind": "github_repository",
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "provider": "GitHub",
+      "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated reporting. The VSS Blueprint uses vision language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, RAG, and NVIDIA NIMs.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1840,
+        "forks": 385,
+        "pushed_at": "2026-09-03T00:59:21Z",
+        "updated_at": "2026-09-03T00:30:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bde64be6b9a22dee",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pnoker/iot-dc3",
+      "kind": "github_repository",
+      "name": "pnoker/iot-dc3",
+      "url": "https://github.com/pnoker/iot-dc3",
+      "provider": "GitHub",
+      "description": "IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents. A complete IoT system solution: device connectivity, data acquisition, edge-to-cloud delivery and intelligent operations.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1191,
+        "forks": 236,
+        "pushed_at": "2026-09-03T01:08:49Z",
+        "updated_at": "2026-09-03T01:09:14Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e0d6e2708f001da7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/genomoncology/biomcp",
+      "kind": "github_repository",
+      "name": "genomoncology/biomcp",
+      "url": "https://github.com/genomoncology/biomcp",
+      "provider": "GitHub",
+      "description": "BioMCP: Biomedical Model Context Protocol",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 622,
+        "forks": 113,
+        "pushed_at": "2026-09-03T01:06:14Z",
+        "updated_at": "2026-09-03T01:06:35Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ad6e1e7351e6f432",
+        "novel": false,
+        "dedup_age_days": 49
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yohasebe/openai-chat-api-workflow",
+      "kind": "github_repository",
+      "name": "yohasebe/openai-chat-api-workflow",
+      "url": "https://github.com/yohasebe/openai-chat-api-workflow",
+      "provider": "GitHub",
+      "description": "🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT models 🤖💬 It also allows image generation/editing/understanding 🖼️, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 319,
+        "forks": 11,
+        "pushed_at": "2026-09-03T01:02:13Z",
+        "updated_at": "2026-09-03T01:02:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "37a19e951fae3a88",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AleksNeStu/ai-real-estate-assistant",
+      "kind": "github_repository",
+      "name": "AleksNeStu/ai-real-estate-assistant",
+      "url": "https://github.com/AleksNeStu/ai-real-estate-assistant",
+      "provider": "GitHub",
+      "description": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 307,
+        "forks": 115,
+        "pushed_at": "2026-09-03T00:42:57Z",
+        "updated_at": "2026-09-03T00:40:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c1ba2909b94fa686",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/speakeasy-api/gram",
+      "kind": "github_repository",
+      "name": "speakeasy-api/gram",
+      "url": "https://github.com/speakeasy-api/gram",
+      "provider": "GitHub",
+      "description": "Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within your company.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 266,
+        "forks": 31,
+        "pushed_at": "2026-09-03T01:08:39Z",
+        "updated_at": "2026-09-03T01:08:43Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "97ca1d7d098f9ead",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/liliang-cn/cortexdb",
+      "kind": "github_repository",
+      "name": "liliang-cn/cortexdb",
+      "url": "https://github.com/liliang-cn/cortexdb",
+      "provider": "GitHub",
+      "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 254,
+        "forks": 5,
+        "pushed_at": "2026-09-03T01:08:54Z",
+        "updated_at": "2026-09-03T01:09:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23cc10cc0b706040",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+      "kind": "hf_space",
+      "name": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+      "url": "https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 83,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "230fbacb997c7dae",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/multimodalart/h3-acceleration-arena",
+      "kind": "hf_space",
+      "name": "multimodalart/h3-acceleration-arena",
+      "url": "https://huggingface.co/spaces/multimodalart/h3-acceleration-arena",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "docker",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 46,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f7305a584fdc6591",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

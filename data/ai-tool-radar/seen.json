@@ -146,7 +146,7 @@
       "fingerprint": "0a895c1fcda1a8e7"
     },
     "github_repository:https://github.com/speakeasy-api/gram": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-03",
       "fingerprint": "97ca1d7d098f9ead"
     },
     "github_repository:https://github.com/nextlevelbuilder/goclaw": {
@@ -526,7 +526,7 @@
       "fingerprint": "aecd50bffc9889a8"
     },
     "github_repository:https://github.com/genomoncology/biomcp": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-09-03",
       "fingerprint": "ad6e1e7351e6f432"
     },
     "github_repository:https://github.com/kwaroran/Risuai": {
@@ -742,7 +742,7 @@
       "fingerprint": "2eee47618812c6ec"
     },
     "github_repository:https://github.com/sirmalloc/ccstatusline": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-09-03",
       "fingerprint": "a69b2ce7c69b6a4f"
     },
     "github_repository:https://github.com/RyanAlberts/best-of-Agent-Harnesses": {
@@ -762,7 +762,7 @@
       "fingerprint": "de28a185635212eb"
     },
     "github_repository:https://github.com/dataelement/bisheng": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-09-03",
       "fingerprint": "9db5959cebfc0b92"
     },
     "github_repository:https://github.com/garylab/MakeMoneyWithAI": {
@@ -982,7 +982,7 @@
       "fingerprint": "06c19fb037e8c8c3"
     },
     "github_repository:https://github.com/metalbear-co/mirrord": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-03",
       "fingerprint": "b194d798f144f754"
     },
     "official_repository:https://github.com/mistralai/search-starter-app": {
@@ -1358,7 +1358,7 @@
       "fingerprint": "3f328ffdb005e037"
     },
     "github_repository:https://github.com/microsoft/foundry-local": {
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-09-03",
       "fingerprint": "504834d9be167bd7"
     },
     "github_repository:https://github.com/stacklok/toolhive": {
@@ -1378,7 +1378,7 @@
       "fingerprint": "0216e148a244d021"
     },
     "github_repository:https://github.com/langchain-ai/langgraph": {
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-09-03",
       "fingerprint": "99c34a1da5bed1dd"
     },
     "github_repository:https://github.com/RyanCodrai/turbovec": {
@@ -1450,7 +1450,7 @@
       "fingerprint": "ce7da27eb05c4de5"
     },
     "github_repository:https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-09-03",
       "fingerprint": "bde64be6b9a22dee"
     },
     "github_repository:https://github.com/EvotecIT/OfficeIMO": {
@@ -1754,7 +1754,7 @@
       "fingerprint": "74d90918356bf966"
     },
     "github_repository:https://github.com/Mintplex-Labs/anything-llm": {
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-09-03",
       "fingerprint": "e812d3ee0042aa15"
     },
     "github_repository:https://github.com/archie0732/healthy-diet-ai-agent": {
@@ -1782,7 +1782,7 @@
       "fingerprint": "23b682c853f6681c"
     },
     "hf_model:https://huggingface.co/models/MiniMaxAI/MiniMax-H3": {
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-09-03",
       "fingerprint": "9e569842414a0b50"
     },
     "hf_space:https://huggingface.co/spaces/multimodalart/minimax-h3": {
@@ -3184,6 +3184,50 @@
     "hf_space:https://huggingface.co/spaces/Saravutw/WAN2.2_I2V_LIGHTNING_4-8step_custom": {
       "last_seen": "2026-09-02",
       "fingerprint": "4e0d32e1cb4bad39"
+    },
+    "github_repository:https://github.com/yohasebe/openai-chat-api-workflow": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "37a19e951fae3a88"
+    },
+    "github_repository:https://github.com/pnoker/iot-dc3": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "e0d6e2708f001da7"
+    },
+    "github_repository:https://github.com/electerm/electerm": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "3882508855945fb3"
+    },
+    "github_repository:https://github.com/Hmbown/Codewhale": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "3c8453e783a92660"
+    },
+    "github_repository:https://github.com/liliang-cn/cortexdb": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "23cc10cc0b706040"
+    },
+    "github_repository:https://github.com/AleksNeStu/ai-real-estate-assistant": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "c1ba2909b94fa686"
+    },
+    "official_repository:https://github.com/openai/openai-go": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "3cf513bd939c9a4c"
+    },
+    "official_repository:https://github.com/huggingface/lighteval": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "045a7cd6f58b6b66"
+    },
+    "official_repository:https://github.com/huggingface/datatrove": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "67cb2e4a445aa869"
+    },
+    "hf_space:https://huggingface.co/spaces/multimodalart/h3-acceleration-arena": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "f7305a584fdc6591"
+    },
+    "hf_space:https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental": {
+      "last_seen": "2026-09-03",
+      "fingerprint": "230fbacb997c7dae"
     }
   }
 }
