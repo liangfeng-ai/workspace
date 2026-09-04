@@ -398,7 +398,7 @@
       "fingerprint": "a6b82e6a173cf32d"
     },
     "github_repository:https://github.com/1jehuang/jcode": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-09-04",
       "fingerprint": "f11d77865649d2aa"
     },
     "github_repository:https://github.com/UnicomAI/wanwu": {
@@ -758,7 +758,7 @@
       "fingerprint": "01ba1ac36b1e46ef"
     },
     "github_repository:https://github.com/y3owk1n/neru": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-09-04",
       "fingerprint": "de28a185635212eb"
     },
     "github_repository:https://github.com/dataelement/bisheng": {
@@ -1186,7 +1186,7 @@
       "fingerprint": "11cd9b4d664dcec8"
     },
     "github_repository:https://github.com/QuintinShaw/openasr": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-09-04",
       "fingerprint": "369f748dd8b50b85"
     },
     "github_repository:https://github.com/xuzhougeng/wisp-science": {
@@ -1470,7 +1470,7 @@
       "fingerprint": "635c613e2e4b8ad8"
     },
     "official_repository:https://github.com/openai/whisper": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-09-04",
       "fingerprint": "d884c303583b156e"
     },
     "official_repository:https://github.com/huggingface/huggingface.js": {
@@ -1534,7 +1534,7 @@
       "fingerprint": "309acfc5328e7c23"
     },
     "github_repository:https://github.com/lyonzin/knowledge-rag": {
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-09-04",
       "fingerprint": "e1adf8f441d40178"
     },
     "github_repository:https://github.com/helixml/helix": {
@@ -1778,7 +1778,7 @@
       "fingerprint": "1035849ce0f8c2bd"
     },
     "official_repository:https://github.com/huggingface/pwc-cli": {
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-09-04",
       "fingerprint": "23b682c853f6681c"
     },
     "hf_model:https://huggingface.co/models/MiniMaxAI/MiniMax-H3": {
@@ -1806,7 +1806,7 @@
       "fingerprint": "c3bf74bb2fd35fa1"
     },
     "github_repository:https://github.com/team-telnyx/ai": {
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-04",
       "fingerprint": "0e6897567365541e"
     },
     "github_repository:https://github.com/nukeop/nuclear": {
@@ -1846,7 +1846,7 @@
       "fingerprint": "900b7cf6e8e5dbd6"
     },
     "github_repository:https://github.com/smithersai/smithers": {
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-04",
       "fingerprint": "31d84b5c7bb953bf"
     },
     "github_repository:https://github.com/Team-Commonly/commonly": {
@@ -3228,6 +3228,26 @@
     "hf_space:https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental": {
       "last_seen": "2026-09-03",
       "fingerprint": "230fbacb997c7dae"
+    },
+    "github_repository:https://github.com/Peiiii/nextclaw": {
+      "last_seen": "2026-09-04",
+      "fingerprint": "108dc2dbe8e5deb0"
+    },
+    "github_repository:https://github.com/samanhappy/mcphub": {
+      "last_seen": "2026-09-04",
+      "fingerprint": "558c63675cb3ac46"
+    },
+    "github_repository:https://github.com/initializ/forge": {
+      "last_seen": "2026-09-04",
+      "fingerprint": "8698a75a677bf807"
+    },
+    "official_repository:https://github.com/openai/PrimeGaps186": {
+      "last_seen": "2026-09-04",
+      "fingerprint": "0cf1279124b7305b"
+    },
+    "hf_model:https://huggingface.co/models/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF": {
+      "last_seen": "2026-09-04",
+      "fingerprint": "b9f15b0c2e69b0a8"
     }
   }
 }
