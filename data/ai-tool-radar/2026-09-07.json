@@ -1,0 +1,620 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T01:06:13.285592+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/tart",
+      "kind": "official_repository",
+      "name": "openai/tart",
+      "url": "https://github.com/openai/tart",
+      "provider": "openai",
+      "description": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 6698,
+        "pushed_at": "2026-09-04T22:22:52Z",
+        "updated_at": "2026-09-07T01:01:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5c05823b3b6590e9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/Mongoku",
+      "kind": "official_repository",
+      "name": "huggingface/Mongoku",
+      "url": "https://github.com/huggingface/Mongoku",
+      "provider": "huggingface",
+      "description": "🔥The Web-scale GUI for MongoDB",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 1421,
+        "pushed_at": "2026-08-21T12:44:29Z",
+        "updated_at": "2026-09-07T00:06:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e31e5b77a68d739b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-appgen",
+      "kind": "official_repository",
+      "name": "groq/groq-appgen",
+      "url": "https://github.com/groq/groq-appgen",
+      "provider": "groq",
+      "description": "Project showcasing Llama 3.3 70B HTML codegen abilities",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 657,
+        "pushed_at": "2026-08-18T18:55:11Z",
+        "updated_at": "2026-09-06T19:21:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b86b296bd5e792b5",
+        "novel": false,
+        "dedup_age_days": 39
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langchain-ai/langchain",
+      "kind": "github_repository",
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "provider": "GitHub",
+      "description": "The agent engineering platform.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 145812,
+        "forks": 24361,
+        "pushed_at": "2026-09-07T00:28:25Z",
+        "updated_at": "2026-09-07T01:03:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "73e858f6bb99f293",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/punkpeye/awesome-mcp-servers",
+      "kind": "github_repository",
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "provider": "GitHub",
+      "description": "A collection of MCP servers.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 94484,
+        "forks": 15768,
+        "pushed_at": "2026-09-07T01:03:39Z",
+        "updated_at": "2026-09-07T01:04:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9a565be1c4bfe1ba",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mastra-ai/mastra",
+      "kind": "github_repository",
+      "name": "mastra-ai/mastra",
+      "url": "https://github.com/mastra-ai/mastra",
+      "provider": "GitHub",
+      "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 27743,
+        "forks": 2739,
+        "pushed_at": "2026-09-07T00:58:01Z",
+        "updated_at": "2026-09-07T01:00:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a7e5d7048d47aa82",
+        "novel": false,
+        "dedup_age_days": 46
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/sentence-transformers/all-MiniLM-L6-v2",
+      "kind": "hf_model",
+      "name": "sentence-transformers/all-MiniLM-L6-v2",
+      "url": "https://huggingface.co/models/sentence-transformers/all-MiniLM-L6-v2",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:1704.05179",
+        "arxiv:1810.09305",
+        "arxiv:1904.06472",
+        "arxiv:2102.07033",
+        "arxiv:2104.08727",
+        "base_model:nreimers/minilm-l6-h384-uncased",
+        "base_model:quantized:nreimers/minilm-l6-h384-uncased",
+        "bert",
+        "dataset:code_search_net",
+        "dataset:eli5",
+        "dataset:embedding-data/altlex",
+        "dataset:embedding-data/flickr30k-captions",
+        "dataset:embedding-data/paq_pairs",
+        "dataset:embedding-data/qqp",
+        "dataset:embedding-data/sentence-compression",
+        "dataset:embedding-data/simple-wiki",
+        "dataset:embedding-data/specter",
+        "dataset:embedding-data/wikianswers",
+        "dataset:flax-sentence-embeddings/stackexchange_xml",
+        "dataset:gooaq",
+        "dataset:ms_marco",
+        "dataset:multi_nli",
+        "dataset:natural_questions",
+        "dataset:s2orc",
+        "dataset:search_qa",
+        "dataset:snli",
+        "dataset:trivia_qa",
+        "dataset:wikihow",
+        "dataset:yahoo_answers_topics",
+        "deploy:azure",
+        "deploy:sagemaker",
+        "en",
+        "endpoints_compatible",
+        "eval-results",
+        "feature-extraction",
+        "license:apache-2.0",
+        "onnx",
+        "openvino",
+        "pytorch",
+        "region:us",
+        "rust",
+        "safetensors",
+        "sentence-similarity",
+        "sentence-transformers",
+        "text-embeddings-inference",
+        "tf",
+        "transformers"
+      ],
+      "input_output": "sentence-similarity -> inference result",
+      "signals": {
+        "downloads": 253029336,
+        "likes": 5567,
+        "updated_at": null,
+        "pipeline_tag": "sentence-similarity"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "68e7ab6758468357",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aipoch/open-science",
+      "kind": "github_repository",
+      "name": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "provider": "GitHub",
+      "description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3857,
+        "forks": 238,
+        "pushed_at": "2026-09-07T01:00:43Z",
+        "updated_at": "2026-09-07T01:00:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c3482f3fb725668f",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kirodotdev/KiroCrew",
+      "kind": "github_repository",
+      "name": "kirodotdev/KiroCrew",
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "provider": "GitHub",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3683,
+        "forks": 510,
+        "pushed_at": "2026-09-07T01:05:12Z",
+        "updated_at": "2026-09-07T01:05:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "200d7c21b2bbf6de",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Open-Less/openless",
+      "kind": "github_repository",
+      "name": "Open-Less/openless",
+      "url": "https://github.com/Open-Less/openless",
+      "provider": "GitHub",
+      "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3440,
+        "forks": 309,
+        "pushed_at": "2026-09-07T00:29:07Z",
+        "updated_at": "2026-09-07T00:29:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "964f6828aa299980",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/open-webui/open-terminal",
+      "kind": "github_repository",
+      "name": "open-webui/open-terminal",
+      "url": "https://github.com/open-webui/open-terminal",
+      "provider": "GitHub",
+      "description": "A computer you can curl ⚡",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3073,
+        "forks": 256,
+        "pushed_at": "2026-09-06T21:36:02Z",
+        "updated_at": "2026-09-06T21:36:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "06985c89660a022c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dsphper/lanhu-mcp",
+      "kind": "github_repository",
+      "name": "dsphper/lanhu-mcp",
+      "url": "https://github.com/dsphper/lanhu-mcp",
+      "provider": "GitHub",
+      "description": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2323,
+        "forks": 260,
+        "pushed_at": "2026-09-06T21:56:24Z",
+        "updated_at": "2026-09-07T00:54:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2eee47618812c6ec",
+        "novel": false,
+        "dedup_age_days": 49
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/opral/lix",
+      "kind": "github_repository",
+      "name": "opral/lix",
+      "url": "https://github.com/opral/lix",
+      "provider": "GitHub",
+      "description": "Embeddable repository that combines files, database, and version control.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 743,
+        "forks": 24,
+        "pushed_at": "2026-09-07T01:05:46Z",
+        "updated_at": "2026-09-07T00:59:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8c394b80cccf63c0",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/wanghuan9/skilldock",
+      "kind": "github_repository",
+      "name": "wanghuan9/skilldock",
+      "url": "https://github.com/wanghuan9/skilldock",
+      "provider": "GitHub",
+      "description": "SkillDock is an AI skill manager and skill management desktop app for Claude Code, Cursor, Codex, Windsurf, Gemini CLI, and other AI coding tools. Install, organize, edit, sync, and update Skills, MCP servers, and plugins with real-directory scanning and Git-aware Diff previews. AI Skill Manager / Skill 管理软件 / MCP 管理工具.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 520,
+        "forks": 23,
+        "pushed_at": "2026-09-07T01:06:00Z",
+        "updated_at": "2026-09-07T00:59:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4af397854d45ed31",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dicklesworthstone/ntm",
+      "kind": "github_repository",
+      "name": "Dicklesworthstone/ntm",
+      "url": "https://github.com/Dicklesworthstone/ntm",
+      "provider": "GitHub",
+      "description": "Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 436,
+        "forks": 70,
+        "pushed_at": "2026-09-07T00:58:04Z",
+        "updated_at": "2026-09-07T00:58:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3d43ee928f8fc31b",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
+      "kind": "github_repository",
+      "name": "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
+      "url": "https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
+      "provider": "GitHub",
+      "description": "Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents (Claude Desktop, OpenClaw, Hermes, etc.). Supports Serper, Tavily, and SearXNG.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 384,
+        "forks": 30,
+        "pushed_at": "2026-09-06T23:44:40Z",
+        "updated_at": "2026-09-06T21:34:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b9b97e6c02ac0fac",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/EthanYoQ/Invoice-Downloader",
+      "kind": "github_repository",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "url": "https://github.com/EthanYoQ/Invoice-Downloader",
+      "provider": "GitHub",
+      "description": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 382,
+        "forks": 37,
+        "pushed_at": "2026-09-06T23:38:34Z",
+        "updated_at": "2026-09-07T00:30:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1550a5d2148684c4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/delexw/claude-code-trace",
+      "kind": "github_repository",
+      "name": "delexw/claude-code-trace",
+      "url": "https://github.com/delexw/claude-code-trace",
+      "provider": "GitHub",
+      "description": "Claude Code session log viewer for JSONL files in ~/.claude/projects. Browse conversations, tool calls, tokens, and live tail sessions on desktop, web, and TUI.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 355,
+        "forks": 21,
+        "pushed_at": "2026-09-06T21:47:58Z",
+        "updated_at": "2026-09-06T22:07:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8b467ffdb80ef6fe",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/danpla/dpscreenocr",
+      "kind": "github_repository",
+      "name": "danpla/dpscreenocr",
+      "url": "https://github.com/danpla/dpscreenocr",
+      "provider": "GitHub",
+      "description": "A program to recognize text on the screen",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 296,
+        "forks": 18,
+        "pushed_at": "2026-09-06T22:06:31Z",
+        "updated_at": "2026-09-06T22:06:35Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "29e95b4f1fb0a725",
+        "novel": false,
+        "dedup_age_days": 39
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "kind": "hf_model",
+      "name": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/models/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "abliterated",
+        "all genres",
+        "all use cases",
+        "ara",
+        "base_model:davidau/qwen3.8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau",
+        "base_model:quantized:davidau/qwen3.8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau",
+        "bfloat16",
+        "coder",
+        "conversational",
+        "creative",
+        "creative writing",
+        "dataset:davidau/f451-strict-datasets",
+        "dataset:davidau/polar-strict-datasets",
+        "en",
+        "endpoints_compatible",
+        "fiction",
+        "fine tune",
+        "gguf",
+        "heretic",
+        "image-text-to-text",
+        "imatrix",
+        "license:apache-2.0",
+        "mtp gguf quants",
+        "multi-stage tuned",
+        "multi-stage-tune",
+        "multi-state-merge",
+        "qwen3_5",
+        "qwen3_6",
+        "qwen3_8",
+        "reasoning",
+        "region:us",
+        "regular gguf quants",
+        "roleplaying",
+        "story",
+        "thinking",
+        "uncensored",
+        "unsloth",
+        "writing",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 211018,
+        "likes": 248,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f529b128d6943bed",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/WepeNerd/ltx-ripple-demo",
+      "kind": "hf_space",
+      "name": "WepeNerd/ltx-ripple-demo",
+      "url": "https://huggingface.co/spaces/WepeNerd/ltx-ripple-demo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 35,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4688176e02323fbe",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

@@ -738,7 +738,7 @@
       "fingerprint": "64b7912370ad4ae2"
     },
     "github_repository:https://github.com/dsphper/lanhu-mcp": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-09-07",
       "fingerprint": "2eee47618812c6ec"
     },
     "github_repository:https://github.com/sirmalloc/ccstatusline": {
@@ -934,7 +934,7 @@
       "fingerprint": "da7928dfecbbaa82"
     },
     "github_repository:https://github.com/aipoch/open-science": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-07",
       "fingerprint": "c3482f3fb725668f"
     },
     "github_repository:https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine": {
@@ -1118,7 +1118,7 @@
       "fingerprint": "4a5a4feae72913b6"
     },
     "github_repository:https://github.com/mastra-ai/mastra": {
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-09-07",
       "fingerprint": "a7e5d7048d47aa82"
     },
     "github_repository:https://github.com/CopilotKit/aimock": {
@@ -1198,7 +1198,7 @@
       "fingerprint": "81658a619852c88a"
     },
     "github_repository:https://github.com/punkpeye/awesome-mcp-servers": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-09-07",
       "fingerprint": "9a565be1c4bfe1ba"
     },
     "github_repository:https://github.com/nicobailon/pi-mcp-adapter": {
@@ -1410,7 +1410,7 @@
       "fingerprint": "7f5f7af49fdff2b5"
     },
     "github_repository:https://github.com/delexw/claude-code-trace": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-09-07",
       "fingerprint": "8b467ffdb80ef6fe"
     },
     "github_repository:https://github.com/dollspace-gay/chainlink": {
@@ -1498,7 +1498,7 @@
       "fingerprint": "697da942d27bb932"
     },
     "github_repository:https://github.com/danpla/dpscreenocr": {
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-09-07",
       "fingerprint": "29e95b4f1fb0a725"
     },
     "github_repository:https://github.com/TheJoeFin/Text-Grab": {
@@ -1566,7 +1566,7 @@
       "fingerprint": "31219eb8e55da883"
     },
     "official_repository:https://github.com/groq/groq-appgen": {
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-09-07",
       "fingerprint": "b86b296bd5e792b5"
     },
     "official_repository:https://github.com/huggingface/peft": {
@@ -1702,7 +1702,7 @@
       "fingerprint": "f1e28daa8d78c056"
     },
     "github_repository:https://github.com/opral/lix": {
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-09-07",
       "fingerprint": "8c394b80cccf63c0"
     },
     "github_repository:https://github.com/YoanWai/agent-manager": {
@@ -1826,7 +1826,7 @@
       "fingerprint": "434443c110248eeb"
     },
     "github_repository:https://github.com/langchain-ai/langchain": {
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-07",
       "fingerprint": "73e858f6bb99f293"
     },
     "github_repository:https://github.com/antflydb/antfly": {
@@ -1838,7 +1838,7 @@
       "fingerprint": "355d7d228aec0d25"
     },
     "github_repository:https://github.com/kirodotdev/KiroCrew": {
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-07",
       "fingerprint": "200d7c21b2bbf6de"
     },
     "github_repository:https://github.com/memgraph/memgraph": {
@@ -1882,7 +1882,7 @@
       "fingerprint": "7b907c0fafdf572a"
     },
     "github_repository:https://github.com/Open-Less/openless": {
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-09-07",
       "fingerprint": "964f6828aa299980"
     },
     "github_repository:https://github.com/deepgram/deepgram-js-sdk": {
@@ -1906,7 +1906,7 @@
       "fingerprint": "d1b53269933f2d41"
     },
     "github_repository:https://github.com/Dicklesworthstone/ntm": {
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-09-07",
       "fingerprint": "3d43ee928f8fc31b"
     },
     "official_repository:https://github.com/huggingface/OpenEnv": {
@@ -3248,6 +3248,42 @@
     "hf_model:https://huggingface.co/models/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF": {
       "last_seen": "2026-09-04",
       "fingerprint": "b9f15b0c2e69b0a8"
+    },
+    "github_repository:https://github.com/open-webui/open-terminal": {
+      "last_seen": "2026-09-07",
+      "fingerprint": "06985c89660a022c"
+    },
+    "github_repository:https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server": {
+      "last_seen": "2026-09-07",
+      "fingerprint": "b9b97e6c02ac0fac"
+    },
+    "github_repository:https://github.com/EthanYoQ/Invoice-Downloader": {
+      "last_seen": "2026-09-07",
+      "fingerprint": "1550a5d2148684c4"
+    },
+    "github_repository:https://github.com/wanghuan9/skilldock": {
+      "last_seen": "2026-09-07",
+      "fingerprint": "4af397854d45ed31"
+    },
+    "official_repository:https://github.com/openai/tart": {
+      "last_seen": "2026-09-07",
+      "fingerprint": "5c05823b3b6590e9"
+    },
+    "official_repository:https://github.com/huggingface/Mongoku": {
+      "last_seen": "2026-09-07",
+      "fingerprint": "e31e5b77a68d739b"
+    },
+    "hf_model:https://huggingface.co/models/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF": {
+      "last_seen": "2026-09-07",
+      "fingerprint": "f529b128d6943bed"
+    },
+    "hf_model:https://huggingface.co/models/sentence-transformers/all-MiniLM-L6-v2": {
+      "last_seen": "2026-09-07",
+      "fingerprint": "68e7ab6758468357"
+    },
+    "hf_space:https://huggingface.co/spaces/WepeNerd/ltx-ripple-demo": {
+      "last_seen": "2026-09-07",
+      "fingerprint": "4688176e02323fbe"
     }
   }
 }
