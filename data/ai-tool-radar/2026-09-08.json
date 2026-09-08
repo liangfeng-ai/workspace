@@ -1,0 +1,642 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T01:14:25.414598+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/OpenEnv",
+      "kind": "official_repository",
+      "name": "huggingface/OpenEnv",
+      "url": "https://github.com/huggingface/OpenEnv",
+      "provider": "huggingface",
+      "description": "An interface library for RL post training with environments.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2553,
+        "pushed_at": "2026-09-07T10:03:06Z",
+        "updated_at": "2026-09-08T01:02:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d351c6e182688455",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/openai/tunnel-client",
+      "kind": "github_repository",
+      "name": "openai/tunnel-client",
+      "url": "https://github.com/openai/tunnel-client",
+      "provider": "openai",
+      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
+      "capability_tags": [
+        "mcp",
+        "official",
+        "openai"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 366,
+        "forks": 74,
+        "pushed_at": "2026-09-08T01:13:48Z",
+        "updated_at": "2026-09-08T01:12:34Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bafac53fdf2f9b56",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/funes",
+      "kind": "official_repository",
+      "name": "huggingface/funes",
+      "url": "https://github.com/huggingface/funes",
+      "provider": "huggingface",
+      "description": "Durable, searchable memory of your past agent sessions.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 267,
+        "pushed_at": "2026-09-07T13:12:30Z",
+        "updated_at": "2026-09-08T01:05:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0253bf6e213719f7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xberg-io/xberg",
+      "kind": "github_repository",
+      "name": "xberg-io/xberg",
+      "url": "https://github.com/xberg-io/xberg",
+      "provider": "GitHub",
+      "description": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 9275,
+        "forks": 582,
+        "pushed_at": "2026-09-08T00:34:07Z",
+        "updated_at": "2026-09-08T00:34:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0b7a8945e26a471a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "kind": "github_repository",
+      "name": "WenyuChiou/awesome-agentic-ai-zh",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "provider": "GitHub",
+      "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6705,
+        "forks": 907,
+        "pushed_at": "2026-09-08T01:01:04Z",
+        "updated_at": "2026-09-08T00:50:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8a81e62edf548d0a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/gptme/gptme",
+      "kind": "github_repository",
+      "name": "gptme/gptme",
+      "url": "https://github.com/gptme/gptme",
+      "provider": "GitHub",
+      "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4410,
+        "forks": 424,
+        "pushed_at": "2026-09-08T00:26:14Z",
+        "updated_at": "2026-09-08T01:12:43Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7736b440aff007f2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agavra/tuicr",
+      "kind": "github_repository",
+      "name": "agavra/tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "provider": "GitHub",
+      "description": "a code review TUI with vim keybindings",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3058,
+        "forks": 256,
+        "pushed_at": "2026-09-07T23:47:41Z",
+        "updated_at": "2026-09-07T23:47:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f78de16e646117d3",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/777genius/agent-teams-ai",
+      "kind": "github_repository",
+      "name": "777genius/agent-teams-ai",
+      "url": "https://github.com/777genius/agent-teams-ai",
+      "provider": "GitHub",
+      "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2085,
+        "forks": 350,
+        "pushed_at": "2026-09-08T01:10:38Z",
+        "updated_at": "2026-09-08T01:10:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0d0fb52073611ba4",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ginlix-ai/LangAlpha",
+      "kind": "github_repository",
+      "name": "ginlix-ai/LangAlpha",
+      "url": "https://github.com/ginlix-ai/LangAlpha",
+      "provider": "GitHub",
+      "description": "Claude Code for Financial Market",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1727,
+        "forks": 284,
+        "pushed_at": "2026-09-08T01:10:22Z",
+        "updated_at": "2026-09-08T01:10:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4de7053fc50ef3c5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rlaope/oh-my-hermes",
+      "kind": "github_repository",
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "provider": "GitHub",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1552,
+        "forks": 137,
+        "pushed_at": "2026-09-08T01:03:10Z",
+        "updated_at": "2026-09-08T01:06:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "170165e9b104a9f9",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kenryu42/cc-safety-net",
+      "kind": "github_repository",
+      "name": "kenryu42/cc-safety-net",
+      "url": "https://github.com/kenryu42/cc-safety-net",
+      "provider": "GitHub",
+      "description": "A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot CLI, Grok Build, Hermes Agent, Kimi Code, OpenClaw, OpenCode, and Pi.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1526,
+        "forks": 75,
+        "pushed_at": "2026-09-08T01:10:16Z",
+        "updated_at": "2026-09-08T01:10:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "90b601ec00a3abc3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zelon88/HRConvert2",
+      "kind": "github_repository",
+      "name": "zelon88/HRConvert2",
+      "url": "https://github.com/zelon88/HRConvert2",
+      "provider": "GitHub",
+      "description": "A self-hosted, respource aware file conversion server supporting 488 formats in 26 languages.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1368,
+        "forks": 81,
+        "pushed_at": "2026-09-07T22:55:55Z",
+        "updated_at": "2026-09-07T22:56:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b831099a4829b40b",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xuzhougeng/wisp-science",
+      "kind": "github_repository",
+      "name": "xuzhougeng/wisp-science",
+      "url": "https://github.com/xuzhougeng/wisp-science",
+      "provider": "GitHub",
+      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1108,
+        "forks": 116,
+        "pushed_at": "2026-09-08T01:09:01Z",
+        "updated_at": "2026-09-08T01:09:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d7b4f2bd41096619",
+        "novel": false,
+        "dedup_age_days": 46
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/microsoft/wassette",
+      "kind": "github_repository",
+      "name": "microsoft/wassette",
+      "url": "https://github.com/microsoft/wassette",
+      "provider": "GitHub",
+      "description": "Wassette: A security-oriented runtime that runs WebAssembly Components via MCP",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 941,
+        "forks": 72,
+        "pushed_at": "2026-09-08T01:13:51Z",
+        "updated_at": "2026-09-08T01:14:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "34a22ec52f176518",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Mininglamp-OSS/octo-server",
+      "kind": "github_repository",
+      "name": "Mininglamp-OSS/octo-server",
+      "url": "https://github.com/Mininglamp-OSS/octo-server",
+      "provider": "GitHub",
+      "description": "🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 859,
+        "forks": 141,
+        "pushed_at": "2026-09-08T01:06:25Z",
+        "updated_at": "2026-09-08T01:10:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c63cc1263764d42c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/uu201/character-arc",
+      "kind": "github_repository",
+      "name": "uu201/character-arc",
+      "url": "https://github.com/uu201/character-arc",
+      "provider": "GitHub",
+      "description": "CharacterArc(弧光) AI 小说创作应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 552,
+        "forks": 83,
+        "pushed_at": "2026-09-08T00:41:55Z",
+        "updated_at": "2026-09-08T00:42:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9575dd50f1f182cb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/1broseidon/ketch",
+      "kind": "github_repository",
+      "name": "1broseidon/ketch",
+      "url": "https://github.com/1broseidon/ketch",
+      "provider": "GitHub",
+      "description": "Fast, stateless CLI for web search and scrape. Built for AI agents.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 544,
+        "forks": 33,
+        "pushed_at": "2026-09-08T01:03:39Z",
+        "updated_at": "2026-09-08T01:03:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "60ed299b1d9fe274",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/antflydb/antfly",
+      "kind": "github_repository",
+      "name": "antflydb/antfly",
+      "url": "https://github.com/antflydb/antfly",
+      "provider": "GitHub",
+      "description": "",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 429,
+        "forks": 26,
+        "pushed_at": "2026-09-08T00:59:32Z",
+        "updated_at": "2026-09-08T00:32:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c33a87a95c8aba5a",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/styler-ai/ProjectAtlas",
+      "kind": "github_repository",
+      "name": "styler-ai/ProjectAtlas",
+      "url": "https://github.com/styler-ai/ProjectAtlas",
+      "provider": "GitHub",
+      "description": "Every file not opened. Every folder not explored. Tokens saved. ProjectAtlas guides coding agents with purpose metadata and an intelligent code graph, reducing token costs by over 90%.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 400,
+        "forks": 10,
+        "pushed_at": "2026-09-08T01:10:43Z",
+        "updated_at": "2026-09-08T01:10:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "52121929a566f26d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kydlikebtc/awesome-grokbot",
+      "kind": "github_repository",
+      "name": "kydlikebtc/awesome-grokbot",
+      "url": "https://github.com/kydlikebtc/awesome-grokbot",
+      "provider": "GitHub",
+      "description": "635 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 332,
+        "forks": 18,
+        "pushed_at": "2026-09-08T00:12:18Z",
+        "updated_at": "2026-09-08T01:10:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bb55a9c75404a8da",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/leancoderkavy/premiere-pro-mcp",
+      "kind": "github_repository",
+      "name": "leancoderkavy/premiere-pro-mcp",
+      "url": "https://github.com/leancoderkavy/premiere-pro-mcp",
+      "provider": "GitHub",
+      "description": "Local-first Adobe Premiere Pro MCP: 344 structured tools, reviewable workflows, CEP bridge, and capability-aware UXP.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 239,
+        "forks": 39,
+        "pushed_at": "2026-09-08T01:13:48Z",
+        "updated_at": "2026-09-08T01:14:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f819e89e86a72bc6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/openbmb/MiniCPM5-2B",
+      "kind": "hf_model",
+      "name": "openbmb/MiniCPM5-2B",
+      "url": "https://huggingface.co/models/openbmb/MiniCPM5-2B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2506.07900",
+        "arxiv:2602.09003",
+        "conversational",
+        "dataset:openbmb/ultra-fineweb",
+        "dataset:openbmb/ultra-fineweb-l3",
+        "dataset:openbmb/ultradata-code",
+        "dataset:openbmb/ultradata-math",
+        "dataset:openbmb/ultradata-rl-2609",
+        "dataset:openbmb/ultradata-sft-2605",
+        "dataset:openbmb/ultradata-sft-agent-2609",
+        "dataset:openbmb/ultrax-preview",
+        "edge-ai",
+        "en",
+        "endpoints_compatible",
+        "license:apache-2.0",
+        "llama",
+        "long-context",
+        "minicpm",
+        "minicpm5",
+        "on-device",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "text-generation-inference",
+        "tool-calling",
+        "transformers",
+        "zh"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 13,
+        "likes": 239,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "aca850b2ec92a52b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/JonathanColetti/Qwen3.8-27B-Uncensored-Demo",
+      "kind": "hf_space",
+      "name": "JonathanColetti/Qwen3.8-27B-Uncensored-Demo",
+      "url": "https://huggingface.co/spaces/JonathanColetti/Qwen3.8-27B-Uncensored-Demo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 86,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "198ae8990c125759",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/Cockdaddyfuck/Wan_2.2_I2V_14B_Custom_Lora_Wow",
+      "kind": "hf_space",
+      "name": "Cockdaddyfuck/Wan_2.2_I2V_14B_Custom_Lora_Wow",
+      "url": "https://huggingface.co/spaces/Cockdaddyfuck/Wan_2.2_I2V_14B_Custom_Lora_Wow",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 38,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9ab23d4f3c4ca451",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

@@ -1190,7 +1190,7 @@
       "fingerprint": "369f748dd8b50b85"
     },
     "github_repository:https://github.com/xuzhougeng/wisp-science": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-09-08",
       "fingerprint": "d7b4f2bd41096619"
     },
     "github_repository:https://github.com/Signet-AI/signetai": {
@@ -1310,7 +1310,7 @@
       "fingerprint": "b26b96cf1c2780cc"
     },
     "github_repository:https://github.com/777genius/agent-teams-ai": {
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-09-08",
       "fingerprint": "0d0fb52073611ba4"
     },
     "hf_model:https://huggingface.co/models/Kwaipilot/KAT-Coder-V2.5-Dev": {
@@ -1730,7 +1730,7 @@
       "fingerprint": "265c39483253d416"
     },
     "github_repository:https://github.com/rlaope/oh-my-hermes": {
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-09-08",
       "fingerprint": "170165e9b104a9f9"
     },
     "github_repository:https://github.com/mobile-next/mobilecli": {
@@ -1830,7 +1830,7 @@
       "fingerprint": "73e858f6bb99f293"
     },
     "github_repository:https://github.com/antflydb/antfly": {
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-08",
       "fingerprint": "c33a87a95c8aba5a"
     },
     "github_repository:https://github.com/aa0101181514/tw-legal-rag": {
@@ -1870,11 +1870,11 @@
       "fingerprint": "dc7b9c5034710c40"
     },
     "github_repository:https://github.com/agavra/tuicr": {
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-09-08",
       "fingerprint": "f78de16e646117d3"
     },
     "github_repository:https://github.com/zelon88/HRConvert2": {
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-09-08",
       "fingerprint": "b831099a4829b40b"
     },
     "github_repository:https://github.com/Anionex/agent-vision-toolkit": {
@@ -1910,7 +1910,7 @@
       "fingerprint": "3d43ee928f8fc31b"
     },
     "official_repository:https://github.com/huggingface/OpenEnv": {
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-09-08",
       "fingerprint": "d351c6e182688455"
     },
     "official_repository:https://github.com/huggingface/sandbox-server": {
@@ -3284,6 +3284,74 @@
     "hf_space:https://huggingface.co/spaces/WepeNerd/ltx-ripple-demo": {
       "last_seen": "2026-09-07",
       "fingerprint": "4688176e02323fbe"
+    },
+    "github_repository:https://github.com/uu201/character-arc": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "9575dd50f1f182cb"
+    },
+    "github_repository:https://github.com/kydlikebtc/awesome-grokbot": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "bb55a9c75404a8da"
+    },
+    "github_repository:https://github.com/microsoft/wassette": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "34a22ec52f176518"
+    },
+    "github_repository:https://github.com/leancoderkavy/premiere-pro-mcp": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "f819e89e86a72bc6"
+    },
+    "github_repository:https://github.com/openai/tunnel-client": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "bafac53fdf2f9b56"
+    },
+    "github_repository:https://github.com/styler-ai/ProjectAtlas": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "52121929a566f26d"
+    },
+    "github_repository:https://github.com/ginlix-ai/LangAlpha": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "4de7053fc50ef3c5"
+    },
+    "github_repository:https://github.com/WenyuChiou/awesome-agentic-ai-zh": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "8a81e62edf548d0a"
+    },
+    "github_repository:https://github.com/xberg-io/xberg": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "0b7a8945e26a471a"
+    },
+    "github_repository:https://github.com/gptme/gptme": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "7736b440aff007f2"
+    },
+    "github_repository:https://github.com/kenryu42/cc-safety-net": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "90b601ec00a3abc3"
+    },
+    "github_repository:https://github.com/Mininglamp-OSS/octo-server": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "c63cc1263764d42c"
+    },
+    "github_repository:https://github.com/1broseidon/ketch": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "60ed299b1d9fe274"
+    },
+    "official_repository:https://github.com/huggingface/funes": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "0253bf6e213719f7"
+    },
+    "hf_model:https://huggingface.co/models/openbmb/MiniCPM5-2B": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "aca850b2ec92a52b"
+    },
+    "hf_space:https://huggingface.co/spaces/Cockdaddyfuck/Wan_2.2_I2V_14B_Custom_Lora_Wow": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "9ab23d4f3c4ca451"
+    },
+    "hf_space:https://huggingface.co/spaces/JonathanColetti/Qwen3.8-27B-Uncensored-Demo": {
+      "last_seen": "2026-09-08",
+      "fingerprint": "198ae8990c125759"
     }
   }
 }
