@@ -1,0 +1,472 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T01:17:40.133494+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 18,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/symphony",
+      "kind": "official_repository",
+      "name": "openai/symphony",
+      "url": "https://github.com/openai/symphony",
+      "provider": "openai",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 27107,
+        "pushed_at": "2026-08-19T23:24:27Z",
+        "updated_at": "2026-09-09T01:17:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f0b3eeac9d1efc61",
+        "novel": false,
+        "dedup_age_days": 47
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/NavierStokesAndEuler",
+      "kind": "official_repository",
+      "name": "openai/NavierStokesAndEuler",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "provider": "openai",
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 830,
+        "pushed_at": "2026-09-08T11:00:49Z",
+        "updated_at": "2026-09-09T01:16:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "728900337482afa5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/QwenLM/qwen-code",
+      "kind": "github_repository",
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "provider": "GitHub",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 27712,
+        "forks": 3006,
+        "pushed_at": "2026-09-09T01:13:33Z",
+        "updated_at": "2026-09-09T01:16:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "24ddee3cd7abc259",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/codexu/note-gen",
+      "kind": "github_repository",
+      "name": "codexu/note-gen",
+      "url": "https://github.com/codexu/note-gen",
+      "provider": "GitHub",
+      "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12745,
+        "forks": 967,
+        "pushed_at": "2026-09-09T01:15:18Z",
+        "updated_at": "2026-09-09T01:15:32Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0216e148a244d021",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/QuentinFuxa/WhisperLiveKit",
+      "kind": "github_repository",
+      "name": "QuentinFuxa/WhisperLiveKit",
+      "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+      "provider": "GitHub",
+      "description": "Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11013,
+        "forks": 1135,
+        "pushed_at": "2026-09-08T22:33:51Z",
+        "updated_at": "2026-09-09T00:18:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "11212beb66ced0b3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jgravelle/jcodemunch-mcp",
+      "kind": "github_repository",
+      "name": "jgravelle/jcodemunch-mcp",
+      "url": "https://github.com/jgravelle/jcodemunch-mcp",
+      "provider": "GitHub",
+      "description": "Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2674,
+        "forks": 367,
+        "pushed_at": "2026-09-09T01:17:08Z",
+        "updated_at": "2026-09-09T01:12:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "91f5702d8bfd3095",
+        "novel": false,
+        "dedup_age_days": 50
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/redhat-et/ripwire",
+      "kind": "github_repository",
+      "name": "redhat-et/ripwire",
+      "url": "https://github.com/redhat-et/ripwire",
+      "provider": "GitHub",
+      "description": "The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; every guess labelled, every loss published. Paddle out with a map.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1763,
+        "forks": 92,
+        "pushed_at": "2026-09-09T01:16:48Z",
+        "updated_at": "2026-09-09T01:17:03Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0723c1a6a912260b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pixeltable/pixeltable",
+      "kind": "github_repository",
+      "name": "pixeltable/pixeltable",
+      "url": "https://github.com/pixeltable/pixeltable",
+      "provider": "GitHub",
+      "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1618,
+        "forks": 220,
+        "pushed_at": "2026-09-09T01:15:13Z",
+        "updated_at": "2026-09-09T01:15:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a2de76afb094cf97",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/feigeCode/navop",
+      "kind": "github_repository",
+      "name": "feigeCode/navop",
+      "url": "https://github.com/feigeCode/navop",
+      "provider": "GitHub",
+      "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1134,
+        "forks": 128,
+        "pushed_at": "2026-09-09T01:15:26Z",
+        "updated_at": "2026-09-09T01:15:35Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "44c5f8510fbb44ca",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agentrq/agentrq",
+      "kind": "github_repository",
+      "name": "agentrq/agentrq",
+      "url": "https://github.com/agentrq/agentrq",
+      "provider": "GitHub",
+      "description": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1111,
+        "forks": 77,
+        "pushed_at": "2026-09-09T01:15:49Z",
+        "updated_at": "2026-09-09T01:15:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "553f20299d59062a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/UB-Mannheim/zotero-ocr",
+      "kind": "github_repository",
+      "name": "UB-Mannheim/zotero-ocr",
+      "url": "https://github.com/UB-Mannheim/zotero-ocr",
+      "provider": "GitHub",
+      "description": "Zotero Plugin for OCR",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 822,
+        "forks": 53,
+        "pushed_at": "2026-09-08T18:59:05Z",
+        "updated_at": "2026-09-08T19:01:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "97f3e631284247f5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Gentleman-Programming/gentle-pi",
+      "kind": "github_repository",
+      "name": "Gentleman-Programming/gentle-pi",
+      "url": "https://github.com/Gentleman-Programming/gentle-pi",
+      "provider": "GitHub",
+      "description": "Turn Pi into el Gentleman: a senior-architect development harness with SDD/OpenSpec, subagents, strict TDD evidence, review guardrails, and skill discovery.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 643,
+        "forks": 89,
+        "pushed_at": "2026-09-09T01:11:39Z",
+        "updated_at": "2026-09-09T01:11:45Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f62057c7e64fe616",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agnt-gg/agnt",
+      "kind": "github_repository",
+      "name": "agnt-gg/agnt",
+      "url": "https://github.com/agnt-gg/agnt",
+      "provider": "GitHub",
+      "description": "The local-first operating system for building, running, and improving AI agents, workflows, and autonomous goals.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 532,
+        "forks": 71,
+        "pushed_at": "2026-09-09T01:16:31Z",
+        "updated_at": "2026-09-09T01:11:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1a3356853162497b",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Extelligence-ai/bagel",
+      "kind": "github_repository",
+      "name": "Extelligence-ai/bagel",
+      "url": "https://github.com/Extelligence-ai/bagel",
+      "provider": "GitHub",
+      "description": "Query robotics, drone, and IoT data in plain English through an MCP server, with an intelligent edge data reduction pipeline that keeps only the data that matters.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 397,
+        "forks": 30,
+        "pushed_at": "2026-09-09T01:10:59Z",
+        "updated_at": "2026-09-09T01:11:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dfa3f13c3a675eec",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/daniel3303/Equibles",
+      "kind": "github_repository",
+      "name": "daniel3303/Equibles",
+      "url": "https://github.com/daniel3303/Equibles",
+      "provider": "GitHub",
+      "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equibles Cloud adds earnings call transcripts, live quotes, options chains with Greeks, guidance and a screener.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 225,
+        "forks": 28,
+        "pushed_at": "2026-09-09T01:17:05Z",
+        "updated_at": "2026-09-09T01:15:31Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e4987d5524eb1552",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast",
+      "kind": "hf_space",
+      "name": "mrfakename/minimax-h3-ultra-fast",
+      "url": "https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 217,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0b41f924c1b47e70",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JeanExtreme002/PyMemoryEditor",
+      "kind": "github_repository",
+      "name": "JeanExtreme002/PyMemoryEditor",
+      "url": "https://github.com/JeanExtreme002/PyMemoryEditor",
+      "provider": "GitHub",
+      "description": "A pure-Python library that lets you inspect, modify and search the memory of any running process in a few lines of Python :snake: .",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 214,
+        "forks": 30,
+        "pushed_at": "2026-09-08T23:23:49Z",
+        "updated_at": "2026-09-08T23:16:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e0154adc20f685e4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/STCM/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "kind": "hf_space",
+      "name": "STCM/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "url": "https://huggingface.co/spaces/STCM/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 41,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1ae1dc5e19ce7863",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

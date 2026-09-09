@@ -890,7 +890,7 @@
       "fingerprint": "9f71f72f60dee2ce"
     },
     "github_repository:https://github.com/jgravelle/jcodemunch-mcp": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-09",
       "fingerprint": "91f5702d8bfd3095"
     },
     "github_repository:https://github.com/LeanBitLab/LeanType": {
@@ -1234,7 +1234,7 @@
       "fingerprint": "24a7136ed8f10692"
     },
     "official_repository:https://github.com/openai/symphony": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-09-09",
       "fingerprint": "f0b3eeac9d1efc61"
     },
     "official_repository:https://github.com/huggingface/tokenizers": {
@@ -1374,7 +1374,7 @@
       "fingerprint": "a9fe0de22090af6f"
     },
     "github_repository:https://github.com/codexu/note-gen": {
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-09-09",
       "fingerprint": "0216e148a244d021"
     },
     "github_repository:https://github.com/langchain-ai/langgraph": {
@@ -1770,7 +1770,7 @@
       "fingerprint": "0084e8d9cb85d21d"
     },
     "github_repository:https://github.com/agnt-gg/agnt": {
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-09-09",
       "fingerprint": "1a3356853162497b"
     },
     "github_repository:https://github.com/kiwifs/kiwifs": {
@@ -1898,7 +1898,7 @@
       "fingerprint": "f86247887aea2b97"
     },
     "github_repository:https://github.com/QwenLM/qwen-code": {
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-09-09",
       "fingerprint": "24ddee3cd7abc259"
     },
     "github_repository:https://github.com/genkit-ai/genkit": {
@@ -2062,7 +2062,7 @@
       "fingerprint": "7c41b8b54bac9e27"
     },
     "hf_space:https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast": {
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-09-09",
       "fingerprint": "0b41f924c1b47e70"
     },
     "hf_space:https://huggingface.co/spaces/wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow": {
@@ -3352,6 +3352,54 @@
     "hf_space:https://huggingface.co/spaces/JonathanColetti/Qwen3.8-27B-Uncensored-Demo": {
       "last_seen": "2026-09-08",
       "fingerprint": "198ae8990c125759"
+    },
+    "github_repository:https://github.com/JeanExtreme002/PyMemoryEditor": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "e0154adc20f685e4"
+    },
+    "github_repository:https://github.com/UB-Mannheim/zotero-ocr": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "97f3e631284247f5"
+    },
+    "github_repository:https://github.com/QuentinFuxa/WhisperLiveKit": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "11212beb66ced0b3"
+    },
+    "github_repository:https://github.com/redhat-et/ripwire": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "0723c1a6a912260b"
+    },
+    "github_repository:https://github.com/agentrq/agentrq": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "553f20299d59062a"
+    },
+    "github_repository:https://github.com/daniel3303/Equibles": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "e4987d5524eb1552"
+    },
+    "github_repository:https://github.com/Gentleman-Programming/gentle-pi": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "f62057c7e64fe616"
+    },
+    "github_repository:https://github.com/Extelligence-ai/bagel": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "dfa3f13c3a675eec"
+    },
+    "github_repository:https://github.com/pixeltable/pixeltable": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "a2de76afb094cf97"
+    },
+    "github_repository:https://github.com/feigeCode/navop": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "44c5f8510fbb44ca"
+    },
+    "official_repository:https://github.com/openai/NavierStokesAndEuler": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "728900337482afa5"
+    },
+    "hf_space:https://huggingface.co/spaces/STCM/wan2-2-fp8da-aoti-preview-2c-finishing": {
+      "last_seen": "2026-09-09",
+      "fingerprint": "1ae1dc5e19ce7863"
     }
   }
 }
