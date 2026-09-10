@@ -1,0 +1,450 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T01:09:59.671855+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 17,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/skills",
+      "kind": "official_repository",
+      "name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "provider": "openai",
+      "description": "Skills Catalog for Codex",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 26773,
+        "pushed_at": "2026-09-08T20:35:26Z",
+        "updated_at": "2026-09-10T01:07:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "da749c0e40b6dfe6",
+        "novel": false,
+        "dedup_age_days": 57
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tesseract-ocr/tesseract",
+      "kind": "github_repository",
+      "name": "tesseract-ocr/tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "provider": "GitHub",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 76416,
+        "forks": 10795,
+        "pushed_at": "2026-09-09T18:38:20Z",
+        "updated_at": "2026-09-10T00:45:43Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "17d5141b7012b317",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/milvus-io/milvus",
+      "kind": "github_repository",
+      "name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "provider": "GitHub",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 46036,
+        "forks": 4238,
+        "pushed_at": "2026-09-10T00:59:29Z",
+        "updated_at": "2026-09-10T00:59:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cffd8fd5ceeb4756",
+        "novel": false,
+        "dedup_age_days": 57
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/activepieces/activepieces",
+      "kind": "github_repository",
+      "name": "activepieces/activepieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "provider": "GitHub",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 24377,
+        "forks": 4166,
+        "pushed_at": "2026-09-10T01:08:25Z",
+        "updated_at": "2026-09-10T01:08:30Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c8b6f80a8b456c3c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mg-chao/snow-apps",
+      "kind": "github_repository",
+      "name": "mg-chao/snow-apps",
+      "url": "https://github.com/mg-chao/snow-apps",
+      "provider": "GitHub",
+      "description": "Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4979,
+        "forks": 306,
+        "pushed_at": "2026-09-10T01:09:32Z",
+        "updated_at": "2026-09-10T01:09:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a7eafc190050eb95",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tmoroney/auto-subs",
+      "kind": "github_repository",
+      "name": "tmoroney/auto-subs",
+      "url": "https://github.com/tmoroney/auto-subs",
+      "provider": "GitHub",
+      "description": "On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4165,
+        "forks": 273,
+        "pushed_at": "2026-09-09T23:04:12Z",
+        "updated_at": "2026-09-10T00:04:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f73e07ccd3b52335",
+        "novel": false,
+        "dedup_age_days": 56
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/graykode/abtop",
+      "kind": "github_repository",
+      "name": "graykode/abtop",
+      "url": "https://github.com/graykode/abtop",
+      "provider": "GitHub",
+      "description": "Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3503,
+        "forks": 317,
+        "pushed_at": "2026-09-10T01:09:12Z",
+        "updated_at": "2026-09-10T01:09:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "881e81591bc1ccaa",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/google/adk-js",
+      "kind": "github_repository",
+      "name": "google/adk-js",
+      "url": "https://github.com/google/adk-js",
+      "provider": "GitHub",
+      "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1388,
+        "forks": 206,
+        "pushed_at": "2026-09-10T01:08:27Z",
+        "updated_at": "2026-09-10T01:08:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7642ad7fb69beeda",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/openai/clip-vit-base-patch32",
+      "kind": "hf_model",
+      "name": "openai/clip-vit-base-patch32",
+      "url": "https://huggingface.co/models/openai/clip-vit-base-patch32",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:1908.04913",
+        "arxiv:2103.00020",
+        "clip",
+        "endpoints_compatible",
+        "jax",
+        "pytorch",
+        "region:us",
+        "tf",
+        "transformers",
+        "vision",
+        "zero-shot-image-classification"
+      ],
+      "input_output": "zero-shot-image-classification -> inference result",
+      "signals": {
+        "downloads": 20778503,
+        "likes": 1345,
+        "updated_at": null,
+        "pipeline_tag": "zero-shot-image-classification"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "86fde8393b18c547",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xberg-io/html-to-markdown",
+      "kind": "github_repository",
+      "name": "xberg-io/html-to-markdown",
+      "url": "https://github.com/xberg-io/html-to-markdown",
+      "provider": "GitHub",
+      "description": "High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 98+ document formats using streaming parsers and built-in OCR.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 864,
+        "forks": 69,
+        "pushed_at": "2026-09-10T01:09:48Z",
+        "updated_at": "2026-09-10T01:09:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "680ed56bae91abca",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/416rehman/DeepZero",
+      "kind": "github_repository",
+      "name": "416rehman/DeepZero",
+      "url": "https://github.com/416rehman/DeepZero",
+      "provider": "GitHub",
+      "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 711,
+        "forks": 92,
+        "pushed_at": "2026-09-10T01:09:45Z",
+        "updated_at": "2026-09-10T01:09:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7be657878cc8627b",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jnMetaCode/ai-coding-guide",
+      "kind": "github_repository",
+      "name": "jnMetaCode/ai-coding-guide",
+      "url": "https://github.com/jnMetaCode/ai-coding-guide",
+      "provider": "GitHub",
+      "description": "AI 编程工具实战指南 — 66 个 Claude Code 技巧 + 10 款工具最佳实践 + 可复制配置模板 | AI Coding Tools Guide with 66 Claude Code tips",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 521,
+        "forks": 89,
+        "pushed_at": "2026-09-10T00:19:26Z",
+        "updated_at": "2026-09-10T00:19:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6110d68bf4f4b406",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JungHoonGhae/tossinvest-cli",
+      "kind": "github_repository",
+      "name": "JungHoonGhae/tossinvest-cli",
+      "url": "https://github.com/JungHoonGhae/tossinvest-cli",
+      "provider": "GitHub",
+      "description": "토스증권 CLI·MCP 서버. 공식 Open API의 계좌·시세·주문에 WTS 전용 수급·AI 시그널·배당·관심종목을 더해, 터미널과 AI 에이전트에서 조회·자동화합니다. 비공식 프로젝트.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 492,
+        "forks": 82,
+        "pushed_at": "2026-09-10T01:07:16Z",
+        "updated_at": "2026-09-10T01:07:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "83354df3f9053ae9",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Bytedesk/bytedesk",
+      "kind": "github_repository",
+      "name": "Bytedesk/bytedesk",
+      "url": "https://github.com/Bytedesk/bytedesk",
+      "provider": "GitHub",
+      "description": "Open Souce IM with AI powered live-chat, email, ticket support, omni-channel customer service，alternative to slack + zendesk/intercom/hubspot/ada/decagon/sierra",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 482,
+        "forks": 135,
+        "pushed_at": "2026-09-10T00:54:51Z",
+        "updated_at": "2026-09-10T00:54:41Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b5b84bf88c0cd499",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AndrewDryga/emisar",
+      "kind": "github_repository",
+      "name": "AndrewDryga/emisar",
+      "url": "https://github.com/AndrewDryga/emisar",
+      "provider": "GitHub",
+      "description": "Let AI agents investigate and operate infrastructure through declared actions, bounded by policy and host-side checks. Approvals when required, with an audit trail. By Protectorate.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 354,
+        "forks": 34,
+        "pushed_at": "2026-09-10T01:07:46Z",
+        "updated_at": "2026-09-10T01:08:03Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ebafbfc3f1bf29bc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zibo-chen/ocr-rs",
+      "kind": "github_repository",
+      "name": "zibo-chen/ocr-rs",
+      "url": "https://github.com/zibo-chen/ocr-rs",
+      "provider": "GitHub",
+      "description": "高性能OCR识别库，支持上百种语言，提供命令行、图形界面及C API多种调用方式，使用便捷高效。 High-performance OCR library powered by PaddleOCR v4/v5/v6 with MNN backend. Supports 10+ languages (Chinese, English, Japanese, Korean, Arabic, Cyrillic, Thai, etc). Provides Rust crate + C API + CLI tools. Fast, lightweight, easy-to-integrate.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 326,
+        "forks": 44,
+        "pushed_at": "2026-09-09T23:58:10Z",
+        "updated_at": "2026-09-09T23:57:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ae7ac8fa8eac24fb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DemonDamon/AgenticX",
+      "kind": "github_repository",
+      "name": "DemonDamon/AgenticX",
+      "url": "https://github.com/DemonDamon/AgenticX",
+      "provider": "GitHub",
+      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 229,
+        "forks": 51,
+        "pushed_at": "2026-09-10T00:56:15Z",
+        "updated_at": "2026-09-10T00:56:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "87f5b9adb8bb99d4",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

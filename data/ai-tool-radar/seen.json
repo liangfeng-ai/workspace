@@ -250,7 +250,7 @@
       "fingerprint": "657f9fcf4240562f"
     },
     "official_repository:https://github.com/openai/skills": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-09-10",
       "fingerprint": "da749c0e40b6dfe6"
     },
     "official_repository:https://github.com/huggingface/lerobot": {
@@ -366,7 +366,7 @@
       "fingerprint": "df0dce32dc4c60c2"
     },
     "github_repository:https://github.com/milvus-io/milvus": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-09-10",
       "fingerprint": "cffd8fd5ceeb4756"
     },
     "github_repository:https://github.com/Agent-Field/agentfield": {
@@ -494,7 +494,7 @@
       "fingerprint": "322c0ad4947b8352"
     },
     "github_repository:https://github.com/tmoroney/auto-subs": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-09-10",
       "fingerprint": "f73e07ccd3b52335"
     },
     "github_repository:https://github.com/TypeWhisper/typewhisper-mac": {
@@ -1254,7 +1254,7 @@
       "fingerprint": "dac09e7c43f386df"
     },
     "github_repository:https://github.com/tesseract-ocr/tesseract": {
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-09-10",
       "fingerprint": "17d5141b7012b317"
     },
     "github_repository:https://github.com/eikek/docspell": {
@@ -1302,7 +1302,7 @@
       "fingerprint": "ba00d81d8e9523a1"
     },
     "github_repository:https://github.com/416rehman/DeepZero": {
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-09-10",
       "fingerprint": "7be657878cc8627b"
     },
     "github_repository:https://github.com/alookai/alook": {
@@ -1522,7 +1522,7 @@
       "fingerprint": "5bb0dda3caaed67f"
     },
     "github_repository:https://github.com/JungHoonGhae/tossinvest-cli": {
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-09-10",
       "fingerprint": "83354df3f9053ae9"
     },
     "github_repository:https://github.com/mongodb-developer/GenAI-Showcase": {
@@ -2038,7 +2038,7 @@
       "fingerprint": "2cf18bd8c9e9146a"
     },
     "github_repository:https://github.com/DemonDamon/AgenticX": {
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-09-10",
       "fingerprint": "87f5b9adb8bb99d4"
     },
     "github_repository:https://github.com/Deodat-Lawson/LaunchStack": {
@@ -2086,7 +2086,7 @@
       "fingerprint": "968bad9b24271c73"
     },
     "github_repository:https://github.com/mg-chao/snow-apps": {
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-09-10",
       "fingerprint": "a7eafc190050eb95"
     },
     "github_repository:https://github.com/getopenscreen/openscreen": {
@@ -3400,6 +3400,42 @@
     "hf_space:https://huggingface.co/spaces/STCM/wan2-2-fp8da-aoti-preview-2c-finishing": {
       "last_seen": "2026-09-09",
       "fingerprint": "1ae1dc5e19ce7863"
+    },
+    "github_repository:https://github.com/jnMetaCode/ai-coding-guide": {
+      "last_seen": "2026-09-10",
+      "fingerprint": "6110d68bf4f4b406"
+    },
+    "github_repository:https://github.com/zibo-chen/ocr-rs": {
+      "last_seen": "2026-09-10",
+      "fingerprint": "ae7ac8fa8eac24fb"
+    },
+    "github_repository:https://github.com/activepieces/activepieces": {
+      "last_seen": "2026-09-10",
+      "fingerprint": "c8b6f80a8b456c3c"
+    },
+    "github_repository:https://github.com/AndrewDryga/emisar": {
+      "last_seen": "2026-09-10",
+      "fingerprint": "ebafbfc3f1bf29bc"
+    },
+    "github_repository:https://github.com/xberg-io/html-to-markdown": {
+      "last_seen": "2026-09-10",
+      "fingerprint": "680ed56bae91abca"
+    },
+    "github_repository:https://github.com/Bytedesk/bytedesk": {
+      "last_seen": "2026-09-10",
+      "fingerprint": "b5b84bf88c0cd499"
+    },
+    "github_repository:https://github.com/graykode/abtop": {
+      "last_seen": "2026-09-10",
+      "fingerprint": "881e81591bc1ccaa"
+    },
+    "github_repository:https://github.com/google/adk-js": {
+      "last_seen": "2026-09-10",
+      "fingerprint": "7642ad7fb69beeda"
+    },
+    "hf_model:https://huggingface.co/models/openai/clip-vit-base-patch32": {
+      "last_seen": "2026-09-10",
+      "fingerprint": "86fde8393b18c547"
     }
   }
 }
