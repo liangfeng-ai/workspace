@@ -314,7 +314,7 @@
       "fingerprint": "55deb0b705be8a17"
     },
     "hf_space:https://huggingface.co/spaces/mrfakename/Z-Image-Turbo": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-09-11",
       "fingerprint": "3783f8d34e29623d"
     },
     "hf_space:https://huggingface.co/spaces/prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast": {
@@ -482,7 +482,7 @@
       "fingerprint": "c262cf9a219a5fe6"
     },
     "github_repository:https://github.com/pymupdf/PyMuPDF": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-09-11",
       "fingerprint": "b0ffbf158b098180"
     },
     "github_repository:https://github.com/schmitech/orbit": {
@@ -690,7 +690,7 @@
       "fingerprint": "11ff0e91d9d23066"
     },
     "github_repository:https://github.com/HKUDS/LightRAG": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-09-11",
       "fingerprint": "1397a8b3d4e67035"
     },
     "github_repository:https://github.com/Graphify-Labs/graphify": {
@@ -2198,7 +2198,7 @@
       "fingerprint": "e211c14b70958f65"
     },
     "hf_model:https://huggingface.co/models/Lightricks/LTX-2.5": {
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-09-11",
       "fingerprint": "865809ece42a1c9f"
     },
     "github_repository:https://github.com/liaohch3/claude-tap": {
@@ -3436,6 +3436,66 @@
     "hf_model:https://huggingface.co/models/openai/clip-vit-base-patch32": {
       "last_seen": "2026-09-10",
       "fingerprint": "86fde8393b18c547"
+    },
+    "github_repository:https://github.com/linshenkx/prompt-optimizer": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "a2b4479903cc1b85"
+    },
+    "github_repository:https://github.com/farion1231/cc-switch": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "04e4312d3a4d50e6"
+    },
+    "github_repository:https://github.com/rockbenben/ChatGPT-Shortcut": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "0d5258c58580743c"
+    },
+    "github_repository:https://github.com/TypeWhisper/typewhisper-win": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "61d3f48c5342420a"
+    },
+    "github_repository:https://github.com/punkpeye/fastmcp": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "94ba7ec2b405d924"
+    },
+    "github_repository:https://github.com/bethington/ghidra-mcp": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "bb3b82492ad6c13a"
+    },
+    "github_repository:https://github.com/dbcodeio/public": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "c49369b547a854b1"
+    },
+    "github_repository:https://github.com/Shubhamsaboo/awesome-llm-apps": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "af8b2bb879f6b306"
+    },
+    "github_repository:https://github.com/nageoffer/ragent": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "9a8b4b6967086761"
+    },
+    "github_repository:https://github.com/yifanfeng97/Hyper-Extract": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "44837200620ebc04"
+    },
+    "github_repository:https://github.com/lycorp-jp/sim-use": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "1854b555b4d28738"
+    },
+    "official_repository:https://github.com/groq/groq-frontend-base": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "8bbc530b5ca95b09"
+    },
+    "official_repository:https://github.com/openai/snap-o": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "99c7751c6d65da07"
+    },
+    "hf_model:https://huggingface.co/models/deepseek-ai/DeepSeek-V4.1-Flash": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "7614da9dae5b301a"
+    },
+    "hf_model:https://huggingface.co/models/nex-agi/Nex-N2.5-mini": {
+      "last_seen": "2026-09-11",
+      "fingerprint": "0605f00ad57150db"
     }
   }
 }

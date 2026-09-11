@@ -1,0 +1,531 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T01:11:25.300242+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/snap-o",
+      "kind": "official_repository",
+      "name": "openai/snap-o",
+      "url": "https://github.com/openai/snap-o",
+      "provider": "openai",
+      "description": "Lightweight Android capture developer tools for macOS",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 100,
+        "pushed_at": "2026-09-11T01:03:11Z",
+        "updated_at": "2026-09-11T01:03:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "99c7751c6d65da07",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-frontend-base",
+      "kind": "official_repository",
+      "name": "groq/groq-frontend-base",
+      "url": "https://github.com/groq/groq-frontend-base",
+      "provider": "groq",
+      "description": "Base project for bootstrapping frontend projects",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 17,
+        "pushed_at": "2026-08-18T18:55:14Z",
+        "updated_at": "2026-09-10T22:29:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8bbc530b5ca95b09",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "kind": "github_repository",
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "provider": "GitHub",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 136970,
+        "forks": 20133,
+        "pushed_at": "2026-09-11T01:10:51Z",
+        "updated_at": "2026-09-11T01:09:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "af8b2bb879f6b306",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/farion1231/cc-switch",
+      "kind": "github_repository",
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "provider": "GitHub",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 132187,
+        "forks": 9106,
+        "pushed_at": "2026-09-11T00:24:14Z",
+        "updated_at": "2026-09-11T01:08:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "04e4312d3a4d50e6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HKUDS/LightRAG",
+      "kind": "github_repository",
+      "name": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "provider": "GitHub",
+      "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 39551,
+        "forks": 5564,
+        "pushed_at": "2026-09-11T00:41:21Z",
+        "updated_at": "2026-09-11T00:45:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1397a8b3d4e67035",
+        "novel": false,
+        "dedup_age_days": 56
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/linshenkx/prompt-optimizer",
+      "kind": "github_repository",
+      "name": "linshenkx/prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "provider": "GitHub",
+      "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 34460,
+        "forks": 4035,
+        "pushed_at": "2026-09-11T00:58:32Z",
+        "updated_at": "2026-09-11T01:07:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a2b4479903cc1b85",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pymupdf/PyMuPDF",
+      "kind": "github_repository",
+      "name": "pymupdf/PyMuPDF",
+      "url": "https://github.com/pymupdf/PyMuPDF",
+      "provider": "GitHub",
+      "description": "PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 10683,
+        "forks": 797,
+        "pushed_at": "2026-09-10T17:33:24Z",
+        "updated_at": "2026-09-11T01:10:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b0ffbf158b098180",
+        "novel": false,
+        "dedup_age_days": 57
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rockbenben/ChatGPT-Shortcut",
+      "kind": "github_repository",
+      "name": "rockbenben/ChatGPT-Shortcut",
+      "url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "provider": "GitHub",
+      "description": "Stop writing prompts from scratch — a searchable prompt library for ChatGPT, Claude, Gemini and Cursor · Русский 한국어 العربية हिन्दी ไทย ｜ 别再从头写提示词：现成的拿来就用，好用的收进自己的库",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8746,
+        "forks": 951,
+        "pushed_at": "2026-09-10T23:34:44Z",
+        "updated_at": "2026-09-10T23:44:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0d5258c58580743c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nageoffer/ragent",
+      "kind": "github_repository",
+      "name": "nageoffer/ragent",
+      "url": "https://github.com/nageoffer/ragent",
+      "provider": "GitHub",
+      "description": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3970,
+        "forks": 804,
+        "pushed_at": "2026-09-11T00:35:00Z",
+        "updated_at": "2026-09-11T00:58:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9a8b4b6967086761",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yifanfeng97/Hyper-Extract",
+      "kind": "github_repository",
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "provider": "GitHub",
+      "description": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3929,
+        "forks": 450,
+        "pushed_at": "2026-09-11T00:22:52Z",
+        "updated_at": "2026-09-11T00:42:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "44837200620ebc04",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
+      "kind": "hf_space",
+      "name": "mrfakename/Z-Image-Turbo",
+      "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 3796,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3783f8d34e29623d",
+        "novel": false,
+        "dedup_age_days": 58
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bethington/ghidra-mcp",
+      "kind": "github_repository",
+      "name": "bethington/ghidra-mcp",
+      "url": "https://github.com/bethington/ghidra-mcp",
+      "provider": "GitHub",
+      "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3747,
+        "forks": 129,
+        "pushed_at": "2026-09-11T01:06:09Z",
+        "updated_at": "2026-09-11T01:05:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bb3b82492ad6c13a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Lightricks/LTX-2.5",
+      "kind": "hf_model",
+      "name": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/models/Lightricks/LTX-2.5",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2601.03233",
+        "audio-to-audio",
+        "audio-to-video",
+        "comfyui",
+        "de",
+        "diffusion-single-file",
+        "en",
+        "es",
+        "fr",
+        "image-text-to-audio-video",
+        "image-text-to-video",
+        "image-to-audio-video",
+        "image-to-video",
+        "it",
+        "ja",
+        "ko",
+        "license:other",
+        "lightricks",
+        "ltx",
+        "ltx-2.5",
+        "ltx-video",
+        "pt",
+        "region:us",
+        "text-to-audio",
+        "text-to-audio-video",
+        "text-to-video",
+        "video-to-audio",
+        "video-to-video",
+        "zh"
+      ],
+      "input_output": "image-to-video -> inference result",
+      "signals": {
+        "downloads": 1740572,
+        "likes": 3388,
+        "updated_at": null,
+        "pipeline_tag": "image-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "865809ece42a1c9f",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/punkpeye/fastmcp",
+      "kind": "github_repository",
+      "name": "punkpeye/fastmcp",
+      "url": "https://github.com/punkpeye/fastmcp",
+      "provider": "GitHub",
+      "description": "A TypeScript framework for building MCP servers.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3263,
+        "forks": 308,
+        "pushed_at": "2026-09-11T01:10:48Z",
+        "updated_at": "2026-09-11T01:10:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "94ba7ec2b405d924",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/deepseek-ai/DeepSeek-V4.1-Flash",
+      "kind": "hf_model",
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/models/deepseek-ai/DeepSeek-V4.1-Flash",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "deepseek_v41",
+        "endpoints_compatible",
+        "eval-results",
+        "fp8",
+        "image-text-to-text",
+        "license:mit",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 6,
+        "likes": 1361,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7614da9dae5b301a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lycorp-jp/sim-use",
+      "kind": "github_repository",
+      "name": "lycorp-jp/sim-use",
+      "url": "https://github.com/lycorp-jp/sim-use",
+      "provider": "GitHub",
+      "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1325,
+        "forks": 88,
+        "pushed_at": "2026-09-11T01:10:05Z",
+        "updated_at": "2026-09-11T01:10:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1854b555b4d28738",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/nex-agi/Nex-N2.5-mini",
+      "kind": "hf_model",
+      "name": "nex-agi/Nex-N2.5-mini",
+      "url": "https://huggingface.co/models/nex-agi/Nex-N2.5-mini",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "conversational",
+        "endpoints_compatible",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "qwen3_5_moe",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 2444,
+        "likes": 656,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0605f00ad57150db",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dbcodeio/public",
+      "kind": "github_repository",
+      "name": "dbcodeio/public",
+      "url": "https://github.com/dbcodeio/public",
+      "provider": "GitHub",
+      "description": "The database IDE for VS Code, Cursor, and Windsurf. 80+ databases: Postgres, MySQL, SQL Server, MongoDB, Snowflake, and more. AI queries, ER diagrams, SQL notebooks.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 346,
+        "forks": 25,
+        "pushed_at": "2026-09-11T01:05:14Z",
+        "updated_at": "2026-09-11T01:05:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c49369b547a854b1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/TypeWhisper/typewhisper-win",
+      "kind": "github_repository",
+      "name": "TypeWhisper/typewhisper-win",
+      "url": "https://github.com/TypeWhisper/typewhisper-win",
+      "provider": "GitHub",
+      "description": "TypeWhisper for Windows - Local speech-to-text with translation",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 207,
+        "forks": 24,
+        "pushed_at": "2026-09-10T22:40:14Z",
+        "updated_at": "2026-09-10T20:29:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "61d3f48c5342420a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
