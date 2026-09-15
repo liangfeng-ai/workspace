@@ -50,7 +50,7 @@
       "fingerprint": "e250cc8df7c6143f"
     },
     "github_repository:https://github.com/run-llama/liteparse": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-15",
       "fingerprint": "bdc25d48fb447e2a"
     },
     "github_repository:https://github.com/ShareX/ShareX": {
@@ -106,7 +106,7 @@
       "fingerprint": "c66e503ea50064f2"
     },
     "github_repository:https://github.com/screenpipe/screenpipe": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-15",
       "fingerprint": "3ec55f62278b5923"
     },
     "github_repository:https://github.com/watzon/pindrop": {
@@ -170,7 +170,7 @@
       "fingerprint": "a3247315f4d66162"
     },
     "github_repository:https://github.com/onyx-dot-app/onyx": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-15",
       "fingerprint": "c298f932ea3f90ff"
     },
     "github_repository:https://github.com/langgenius/dify": {
@@ -362,7 +362,7 @@
       "fingerprint": "577e6f414471db7d"
     },
     "github_repository:https://github.com/aaif-goose/goose": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-15",
       "fingerprint": "df0dce32dc4c60c2"
     },
     "github_repository:https://github.com/milvus-io/milvus": {
@@ -802,7 +802,7 @@
       "fingerprint": "29e5a63e2a41047f"
     },
     "github_repository:https://github.com/ModelEngine-Group/nexent": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-09-15",
       "fingerprint": "1d791fa095896025"
     },
     "github_repository:https://github.com/melandlabs/openloomi": {
@@ -1006,7 +1006,7 @@
       "fingerprint": "89df2d81039b2c30"
     },
     "github_repository:https://github.com/kevinpbuckley/VibeUE": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-09-15",
       "fingerprint": "bee85a6af9f80e84"
     },
     "github_repository:https://github.com/aartiq/servicenow-mcp": {
@@ -1018,7 +1018,7 @@
       "fingerprint": "2dc44746f80d47c8"
     },
     "github_repository:https://github.com/ryantsai/KKTerm": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-09-15",
       "fingerprint": "a10abca1e01909e8"
     },
     "github_repository:https://github.com/dmMaze/BallonsTranslator": {
@@ -1422,7 +1422,7 @@
       "fingerprint": "0eb890163f567095"
     },
     "github_repository:https://github.com/FrigadeHQ/yap": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-09-15",
       "fingerprint": "2c50dee0e379a641"
     },
     "github_repository:https://github.com/backmeupplz/voicy": {
@@ -1638,7 +1638,7 @@
       "fingerprint": "23ecfb3e2cc2b057"
     },
     "github_repository:https://github.com/luckyPipewrench/pipelock": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-09-15",
       "fingerprint": "508e6ae6e5391d6c"
     },
     "github_repository:https://github.com/agent-sh/agnix": {
@@ -1750,7 +1750,7 @@
       "fingerprint": "ea9fd8c971a69426"
     },
     "github_repository:https://github.com/danny-avila/LibreChat": {
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-09-15",
       "fingerprint": "74d90918356bf966"
     },
     "github_repository:https://github.com/Mintplex-Labs/anything-llm": {
@@ -2034,7 +2034,7 @@
       "fingerprint": "0cf0f1fb64b66449"
     },
     "github_repository:https://github.com/FootprintAI/Containarium": {
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-09-15",
       "fingerprint": "2cf18bd8c9e9146a"
     },
     "github_repository:https://github.com/DemonDamon/AgenticX": {
@@ -2070,7 +2070,7 @@
       "fingerprint": "806c9746919e1f0b"
     },
     "github_repository:https://github.com/microsoft/tui-test": {
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-09-15",
       "fingerprint": "2af988e3ca5036bf"
     },
     "github_repository:https://github.com/CCExtractor/ccextractor": {
@@ -2302,7 +2302,7 @@
       "fingerprint": "59f308c0920ae171"
     },
     "github_repository:https://github.com/xuiltul/animaworks": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-15",
       "fingerprint": "e5ed7a8c56226adb"
     },
     "github_repository:https://github.com/EmpiricaAI/empirica": {
@@ -3528,6 +3528,62 @@
     "hf_model:https://huggingface.co/models/m-a-p/YuE2-3B": {
       "last_seen": "2026-09-14",
       "fingerprint": "eafa097dec60df6f"
+    },
+    "github_repository:https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "3ea4c25867035c4f"
+    },
+    "github_repository:https://github.com/naodeng/awesome-qa-skills": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "096120dcb49c562e"
+    },
+    "github_repository:https://github.com/RapidAI/RapidOCR": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "9e4f350fffecc054"
+    },
+    "github_repository:https://github.com/JudgePeach/math-question-bank": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "bf072a44bd6dd3ae"
+    },
+    "github_repository:https://github.com/wxyhgk/retain-pdf": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "823950fd24bfd612"
+    },
+    "github_repository:https://github.com/deepdoctection/deepdoctection": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "053f23f065b0a788"
+    },
+    "github_repository:https://github.com/Aayush9029/petal": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "def3157c3f83de10"
+    },
+    "github_repository:https://github.com/risa-labs-inc/BossConsole": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "890c021612887bd7"
+    },
+    "github_repository:https://github.com/any4ai/AnyCrawl": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "742ff6987cb96472"
+    },
+    "github_repository:https://github.com/receptron/mulmoterminal": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "dce1e4adbfdcea72"
+    },
+    "official_repository:https://github.com/groq/speech-to-speech-demo": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "ee1c8ad7008ecfaa"
+    },
+    "official_repository:https://github.com/huggingface/chat-ui": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "9b177dcab16205b8"
+    },
+    "hf_model:https://huggingface.co/models/XHToken/Spark-X2.5-4B": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "081dca65e06375ff"
+    },
+    "hf_space:https://huggingface.co/spaces/sdfdsfsf32e3/wan2-2-i2v-v3": {
+      "last_seen": "2026-09-15",
+      "fingerprint": "12a7942eab4f3ec9"
     }
   }
 }
