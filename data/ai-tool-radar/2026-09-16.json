@@ -1,0 +1,736 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T01:28:33.286916+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 27,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/agents-course",
+      "kind": "official_repository",
+      "name": "huggingface/agents-course",
+      "url": "https://github.com/huggingface/agents-course",
+      "provider": "huggingface",
+      "description": "This repository contains the Hugging Face Agents Course.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 32569,
+        "pushed_at": "2026-09-15T00:53:42Z",
+        "updated_at": "2026-09-16T01:24:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e40fd5a2c5062391",
+        "novel": false,
+        "dedup_age_days": 62
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/cookbook",
+      "kind": "official_repository",
+      "name": "mistralai/cookbook",
+      "url": "https://github.com/mistralai/cookbook",
+      "provider": "mistralai",
+      "description": "",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2326,
+        "pushed_at": "2026-09-15T23:28:04Z",
+        "updated_at": "2026-09-15T23:28:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7eccd30351103cc1",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/openbench-cyber",
+      "kind": "official_repository",
+      "name": "groq/openbench-cyber",
+      "url": "https://github.com/groq/openbench-cyber",
+      "provider": "groq",
+      "description": "Cybersecurity evals plugin for openbench",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2,
+        "pushed_at": "2026-08-18T18:55:17Z",
+        "updated_at": "2026-09-15T20:53:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "16d884347c6058a3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/tailscale-buildkite-plugin",
+      "kind": "official_repository",
+      "name": "groq/tailscale-buildkite-plugin",
+      "url": "https://github.com/groq/tailscale-buildkite-plugin",
+      "provider": "groq",
+      "description": "Buildkite plugin to connect to your Tailscale network",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2,
+        "pushed_at": "2026-08-18T18:55:19Z",
+        "updated_at": "2026-09-15T20:53:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23a02630902dfad1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NousResearch/hermes-agent",
+      "kind": "github_repository",
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "provider": "GitHub",
+      "description": "The agent that grows with you",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 245879,
+        "forks": 51309,
+        "pushed_at": "2026-09-16T01:28:27Z",
+        "updated_at": "2026-09-16T01:28:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3029a56adfe06d26",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lobehub/lobehub",
+      "kind": "github_repository",
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "provider": "GitHub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 82507,
+        "forks": 15890,
+        "pushed_at": "2026-09-16T01:25:20Z",
+        "updated_at": "2026-09-16T01:25:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6aec81c7117bc347",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NVIDIA/NemoClaw",
+      "kind": "github_repository",
+      "name": "NVIDIA/NemoClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "provider": "GitHub",
+      "description": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 22467,
+        "forks": 3085,
+        "pushed_at": "2026-09-16T01:28:14Z",
+        "updated_at": "2026-09-16T01:28:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e510266a5bf01210",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/modelscope/FunASR",
+      "kind": "github_repository",
+      "name": "modelscope/FunASR",
+      "url": "https://github.com/modelscope/FunASR",
+      "provider": "GitHub",
+      "description": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 20352,
+        "forks": 2031,
+        "pushed_at": "2026-09-16T00:11:58Z",
+        "updated_at": "2026-09-16T01:25:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d6e142e320a83355",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Qwen/Qwen3.8-27B",
+      "kind": "hf_model",
+      "name": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/models/Qwen/Qwen3.8-27B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "conversational",
+        "deploy:azure",
+        "deploy:sagemaker",
+        "endpoints_compatible",
+        "eval-results",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "qwen3_5",
+        "region:us",
+        "safetensors",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 7702543,
+        "likes": 15268,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7c854df8311c96c8",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/miuuyy/codex-chatgpt-web",
+      "kind": "github_repository",
+      "name": "miuuyy/codex-chatgpt-web",
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "provider": "GitHub",
+      "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7429,
+        "forks": 647,
+        "pushed_at": "2026-09-16T01:27:59Z",
+        "updated_at": "2026-09-16T01:28:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8e47fd2648f660e2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nguyenphutrong/quotio",
+      "kind": "github_repository",
+      "name": "nguyenphutrong/quotio",
+      "url": "https://github.com/nguyenphutrong/quotio",
+      "provider": "GitHub",
+      "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4859,
+        "forks": 323,
+        "pushed_at": "2026-09-16T01:27:53Z",
+        "updated_at": "2026-09-16T01:27:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7993bbe88e5daf3d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "kind": "hf_space",
+      "name": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 3505,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d35b1252805401be",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/eikek/docspell",
+      "kind": "github_repository",
+      "name": "eikek/docspell",
+      "url": "https://github.com/eikek/docspell",
+      "provider": "GitHub",
+      "description": "Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2328,
+        "forks": 184,
+        "pushed_at": "2026-09-16T01:03:38Z",
+        "updated_at": "2026-09-16T00:43:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a9bace421a6151a8",
+        "novel": false,
+        "dedup_age_days": 51
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/TokenRhythm/NeoHorse-1-4B",
+      "kind": "hf_model",
+      "name": "TokenRhythm/NeoHorse-1-4B",
+      "url": "https://huggingface.co/models/TokenRhythm/NeoHorse-1-4B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "agentic",
+        "arxiv:2609.08183",
+        "base_model:finetune:qwen/qwen3.5-4b",
+        "base_model:qwen/qwen3.5-4b",
+        "coding",
+        "conversational",
+        "endpoints_compatible",
+        "instruction-following",
+        "license:apache-2.0",
+        "qwen3_5_text",
+        "reasoning",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "tool-use",
+        "transformers"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 11904,
+        "likes": 2038,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b2ad3f54b31420c9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SethGammon/Citadel",
+      "kind": "github_repository",
+      "name": "SethGammon/Citadel",
+      "url": "https://github.com/SethGammon/Citadel",
+      "provider": "GitHub",
+      "description": "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 923,
+        "forks": 83,
+        "pushed_at": "2026-09-16T01:25:44Z",
+        "updated_at": "2026-09-16T01:25:48Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f58d7ded1cbfae51",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/realskyrin/capcap",
+      "kind": "github_repository",
+      "name": "realskyrin/capcap",
+      "url": "https://github.com/realskyrin/capcap",
+      "provider": "GitHub",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 893,
+        "forks": 75,
+        "pushed_at": "2026-09-15T23:23:33Z",
+        "updated_at": "2026-09-15T23:24:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e250cc8df7c6143f",
+        "novel": false,
+        "dedup_age_days": 63
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/readur/readur",
+      "kind": "github_repository",
+      "name": "readur/readur",
+      "url": "https://github.com/readur/readur",
+      "provider": "GitHub",
+      "description": "Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 794,
+        "forks": 77,
+        "pushed_at": "2026-09-16T00:43:52Z",
+        "updated_at": "2026-09-16T00:41:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3d85ad4a151b3442",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CrispStrobe/CrispASR",
+      "kind": "github_repository",
+      "name": "CrispStrobe/CrispASR",
+      "url": "https://github.com/CrispStrobe/CrispASR",
+      "provider": "GitHub",
+      "description": "C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 636,
+        "forks": 105,
+        "pushed_at": "2026-09-16T01:08:15Z",
+        "updated_at": "2026-09-15T23:47:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "be2520a07e1563f1",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/decionis/agent-safe-pipeline",
+      "kind": "github_repository",
+      "name": "decionis/agent-safe-pipeline",
+      "url": "https://github.com/decionis/agent-safe-pipeline",
+      "provider": "GitHub",
+      "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 533,
+        "forks": 57,
+        "pushed_at": "2026-09-16T01:25:38Z",
+        "updated_at": "2026-09-16T01:25:07Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9986b31fc58bf2d1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/leeguooooo/claude-code-usage-bar",
+      "kind": "github_repository",
+      "name": "leeguooooo/claude-code-usage-bar",
+      "url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "provider": "GitHub",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 374,
+        "forks": 24,
+        "pushed_at": "2026-09-16T01:11:49Z",
+        "updated_at": "2026-09-16T01:11:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "70ddb5aa9c9fe8c7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DocAILab/XRAG",
+      "kind": "github_repository",
+      "name": "DocAILab/XRAG",
+      "url": "https://github.com/DocAILab/XRAG",
+      "provider": "GitHub",
+      "description": "XRAG: eXamining the Core - Benchmarking Foundational Component Modules in Advanced Retrieval-Augmented Generation",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 331,
+        "forks": 17,
+        "pushed_at": "2026-09-16T01:18:06Z",
+        "updated_at": "2026-09-16T01:18:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "900395395a02aeaa",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aqua5230/usage",
+      "kind": "github_repository",
+      "name": "aqua5230/usage",
+      "url": "https://github.com/aqua5230/usage",
+      "provider": "GitHub",
+      "description": "macOS menu bar & Windows tray app pinning Claude Code, Codex & Antigravity quota, burn rate, and cost to your screen. Local-first, no LLM API calls. HTML reports, 10 themes.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 323,
+        "forks": 54,
+        "pushed_at": "2026-09-16T00:24:06Z",
+        "updated_at": "2026-09-16T00:24:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fd1c541ce7319604",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/btsouth/toolport",
+      "kind": "github_repository",
+      "name": "btsouth/toolport",
+      "url": "https://github.com/btsouth/toolport",
+      "provider": "GitHub",
+      "description": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 214,
+        "forks": 55,
+        "pushed_at": "2026-09-16T01:27:13Z",
+        "updated_at": "2026-09-16T01:27:04Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c6be0c3af041c48a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zendev-sh/goai",
+      "kind": "github_repository",
+      "name": "zendev-sh/goai",
+      "url": "https://github.com/zendev-sh/goai",
+      "provider": "GitHub",
+      "description": "Go AI SDK, the Go way. One unified API across 21+ providers. Streaming, structured output, MCP support, stdlib only. Go AI SDK for AI applications inspired by Vercel AI SDK.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 205,
+        "forks": 28,
+        "pushed_at": "2026-09-16T00:24:10Z",
+        "updated_at": "2026-09-16T01:02:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1767d5b0ba9c02b7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/FuRongJun-1999/dsh-memory",
+      "kind": "github_repository",
+      "name": "FuRongJun-1999/dsh-memory",
+      "url": "https://github.com/FuRongJun-1999/dsh-memory",
+      "provider": "GitHub",
+      "description": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 200,
+        "forks": 12,
+        "pushed_at": "2026-09-16T01:23:04Z",
+        "updated_at": "2026-09-16T01:23:08Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "78ead6ae92d73954",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/HuggingEnvs/geoguesser-article",
+      "kind": "hf_space",
+      "name": "HuggingEnvs/geoguesser-article",
+      "url": "https://huggingface.co/spaces/HuggingEnvs/geoguesser-article",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "docker",
+        "grpo",
+        "openenv",
+        "qwen3.5",
+        "region:us",
+        "reinforcement-learning",
+        "research-article-template",
+        "reward-design",
+        "rl-environments",
+        "trl",
+        "vision-language-model",
+        "visual-geolocation"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 44,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d3b7c106625ec413",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/victor/MiniCPM5-2B-WebGPU-Pi",
+      "kind": "hf_space",
+      "name": "victor/MiniCPM5-2B-WebGPU-Pi",
+      "url": "https://huggingface.co/spaces/victor/MiniCPM5-2B-WebGPU-Pi",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "agents",
+        "just-bash",
+        "onnx",
+        "pi",
+        "region:us",
+        "static",
+        "text-generation",
+        "transformers.js",
+        "webgpu"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 42,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "093a959ec8e43adf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

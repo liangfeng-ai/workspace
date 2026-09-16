@@ -34,7 +34,7 @@
       "fingerprint": "99b32794d96a0a1e"
     },
     "github_repository:https://github.com/aqua5230/usage": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-16",
       "fingerprint": "fd1c541ce7319604"
     },
     "github_repository:https://github.com/zzet/gortex": {
@@ -42,11 +42,11 @@
       "fingerprint": "7e1680d601142c48"
     },
     "github_repository:https://github.com/readur/readur": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-16",
       "fingerprint": "3d85ad4a151b3442"
     },
     "github_repository:https://github.com/realskyrin/capcap": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-09-16",
       "fingerprint": "e250cc8df7c6143f"
     },
     "github_repository:https://github.com/run-llama/liteparse": {
@@ -82,7 +82,7 @@
       "fingerprint": "5cbada2507d5f9e1"
     },
     "github_repository:https://github.com/modelscope/FunASR": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-16",
       "fingerprint": "d6e142e320a83355"
     },
     "github_repository:https://github.com/silverstein/minutes": {
@@ -222,7 +222,7 @@
       "fingerprint": "edcf512a3a9ed1a9"
     },
     "official_repository:https://github.com/mistralai/cookbook": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-16",
       "fingerprint": "7eccd30351103cc1"
     },
     "official_repository:https://github.com/mistralai/client-ts": {
@@ -258,7 +258,7 @@
       "fingerprint": "84375b7f41a6221b"
     },
     "official_repository:https://github.com/huggingface/agents-course": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-09-16",
       "fingerprint": "e40fd5a2c5062391"
     },
     "official_repository:https://github.com/huggingface/swift-transformers": {
@@ -506,7 +506,7 @@
       "fingerprint": "cb10c44e2ca7b000"
     },
     "github_repository:https://github.com/CrispStrobe/CrispASR": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-16",
       "fingerprint": "be2520a07e1563f1"
     },
     "github_repository:https://github.com/anthropics/claude-plugins-official": {
@@ -570,7 +570,7 @@
       "fingerprint": "ff91598b44324e88"
     },
     "github_repository:https://github.com/NousResearch/hermes-agent": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-16",
       "fingerprint": "3029a56adfe06d26"
     },
     "official_repository:https://github.com/mistralai/platform-docs-public": {
@@ -714,7 +714,7 @@
       "fingerprint": "3918155194a5eda2"
     },
     "github_repository:https://github.com/NVIDIA/NemoClaw": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-16",
       "fingerprint": "e510266a5bf01210"
     },
     "official_repository:https://github.com/openai/tunnel-client": {
@@ -1258,7 +1258,7 @@
       "fingerprint": "17d5141b7012b317"
     },
     "github_repository:https://github.com/eikek/docspell": {
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-09-16",
       "fingerprint": "a9bace421a6151a8"
     },
     "github_repository:https://github.com/scribeocr/scribe.js": {
@@ -1954,7 +1954,7 @@
       "fingerprint": "a0ae692fb5b4e932"
     },
     "github_repository:https://github.com/lobehub/lobehub": {
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-09-16",
       "fingerprint": "6aec81c7117bc347"
     },
     "github_repository:https://github.com/Brhiza/mingyu": {
@@ -2406,7 +2406,7 @@
       "fingerprint": "1272ab1d9c344cad"
     },
     "hf_model:https://huggingface.co/models/Qwen/Qwen3.8-27B": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-16",
       "fingerprint": "7c854df8311c96c8"
     },
     "hf_model:https://huggingface.co/models/Qwen/Qwen3.8-27B-FP8": {
@@ -3584,6 +3584,66 @@
     "hf_space:https://huggingface.co/spaces/sdfdsfsf32e3/wan2-2-i2v-v3": {
       "last_seen": "2026-09-15",
       "fingerprint": "12a7942eab4f3ec9"
+    },
+    "github_repository:https://github.com/nguyenphutrong/quotio": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "7993bbe88e5daf3d"
+    },
+    "github_repository:https://github.com/leeguooooo/claude-code-usage-bar": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "70ddb5aa9c9fe8c7"
+    },
+    "github_repository:https://github.com/zendev-sh/goai": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "1767d5b0ba9c02b7"
+    },
+    "github_repository:https://github.com/miuuyy/codex-chatgpt-web": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "8e47fd2648f660e2"
+    },
+    "github_repository:https://github.com/btsouth/toolport": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "c6be0c3af041c48a"
+    },
+    "github_repository:https://github.com/SethGammon/Citadel": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "f58d7ded1cbfae51"
+    },
+    "github_repository:https://github.com/decionis/agent-safe-pipeline": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "9986b31fc58bf2d1"
+    },
+    "github_repository:https://github.com/FuRongJun-1999/dsh-memory": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "78ead6ae92d73954"
+    },
+    "github_repository:https://github.com/DocAILab/XRAG": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "900395395a02aeaa"
+    },
+    "official_repository:https://github.com/groq/tailscale-buildkite-plugin": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "23a02630902dfad1"
+    },
+    "official_repository:https://github.com/groq/openbench-cyber": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "16d884347c6058a3"
+    },
+    "hf_model:https://huggingface.co/models/TokenRhythm/NeoHorse-1-4B": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "b2ad3f54b31420c9"
+    },
+    "hf_space:https://huggingface.co/spaces/HuggingEnvs/geoguesser-article": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "d3b7c106625ec413"
+    },
+    "hf_space:https://huggingface.co/spaces/victor/MiniCPM5-2B-WebGPU-Pi": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "093a959ec8e43adf"
+    },
+    "hf_space:https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster": {
+      "last_seen": "2026-09-16",
+      "fingerprint": "d35b1252805401be"
     }
   }
 }
