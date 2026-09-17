@@ -182,7 +182,7 @@
       "fingerprint": "1bb1732ceed994f7"
     },
     "github_repository:https://github.com/promptfoo/promptfoo": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-17",
       "fingerprint": "517fefaefa4c0acf"
     },
     "github_repository:https://github.com/TeleAI-UAGI/Awesome-Agent-Memory": {
@@ -458,7 +458,7 @@
       "fingerprint": "188109252a410910"
     },
     "github_repository:https://github.com/hackerai-tech/hackerai": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-17",
       "fingerprint": "4a812ff0ca4ed00f"
     },
     "github_repository:https://github.com/lightningpixel/modly": {
@@ -486,11 +486,11 @@
       "fingerprint": "b0ffbf158b098180"
     },
     "github_repository:https://github.com/schmitech/orbit": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-17",
       "fingerprint": "c43ac2719f32019a"
     },
     "github_repository:https://github.com/moona3k/macparakeet": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-17",
       "fingerprint": "322c0ad4947b8352"
     },
     "github_repository:https://github.com/tmoroney/auto-subs": {
@@ -542,7 +542,7 @@
       "fingerprint": "8a79d414d1996e2c"
     },
     "github_repository:https://github.com/henrydaum/second-brain": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-09-17",
       "fingerprint": "d53ca4ea3fd77572"
     },
     "github_repository:https://github.com/Andrew-Jang/RAGHub": {
@@ -662,7 +662,7 @@
       "fingerprint": "c909ae6660164f09"
     },
     "github_repository:https://github.com/Belkins/ai-dive-deep": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-17",
       "fingerprint": "bf3c439459ea6a73"
     },
     "github_repository:https://github.com/agent-sh/computer-use-linux": {
@@ -818,7 +818,7 @@
       "fingerprint": "3d98e56cef163a9d"
     },
     "github_repository:https://github.com/Ikalus1988/MisakaNet": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-09-17",
       "fingerprint": "23fafb5b5b0377d2"
     },
     "github_repository:https://github.com/Canner/WrenAI": {
@@ -1690,7 +1690,7 @@
       "fingerprint": "86b2ac70933ce7eb"
     },
     "github_repository:https://github.com/pipeshub-ai/pipeshub-ai": {
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-09-17",
       "fingerprint": "861142d96ce809f7"
     },
     "github_repository:https://github.com/jayminwest/warren": {
@@ -2090,7 +2090,7 @@
       "fingerprint": "a7eafc190050eb95"
     },
     "github_repository:https://github.com/getopenscreen/openscreen": {
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-09-17",
       "fingerprint": "aab3616c91c426c2"
     },
     "github_repository:https://github.com/VocaHQ/vocalinux": {
@@ -2266,7 +2266,7 @@
       "fingerprint": "8da73a2619c051e4"
     },
     "official_repository:https://github.com/huggingface/candle": {
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-09-17",
       "fingerprint": "85b13327e27546d7"
     },
     "official_repository:https://github.com/huggingface/hub-docs": {
@@ -2334,7 +2334,7 @@
       "fingerprint": "f7e06af5a9dc6b04"
     },
     "github_repository:https://github.com/lexmount/moli": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-17",
       "fingerprint": "158d7179700c1a15"
     },
     "github_repository:https://github.com/mohitagw15856/pm-claude-skills": {
@@ -3644,6 +3644,66 @@
     "hf_space:https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster": {
       "last_seen": "2026-09-16",
       "fingerprint": "d35b1252805401be"
+    },
+    "github_repository:https://github.com/plmbr/notebook-intelligence": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "1dcd3d8cd574aba9"
+    },
+    "github_repository:https://github.com/wangzhishou/OneBox": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "80ba7e74918d4a7b"
+    },
+    "github_repository:https://github.com/ExtractPDF4J/ExtractPDF4J": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "2b640028b9f84bbb"
+    },
+    "github_repository:https://github.com/crmne/ruby_llm": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "cb7a2d6a592f2e40"
+    },
+    "github_repository:https://github.com/kristoferlund/ostt": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "7e3c7cf751bf589e"
+    },
+    "github_repository:https://github.com/Orkas-AI/Orkas": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "f27b5c211021eaae"
+    },
+    "github_repository:https://github.com/TokenRhythm/opensquilla": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "3fae500c0e2aa9b6"
+    },
+    "github_repository:https://github.com/catlog22/maestro-flow": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "1e76f7bd9c9d7940"
+    },
+    "github_repository:https://github.com/AnotiaWang/deep-research-web-ui": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "8a47117dd4f03777"
+    },
+    "github_repository:https://github.com/veyliss/ai-localbase": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "17e7486f0983e9c7"
+    },
+    "github_repository:https://github.com/umputun/agterm": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "6cb68165d206497d"
+    },
+    "github_repository:https://github.com/agentic-os-org/ANOLISA": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "e2b7949680dd6034"
+    },
+    "github_repository:https://github.com/hypit-ai/hypit": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "92217950f2677c7f"
+    },
+    "hf_model:https://huggingface.co/models/ukisai/Swift-Qwen3.8-27b": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "e31a0ff3ff18fb50"
+    },
+    "hf_space:https://huggingface.co/spaces/stepfun-ai/StepAudio-3-Music": {
+      "last_seen": "2026-09-17",
+      "fingerprint": "2f611f035e7f4642"
     }
   }
 }
