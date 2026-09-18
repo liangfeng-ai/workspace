@@ -130,7 +130,7 @@
       "fingerprint": "08bcadfbc8aa5c94"
     },
     "github_repository:https://github.com/MCPJam/inspector": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-18",
       "fingerprint": "190e3d9055901c53"
     },
     "github_repository:https://github.com/bex-co/bex": {
@@ -390,7 +390,7 @@
       "fingerprint": "92743687e5cccc72"
     },
     "github_repository:https://github.com/kortix-ai/suna": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-18",
       "fingerprint": "f5ed541ee5844dbb"
     },
     "official_repository:https://github.com/huggingface/tau": {
@@ -410,7 +410,7 @@
       "fingerprint": "7049451086bb35e4"
     },
     "github_repository:https://github.com/simstudioai/sim": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-18",
       "fingerprint": "c5008fef6c26edbc"
     },
     "github_repository:https://github.com/steipete/agent-scripts": {
@@ -442,7 +442,7 @@
       "fingerprint": "e06078a1bb88cb36"
     },
     "official_repository:https://github.com/huggingface/transformers": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-18",
       "fingerprint": "320399bef82642d6"
     },
     "official_repository:https://github.com/huggingface/autotrain-advanced": {
@@ -450,7 +450,7 @@
       "fingerprint": "7d5e4f36239feaa8"
     },
     "github_repository:https://github.com/lidge-jun/opencodex": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-18",
       "fingerprint": "23102615b9b2a991"
     },
     "github_repository:https://github.com/mrwogu/promptscript": {
@@ -578,7 +578,7 @@
       "fingerprint": "5c18bc17df35f9a1"
     },
     "official_repository:https://github.com/mistralai/mistral-common": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-18",
       "fingerprint": "8bde2203ced8102c"
     },
     "official_repository:https://github.com/openai/terraform-provider-openai": {
@@ -854,7 +854,7 @@
       "fingerprint": "c22dc61d5841faca"
     },
     "official_repository:https://github.com/groq/openbench": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-18",
       "fingerprint": "1b51eea56b0829ce"
     },
     "official_repository:https://github.com/huggingface/smolagents": {
@@ -922,7 +922,7 @@
       "fingerprint": "7fbe03678e8a5514"
     },
     "github_repository:https://github.com/automagik-dev/genie": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-18",
       "fingerprint": "8eabaec655d4cab0"
     },
     "github_repository:https://github.com/0xJacky/nginx-ui": {
@@ -1814,7 +1814,7 @@
       "fingerprint": "16ce218dbe68b266"
     },
     "github_repository:https://github.com/skalesapp/skales": {
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-18",
       "fingerprint": "247f98809be22460"
     },
     "github_repository:https://github.com/awslabs/cli-agent-orchestrator": {
@@ -2394,7 +2394,7 @@
       "fingerprint": "030b2d406727f057"
     },
     "official_repository:https://github.com/groq/groq-desktop-beta": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-18",
       "fingerprint": "d0705ba32a035cf7"
     },
     "official_repository:https://github.com/openai/openai-agents-js": {
@@ -3704,6 +3704,38 @@
     "hf_space:https://huggingface.co/spaces/stepfun-ai/StepAudio-3-Music": {
       "last_seen": "2026-09-17",
       "fingerprint": "2f611f035e7f4642"
+    },
+    "github_repository:https://github.com/siegblink/interior-designer-ai": {
+      "last_seen": "2026-09-18",
+      "fingerprint": "e76ba59fee741055"
+    },
+    "github_repository:https://github.com/JCodesMore/ai-website-cloner-template": {
+      "last_seen": "2026-09-18",
+      "fingerprint": "565cfc9c0903ed3e"
+    },
+    "github_repository:https://github.com/mrpulor-gh/nuphus-mcp": {
+      "last_seen": "2026-09-18",
+      "fingerprint": "0bd348017c2c7375"
+    },
+    "github_repository:https://github.com/brekkylab/backlot": {
+      "last_seen": "2026-09-18",
+      "fingerprint": "0d55b5831e77a166"
+    },
+    "github_repository:https://github.com/sjkim1127/Reversecore_MCP": {
+      "last_seen": "2026-09-18",
+      "fingerprint": "589541ea8d421be8"
+    },
+    "hf_model:https://huggingface.co/models/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8": {
+      "last_seen": "2026-09-18",
+      "fingerprint": "39f2b5a5d2bb46d8"
+    },
+    "hf_space:https://huggingface.co/spaces/observantdistressed/wan2-2-i2v-v3": {
+      "last_seen": "2026-09-18",
+      "fingerprint": "390aa8e16228fdb0"
+    },
+    "hf_space:https://huggingface.co/spaces/kulkas2pintu/wan777": {
+      "last_seen": "2026-09-18",
+      "fingerprint": "b3cbad416703dbd6"
     }
   }
 }

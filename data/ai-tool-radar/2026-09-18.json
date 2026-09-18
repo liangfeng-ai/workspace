@@ -1,0 +1,486 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T01:19:01.927856+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 18,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/transformers",
+      "kind": "official_repository",
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "provider": "huggingface",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 166260,
+        "pushed_at": "2026-09-18T00:18:38Z",
+        "updated_at": "2026-09-18T01:16:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "320399bef82642d6",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/mistral-common",
+      "kind": "official_repository",
+      "name": "mistralai/mistral-common",
+      "url": "https://github.com/mistralai/mistral-common",
+      "provider": "mistralai",
+      "description": "Official inference library for pre-processing of Mistral models",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 946,
+        "pushed_at": "2026-09-17T14:03:30Z",
+        "updated_at": "2026-09-17T16:39:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8bde2203ced8102c",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/openbench",
+      "kind": "official_repository",
+      "name": "groq/openbench",
+      "url": "https://github.com/groq/openbench",
+      "provider": "groq",
+      "description": "Provider-agnostic, open-source evaluation infrastructure for language models",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 819,
+        "pushed_at": "2026-08-26T05:58:23Z",
+        "updated_at": "2026-09-17T13:54:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1b51eea56b0829ce",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-desktop-beta",
+      "kind": "official_repository",
+      "name": "groq/groq-desktop-beta",
+      "url": "https://github.com/groq/groq-desktop-beta",
+      "provider": "groq",
+      "description": "Local Groq Desktop chat app with MCP support",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 403,
+        "pushed_at": "2026-09-04T18:02:30Z",
+        "updated_at": "2026-09-17T14:56:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d0705ba32a035cf7",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JCodesMore/ai-website-cloner-template",
+      "kind": "github_repository",
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "provider": "GitHub",
+      "description": "Clone any website with one command using AI coding agents",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 34563,
+        "forks": 5040,
+        "pushed_at": "2026-09-17T23:45:06Z",
+        "updated_at": "2026-09-18T01:12:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "565cfc9c0903ed3e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/simstudioai/sim",
+      "kind": "github_repository",
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "provider": "GitHub",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 29660,
+        "forks": 3839,
+        "pushed_at": "2026-09-18T00:59:36Z",
+        "updated_at": "2026-09-18T00:42:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c5008fef6c26edbc",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kortix-ai/suna",
+      "kind": "github_repository",
+      "name": "kortix-ai/suna",
+      "url": "https://github.com/kortix-ai/suna",
+      "provider": "GitHub",
+      "description": "The open-source AI Management System",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 20220,
+        "forks": 3435,
+        "pushed_at": "2026-09-18T01:17:40Z",
+        "updated_at": "2026-09-18T01:17:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f5ed541ee5844dbb",
+        "novel": false,
+        "dedup_age_days": 59
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lidge-jun/opencodex",
+      "kind": "github_repository",
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "provider": "GitHub",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 15151,
+        "forks": 1147,
+        "pushed_at": "2026-09-18T01:01:28Z",
+        "updated_at": "2026-09-18T01:18:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23102615b9b2a991",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/MCPJam/inspector",
+      "kind": "github_repository",
+      "name": "MCPJam/inspector",
+      "url": "https://github.com/MCPJam/inspector",
+      "provider": "GitHub",
+      "description": "Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2215,
+        "forks": 284,
+        "pushed_at": "2026-09-18T01:12:23Z",
+        "updated_at": "2026-09-18T01:12:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "190e3d9055901c53",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/skalesapp/skales",
+      "kind": "github_repository",
+      "name": "skalesapp/skales",
+      "url": "https://github.com/skalesapp/skales",
+      "provider": "GitHub",
+      "description": "Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding (Skales Code), desktop + browser automation, autonomous scheduled Tasks. Teams of agents and humans across paired desktops. Agent2Agent, MCP, computer use, voice, local LLMs (Ollama), Agent Skills (SKILL.md). 26 AI providers, BYOK. No Docker, no terminal.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1898,
+        "forks": 263,
+        "pushed_at": "2026-09-18T01:16:55Z",
+        "updated_at": "2026-09-18T01:16:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "247f98809be22460",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/automagik-dev/genie",
+      "kind": "github_repository",
+      "name": "automagik-dev/genie",
+      "url": "https://github.com/automagik-dev/genie",
+      "provider": "GitHub",
+      "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 338,
+        "forks": 50,
+        "pushed_at": "2026-09-18T01:15:21Z",
+        "updated_at": "2026-09-18T01:15:24Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8eabaec655d4cab0",
+        "novel": false,
+        "dedup_age_days": 59
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mrpulor-gh/nuphus-mcp",
+      "kind": "github_repository",
+      "name": "mrpulor-gh/nuphus-mcp",
+      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
+      "provider": "GitHub",
+      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio). Not a DSH plugin — DSH users install dsh-nuphus-mcp.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 307,
+        "forks": 36,
+        "pushed_at": "2026-09-17T18:25:25Z",
+        "updated_at": "2026-09-17T18:25:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0bd348017c2c7375",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "kind": "hf_model",
+      "name": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "url": "https://huggingface.co/models/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "abliterated",
+        "base_model:deepseek-ai/deepseek-v4.1-flash",
+        "base_model:quantized:deepseek-ai/deepseek-v4.1-flash",
+        "crack",
+        "deepseek",
+        "deepseek-v4.1",
+        "deepseek_v41",
+        "endpoints_compatible",
+        "fp8",
+        "image-text-to-text",
+        "license:mit",
+        "moe",
+        "multimodal",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers",
+        "uncensored"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 32011,
+        "likes": 266,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "39f2b5a5d2bb46d8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/siegblink/interior-designer-ai",
+      "kind": "github_repository",
+      "name": "siegblink/interior-designer-ai",
+      "url": "https://github.com/siegblink/interior-designer-ai",
+      "provider": "GitHub",
+      "description": "Upload a sample room photo and get a design back in seconds.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 213,
+        "forks": 66,
+        "pushed_at": "2026-09-18T00:18:49Z",
+        "updated_at": "2026-09-18T00:18:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e76ba59fee741055",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/brekkylab/backlot",
+      "kind": "github_repository",
+      "name": "brekkylab/backlot",
+      "url": "https://github.com/brekkylab/backlot",
+      "provider": "GitHub",
+      "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 203,
+        "forks": 20,
+        "pushed_at": "2026-09-18T01:18:47Z",
+        "updated_at": "2026-09-18T01:17:52Z",
+        "archived": false,
+        "source_count": 3
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0d55b5831e77a166",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/sjkim1127/Reversecore_MCP",
+      "kind": "github_repository",
+      "name": "sjkim1127/Reversecore_MCP",
+      "url": "https://github.com/sjkim1127/Reversecore_MCP",
+      "provider": "GitHub",
+      "description": "A security-first MCP server that empowers AI agents to perform automated reverse engineering, malware analysis, forensics, vulnerability research, and SAST — powered by Radare2, YARA, LIEF, Capstone, and more.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 203,
+        "forks": 20,
+        "pushed_at": "2026-09-18T01:13:11Z",
+        "updated_at": "2026-09-18T01:13:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "589541ea8d421be8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/observantdistressed/wan2-2-i2v-v3",
+      "kind": "hf_space",
+      "name": "observantdistressed/wan2-2-i2v-v3",
+      "url": "https://huggingface.co/spaces/observantdistressed/wan2-2-i2v-v3",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 76,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "390aa8e16228fdb0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/kulkas2pintu/wan777",
+      "kind": "hf_space",
+      "name": "kulkas2pintu/wan777",
+      "url": "https://huggingface.co/spaces/kulkas2pintu/wan777",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 68,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b3cbad416703dbd6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
