@@ -30,7 +30,7 @@
       "fingerprint": "ffabc82a3f480a29"
     },
     "github_repository:https://github.com/Gitlawb/openclaude": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-21",
       "fingerprint": "99b32794d96a0a1e"
     },
     "github_repository:https://github.com/aqua5230/usage": {
@@ -66,7 +66,7 @@
       "fingerprint": "900bd839a606029c"
     },
     "github_repository:https://github.com/SylphxAI/pdf-reader-mcp": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-09-21",
       "fingerprint": "3a9d248448d7cbdf"
     },
     "github_repository:https://github.com/tisfeng/Easydict": {
@@ -230,7 +230,7 @@
       "fingerprint": "32e9d43bc101d7fc"
     },
     "official_repository:https://github.com/groq/groq-python": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-21",
       "fingerprint": "cd78e3ea89aafaff"
     },
     "official_repository:https://github.com/groq/groq-typescript": {
@@ -326,7 +326,7 @@
       "fingerprint": "ccd398e1fa261167"
     },
     "hf_space:https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-09-21",
       "fingerprint": "608decf7243866a3"
     },
     "hf_space:https://huggingface.co/spaces/OpenMOSS-Team/MOSS-transcribe-diarize": {
@@ -474,7 +474,7 @@
       "fingerprint": "37c0dcb717bdb48b"
     },
     "github_repository:https://github.com/Unstructured-IO/unstructured": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-21",
       "fingerprint": "a6aeb7c2653f9d85"
     },
     "github_repository:https://github.com/scambier/obsidian-omnisearch": {
@@ -654,7 +654,7 @@
       "fingerprint": "e56263fcc12fe438"
     },
     "github_repository:https://github.com/FluidInference/FluidAudio": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-21",
       "fingerprint": "b00a4aa82ff90edc"
     },
     "github_repository:https://github.com/modelcontextprotocol/ext-apps": {
@@ -710,7 +710,7 @@
       "fingerprint": "b46fae5e15067820"
     },
     "github_repository:https://github.com/superset-sh/superset": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-21",
       "fingerprint": "3918155194a5eda2"
     },
     "github_repository:https://github.com/NVIDIA/NemoClaw": {
@@ -1238,7 +1238,7 @@
       "fingerprint": "f0b3eeac9d1efc61"
     },
     "official_repository:https://github.com/huggingface/tokenizers": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-09-21",
       "fingerprint": "50184f9eadf88fa9"
     },
     "hf_space:https://huggingface.co/spaces/yijunwang2/krea2-outpaint": {
@@ -1370,7 +1370,7 @@
       "fingerprint": "6a2738b128a3ff90"
     },
     "github_repository:https://github.com/can1357/oh-my-pi": {
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-09-21",
       "fingerprint": "a9fe0de22090af6f"
     },
     "github_repository:https://github.com/codexu/note-gen": {
@@ -1578,7 +1578,7 @@
       "fingerprint": "b0fee8712a360b16"
     },
     "github_repository:https://github.com/jeff-nasseri/mikrotik-mcp": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-09-21",
       "fingerprint": "3d039fa1a76e12f6"
     },
     "github_repository:https://github.com/Johell1NS/browser-search": {
@@ -2122,7 +2122,7 @@
       "fingerprint": "d30a8834919eb8ba"
     },
     "github_repository:https://github.com/codelibs/fess": {
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-09-21",
       "fingerprint": "b733130a95a23fb4"
     },
     "github_repository:https://github.com/kodustech/kodus-ai": {
@@ -2402,7 +2402,7 @@
       "fingerprint": "30c18b0681efbc09"
     },
     "official_repository:https://github.com/huggingface/text-embeddings-inference": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-21",
       "fingerprint": "1272ab1d9c344cad"
     },
     "hf_model:https://huggingface.co/models/Qwen/Qwen3.8-27B": {
@@ -2490,7 +2490,7 @@
       "fingerprint": "0dcba0e718580e60"
     },
     "github_repository:https://github.com/Dicklesworthstone/coding_agent_session_search": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-21",
       "fingerprint": "fd0327a9cc5e4634"
     },
     "github_repository:https://github.com/embabel/embabel-agent": {
@@ -2566,7 +2566,7 @@
       "fingerprint": "c32be577b51ac4f0"
     },
     "github_repository:https://github.com/caura-ai/caura": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-09-21",
       "fingerprint": "6f93b2206c6dacfb"
     },
     "github_repository:https://github.com/eneskirca/nodeterm": {
@@ -2626,7 +2626,7 @@
       "fingerprint": "0ce0c449baa1d31a"
     },
     "github_repository:https://github.com/puritysb/AgentDeck": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-21",
       "fingerprint": "ea193aa70a97360a"
     },
     "github_repository:https://github.com/Paritok-official/paritok-4b-v1": {
@@ -3736,6 +3736,70 @@
     "hf_space:https://huggingface.co/spaces/kulkas2pintu/wan777": {
       "last_seen": "2026-09-18",
       "fingerprint": "b3cbad416703dbd6"
+    },
+    "github_repository:https://github.com/ahatem/QTranslate": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "32af507e2d1850c7"
+    },
+    "github_repository:https://github.com/dengxibo/sumatrapdf-plus": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "909597cb080124e1"
+    },
+    "github_repository:https://github.com/fabio-rovai/open-ontologies": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "c2ce16173cb906a5"
+    },
+    "github_repository:https://github.com/CopilotKit/OpenBot": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "758a9eadcaf8a779"
+    },
+    "github_repository:https://github.com/punkpeye/awesome-remote-mcp-servers": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "e5c8b9ac9aa05243"
+    },
+    "github_repository:https://github.com/Storybloq/storybloq": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "9c6cf39d9f15af3b"
+    },
+    "github_repository:https://github.com/chunxiaoxx/nautilus-compass": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "b2d7e1aa238d15f1"
+    },
+    "github_repository:https://github.com/gustavoeenriquez/MakerAi": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "574229a7f365c761"
+    },
+    "github_repository:https://github.com/notque/vexjoy-agent": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "cd092cdeb63af86c"
+    },
+    "github_repository:https://github.com/zenstory-ai/novel-to-game": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "aa91ceeb176d8acb"
+    },
+    "github_repository:https://github.com/runtm-ai/runtm": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "e8a2808d8ac61903"
+    },
+    "official_repository:https://github.com/openai/openai-cli": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "aac41c9b8b277c79"
+    },
+    "official_repository:https://github.com/huggingface/xet-core": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "61eb9a7ac408baba"
+    },
+    "hf_model:https://huggingface.co/models/Qwen/Qwen-Image-2.1": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "95a2b8a0db72b030"
+    },
+    "hf_model:https://huggingface.co/models/AlexWortega/openjev": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "ad72a28349fc6896"
+    },
+    "hf_space:https://huggingface.co/spaces/multimodalart/jev-reproductions-tracker": {
+      "last_seen": "2026-09-21",
+      "fingerprint": "681a9e391100d8bb"
     }
   }
 }
