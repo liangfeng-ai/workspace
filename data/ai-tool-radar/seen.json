@@ -178,7 +178,7 @@
       "fingerprint": "472bbcf1726e26ef"
     },
     "github_repository:https://github.com/headroomlabs-ai/headroom": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-22",
       "fingerprint": "1bb1732ceed994f7"
     },
     "github_repository:https://github.com/promptfoo/promptfoo": {
@@ -206,7 +206,7 @@
       "fingerprint": "38ef2828347083cf"
     },
     "github_repository:https://github.com/marcusquinn/aidevops": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-22",
       "fingerprint": "a6f35268706d8cff"
     },
     "github_repository:https://github.com/firecrawl/firecrawl": {
@@ -214,7 +214,7 @@
       "fingerprint": "32401ba5aed008d7"
     },
     "github_repository:https://github.com/stablyai/orca": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-22",
       "fingerprint": "2149099ea4e39512"
     },
     "official_repository:https://github.com/mistralai/mistral-vibe": {
@@ -238,7 +238,7 @@
       "fingerprint": "9c3de148d4ed44e0"
     },
     "official_repository:https://github.com/groq/kustomize-lint": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-22",
       "fingerprint": "b63b3dd74bc8dade"
     },
     "official_repository:https://github.com/openai/codex": {
@@ -454,7 +454,7 @@
       "fingerprint": "23102615b9b2a991"
     },
     "github_repository:https://github.com/mrwogu/promptscript": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-22",
       "fingerprint": "188109252a410910"
     },
     "github_repository:https://github.com/hackerai-tech/hackerai": {
@@ -930,7 +930,7 @@
       "fingerprint": "9a28ea10d2f813cd"
     },
     "github_repository:https://github.com/diegosouzapw/OmniRoute": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-22",
       "fingerprint": "da7928dfecbbaa82"
     },
     "github_repository:https://github.com/aipoch/open-science": {
@@ -2398,7 +2398,7 @@
       "fingerprint": "d0705ba32a035cf7"
     },
     "official_repository:https://github.com/openai/openai-agents-js": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-22",
       "fingerprint": "30c18b0681efbc09"
     },
     "official_repository:https://github.com/huggingface/text-embeddings-inference": {
@@ -2538,7 +2538,7 @@
       "fingerprint": "32745347b08c4ea6"
     },
     "github_repository:https://github.com/debpalash/VoiceStudio": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-09-22",
       "fingerprint": "a2d898ea662b9619"
     },
     "github_repository:https://github.com/VRCWizard/TTS-Voice-Wizard": {
@@ -3800,6 +3800,70 @@
     "hf_space:https://huggingface.co/spaces/multimodalart/jev-reproductions-tracker": {
       "last_seen": "2026-09-21",
       "fingerprint": "681a9e391100d8bb"
+    },
+    "github_repository:https://github.com/aldegad/sprite-gen": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "5b77f9f5fc897e60"
+    },
+    "github_repository:https://github.com/A9T9/RPA": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "051dc72cd5e30f5e"
+    },
+    "github_repository:https://github.com/yuxino/mimi": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "af2ee7016cb2a116"
+    },
+    "github_repository:https://github.com/AkaraChen/aghub": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "ebf65e03dc078d4f"
+    },
+    "github_repository:https://github.com/rulego/rulego": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "1a030fe9c59e3bdc"
+    },
+    "github_repository:https://github.com/jakejarvis/domainstack.io": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "074573fa182dac45"
+    },
+    "github_repository:https://github.com/davepoon/buildwithclaude": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "71b44bc017731e8d"
+    },
+    "github_repository:https://github.com/firecrawl/firecrawl-mcp-server": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "0309b7fff3f76f34"
+    },
+    "github_repository:https://github.com/NanmiCoder/cc-haha": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "e133055a9b72d0fd"
+    },
+    "github_repository:https://github.com/HKUDS/DeepTutor": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "143bb07dab36aac6"
+    },
+    "github_repository:https://github.com/Marker-Inc-Korea/AutoRAG": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "3bef19e99a578ce8"
+    },
+    "github_repository:https://github.com/cobanov/awesome-jev": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "6539350813e917b6"
+    },
+    "github_repository:https://github.com/nickjvandyke/opencode.nvim": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "f7fa5401bdaccbc3"
+    },
+    "github_repository:https://github.com/Dicklesworthstone/destructive_command_guard": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "827e1a881690e7d3"
+    },
+    "github_repository:https://github.com/Vigil-SOC/vigil": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "23f2cdf052b47b34"
+    },
+    "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-GGUF": {
+      "last_seen": "2026-09-22",
+      "fingerprint": "97e22de83cefa0a7"
     }
   }
 }

@@ -1,0 +1,622 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T01:38:06.457234+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/openai-agents-js",
+      "kind": "official_repository",
+      "name": "openai/openai-agents-js",
+      "url": "https://github.com/openai/openai-agents-js",
+      "provider": "openai",
+      "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 3843,
+        "pushed_at": "2026-09-22T01:36:52Z",
+        "updated_at": "2026-09-22T01:37:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "30c18b0681efbc09",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/kustomize-lint",
+      "kind": "official_repository",
+      "name": "groq/kustomize-lint",
+      "url": "https://github.com/groq/kustomize-lint",
+      "provider": "groq",
+      "description": "Linter for kustomize files",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 7,
+        "pushed_at": "2026-09-21T03:59:44Z",
+        "updated_at": "2026-09-21T17:09:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b63b3dd74bc8dade",
+        "novel": false,
+        "dedup_age_days": 39
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/stablyai/orca",
+      "kind": "github_repository",
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "provider": "GitHub",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 74728,
+        "forks": 4884,
+        "pushed_at": "2026-09-22T01:33:02Z",
+        "updated_at": "2026-09-22T01:37:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2149099ea4e39512",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/headroomlabs-ai/headroom",
+      "kind": "github_repository",
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "provider": "GitHub",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 73418,
+        "forks": 5655,
+        "pushed_at": "2026-09-22T01:05:41Z",
+        "updated_at": "2026-09-22T01:23:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1bb1732ceed994f7",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/diegosouzapw/OmniRoute",
+      "kind": "github_repository",
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "provider": "GitHub",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 68977,
+        "forks": 9766,
+        "pushed_at": "2026-09-22T01:30:30Z",
+        "updated_at": "2026-09-22T01:33:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "da7928dfecbbaa82",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HKUDS/DeepTutor",
+      "kind": "github_repository",
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "provider": "GitHub",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "capability_tags": [
+        "ai-agents",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 40132,
+        "forks": 5044,
+        "pushed_at": "2026-09-22T01:37:53Z",
+        "updated_at": "2026-09-22T01:18:29Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "143bb07dab36aac6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/debpalash/VoiceStudio",
+      "kind": "github_repository",
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "provider": "GitHub",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 33925,
+        "forks": 3989,
+        "pushed_at": "2026-09-22T01:04:13Z",
+        "updated_at": "2026-09-22T01:35:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a2d898ea662b9619",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NanmiCoder/cc-haha",
+      "kind": "github_repository",
+      "name": "NanmiCoder/cc-haha",
+      "url": "https://github.com/NanmiCoder/cc-haha",
+      "provider": "GitHub",
+      "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 14671,
+        "forks": 8582,
+        "pushed_at": "2026-09-22T01:31:20Z",
+        "updated_at": "2026-09-22T01:31:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e133055a9b72d0fd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/firecrawl/firecrawl-mcp-server",
+      "kind": "github_repository",
+      "name": "firecrawl/firecrawl-mcp-server",
+      "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+      "provider": "GitHub",
+      "description": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7499,
+        "forks": 891,
+        "pushed_at": "2026-09-22T01:32:51Z",
+        "updated_at": "2026-09-22T01:32:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0309b7fff3f76f34",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dicklesworthstone/destructive_command_guard",
+      "kind": "github_repository",
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "provider": "GitHub",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6033,
+        "forks": 246,
+        "pushed_at": "2026-09-22T01:34:46Z",
+        "updated_at": "2026-09-22T01:34:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "827e1a881690e7d3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Marker-Inc-Korea/AutoRAG",
+      "kind": "github_repository",
+      "name": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "provider": "GitHub",
+      "description": "AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5097,
+        "forks": 439,
+        "pushed_at": "2026-09-22T01:06:57Z",
+        "updated_at": "2026-09-22T01:24:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3bef19e99a578ce8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nickjvandyke/opencode.nvim",
+      "kind": "github_repository",
+      "name": "nickjvandyke/opencode.nvim",
+      "url": "https://github.com/nickjvandyke/opencode.nvim",
+      "provider": "GitHub",
+      "description": "Neovim 🤝 OpenCode in the flow that you already know.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3844,
+        "forks": 160,
+        "pushed_at": "2026-09-22T01:37:16Z",
+        "updated_at": "2026-09-22T01:36:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f7fa5401bdaccbc3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/davepoon/buildwithclaude",
+      "kind": "github_repository",
+      "name": "davepoon/buildwithclaude",
+      "url": "https://github.com/davepoon/buildwithclaude",
+      "provider": "GitHub",
+      "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3513,
+        "forks": 521,
+        "pushed_at": "2026-09-22T01:34:00Z",
+        "updated_at": "2026-09-22T01:34:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "71b44bc017731e8d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/A9T9/RPA",
+      "kind": "github_repository",
+      "name": "A9T9/RPA",
+      "url": "https://github.com/A9T9/RPA",
+      "provider": "GitHub",
+      "description": "Browser and desktop automation with an MCP server for AI assistants. Record macros or write JavaScript to automate websites, extract data, and control desktop apps with OCR and image recognition.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2026,
+        "forks": 411,
+        "pushed_at": "2026-09-21T21:23:29Z",
+        "updated_at": "2026-09-21T21:23:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "051dc72cd5e30f5e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aldegad/sprite-gen",
+      "kind": "github_repository",
+      "name": "aldegad/sprite-gen",
+      "url": "https://github.com/aldegad/sprite-gen",
+      "provider": "GitHub",
+      "description": "Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1741,
+        "forks": 169,
+        "pushed_at": "2026-09-22T01:23:58Z",
+        "updated_at": "2026-09-22T01:24:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5b77f9f5fc897e60",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rulego/rulego",
+      "kind": "github_repository",
+      "name": "rulego/rulego",
+      "url": "https://github.com/rulego/rulego",
+      "provider": "GitHub",
+      "description": "⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1607,
+        "forks": 157,
+        "pushed_at": "2026-09-22T01:35:50Z",
+        "updated_at": "2026-09-22T01:35:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1a030fe9c59e3bdc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-GGUF",
+      "kind": "hf_model",
+      "name": "abenzerps/Qwen-Image-2.1-GGUF",
+      "url": "https://huggingface.co/models/abenzerps/Qwen-Image-2.1-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:quantized:qwen/qwen-image-2.1",
+        "base_model:qwen/qwen-image-2.1",
+        "comfyui",
+        "comfyui-gguf",
+        "gguf",
+        "image-generation",
+        "license:other",
+        "qwen",
+        "region:us",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 33232,
+        "likes": 639,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "97e22de83cefa0a7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/marcusquinn/aidevops",
+      "kind": "github_repository",
+      "name": "marcusquinn/aidevops",
+      "url": "https://github.com/marcusquinn/aidevops",
+      "provider": "GitHub",
+      "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 401,
+        "forks": 69,
+        "pushed_at": "2026-09-22T01:37:30Z",
+        "updated_at": "2026-09-22T01:37:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6f35268706d8cff",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mrwogu/promptscript",
+      "kind": "github_repository",
+      "name": "mrwogu/promptscript",
+      "url": "https://github.com/mrwogu/promptscript",
+      "provider": "GitHub",
+      "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 379,
+        "forks": 2,
+        "pushed_at": "2026-09-22T00:39:17Z",
+        "updated_at": "2026-09-21T23:04:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "188109252a410910",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cobanov/awesome-jev",
+      "kind": "github_repository",
+      "name": "cobanov/awesome-jev",
+      "url": "https://github.com/cobanov/awesome-jev",
+      "provider": "GitHub",
+      "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 309,
+        "forks": 62,
+        "pushed_at": "2026-09-22T01:37:39Z",
+        "updated_at": "2026-09-22T01:37:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6539350813e917b6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Vigil-SOC/vigil",
+      "kind": "github_repository",
+      "name": "Vigil-SOC/vigil",
+      "url": "https://github.com/Vigil-SOC/vigil",
+      "provider": "GitHub",
+      "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 309,
+        "forks": 78,
+        "pushed_at": "2026-09-22T01:32:46Z",
+        "updated_at": "2026-09-22T01:32:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23f2cdf052b47b34",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jakejarvis/domainstack.io",
+      "kind": "github_repository",
+      "name": "jakejarvis/domainstack.io",
+      "url": "https://github.com/jakejarvis/domainstack.io",
+      "provider": "GitHub",
+      "description": "🧰 All-in-one domain name intelligence as a service",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 291,
+        "forks": 21,
+        "pushed_at": "2026-09-22T01:36:14Z",
+        "updated_at": "2026-09-22T01:35:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "074573fa182dac45",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yuxino/mimi",
+      "kind": "github_repository",
+      "name": "yuxino/mimi",
+      "url": "https://github.com/yuxino/mimi",
+      "provider": "GitHub",
+      "description": "Real-time system-audio subtitles and translation for macOS and Windows. 实时字幕翻译，支持视频、会议与游戏音频。",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 280,
+        "forks": 9,
+        "pushed_at": "2026-09-22T00:25:04Z",
+        "updated_at": "2026-09-22T00:25:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "af2ee7016cb2a116",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AkaraChen/aghub",
+      "kind": "github_repository",
+      "name": "AkaraChen/aghub",
+      "url": "https://github.com/AkaraChen/aghub",
+      "provider": "GitHub",
+      "description": "One hub for every AI coding agent. Unified configuration management for 22+ assistants.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 269,
+        "forks": 18,
+        "pushed_at": "2026-09-22T01:37:45Z",
+        "updated_at": "2026-09-22T01:36:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ebf65e03dc078d4f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
