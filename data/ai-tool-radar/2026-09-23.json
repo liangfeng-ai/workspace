@@ -1,0 +1,585 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T01:32:57.939559+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/mistralai/platform-docs-public",
+      "kind": "official_repository",
+      "name": "mistralai/platform-docs-public",
+      "url": "https://github.com/mistralai/platform-docs-public",
+      "provider": "mistralai",
+      "description": "",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 73,
+        "pushed_at": "2026-09-22T18:35:50Z",
+        "updated_at": "2026-09-22T18:35:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5c18bc17df35f9a1",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/herdrdev/herdr",
+      "kind": "github_repository",
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "provider": "GitHub",
+      "description": "the runtime your coding agents live on",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 40252,
+        "forks": 3050,
+        "pushed_at": "2026-09-23T01:30:37Z",
+        "updated_at": "2026-09-23T01:32:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b862a8b418d8a238",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langroid/langroid",
+      "kind": "github_repository",
+      "name": "langroid/langroid",
+      "url": "https://github.com/langroid/langroid",
+      "provider": "GitHub",
+      "description": "Harness LLMs with Multi-Agent Programming",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4104,
+        "forks": 403,
+        "pushed_at": "2026-09-23T01:10:26Z",
+        "updated_at": "2026-09-23T01:09:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5fca0be58ff14966",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/superdesigndev/treg",
+      "kind": "github_repository",
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "provider": "GitHub",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2238,
+        "forks": 218,
+        "pushed_at": "2026-09-23T01:31:03Z",
+        "updated_at": "2026-09-23T01:31:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fb92a25f767a34c3",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/inkeep/agents",
+      "kind": "github_repository",
+      "name": "inkeep/agents",
+      "url": "https://github.com/inkeep/agents",
+      "provider": "GitHub",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1434,
+        "forks": 178,
+        "pushed_at": "2026-09-23T01:29:27Z",
+        "updated_at": "2026-09-23T01:29:30Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ad23beb57e0a0d0f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "kind": "hf_model",
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "url": "https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:quantized:qwen/qwen-image-2.1",
+        "base_model:qwen/qwen-image-2.1",
+        "comfyui",
+        "comfyui-gguf",
+        "gguf",
+        "image-generation",
+        "license:other",
+        "qwen",
+        "region:us",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 182313,
+        "likes": 1120,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cb43d2f89ac0ffc7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SylphxAI/citra",
+      "kind": "github_repository",
+      "name": "SylphxAI/citra",
+      "url": "https://github.com/SylphxAI/citra",
+      "provider": "GitHub",
+      "description": "Citra — PDF answers with page-level proof. Local-first structured text, tables, OCR, visual evidence, and citations via MCP, CLI, and SDK.",
+      "capability_tags": [
+        "ai-tools",
+        "ocr",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 935,
+        "forks": 82,
+        "pushed_at": "2026-09-23T01:22:15Z",
+        "updated_at": "2026-09-23T01:22:17Z",
+        "archived": false,
+        "source_count": 3
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2fd68649e4e61170",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/awlevin/typesafe-computer-use",
+      "kind": "github_repository",
+      "name": "awlevin/typesafe-computer-use",
+      "url": "https://github.com/awlevin/typesafe-computer-use",
+      "provider": "GitHub",
+      "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 837,
+        "forks": 65,
+        "pushed_at": "2026-09-22T22:45:00Z",
+        "updated_at": "2026-09-23T01:27:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "30430f71eba38448",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dondai44423/donsetch",
+      "kind": "github_repository",
+      "name": "dondai44423/donsetch",
+      "url": "https://github.com/dondai44423/donsetch",
+      "provider": "GitHub",
+      "description": "Web fetch, search, and crawl for AI agents. Built from scratch in Rust. No keys, no accounts. AGPL v3.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 725,
+        "forks": 55,
+        "pushed_at": "2026-09-23T01:27:37Z",
+        "updated_at": "2026-09-23T01:27:41Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0c98463d4e6d0b29",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cyanheads/obsidian-mcp-server",
+      "kind": "github_repository",
+      "name": "cyanheads/obsidian-mcp-server",
+      "url": "https://github.com/cyanheads/obsidian-mcp-server",
+      "provider": "GitHub",
+      "description": "Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 685,
+        "forks": 104,
+        "pushed_at": "2026-09-23T00:29:44Z",
+        "updated_at": "2026-09-23T00:29:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9efb103755fbc460",
+        "novel": false,
+        "dedup_age_days": 51
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/autonomous-ai/openharness",
+      "kind": "github_repository",
+      "name": "autonomous-ai/openharness",
+      "url": "https://github.com/autonomous-ai/openharness",
+      "provider": "GitHub",
+      "description": "The ultimate harness for coding agents and beyond. Claude Code at work, Codex at home, Hermes in the cloud. One command center. Start with code, then follow your curiosity and build across disciplines: CAD, circuits, robots, games and music.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 639,
+        "forks": 56,
+        "pushed_at": "2026-09-23T01:28:23Z",
+        "updated_at": "2026-09-23T01:28:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "21143ce177a0f82e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/run-llama/ParseBench",
+      "kind": "github_repository",
+      "name": "run-llama/ParseBench",
+      "url": "https://github.com/run-llama/ParseBench",
+      "provider": "GitHub",
+      "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 592,
+        "forks": 108,
+        "pushed_at": "2026-09-22T22:25:52Z",
+        "updated_at": "2026-09-22T23:16:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "37c0dcb717bdb48b",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/l0ng-ai/papr",
+      "kind": "github_repository",
+      "name": "l0ng-ai/papr",
+      "url": "https://github.com/l0ng-ai/papr",
+      "provider": "GitHub",
+      "description": "A fast, native RSS reader — plus an agent-facing CLI so your AI agent can read, search and triage your feeds from the shell.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 533,
+        "forks": 58,
+        "pushed_at": "2026-09-23T01:32:02Z",
+        "updated_at": "2026-09-23T01:31:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a2aec4e847b5ee30",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "kind": "hf_model",
+      "name": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "url": "https://huggingface.co/models/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "agent",
+        "audio",
+        "conversational",
+        "custom_code",
+        "en",
+        "eval-results",
+        "fp8",
+        "license:mit",
+        "long-context",
+        "mimo_v2",
+        "multimodal",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers",
+        "video-understanding",
+        "vision-language",
+        "zh"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 985,
+        "likes": 386,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5885e9dd7a5afebd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/XiaomiMiMo/MiMo-V2.6-Flash-RL",
+      "kind": "hf_model",
+      "name": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
+      "url": "https://huggingface.co/models/XiaomiMiMo/MiMo-V2.6-Flash-RL",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "agent",
+        "audio",
+        "conversational",
+        "custom_code",
+        "en",
+        "eval-results",
+        "fp8",
+        "license:mit",
+        "long-context",
+        "mimo_v2",
+        "multimodal",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers",
+        "video-understanding",
+        "vision-language",
+        "zh"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 2641,
+        "likes": 383,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9cadef280711e5f9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/fajarhide/omni",
+      "kind": "github_repository",
+      "name": "fajarhide/omni",
+      "url": "https://github.com/fajarhide/omni",
+      "provider": "GitHub",
+      "description": "Your agent pays twice for output it has already seen. OMNI returns a handle instead: 97.2% off a file read twice. Nothing deleted, nothing invented.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 371,
+        "forks": 34,
+        "pushed_at": "2026-09-23T01:28:08Z",
+        "updated_at": "2026-09-23T01:28:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2390f40162c3f516",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Johnson-Durui/Companion-Space",
+      "kind": "github_repository",
+      "name": "Johnson-Durui/Companion-Space",
+      "url": "https://github.com/Johnson-Durui/Companion-Space",
+      "provider": "GitHub",
+      "description": "本地优先的二次元陪伴学习应用 · Local-first anime companion and study app.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 363,
+        "forks": 0,
+        "pushed_at": "2026-09-23T01:26:24Z",
+        "updated_at": "2026-09-23T01:26:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9b8cfbd36ac6aac6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agents-universe/agents-universe",
+      "kind": "github_repository",
+      "name": "agents-universe/agents-universe",
+      "url": "https://github.com/agents-universe/agents-universe",
+      "provider": "GitHub",
+      "description": "共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 258,
+        "forks": 1,
+        "pushed_at": "2026-09-23T00:31:44Z",
+        "updated_at": "2026-09-23T00:55:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1fe59fd077ae1d20",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/anomalyco/hex",
+      "kind": "github_repository",
+      "name": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "provider": "GitHub",
+      "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 237,
+        "forks": 29,
+        "pushed_at": "2026-09-23T00:24:21Z",
+        "updated_at": "2026-09-23T00:24:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "61849fd173e139a4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/multimodalart/jev-decision-index",
+      "kind": "hf_space",
+      "name": "multimodalart/jev-decision-index",
+      "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "region:us",
+        "static"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 137,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2a03ef03388ac02a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+      "kind": "hf_space",
+      "name": "hugging-apps/qwen-image-2-1",
+      "url": "https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 69,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "57d545e46ee019af",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

@@ -470,7 +470,7 @@
       "fingerprint": "d31122d57f097e1a"
     },
     "github_repository:https://github.com/run-llama/ParseBench": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-09-23",
       "fingerprint": "37c0dcb717bdb48b"
     },
     "github_repository:https://github.com/Unstructured-IO/unstructured": {
@@ -574,7 +574,7 @@
       "fingerprint": "3029a56adfe06d26"
     },
     "official_repository:https://github.com/mistralai/platform-docs-public": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-09-23",
       "fingerprint": "5c18bc17df35f9a1"
     },
     "official_repository:https://github.com/mistralai/mistral-common": {
@@ -1654,7 +1654,7 @@
       "fingerprint": "5ebf39dd4b54f684"
     },
     "github_repository:https://github.com/cyanheads/obsidian-mcp-server": {
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-09-23",
       "fingerprint": "9efb103755fbc460"
     },
     "github_repository:https://github.com/EmulationAI/awesome-large-audio-models": {
@@ -2186,7 +2186,7 @@
       "fingerprint": "2b6dd7f70673bb15"
     },
     "github_repository:https://github.com/herdrdev/herdr": {
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-09-23",
       "fingerprint": "b862a8b418d8a238"
     },
     "official_repository:https://github.com/huggingface/ml-intern": {
@@ -2214,7 +2214,7 @@
       "fingerprint": "3eb0d2e12353728a"
     },
     "github_repository:https://github.com/superdesigndev/treg": {
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-09-23",
       "fingerprint": "fb92a25f767a34c3"
     },
     "github_repository:https://github.com/googleapis/mcp-toolbox": {
@@ -2666,7 +2666,7 @@
       "fingerprint": "27e224cacbda36bf"
     },
     "github_repository:https://github.com/langroid/langroid": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-23",
       "fingerprint": "5fca0be58ff14966"
     },
     "github_repository:https://github.com/EthanYoQ/AI-Novel-Writer": {
@@ -3864,6 +3864,66 @@
     "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-GGUF": {
       "last_seen": "2026-09-22",
       "fingerprint": "97e22de83cefa0a7"
+    },
+    "github_repository:https://github.com/SylphxAI/citra": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "2fd68649e4e61170"
+    },
+    "github_repository:https://github.com/agents-universe/agents-universe": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "1fe59fd077ae1d20"
+    },
+    "github_repository:https://github.com/awlevin/typesafe-computer-use": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "30430f71eba38448"
+    },
+    "github_repository:https://github.com/anomalyco/hex": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "61849fd173e139a4"
+    },
+    "github_repository:https://github.com/inkeep/agents": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "ad23beb57e0a0d0f"
+    },
+    "github_repository:https://github.com/fajarhide/omni": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "2390f40162c3f516"
+    },
+    "github_repository:https://github.com/dondai44423/donsetch": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "0c98463d4e6d0b29"
+    },
+    "github_repository:https://github.com/Johnson-Durui/Companion-Space": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "9b8cfbd36ac6aac6"
+    },
+    "github_repository:https://github.com/l0ng-ai/papr": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "a2aec4e847b5ee30"
+    },
+    "github_repository:https://github.com/autonomous-ai/openharness": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "21143ce177a0f82e"
+    },
+    "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Uncensored-GGUF": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "cb43d2f89ac0ffc7"
+    },
+    "hf_model:https://huggingface.co/models/XiaomiMiMo/MiMo-V2.6-Pro-RL": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "5885e9dd7a5afebd"
+    },
+    "hf_model:https://huggingface.co/models/XiaomiMiMo/MiMo-V2.6-Flash-RL": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "9cadef280711e5f9"
+    },
+    "hf_space:https://huggingface.co/spaces/multimodalart/jev-decision-index": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "2a03ef03388ac02a"
+    },
+    "hf_space:https://huggingface.co/spaces/hugging-apps/qwen-image-2-1": {
+      "last_seen": "2026-09-23",
+      "fingerprint": "57d545e46ee019af"
     }
   }
 }
