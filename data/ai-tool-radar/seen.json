@@ -18,7 +18,7 @@
       "fingerprint": "2ff255a277be7d91"
     },
     "github_repository:https://github.com/browser-use/browser-use": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-09-24",
       "fingerprint": "cae28f83b9d950c0"
     },
     "github_repository:https://github.com/qf-studio/pilot": {
@@ -142,7 +142,7 @@
       "fingerprint": "7b419af92a61e20d"
     },
     "github_repository:https://github.com/heygen-com/hyperframes": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-09-24",
       "fingerprint": "0a895c1fcda1a8e7"
     },
     "github_repository:https://github.com/speakeasy-api/gram": {
@@ -190,7 +190,7 @@
       "fingerprint": "3e7a053e2fba39cc"
     },
     "github_repository:https://github.com/thedotmack/claude-mem": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-24",
       "fingerprint": "b12e6c23b90f145f"
     },
     "github_repository:https://github.com/Lyellr88/marm-memory": {
@@ -650,7 +650,7 @@
       "fingerprint": "99dfca28439d8179"
     },
     "github_repository:https://github.com/peteonrails/voxtype": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-24",
       "fingerprint": "e56263fcc12fe438"
     },
     "github_repository:https://github.com/FluidInference/FluidAudio": {
@@ -726,7 +726,7 @@
       "fingerprint": "9d3e22906a0a6468"
     },
     "official_repository:https://github.com/huggingface/trl": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-24",
       "fingerprint": "e5334c1705dcf48a"
     },
     "hf_model:https://huggingface.co/models/unsloth/Qwen3.6-27B-NVFP4": {
@@ -782,7 +782,7 @@
       "fingerprint": "5ae8150dba8ab3fa"
     },
     "github_repository:https://github.com/handy-computer/transcribe.cpp": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-09-24",
       "fingerprint": "bc8754fe7146b6cb"
     },
     "github_repository:https://github.com/goodroot/hyprwhspr": {
@@ -882,7 +882,7 @@
       "fingerprint": "6d88c076f68b2b39"
     },
     "github_repository:https://github.com/nocobase/nocobase": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-24",
       "fingerprint": "4b54ae81b260ac9b"
     },
     "github_repository:https://github.com/johannesjo/parallel-code": {
@@ -1030,7 +1030,7 @@
       "fingerprint": "3ae7a79639387bca"
     },
     "github_repository:https://github.com/ErickWendel/localstudio": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-24",
       "fingerprint": "1647c0e9dea17f5f"
     },
     "github_repository:https://github.com/Picovoice/cheetah": {
@@ -1054,7 +1054,7 @@
       "fingerprint": "7614538e87e1a1f7"
     },
     "github_repository:https://github.com/vitali87/code-graph-rag": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-24",
       "fingerprint": "2fd74076b5d650f0"
     },
     "github_repository:https://github.com/mock-server/mockserver-monorepo": {
@@ -1162,7 +1162,7 @@
       "fingerprint": "1c7ed224bb04b4c2"
     },
     "github_repository:https://github.com/WrongStack/WrongStack": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-24",
       "fingerprint": "0d099da41dd2e18a"
     },
     "github_repository:https://github.com/pydantic/logfire": {
@@ -1990,7 +1990,7 @@
       "fingerprint": "70da3b248f38c756"
     },
     "github_repository:https://github.com/AltanS/collie": {
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-09-24",
       "fingerprint": "f20a36cc1a8c68c4"
     },
     "github_repository:https://github.com/angelnicolasc/graymatter": {
@@ -2682,7 +2682,7 @@
       "fingerprint": "5b1176266d7a382d"
     },
     "github_repository:https://github.com/Cotal-AI/Cotal": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-24",
       "fingerprint": "78977d99e62cbbfe"
     },
     "github_repository:https://github.com/BradGroux/veritas-kanban": {
@@ -2722,7 +2722,7 @@
       "fingerprint": "42b55040998e0fdb"
     },
     "github_repository:https://github.com/dograh-hq/dograh": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-09-24",
       "fingerprint": "deca2ecfe634121c"
     },
     "github_repository:https://github.com/mxsm/rocketmq-rust": {
@@ -3924,6 +3924,42 @@
     "hf_space:https://huggingface.co/spaces/hugging-apps/qwen-image-2-1": {
       "last_seen": "2026-09-23",
       "fingerprint": "57d545e46ee019af"
+    },
+    "github_repository:https://github.com/jev-chat/jev-chat-windows": {
+      "last_seen": "2026-09-24",
+      "fingerprint": "847b0f32b14ff20e"
+    },
+    "github_repository:https://github.com/gensecaihq/Wazuh-MCP-Server": {
+      "last_seen": "2026-09-24",
+      "fingerprint": "c0e72ac6aac93573"
+    },
+    "github_repository:https://github.com/hashgraph-online/awesome-ai-plugins": {
+      "last_seen": "2026-09-24",
+      "fingerprint": "07ddc30c9a0e6266"
+    },
+    "github_repository:https://github.com/yaojingang/GEOFlow": {
+      "last_seen": "2026-09-24",
+      "fingerprint": "aca7f88a18a43f0f"
+    },
+    "github_repository:https://github.com/microsoft/agent-governance-toolkit": {
+      "last_seen": "2026-09-24",
+      "fingerprint": "a8fcd7486ebf3c57"
+    },
+    "github_repository:https://github.com/nrslib/takt": {
+      "last_seen": "2026-09-24",
+      "fingerprint": "a079f3381391eb3e"
+    },
+    "github_repository:https://github.com/google-gemini/gemini-cli": {
+      "last_seen": "2026-09-24",
+      "fingerprint": "dcf843295049732e"
+    },
+    "github_repository:https://github.com/cortexkit/magic-context": {
+      "last_seen": "2026-09-24",
+      "fingerprint": "b95f71b4353fcd8e"
+    },
+    "hf_model:https://huggingface.co/models/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B": {
+      "last_seen": "2026-09-24",
+      "fingerprint": "6926cb5b41cf2f61"
     }
   }
 }
