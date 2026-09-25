@@ -70,7 +70,7 @@
       "fingerprint": "3a9d248448d7cbdf"
     },
     "github_repository:https://github.com/tisfeng/Easydict": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-09-25",
       "fingerprint": "f5ee0fdca98ce0b5"
     },
     "github_repository:https://github.com/paperless-ngx/paperless-ngx": {
@@ -498,7 +498,7 @@
       "fingerprint": "f73e07ccd3b52335"
     },
     "github_repository:https://github.com/TypeWhisper/typewhisper-mac": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-25",
       "fingerprint": "21be25c577ceec48"
     },
     "github_repository:https://github.com/Blaizzy/mlx-audio-swift": {
@@ -774,7 +774,7 @@
       "fingerprint": "22e15e61085b4d92"
     },
     "github_repository:https://github.com/karolswdev/HoldSpeak": {
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-09-25",
       "fingerprint": "67d2b7a7355f5ca3"
     },
     "github_repository:https://github.com/k2-fsa/sherpa-onnx": {
@@ -850,7 +850,7 @@
       "fingerprint": "353f2c707028f8c5"
     },
     "official_repository:https://github.com/mistralai/client-python": {
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-09-25",
       "fingerprint": "c22dc61d5841faca"
     },
     "official_repository:https://github.com/groq/openbench": {
@@ -966,7 +966,7 @@
       "fingerprint": "f1070d9ee31aa5d2"
     },
     "github_repository:https://github.com/cortexkit/aft": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-09-25",
       "fingerprint": "70dbcf012b818d56"
     },
     "github_repository:https://github.com/google/mantis": {
@@ -1134,7 +1134,7 @@
       "fingerprint": "9725d19b8bb5cbb8"
     },
     "github_repository:https://github.com/google/adk-python": {
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-09-25",
       "fingerprint": "84a06f8a53525cab"
     },
     "github_repository:https://github.com/joewinke/jat": {
@@ -1802,7 +1802,7 @@
       "fingerprint": "8f4dbfcebf468d1e"
     },
     "github_repository:https://github.com/ArvinLovegood/go-stock": {
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-25",
       "fingerprint": "c3bf74bb2fd35fa1"
     },
     "github_repository:https://github.com/team-telnyx/ai": {
@@ -2118,7 +2118,7 @@
       "fingerprint": "d8a0d372231898ed"
     },
     "github_repository:https://github.com/neuml/txtai": {
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-09-25",
       "fingerprint": "d30a8834919eb8ba"
     },
     "github_repository:https://github.com/codelibs/fess": {
@@ -2366,7 +2366,7 @@
       "fingerprint": "e2e92270678706d8"
     },
     "github_repository:https://github.com/repoprompt/repoprompt-ce": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-25",
       "fingerprint": "80b7c4a5fa9c3309"
     },
     "github_repository:https://github.com/chrisryugj/korean-law-mcp": {
@@ -2810,7 +2810,7 @@
       "fingerprint": "876c5dfd48e078cb"
     },
     "hf_space:https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE": {
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-09-25",
       "fingerprint": "a8fd1f7976cbe403"
     },
     "github_repository:https://github.com/FunplayAI/funplay-unity-mcp": {
@@ -3960,6 +3960,42 @@
     "hf_model:https://huggingface.co/models/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B": {
       "last_seen": "2026-09-24",
       "fingerprint": "6926cb5b41cf2f61"
+    },
+    "github_repository:https://github.com/currenjin/site-for-developers": {
+      "last_seen": "2026-09-25",
+      "fingerprint": "3a8d6faee12c3f1d"
+    },
+    "github_repository:https://github.com/Sumanth077/Hands-On-AI-Engineering": {
+      "last_seen": "2026-09-25",
+      "fingerprint": "469dad0a693fd861"
+    },
+    "github_repository:https://github.com/altunenes/parakeet-rs": {
+      "last_seen": "2026-09-25",
+      "fingerprint": "10949640d5a69a19"
+    },
+    "github_repository:https://github.com/preset-io/agor": {
+      "last_seen": "2026-09-25",
+      "fingerprint": "dbea76f3da31141e"
+    },
+    "github_repository:https://github.com/i365dev/free4chat": {
+      "last_seen": "2026-09-25",
+      "fingerprint": "06a00597484b1f94"
+    },
+    "github_repository:https://github.com/jgravelle/jdocmunch-mcp": {
+      "last_seen": "2026-09-25",
+      "fingerprint": "95701f4392607030"
+    },
+    "github_repository:https://github.com/christopherkarani/Swarm": {
+      "last_seen": "2026-09-25",
+      "fingerprint": "0646924bdd917ce4"
+    },
+    "hf_model:https://huggingface.co/models/TaichuAI/ZDTaichu5.0-9B": {
+      "last_seen": "2026-09-25",
+      "fingerprint": "242b65e64a51905b"
+    },
+    "hf_space:https://huggingface.co/spaces/Viggle/Qwen-Image-2.1-viggle-turbo": {
+      "last_seen": "2026-09-25",
+      "fingerprint": "2046f85633b08c92"
     }
   }
 }
