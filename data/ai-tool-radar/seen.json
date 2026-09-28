@@ -174,7 +174,7 @@
       "fingerprint": "c298f932ea3f90ff"
     },
     "github_repository:https://github.com/langgenius/dify": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-09-28",
       "fingerprint": "472bbcf1726e26ef"
     },
     "github_repository:https://github.com/headroomlabs-ai/headroom": {
@@ -226,7 +226,7 @@
       "fingerprint": "7eccd30351103cc1"
     },
     "official_repository:https://github.com/mistralai/client-ts": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-09-28",
       "fingerprint": "32e9d43bc101d7fc"
     },
     "official_repository:https://github.com/groq/groq-python": {
@@ -394,7 +394,7 @@
       "fingerprint": "f5ed541ee5844dbb"
     },
     "official_repository:https://github.com/huggingface/tau": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-28",
       "fingerprint": "a6b82e6a173cf32d"
     },
     "github_repository:https://github.com/1jehuang/jcode": {
@@ -610,7 +610,7 @@
       "fingerprint": "20773a1654ce917e"
     },
     "github_repository:https://github.com/Stack-Cairn/LiveAgent": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-09-28",
       "fingerprint": "a5e02f69b8a5e28c"
     },
     "github_repository:https://github.com/voidcraft-dev/memory-forge-rs": {
@@ -622,7 +622,7 @@
       "fingerprint": "566396cd0b856c8e"
     },
     "github_repository:https://github.com/Javis603/token-monitor": {
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-09-28",
       "fingerprint": "eaf087af50450ed2"
     },
     "github_repository:https://github.com/Nexus-JPF/note-companion": {
@@ -1354,7 +1354,7 @@
       "fingerprint": "d1b0d444293ce971"
     },
     "github_repository:https://github.com/huggingface/speech-to-speech": {
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-09-28",
       "fingerprint": "3f328ffdb005e037"
     },
     "github_repository:https://github.com/microsoft/foundry-local": {
@@ -1490,7 +1490,7 @@
       "fingerprint": "6943db17e7265450"
     },
     "github_repository:https://github.com/tomasz-tomczyk/crit": {
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-09-28",
       "fingerprint": "ce1b5a2eb7485c25"
     },
     "github_repository:https://github.com/SamurAIGPT/muapi-cli": {
@@ -1942,7 +1942,7 @@
       "fingerprint": "50798a071f666d74"
     },
     "github_repository:https://github.com/Dicklesworthstone/franken_ocr": {
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-09-28",
       "fingerprint": "33b4105fb78c45ed"
     },
     "github_repository:https://github.com/misyaguziya/VRCT": {
@@ -1966,7 +1966,7 @@
       "fingerprint": "a6b49c5c96c65c68"
     },
     "github_repository:https://github.com/tensorlakeai/tensorlake": {
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-09-28",
       "fingerprint": "9a709b7cd1ee4c56"
     },
     "github_repository:https://github.com/arcboxlabs/arcbox": {
@@ -2378,7 +2378,7 @@
       "fingerprint": "648b1df5c6714e75"
     },
     "github_repository:https://github.com/yonatangross/orchestkit": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-28",
       "fingerprint": "6f0a7ad2ed0edcf4"
     },
     "github_repository:https://github.com/raphaelmansuy/edgequake": {
@@ -2506,7 +2506,7 @@
       "fingerprint": "edd1b3b4fa25a618"
     },
     "official_repository:https://github.com/openai/openai-node": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-28",
       "fingerprint": "8df81deee2b33aa8"
     },
     "hf_model:https://huggingface.co/models/Gazingstars123/Anima-2.9B": {
@@ -2918,7 +2918,7 @@
       "fingerprint": "76fa8839a0817574"
     },
     "github_repository:https://github.com/0xShug0/audio.cpp": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-09-28",
       "fingerprint": "a3579054edfd7cbf"
     },
     "github_repository:https://github.com/onecli/onecli": {
@@ -3996,6 +3996,74 @@
     "hf_space:https://huggingface.co/spaces/Viggle/Qwen-Image-2.1-viggle-turbo": {
       "last_seen": "2026-09-25",
       "fingerprint": "2046f85633b08c92"
+    },
+    "github_repository:https://github.com/AmrDab/clawdcursor": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "e315e536e0264b8d"
+    },
+    "github_repository:https://github.com/MichaelKinsy/PiG": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "3e063939a98e6e68"
+    },
+    "github_repository:https://github.com/Translate-It-App/Translate-It": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "7a8872e7a75058b6"
+    },
+    "github_repository:https://github.com/Chimahon/chimahon": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "9067b01c0f580b84"
+    },
+    "github_repository:https://github.com/jub0t/Concat": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "780bf47af036c26e"
+    },
+    "github_repository:https://github.com/zhayujie/CowAgent": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "33ceb7aefa1cc78d"
+    },
+    "github_repository:https://github.com/peters/horizon": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "7c71905832ec5225"
+    },
+    "github_repository:https://github.com/FB208/OpenBidKit_Yibiao": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "839c5f7cccfafd62"
+    },
+    "github_repository:https://github.com/autonomous-ai/autonomous-os": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "2ad9b7bea1bc18c4"
+    },
+    "official_repository:https://github.com/groq/groq-changelog": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "acff77f4236f5f58"
+    },
+    "official_repository:https://github.com/huggingface/meshgen": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "fe6446a1734817db"
+    },
+    "hf_model:https://huggingface.co/models/Edge0/Audio8-ASR-Infinite": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "30fca46f8481e6c6"
+    },
+    "hf_model:https://huggingface.co/models/XingChen-AGI/TeleOCR": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "287fbdc79249c906"
+    },
+    "hf_model:https://huggingface.co/models/Contrastive-LM/CLM-v0.1-8B": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "9855fbed2fcbe0c9"
+    },
+    "hf_space:https://huggingface.co/spaces/assembledchaos/qwen-image-2-1-studio": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "dcc6d3c9cf6dd071"
+    },
+    "hf_space:https://huggingface.co/spaces/Mothersuperior/yue2-hum-to-song": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "0d05c16e436c632c"
+    },
+    "hf_space:https://huggingface.co/spaces/arudradey/qwen-image-2.1-uncensored-gguf": {
+      "last_seen": "2026-09-28",
+      "fingerprint": "57acc937afa031bd"
     }
   }
 }
