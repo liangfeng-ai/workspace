@@ -38,7 +38,7 @@
       "fingerprint": "fd1c541ce7319604"
     },
     "github_repository:https://github.com/zzet/gortex": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-29",
       "fingerprint": "7e1680d601142c48"
     },
     "github_repository:https://github.com/readur/readur": {
@@ -98,7 +98,7 @@
       "fingerprint": "40dca180ef7e834b"
     },
     "github_repository:https://github.com/Osmantic/ODS": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-09-29",
       "fingerprint": "217acbd04b5164e0"
     },
     "github_repository:https://github.com/istupakov/onnx-asr": {
@@ -406,7 +406,7 @@
       "fingerprint": "445db4344e2a0d95"
     },
     "github_repository:https://github.com/infiniflow/ragflow": {
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-09-29",
       "fingerprint": "7049451086bb35e4"
     },
     "github_repository:https://github.com/simstudioai/sim": {
@@ -590,7 +590,7 @@
       "fingerprint": "7709f49252e19525"
     },
     "official_repository:https://github.com/huggingface/diffusers": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-29",
       "fingerprint": "c2c29741b8643303"
     },
     "hf_model:https://huggingface.co/models/thinkingmachines/Inkling": {
@@ -950,7 +950,7 @@
       "fingerprint": "fab4407881d4c7b2"
     },
     "github_repository:https://github.com/opensolon/solon-ai": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-09-29",
       "fingerprint": "c917f9a533a38b3c"
     },
     "github_repository:https://github.com/askimo-ai/askimo": {
@@ -1454,7 +1454,7 @@
       "fingerprint": "bde64be6b9a22dee"
     },
     "github_repository:https://github.com/EvotecIT/OfficeIMO": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-09-29",
       "fingerprint": "d3d54ac32dbb61e9"
     },
     "github_repository:https://github.com/asklokesh/loki-mode": {
@@ -1738,7 +1738,7 @@
       "fingerprint": "6be55d633812b311"
     },
     "github_repository:https://github.com/waybarrios/vllm-mlx": {
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-09-29",
       "fingerprint": "70b1262d46d2e9b1"
     },
     "github_repository:https://github.com/limecloud/lime": {
@@ -2042,11 +2042,11 @@
       "fingerprint": "87f5b9adb8bb99d4"
     },
     "github_repository:https://github.com/Deodat-Lawson/LaunchStack": {
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-09-29",
       "fingerprint": "86c4fd16cf9a24bc"
     },
     "github_repository:https://github.com/code-yeongyu/oh-my-openagent": {
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-09-29",
       "fingerprint": "fbceb5214d083510"
     },
     "official_repository:https://github.com/huggingface/agent-manager": {
@@ -2078,7 +2078,7 @@
       "fingerprint": "a7778c6b284c9a23"
     },
     "github_repository:https://github.com/amebalabs/TRex": {
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-09-29",
       "fingerprint": "1438b299af883f3e"
     },
     "github_repository:https://github.com/oxbshw/watch-skill": {
@@ -2754,7 +2754,7 @@
       "fingerprint": "8bcfab9885a26389"
     },
     "github_repository:https://github.com/gakonst/nanocodex": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-09-29",
       "fingerprint": "eda45e03e7aa2e68"
     },
     "official_repository:https://github.com/huggingface/huggingface-llama-recipes": {
@@ -2786,7 +2786,7 @@
       "fingerprint": "1f02899bac422a29"
     },
     "github_repository:https://github.com/LTplus-AG/ifc-lite": {
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-09-29",
       "fingerprint": "c6ccaaf28212303e"
     },
     "github_repository:https://github.com/vivekchand/clawmetry": {
@@ -2910,7 +2910,7 @@
       "fingerprint": "6c88bba99dc443c8"
     },
     "github_repository:https://github.com/ZumingHuang/awesome-ocr-resources": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-09-29",
       "fingerprint": "57db755a418e1686"
     },
     "github_repository:https://github.com/franklioxygen/v2s": {
@@ -4064,6 +4064,70 @@
     "hf_space:https://huggingface.co/spaces/arudradey/qwen-image-2.1-uncensored-gguf": {
       "last_seen": "2026-09-28",
       "fingerprint": "57acc937afa031bd"
+    },
+    "github_repository:https://github.com/truffle-ai/dexto": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "3fab8f97feb62b7d"
+    },
+    "github_repository:https://github.com/jpicklyk/task-orchestrator": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "0467d52315343c47"
+    },
+    "github_repository:https://github.com/SylphxAI/anymd": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "f81466e00a6d2c18"
+    },
+    "github_repository:https://github.com/jev-chat/jev-chat-jarvis-mac": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "8c07057bb2e490e7"
+    },
+    "github_repository:https://github.com/jianchang512/pyvideotrans": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "904e00401bc3dcb1"
+    },
+    "github_repository:https://github.com/chrisryugj/kordoc": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "739cc8e9fed947b7"
+    },
+    "github_repository:https://github.com/Haozhe-Xing/agent_learning": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "4ca8409e6c260d97"
+    },
+    "github_repository:https://github.com/OyadotAI/oya-browser": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "2c59c310660781c3"
+    },
+    "github_repository:https://github.com/KitionAI/kition": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "6bd8f501dbba2f6e"
+    },
+    "github_repository:https://github.com/sceneview/sceneview": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "98db4e87d03ea489"
+    },
+    "github_repository:https://github.com/yoloshii/ClawMem": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "d96d8a1bf0fa2923"
+    },
+    "github_repository:https://github.com/VasiHemanth/tokentelemetry": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "d6165f7961a9876c"
+    },
+    "github_repository:https://github.com/Human-Agent-Society/reef": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "9a18702f22c07b95"
+    },
+    "github_repository:https://github.com/l0ng-ai/tty7": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "0af07a8c99d3d768"
+    },
+    "official_repository:https://github.com/huggingface/course": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "e01e27c89606a3ba"
+    },
+    "hf_model:https://huggingface.co/models/nvidia/Nemotron-3-Diarization": {
+      "last_seen": "2026-09-29",
+      "fingerprint": "f7f3426d63134d6e"
     }
   }
 }
