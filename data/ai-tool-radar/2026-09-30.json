@@ -1,0 +1,536 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T02:10:47.226856+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 20,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/codex-security",
+      "kind": "official_repository",
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "provider": "openai",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 10911,
+        "pushed_at": "2026-09-30T00:12:57Z",
+        "updated_at": "2026-09-30T02:10:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "635c613e2e4b8ad8",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/mcp-extensions",
+      "kind": "official_repository",
+      "name": "openai/mcp-extensions",
+      "url": "https://github.com/openai/mcp-extensions",
+      "provider": "openai",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 239,
+        "pushed_at": "2026-09-29T19:30:39Z",
+        "updated_at": "2026-09-30T02:10:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "999b77fded9849c7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/context-course",
+      "kind": "official_repository",
+      "name": "huggingface/context-course",
+      "url": "https://github.com/huggingface/context-course",
+      "provider": "huggingface",
+      "description": "A course on context engineering with code agents.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 102,
+        "pushed_at": "2026-09-18T14:15:16Z",
+        "updated_at": "2026-09-30T01:57:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b5ea44a9d1e5207c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bytedance/deer-flow",
+      "kind": "github_repository",
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "provider": "GitHub",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 83239,
+        "forks": 11548,
+        "pushed_at": "2026-09-30T02:07:58Z",
+        "updated_at": "2026-09-30T02:08:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6eaf81c770a1f48",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/leon-ai/leon",
+      "kind": "github_repository",
+      "name": "leon-ai/leon",
+      "url": "https://github.com/leon-ai/leon",
+      "provider": "GitHub",
+      "description": "🧠 Leon is your open-source personal assistant.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 17549,
+        "forks": 1472,
+        "pushed_at": "2026-09-30T01:29:31Z",
+        "updated_at": "2026-09-30T01:29:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2bbde92ccf0cbf6b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/omnigent-ai/omnigent",
+      "kind": "github_repository",
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "provider": "GitHub",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 10356,
+        "forks": 1648,
+        "pushed_at": "2026-09-30T02:09:23Z",
+        "updated_at": "2026-09-30T02:09:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4d8d8951d9e1815e",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/openclaw/Peekaboo",
+      "kind": "github_repository",
+      "name": "openclaw/Peekaboo",
+      "url": "https://github.com/openclaw/Peekaboo",
+      "provider": "GitHub",
+      "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5228,
+        "forks": 405,
+        "pushed_at": "2026-09-30T02:09:12Z",
+        "updated_at": "2026-09-30T02:09:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "08bcadfbc8aa5c94",
+        "novel": false,
+        "dedup_age_days": 47
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Kiln-AI/Kiln",
+      "kind": "github_repository",
+      "name": "Kiln-AI/Kiln",
+      "url": "https://github.com/Kiln-AI/Kiln",
+      "provider": "GitHub",
+      "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5131,
+        "forks": 381,
+        "pushed_at": "2026-09-30T02:06:15Z",
+        "updated_at": "2026-09-30T02:05:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b62a5b26bcd90e9e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ascending-llc/jarvis-registry",
+      "kind": "github_repository",
+      "name": "ascending-llc/jarvis-registry",
+      "url": "https://github.com/ascending-llc/jarvis-registry",
+      "provider": "GitHub",
+      "description": "Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3227,
+        "forks": 485,
+        "pushed_at": "2026-09-30T02:07:53Z",
+        "updated_at": "2026-09-30T02:07:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e2fcac57d0628c04",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tianma-if/edgeever",
+      "kind": "github_repository",
+      "name": "tianma-if/edgeever",
+      "url": "https://github.com/tianma-if/edgeever",
+      "provider": "GitHub",
+      "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1768,
+        "forks": 955,
+        "pushed_at": "2026-09-30T02:05:50Z",
+        "updated_at": "2026-09-30T02:05:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "83d71fd091514cc3",
+        "novel": false,
+        "dedup_age_days": 65
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/software-mansion/react-native-executorch",
+      "kind": "github_repository",
+      "name": "software-mansion/react-native-executorch",
+      "url": "https://github.com/software-mansion/react-native-executorch",
+      "provider": "GitHub",
+      "description": "High-performance, privacy-first on-device AI inference library for React Native, powered by PyTorch's ExecuTorch runtime",
+      "capability_tags": [
+        "ocr",
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1750,
+        "forks": 97,
+        "pushed_at": "2026-09-29T23:35:35Z",
+        "updated_at": "2026-09-29T23:44:21Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b258a15208f72d6c",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bpwhelan/GameSentenceMiner",
+      "kind": "github_repository",
+      "name": "bpwhelan/GameSentenceMiner",
+      "url": "https://github.com/bpwhelan/GameSentenceMiner",
+      "provider": "GitHub",
+      "description": "An immersion toolkit for learning Languages through games and other visual media.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 858,
+        "forks": 55,
+        "pushed_at": "2026-09-29T22:41:59Z",
+        "updated_at": "2026-09-29T22:41:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "61280f87e9339021",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/alfredxw/denova",
+      "kind": "github_repository",
+      "name": "alfredxw/denova",
+      "url": "https://github.com/alfredxw/denova",
+      "provider": "GitHub",
+      "description": "An AI creative platform for novel writing and AI generated RPG, with built-in support for AI agents, Skills, subagent workflows, automations, image generation, and version control.",
+      "capability_tags": [
+        "ai-agents",
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 843,
+        "forks": 136,
+        "pushed_at": "2026-09-30T02:06:18Z",
+        "updated_at": "2026-09-30T02:06:24Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9d9e14f6c57a9c4f",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Blaizzy/mlx-audio-swift",
+      "kind": "github_repository",
+      "name": "Blaizzy/mlx-audio-swift",
+      "url": "https://github.com/Blaizzy/mlx-audio-swift",
+      "provider": "GitHub",
+      "description": "A modular Swift SDK for audio processing with MLX on Apple Silicon",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 786,
+        "forks": 172,
+        "pushed_at": "2026-09-29T23:36:08Z",
+        "updated_at": "2026-09-29T23:36:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cb10c44e2ca7b000",
+        "novel": false,
+        "dedup_age_days": 76
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Viggle/Qwen-Image-2.1-viggle-turbo",
+      "kind": "hf_model",
+      "name": "Viggle/Qwen-Image-2.1-viggle-turbo",
+      "url": "https://huggingface.co/models/Viggle/Qwen-Image-2.1-viggle-turbo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:adapter:qwen/qwen-image-2.1",
+        "base_model:qwen/qwen-image-2.1",
+        "comfyui",
+        "diffusers",
+        "distillation",
+        "dmd",
+        "few-step",
+        "image-editing",
+        "image-to-image",
+        "license:other",
+        "lora",
+        "qwen-image",
+        "region:us",
+        "safetensors",
+        "text-to-image",
+        "turbo"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 190649,
+        "likes": 425,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e0b0a0e34aca4f1f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/1003129155/jietuba",
+      "kind": "github_repository",
+      "name": "1003129155/jietuba",
+      "url": "https://github.com/1003129155/jietuba",
+      "provider": "GitHub",
+      "description": "Open-source Windows screenshot tool with scrolling capture, annotation, OCR, translation, pinned-image editing, GIF recording and clipboard history. 开源 Windows 截图工具：长截图、标注、OCR、翻译、钉图编辑、GIF 录制与剪贴板历史。",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 333,
+        "forks": 38,
+        "pushed_at": "2026-09-30T01:43:46Z",
+        "updated_at": "2026-09-30T02:02:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "86b917667b464071",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/acryldev/acryl",
+      "kind": "github_repository",
+      "name": "acryldev/acryl",
+      "url": "https://github.com/acryldev/acryl",
+      "provider": "GitHub",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 258,
+        "forks": 34,
+        "pushed_at": "2026-09-30T01:23:10Z",
+        "updated_at": "2026-09-30T01:23:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "853fce66d3eb7315",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/shenmintao/marginalia",
+      "kind": "github_repository",
+      "name": "shenmintao/marginalia",
+      "url": "https://github.com/shenmintao/marginalia",
+      "provider": "GitHub",
+      "description": "A library-science-inspired personal knowledge management system with LLM agents",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 247,
+        "forks": 31,
+        "pushed_at": "2026-09-30T02:05:02Z",
+        "updated_at": "2026-09-30T02:05:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f50339291de74d87",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/wangyongpeng90/cuckoo-code",
+      "kind": "github_repository",
+      "name": "wangyongpeng90/cuckoo-code",
+      "url": "https://github.com/wangyongpeng90/cuckoo-code",
+      "provider": "GitHub",
+      "description": "DeepSeek 桌面应用——内嵌浏览器，自动识别 AI 回复中的命令和工具调用并执行",
+      "capability_tags": [
+        "ai-agents",
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 207,
+        "forks": 73,
+        "pushed_at": "2026-09-30T02:06:56Z",
+        "updated_at": "2026-09-30T02:07:03Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "628090b1c579d419",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer",
+      "kind": "hf_space",
+      "name": "FineEnvs/MiMo-RL-Envs-Explorer",
+      "url": "https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "agents",
+        "dataset-explorer",
+        "docker",
+        "region:us",
+        "reinforcement-learning",
+        "rl-environments"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 46,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5cc6eb2fa0eac3ab",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

@@ -126,7 +126,7 @@
       "fingerprint": "812a574c81036a31"
     },
     "github_repository:https://github.com/openclaw/Peekaboo": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-30",
       "fingerprint": "08bcadfbc8aa5c94"
     },
     "github_repository:https://github.com/MCPJam/inspector": {
@@ -434,7 +434,7 @@
       "fingerprint": "c85ace65d71237e9"
     },
     "github_repository:https://github.com/omnigent-ai/omnigent": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-30",
       "fingerprint": "4d8d8951d9e1815e"
     },
     "official_repository:https://github.com/openai/plugins": {
@@ -502,7 +502,7 @@
       "fingerprint": "21be25c577ceec48"
     },
     "github_repository:https://github.com/Blaizzy/mlx-audio-swift": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-09-30",
       "fingerprint": "cb10c44e2ca7b000"
     },
     "github_repository:https://github.com/CrispStrobe/CrispASR": {
@@ -974,7 +974,7 @@
       "fingerprint": "bda441f024851353"
     },
     "github_repository:https://github.com/bytedance/deer-flow": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-30",
       "fingerprint": "a6eaf81c770a1f48"
     },
     "github_repository:https://github.com/monarchjuno/tradingcodex": {
@@ -1178,7 +1178,7 @@
       "fingerprint": "17f2807f62b71f74"
     },
     "github_repository:https://github.com/bpwhelan/GameSentenceMiner": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-09-30",
       "fingerprint": "61280f87e9339021"
     },
     "github_repository:https://github.com/Blaizzy/mlx-audio": {
@@ -1290,7 +1290,7 @@
       "fingerprint": "7d9614ca4b115499"
     },
     "github_repository:https://github.com/tianma-if/edgeever": {
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-09-30",
       "fingerprint": "83d71fd091514cc3"
     },
     "github_repository:https://github.com/eddmpython/dartlab": {
@@ -1466,7 +1466,7 @@
       "fingerprint": "bb5882e32e35a4cb"
     },
     "official_repository:https://github.com/openai/codex-security": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-09-30",
       "fingerprint": "635c613e2e4b8ad8"
     },
     "official_repository:https://github.com/openai/whisper": {
@@ -2602,7 +2602,7 @@
       "fingerprint": "962099d017a0ff89"
     },
     "github_repository:https://github.com/software-mansion/react-native-executorch": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-30",
       "fingerprint": "b258a15208f72d6c"
     },
     "github_repository:https://github.com/KoljaB/RealtimeSTT": {
@@ -2818,7 +2818,7 @@
       "fingerprint": "be5d014e3d2a3066"
     },
     "github_repository:https://github.com/alfredxw/denova": {
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-09-30",
       "fingerprint": "9d9e14f6c57a9c4f"
     },
     "github_repository:https://github.com/oomol-lab/pdf-craft": {
@@ -3022,7 +3022,7 @@
       "fingerprint": "d52c04820d2b3c3b"
     },
     "github_repository:https://github.com/acryldev/acryl": {
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-30",
       "fingerprint": "853fce66d3eb7315"
     },
     "github_repository:https://github.com/earthtojake/text-to-cad": {
@@ -4128,6 +4128,46 @@
     "hf_model:https://huggingface.co/models/nvidia/Nemotron-3-Diarization": {
       "last_seen": "2026-09-29",
       "fingerprint": "f7f3426d63134d6e"
+    },
+    "github_repository:https://github.com/wangyongpeng90/cuckoo-code": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "628090b1c579d419"
+    },
+    "github_repository:https://github.com/1003129155/jietuba": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "86b917667b464071"
+    },
+    "github_repository:https://github.com/leon-ai/leon": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "2bbde92ccf0cbf6b"
+    },
+    "github_repository:https://github.com/ascending-llc/jarvis-registry": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "e2fcac57d0628c04"
+    },
+    "github_repository:https://github.com/Kiln-AI/Kiln": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "b62a5b26bcd90e9e"
+    },
+    "github_repository:https://github.com/shenmintao/marginalia": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "f50339291de74d87"
+    },
+    "official_repository:https://github.com/openai/mcp-extensions": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "999b77fded9849c7"
+    },
+    "official_repository:https://github.com/huggingface/context-course": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "b5ea44a9d1e5207c"
+    },
+    "hf_model:https://huggingface.co/models/Viggle/Qwen-Image-2.1-viggle-turbo": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "e0b0a0e34aca4f1f"
+    },
+    "hf_space:https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer": {
+      "last_seen": "2026-09-30",
+      "fingerprint": "5cc6eb2fa0eac3ab"
     }
   }
 }
