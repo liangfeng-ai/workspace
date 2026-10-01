@@ -22,7 +22,7 @@
       "fingerprint": "cae28f83b9d950c0"
     },
     "github_repository:https://github.com/qf-studio/pilot": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-10-01",
       "fingerprint": "58b449d020f6c941"
     },
     "github_repository:https://github.com/webbrain-one/webbrain": {
@@ -786,7 +786,7 @@
       "fingerprint": "bc8754fe7146b6cb"
     },
     "github_repository:https://github.com/goodroot/hyprwhspr": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-10-01",
       "fingerprint": "57b7a9445ca2eaca"
     },
     "github_repository:https://github.com/osaurus-ai/osaurus": {
@@ -834,7 +834,7 @@
       "fingerprint": "5a0331548045ff16"
     },
     "github_repository:https://github.com/IvanWng97/pixtuoid": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-10-01",
       "fingerprint": "fb998b0ffd6726cf"
     },
     "github_repository:https://github.com/iAmCorey/kooky": {
@@ -894,7 +894,7 @@
       "fingerprint": "91f5702d8bfd3095"
     },
     "github_repository:https://github.com/LeanBitLab/LeanType": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-10-01",
       "fingerprint": "ad936fc2665064e6"
     },
     "github_repository:https://github.com/vlm-run/vlmrun-cookbook": {
@@ -902,7 +902,7 @@
       "fingerprint": "4df5600e5c404dea"
     },
     "github_repository:https://github.com/cyanfish/naps2": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-10-01",
       "fingerprint": "9749d6d21bf647f1"
     },
     "github_repository:https://github.com/lzhgus/Capso": {
@@ -962,7 +962,7 @@
       "fingerprint": "188db102441f87bf"
     },
     "github_repository:https://github.com/open-webui/open-webui": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-10-01",
       "fingerprint": "f1070d9ee31aa5d2"
     },
     "github_repository:https://github.com/cortexkit/aft": {
@@ -1046,7 +1046,7 @@
       "fingerprint": "6b0dd337a7290861"
     },
     "github_repository:https://github.com/HeyWillow/willow": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-10-01",
       "fingerprint": "cf8e6ab8c5f886a5"
     },
     "github_repository:https://github.com/strands-agents/harness-sdk": {
@@ -1114,7 +1114,7 @@
       "fingerprint": "4d7f419ce1522274"
     },
     "github_repository:https://github.com/n8n-io/n8n": {
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-10-01",
       "fingerprint": "4a5a4feae72913b6"
     },
     "github_repository:https://github.com/mastra-ai/mastra": {
@@ -1458,7 +1458,7 @@
       "fingerprint": "d3d54ac32dbb61e9"
     },
     "github_repository:https://github.com/asklokesh/loki-mode": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-10-01",
       "fingerprint": "163ea425a5e98822"
     },
     "github_repository:https://github.com/e2b-dev/infra": {
@@ -1590,7 +1590,7 @@
       "fingerprint": "88755851aca842a0"
     },
     "github_repository:https://github.com/CVHub520/X-AnyLabeling": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-10-01",
       "fingerprint": "a4a2dd2aae732620"
     },
     "github_repository:https://github.com/killkimno/MORT": {
@@ -2290,7 +2290,7 @@
       "fingerprint": "7aac8f8c10c07a14"
     },
     "github_repository:https://github.com/lahfir/agent-desktop": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-10-01",
       "fingerprint": "28b68ab760670264"
     },
     "github_repository:https://github.com/agentlas-ai/Agentlas-OS": {
@@ -2470,7 +2470,7 @@
       "fingerprint": "4daf52601f91419f"
     },
     "github_repository:https://github.com/chenxiachan/thoughtdag": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-10-01",
       "fingerprint": "6d6f4b29869ed06b"
     },
     "github_repository:https://github.com/modelcontextprotocol/php-sdk": {
@@ -2478,7 +2478,7 @@
       "fingerprint": "ef3911cfdb593010"
     },
     "github_repository:https://github.com/butterbase-ai/butterbase": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-10-01",
       "fingerprint": "8307cbe9c4a939a8"
     },
     "github_repository:https://github.com/christopherkarani/Wax": {
@@ -2634,7 +2634,7 @@
       "fingerprint": "b3f75188d217e39f"
     },
     "official_repository:https://github.com/mistralai/llm-d-router-public": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-10-01",
       "fingerprint": "bfd100e12d95af48"
     },
     "official_repository:https://github.com/openai/codex-action": {
@@ -4168,6 +4168,54 @@
     "hf_space:https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer": {
       "last_seen": "2026-09-30",
       "fingerprint": "5cc6eb2fa0eac3ab"
+    },
+    "github_repository:https://github.com/aannoo/hcom": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "57300bb9b833ca5e"
+    },
+    "github_repository:https://github.com/AlpacaLabsLLC/skills-for-architects": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "5041788844f6ca20"
+    },
+    "github_repository:https://github.com/CrossPaste/crosspaste-desktop": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "275d7cb1f080acf7"
+    },
+    "github_repository:https://github.com/kotaro-kinoshita/yomitoku": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "282bcc279c1f0555"
+    },
+    "github_repository:https://github.com/DeHor-Labs/mcp-fiscal-brasil": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "6aa2df5279857a52"
+    },
+    "github_repository:https://github.com/smart-mcp-proxy/mcpproxy-go": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "a2b8a8dac977a9e1"
+    },
+    "github_repository:https://github.com/tractorjuice/arc-kit": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "b9ab795b431d8e82"
+    },
+    "github_repository:https://github.com/agentscope-ai/ReMe": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "eea401100f8bab25"
+    },
+    "github_repository:https://github.com/ReflexioAI/claude-smart": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "fe25b4f059704505"
+    },
+    "hf_model:https://huggingface.co/models/orcarouter/OrcaSAQ-2-27B": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "cf02e331a0115fb9"
+    },
+    "hf_space:https://huggingface.co/spaces/kulkas2pintu/kv-i2v": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "5e735bdcb1451580"
+    },
+    "hf_space:https://huggingface.co/spaces/arudradey/qwen-image-2.1-uncensored-aio-loras": {
+      "last_seen": "2026-10-01",
+      "fingerprint": "ee219b622c8d148d"
     }
   }
 }

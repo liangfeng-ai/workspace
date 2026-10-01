@@ -1,0 +1,692 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T02:12:33.251599+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 26,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/mistralai/llm-d-router-public",
+      "kind": "official_repository",
+      "name": "mistralai/llm-d-router-public",
+      "url": "https://github.com/mistralai/llm-d-router-public",
+      "provider": "mistralai",
+      "description": "Inference scheduler for llm-d",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2,
+        "pushed_at": "2026-09-30T16:17:41Z",
+        "updated_at": "2026-09-30T15:21:41Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bfd100e12d95af48",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/n8n-io/n8n",
+      "kind": "github_repository",
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "provider": "GitHub",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 206389,
+        "forks": 60958,
+        "pushed_at": "2026-10-01T02:12:11Z",
+        "updated_at": "2026-10-01T02:10:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4a5a4feae72913b6",
+        "novel": false,
+        "dedup_age_days": 70
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/open-webui/open-webui",
+      "kind": "github_repository",
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "provider": "GitHub",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 153674,
+        "forks": 22469,
+        "pushed_at": "2026-10-01T02:12:28Z",
+        "updated_at": "2026-10-01T02:05:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f1070d9ee31aa5d2",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CVHub520/X-AnyLabeling",
+      "kind": "github_repository",
+      "name": "CVHub520/X-AnyLabeling",
+      "url": "https://github.com/CVHub520/X-AnyLabeling",
+      "provider": "GitHub",
+      "description": "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art AI models and flexible multi-format export.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 10579,
+        "forks": 1170,
+        "pushed_at": "2026-10-01T02:08:14Z",
+        "updated_at": "2026-10-01T02:08:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a4a2dd2aae732620",
+        "novel": false,
+        "dedup_age_days": 62
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cyanfish/naps2",
+      "kind": "github_repository",
+      "name": "cyanfish/naps2",
+      "url": "https://github.com/cyanfish/naps2",
+      "provider": "GitHub",
+      "description": "Scan documents to PDF and more, as simply as possible.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4567,
+        "forks": 458,
+        "pushed_at": "2026-10-01T00:28:10Z",
+        "updated_at": "2026-10-01T00:25:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9749d6d21bf647f1",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/butterbase-ai/butterbase",
+      "kind": "github_repository",
+      "name": "butterbase-ai/butterbase",
+      "url": "https://github.com/butterbase-ai/butterbase",
+      "provider": "GitHub",
+      "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3684,
+        "forks": 172,
+        "pushed_at": "2026-10-01T02:11:00Z",
+        "updated_at": "2026-10-01T02:11:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8307cbe9c4a939a8",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agentscope-ai/ReMe",
+      "kind": "github_repository",
+      "name": "agentscope-ai/ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "provider": "GitHub",
+      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3540,
+        "forks": 304,
+        "pushed_at": "2026-10-01T02:07:00Z",
+        "updated_at": "2026-10-01T02:07:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "eea401100f8bab25",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HeyWillow/willow",
+      "kind": "github_repository",
+      "name": "HeyWillow/willow",
+      "url": "https://github.com/HeyWillow/willow",
+      "provider": "GitHub",
+      "description": "Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3119,
+        "forks": 127,
+        "pushed_at": "2026-10-01T00:36:56Z",
+        "updated_at": "2026-10-01T00:36:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cf8e6ab8c5f886a5",
+        "novel": false,
+        "dedup_age_days": 71
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CrossPaste/crosspaste-desktop",
+      "kind": "github_repository",
+      "name": "CrossPaste/crosspaste-desktop",
+      "url": "https://github.com/CrossPaste/crosspaste-desktop",
+      "provider": "GitHub",
+      "description": "Cross-device clipboard sync for macOS, Windows & Linux — end-to-end encrypted, LAN-only, no cloud. OCR, CLI and MCP server built in.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2595,
+        "forks": 130,
+        "pushed_at": "2026-10-01T01:58:34Z",
+        "updated_at": "2026-10-01T01:58:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "275d7cb1f080acf7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tractorjuice/arc-kit",
+      "kind": "github_repository",
+      "name": "tractorjuice/arc-kit",
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "provider": "GitHub",
+      "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2252,
+        "forks": 282,
+        "pushed_at": "2026-10-01T02:08:07Z",
+        "updated_at": "2026-10-01T02:08:14Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b9ab795b431d8e82",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lahfir/agent-desktop",
+      "kind": "github_repository",
+      "name": "lahfir/agent-desktop",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "provider": "GitHub",
+      "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1735,
+        "forks": 121,
+        "pushed_at": "2026-10-01T02:12:17Z",
+        "updated_at": "2026-10-01T02:12:22Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "28b68ab760670264",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kotaro-kinoshita/yomitoku",
+      "kind": "github_repository",
+      "name": "kotaro-kinoshita/yomitoku",
+      "url": "https://github.com/kotaro-kinoshita/yomitoku",
+      "provider": "GitHub",
+      "description": "YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1599,
+        "forks": 60,
+        "pushed_at": "2026-10-01T01:59:00Z",
+        "updated_at": "2026-10-01T01:57:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "282bcc279c1f0555",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/goodroot/hyprwhspr",
+      "kind": "github_repository",
+      "name": "goodroot/hyprwhspr",
+      "url": "https://github.com/goodroot/hyprwhspr",
+      "provider": "GitHub",
+      "description": "Native speech-to-text for Linux - Fast, accurate, private, and hackable system-wide dictation",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1222,
+        "forks": 107,
+        "pushed_at": "2026-10-01T01:04:28Z",
+        "updated_at": "2026-10-01T01:04:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "57b7a9445ca2eaca",
+        "novel": false,
+        "dedup_age_days": 38
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/asklokesh/loki-mode",
+      "kind": "github_repository",
+      "name": "asklokesh/loki-mode",
+      "url": "https://github.com/asklokesh/loki-mode",
+      "provider": "GitHub",
+      "description": "Autonomous software factory. Give it a GitHub issue, a spec or a one-line task; get back a pull request with a signed receipt anyone can re-check offline. Runs on your machine with your own keys: Claude, Codex, OpenCode.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1077,
+        "forks": 208,
+        "pushed_at": "2026-10-01T02:08:34Z",
+        "updated_at": "2026-10-01T02:08:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "163ea425a5e98822",
+        "novel": false,
+        "dedup_age_days": 64
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/LeanBitLab/LeanType",
+      "kind": "github_repository",
+      "name": "LeanBitLab/LeanType",
+      "url": "https://github.com/LeanBitLab/LeanType",
+      "provider": "GitHub",
+      "description": "LeanType is an Open-source keyboard, fork of HeliBoard with additional features and customisation",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1013,
+        "forks": 58,
+        "pushed_at": "2026-10-01T00:33:42Z",
+        "updated_at": "2026-10-01T00:31:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ad936fc2665064e6",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ReflexioAI/claude-smart",
+      "kind": "github_repository",
+      "name": "ReflexioAI/claude-smart",
+      "url": "https://github.com/ReflexioAI/claude-smart",
+      "provider": "GitHub",
+      "description": "Turns corrections into Preferences, Project-specific skills, and Shared skills for Claude Code, Codex, and OpenCode.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 781,
+        "forks": 87,
+        "pushed_at": "2026-10-01T02:11:05Z",
+        "updated_at": "2026-10-01T02:11:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fe25b4f059704505",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/qf-studio/pilot",
+      "kind": "github_repository",
+      "name": "qf-studio/pilot",
+      "url": "https://github.com/qf-studio/pilot",
+      "provider": "GitHub",
+      "description": "AI that ships your tickets.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 720,
+        "forks": 59,
+        "pushed_at": "2026-09-30T23:18:49Z",
+        "updated_at": "2026-10-01T02:10:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "58b449d020f6c941",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aannoo/hcom",
+      "kind": "github_repository",
+      "name": "aannoo/hcom",
+      "url": "https://github.com/aannoo/hcom",
+      "provider": "GitHub",
+      "description": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 530,
+        "forks": 84,
+        "pushed_at": "2026-10-01T02:01:57Z",
+        "updated_at": "2026-10-01T01:48:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "57300bb9b833ca5e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/chenxiachan/thoughtdag",
+      "kind": "github_repository",
+      "name": "chenxiachan/thoughtdag",
+      "url": "https://github.com/chenxiachan/thoughtdag",
+      "provider": "GitHub",
+      "description": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 512,
+        "forks": 50,
+        "pushed_at": "2026-09-30T23:16:14Z",
+        "updated_at": "2026-09-30T23:16:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6d6f4b29869ed06b",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/IvanWng97/pixtuoid",
+      "kind": "github_repository",
+      "name": "IvanWng97/pixtuoid",
+      "url": "https://github.com/IvanWng97/pixtuoid",
+      "provider": "GitHub",
+      "description": "Terminal pixel-art office for AI coding agents",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 485,
+        "forks": 32,
+        "pushed_at": "2026-10-01T02:12:22Z",
+        "updated_at": "2026-10-01T02:12:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fb998b0ffd6726cf",
+        "novel": false,
+        "dedup_age_days": 73
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/smart-mcp-proxy/mcpproxy-go",
+      "kind": "github_repository",
+      "name": "smart-mcp-proxy/mcpproxy-go",
+      "url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+      "provider": "GitHub",
+      "description": "Supercharge AI Agents, Safely",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 381,
+        "forks": 56,
+        "pushed_at": "2026-10-01T02:10:57Z",
+        "updated_at": "2026-10-01T02:11:53Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a2b8a8dac977a9e1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AlpacaLabsLLC/skills-for-architects",
+      "kind": "github_repository",
+      "name": "AlpacaLabsLLC/skills-for-architects",
+      "url": "https://github.com/AlpacaLabsLLC/skills-for-architects",
+      "provider": "GitHub",
+      "description": "Claude Code skills for architecture, real estate, and workplace strategy. Type /skill-name and go.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 366,
+        "forks": 74,
+        "pushed_at": "2026-09-30T22:53:22Z",
+        "updated_at": "2026-09-30T22:50:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5041788844f6ca20",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DeHor-Labs/mcp-fiscal-brasil",
+      "kind": "github_repository",
+      "name": "DeHor-Labs/mcp-fiscal-brasil",
+      "url": "https://github.com/DeHor-Labs/mcp-fiscal-brasil",
+      "provider": "GitHub",
+      "description": "Servidor MCP fiscal brasileiro: CNPJ, NF-e, NFS-e, CT-e, SPED, eSocial, Simples Nacional, Reforma 2026. 44 tools, zero-cadastro, tabelas offline. Python.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 313,
+        "forks": 64,
+        "pushed_at": "2026-10-01T02:12:00Z",
+        "updated_at": "2026-10-01T02:11:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6aa2df5279857a52",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/orcarouter/OrcaSAQ-2-27B",
+      "kind": "hf_model",
+      "name": "orcarouter/OrcaSAQ-2-27B",
+      "url": "https://huggingface.co/models/orcarouter/OrcaSAQ-2-27B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "3-bit",
+        "agentic",
+        "base_model:quantized:qwen/qwen3.8-27b",
+        "base_model:qwen/qwen3.8-27b",
+        "conversational",
+        "en",
+        "exl3",
+        "function-calling",
+        "license:apache-2.0",
+        "long-context",
+        "long-horizon",
+        "mixed-precision",
+        "mtp",
+        "orcasaq2",
+        "quantization",
+        "qwen",
+        "qwen3.8",
+        "qwen3_5",
+        "reasoning",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "vllm",
+        "zh"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 2456,
+        "likes": 228,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cf02e331a0115fb9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/kulkas2pintu/kv-i2v",
+      "kind": "hf_space",
+      "name": "kulkas2pintu/kv-i2v",
+      "url": "https://huggingface.co/spaces/kulkas2pintu/kv-i2v",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 71,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5e735bdcb1451580",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/arudradey/qwen-image-2.1-uncensored-aio-loras",
+      "kind": "hf_space",
+      "name": "arudradey/qwen-image-2.1-uncensored-aio-loras",
+      "url": "https://huggingface.co/spaces/arudradey/qwen-image-2.1-uncensored-aio-loras",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 62,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ee219b622c8d148d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
