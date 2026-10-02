@@ -822,7 +822,7 @@
       "fingerprint": "23fafb5b5b0377d2"
     },
     "github_repository:https://github.com/Canner/WrenAI": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-10-02",
       "fingerprint": "e8144472652a0e00"
     },
     "github_repository:https://github.com/cocoindex-io/cocoindex": {
@@ -858,7 +858,7 @@
       "fingerprint": "1b51eea56b0829ce"
     },
     "official_repository:https://github.com/huggingface/smolagents": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-10-02",
       "fingerprint": "188634f04cdf1679"
     },
     "hf_model:https://huggingface.co/models/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF": {
@@ -1218,7 +1218,7 @@
       "fingerprint": "86e2758e1bbd8df1"
     },
     "github_repository:https://github.com/arc53/DocsGPT": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-10-02",
       "fingerprint": "bdfa8cdc7a8ebfa4"
     },
     "github_repository:https://github.com/MicrosoftDocs/mcp": {
@@ -1714,7 +1714,7 @@
       "fingerprint": "625ea0287f561aa5"
     },
     "official_repository:https://github.com/openai/openai-agents-python": {
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-10-02",
       "fingerprint": "77fd46ca26fe0c82"
     },
     "hf_model:https://huggingface.co/models/thinkingmachines/Inkling-Small": {
@@ -1974,7 +1974,7 @@
       "fingerprint": "de3c0c96c1a88189"
     },
     "github_repository:https://github.com/aeonfun/aeon": {
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-10-02",
       "fingerprint": "92ea1acf158c2d94"
     },
     "hf_model:https://huggingface.co/models/larryvrh/MiniMax-H3-Turbo-Lora": {
@@ -2074,7 +2074,7 @@
       "fingerprint": "2af988e3ca5036bf"
     },
     "github_repository:https://github.com/CCExtractor/ccextractor": {
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-10-02",
       "fingerprint": "a7778c6b284c9a23"
     },
     "github_repository:https://github.com/amebalabs/TRex": {
@@ -2442,7 +2442,7 @@
       "fingerprint": "9eea40c7ac422d9a"
     },
     "github_repository:https://github.com/basicmachines-co/basic-memory": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-10-02",
       "fingerprint": "2e4cd6e29f07b899"
     },
     "github_repository:https://github.com/cactus-compute/cactus": {
@@ -2502,7 +2502,7 @@
       "fingerprint": "541cb2183af89f07"
     },
     "official_repository:https://github.com/openai/openai-python": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-10-02",
       "fingerprint": "edd1b3b4fa25a618"
     },
     "official_repository:https://github.com/openai/openai-node": {
@@ -2582,7 +2582,7 @@
       "fingerprint": "dbb28f4d2ba31ace"
     },
     "official_repository:https://github.com/huggingface/skills": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-10-02",
       "fingerprint": "a1611509c84ed523"
     },
     "hf_model:https://huggingface.co/models/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF": {
@@ -2842,7 +2842,7 @@
       "fingerprint": "ea612eb3dd424d56"
     },
     "github_repository:https://github.com/hi-godot/godot-ai": {
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-10-02",
       "fingerprint": "9a3f2a06c1b6ca98"
     },
     "github_repository:https://github.com/webiny/webiny-js": {
@@ -4216,6 +4216,50 @@
     "hf_space:https://huggingface.co/spaces/arudradey/qwen-image-2.1-uncensored-aio-loras": {
       "last_seen": "2026-10-01",
       "fingerprint": "ee219b622c8d148d"
+    },
+    "github_repository:https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "f6d700c55ef6f61d"
+    },
+    "github_repository:https://github.com/Astro-Han/pawwork": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "29d61906ee5edd80"
+    },
+    "github_repository:https://github.com/primaprashant/awesome-voice-typing": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "d7a700da9eb935da"
+    },
+    "github_repository:https://github.com/AtomicBot-ai/atomic-agent": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "20c04ba3690037d0"
+    },
+    "github_repository:https://github.com/choyiny/saasmail": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "36d4d2cf7f87ac7c"
+    },
+    "github_repository:https://github.com/narumiruna/pi-extensions": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "ef110dd4b690bbfd"
+    },
+    "github_repository:https://github.com/AnotiaWang/awesome-decision-models": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "b4eab72570bbe3f0"
+    },
+    "github_repository:https://github.com/Sidiora-Labs/Paxeer-X-Network": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "3af9b1608b536b17"
+    },
+    "github_repository:https://github.com/moorcheh-ai/memanto": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "f90084106905370c"
+    },
+    "hf_model:https://huggingface.co/models/Cloudflare/clef": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "40e4a90612571a84"
+    },
+    "hf_model:https://huggingface.co/models/PSRben/VisionHOPE": {
+      "last_seen": "2026-10-02",
+      "fingerprint": "03c3371e7584390a"
     }
   }
 }

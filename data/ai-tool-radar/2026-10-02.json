@@ -1,0 +1,565 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T02:19:09.520964+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/openai-python",
+      "kind": "official_repository",
+      "name": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
+      "provider": "openai",
+      "description": "The official Python library for the OpenAI API",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 31734,
+        "pushed_at": "2026-10-01T23:24:16Z",
+        "updated_at": "2026-10-02T02:16:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "edd1b3b4fa25a618",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/openai-agents-python",
+      "kind": "official_repository",
+      "name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "provider": "openai",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 29799,
+        "pushed_at": "2026-10-02T01:11:09Z",
+        "updated_at": "2026-10-02T02:12:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "77fd46ca26fe0c82",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/smolagents",
+      "kind": "official_repository",
+      "name": "huggingface/smolagents",
+      "url": "https://github.com/huggingface/smolagents",
+      "provider": "huggingface",
+      "description": "🤗 smolagents: a barebones library for agents that think in code.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 29638,
+        "pushed_at": "2026-09-30T05:07:25Z",
+        "updated_at": "2026-10-02T02:15:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "188634f04cdf1679",
+        "novel": false,
+        "dedup_age_days": 39
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/skills",
+      "kind": "official_repository",
+      "name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "provider": "huggingface",
+      "description": "Give your agents the power of the Hugging Face ecosystem",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 11121,
+        "pushed_at": "2026-10-01T12:33:22Z",
+        "updated_at": "2026-10-02T02:18:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a1611509c84ed523",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/arc53/DocsGPT",
+      "kind": "github_repository",
+      "name": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "provider": "GitHub",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 18296,
+        "forks": 2167,
+        "pushed_at": "2026-10-02T01:48:18Z",
+        "updated_at": "2026-10-02T01:48:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bdfa8cdc7a8ebfa4",
+        "novel": false,
+        "dedup_age_days": 38
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Canner/WrenAI",
+      "kind": "github_repository",
+      "name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "provider": "GitHub",
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 17795,
+        "forks": 2035,
+        "pushed_at": "2026-10-02T02:18:29Z",
+        "updated_at": "2026-10-02T02:17:38Z",
+        "archived": false,
+        "source_count": 3
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e8144472652a0e00",
+        "novel": false,
+        "dedup_age_days": 74
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/basicmachines-co/basic-memory",
+      "kind": "github_repository",
+      "name": "basicmachines-co/basic-memory",
+      "url": "https://github.com/basicmachines-co/basic-memory",
+      "provider": "GitHub",
+      "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4075,
+        "forks": 298,
+        "pushed_at": "2026-10-02T02:15:47Z",
+        "updated_at": "2026-10-02T02:15:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2e4cd6e29f07b899",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hi-godot/godot-ai",
+      "kind": "github_repository",
+      "name": "hi-godot/godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "provider": "GitHub",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2734,
+        "forks": 164,
+        "pushed_at": "2026-10-02T02:13:13Z",
+        "updated_at": "2026-10-02T02:14:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9a3f2a06c1b6ca98",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AtomicBot-ai/atomic-agent",
+      "kind": "github_repository",
+      "name": "AtomicBot-ai/atomic-agent",
+      "url": "https://github.com/AtomicBot-ai/atomic-agent",
+      "provider": "GitHub",
+      "description": "Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2564,
+        "forks": 255,
+        "pushed_at": "2026-10-02T02:17:19Z",
+        "updated_at": "2026-10-02T02:16:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "20c04ba3690037d0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/moorcheh-ai/memanto",
+      "kind": "github_repository",
+      "name": "moorcheh-ai/memanto",
+      "url": "https://github.com/moorcheh-ai/memanto",
+      "provider": "GitHub",
+      "description": "Memory that AI Agents Love!",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2306,
+        "forks": 733,
+        "pushed_at": "2026-10-02T02:13:17Z",
+        "updated_at": "2026-10-02T02:13:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f90084106905370c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide",
+      "kind": "github_repository",
+      "name": "fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide",
+      "url": "https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide",
+      "provider": "GitHub",
+      "description": "ChatGPT Pro 5x／20x 与 Codex 购买、充值及使用指南：2026年国内开通，Pro 5x（100 美元）/ 20x（200 美元）、支付宝、无海外卡与订单查询",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1413,
+        "forks": 66,
+        "pushed_at": "2026-10-02T02:16:44Z",
+        "updated_at": "2026-10-02T02:16:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f6d700c55ef6f61d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CCExtractor/ccextractor",
+      "kind": "github_repository",
+      "name": "CCExtractor/ccextractor",
+      "url": "https://github.com/CCExtractor/ccextractor",
+      "provider": "GitHub",
+      "description": "CCExtractor - Official version maintained by the core team",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 901,
+        "forks": 592,
+        "pushed_at": "2026-10-02T00:09:09Z",
+        "updated_at": "2026-10-02T00:08:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a7778c6b284c9a23",
+        "novel": false,
+        "dedup_age_days": 52
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aeonfun/aeon",
+      "kind": "github_repository",
+      "name": "aeonfun/aeon",
+      "url": "https://github.com/aeonfun/aeon",
+      "provider": "GitHub",
+      "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 760,
+        "forks": 271,
+        "pushed_at": "2026-10-02T02:14:05Z",
+        "updated_at": "2026-10-02T02:14:09Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "92ea1acf158c2d94",
+        "novel": false,
+        "dedup_age_days": 56
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/narumiruna/pi-extensions",
+      "kind": "github_repository",
+      "name": "narumiruna/pi-extensions",
+      "url": "https://github.com/narumiruna/pi-extensions",
+      "provider": "GitHub",
+      "description": "A monorepo of Pi Coding Agent extensions",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 643,
+        "forks": 125,
+        "pushed_at": "2026-10-02T02:18:50Z",
+        "updated_at": "2026-10-02T02:18:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ef110dd4b690bbfd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AnotiaWang/awesome-decision-models",
+      "kind": "github_repository",
+      "name": "AnotiaWang/awesome-decision-models",
+      "url": "https://github.com/AnotiaWang/awesome-decision-models",
+      "provider": "GitHub",
+      "description": "A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 597,
+        "forks": 124,
+        "pushed_at": "2026-10-02T02:18:10Z",
+        "updated_at": "2026-10-02T02:18:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b4eab72570bbe3f0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Sidiora-Labs/Paxeer-X-Network",
+      "kind": "github_repository",
+      "name": "Sidiora-Labs/Paxeer-X-Network",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network",
+      "provider": "GitHub",
+      "description": "Paxeer X is a Distributed HyperState Machine for payments, code execution and intent routing. Designed for Machines and the Users operating them.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 575,
+        "forks": 90,
+        "pushed_at": "2026-10-02T02:17:49Z",
+        "updated_at": "2026-10-02T02:17:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3af9b1608b536b17",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/PSRben/VisionHOPE",
+      "kind": "hf_model",
+      "name": "PSRben/VisionHOPE",
+      "url": "https://huggingface.co/models/PSRben/VisionHOPE",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2609.33325",
+        "computer-vision",
+        "image-classification",
+        "license:mit",
+        "pytorch",
+        "region:us",
+        "visionhope"
+      ],
+      "input_output": "image-classification -> inference result",
+      "signals": {
+        "downloads": 305,
+        "likes": 362,
+        "updated_at": null,
+        "pipeline_tag": "image-classification"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "03c3371e7584390a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Cloudflare/clef",
+      "kind": "hf_model",
+      "name": "Cloudflare/clef",
+      "url": "https://huggingface.co/models/Cloudflare/clef",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:finetune:qwen/qwen3.8-27b",
+        "base_model:qwen/qwen3.8-27b",
+        "classification",
+        "clef",
+        "cloudflare",
+        "conversational",
+        "custom-code",
+        "endpoints_compatible",
+        "image-text-to-text",
+        "image-text-to-typed-output",
+        "license:apache-2.0",
+        "multimodal",
+        "post-train",
+        "qwen3.8",
+        "qwen3_5",
+        "region:us",
+        "safetensors",
+        "structured-output",
+        "systemone",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 18,
+        "likes": 351,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "40e4a90612571a84",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/choyiny/saasmail",
+      "kind": "github_repository",
+      "name": "choyiny/saasmail",
+      "url": "https://github.com/choyiny/saasmail",
+      "provider": "GitHub",
+      "description": "Self-hosted email server for SaaS teams on Cloudflare Workers with WebMCP support",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 257,
+        "forks": 54,
+        "pushed_at": "2026-10-02T02:13:22Z",
+        "updated_at": "2026-10-02T02:13:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "36d4d2cf7f87ac7c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Astro-Han/pawwork",
+      "kind": "github_repository",
+      "name": "Astro-Han/pawwork",
+      "url": "https://github.com/Astro-Han/pawwork",
+      "provider": "GitHub",
+      "description": "PawWork — free, open-source desktop AI agent for macOS and Windows, built on DeepSeek Harness (DSH). Free models included, no API key or terminal. Office files, web search, and scheduled automations out of the box. An open alternative to Codex App and Claude Cowork.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 201,
+        "forks": 25,
+        "pushed_at": "2026-10-02T01:41:37Z",
+        "updated_at": "2026-10-02T01:40:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "29d61906ee5edd80",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/primaprashant/awesome-voice-typing",
+      "kind": "github_repository",
+      "name": "primaprashant/awesome-voice-typing",
+      "url": "https://github.com/primaprashant/awesome-voice-typing",
+      "provider": "GitHub",
+      "description": "Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 200,
+        "forks": 37,
+        "pushed_at": "2026-10-02T00:17:28Z",
+        "updated_at": "2026-10-02T00:17:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d7a700da9eb935da",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
