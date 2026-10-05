@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T02:04:55.421325+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 20,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/peft",
+      "kind": "official_repository",
+      "name": "huggingface/peft",
+      "url": "https://github.com/huggingface/peft",
+      "provider": "huggingface",
+      "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 21753,
+        "pushed_at": "2026-10-02T11:08:30Z",
+        "updated_at": "2026-10-05T01:04:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f076500efcfd9733",
+        "novel": false,
+        "dedup_age_days": 67
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/transformers.js",
+      "kind": "official_repository",
+      "name": "huggingface/transformers.js",
+      "url": "https://github.com/huggingface/transformers.js",
+      "provider": "huggingface",
+      "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 16340,
+        "pushed_at": "2026-10-02T01:13:49Z",
+        "updated_at": "2026-10-05T01:19:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bf32fd2b768bf415",
+        "novel": false,
+        "dedup_age_days": 61
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/koala73/worldmonitor",
+      "kind": "github_repository",
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "provider": "GitHub",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 87783,
+        "forks": 13388,
+        "pushed_at": "2026-10-05T02:02:31Z",
+        "updated_at": "2026-10-05T02:03:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "812a574c81036a31",
+        "novel": false,
+        "dedup_age_days": 38
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ruvnet/ruflo",
+      "kind": "github_repository",
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "provider": "GitHub",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 73879,
+        "forks": 8777,
+        "pushed_at": "2026-10-05T02:02:27Z",
+        "updated_at": "2026-10-05T02:02:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0eb2688fd8225324",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/casdoor/casdoor",
+      "kind": "github_repository",
+      "name": "casdoor/casdoor",
+      "url": "https://github.com/casdoor/casdoor",
+      "provider": "GitHub",
+      "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 14510,
+        "forks": 1830,
+        "pushed_at": "2026-10-05T02:00:58Z",
+        "updated_at": "2026-10-05T01:59:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5bbf71abd8a129fd",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/melgarafael/DeskcommCRM",
+      "kind": "github_repository",
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "provider": "GitHub",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4410,
+        "forks": 1151,
+        "pushed_at": "2026-10-05T01:49:53Z",
+        "updated_at": "2026-10-05T01:49:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b90426ebdca2a808",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SteveTheKiller/KillerPDF",
+      "kind": "github_repository",
+      "name": "SteveTheKiller/KillerPDF",
+      "url": "https://github.com/SteveTheKiller/KillerPDF",
+      "provider": "GitHub",
+      "description": "Free and open-source PDF editor for Windows with a built-in PDF 2.0 engine. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, draw, sign, fill forms, print, flatten, and open password-protected PDFs without a subscription.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4031,
+        "forks": 321,
+        "pushed_at": "2026-10-04T20:35:28Z",
+        "updated_at": "2026-10-05T00:29:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e856e5fb83ab774f",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/stickerdaniel/linkedin-mcp-server",
+      "kind": "github_repository",
+      "name": "stickerdaniel/linkedin-mcp-server",
+      "url": "https://github.com/stickerdaniel/linkedin-mcp-server",
+      "provider": "GitHub",
+      "description": "Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3733,
+        "forks": 651,
+        "pushed_at": "2026-10-05T02:03:55Z",
+        "updated_at": "2026-10-05T02:03:58Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "eed24c4976246e33",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Louis-CFM/coucou",
+      "kind": "github_repository",
+      "name": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "provider": "GitHub",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3475,
+        "forks": 543,
+        "pushed_at": "2026-10-05T02:03:47Z",
+        "updated_at": "2026-10-05T02:01:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "76fb3f15dc5570d6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/liliu-z/stashbase",
+      "kind": "github_repository",
+      "name": "liliu-z/stashbase",
+      "url": "https://github.com/liliu-z/stashbase",
+      "provider": "GitHub",
+      "description": "An open-source, local-first writing workspace where you can write with Claude Code and Codex, drawing on your own sources and past work.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 906,
+        "forks": 31,
+        "pushed_at": "2026-10-05T01:31:44Z",
+        "updated_at": "2026-10-05T01:31:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e643523aef05549b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/sandbaseai/sandbase-harness",
+      "kind": "github_repository",
+      "name": "sandbaseai/sandbase-harness",
+      "url": "https://github.com/sandbaseai/sandbase-harness",
+      "provider": "GitHub",
+      "description": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 682,
+        "forks": 77,
+        "pushed_at": "2026-10-05T02:01:15Z",
+        "updated_at": "2026-10-05T02:01:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "05e943c87e286bd0",
+        "novel": false,
+        "dedup_age_days": 46
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/1ay1/agentty",
+      "kind": "github_repository",
+      "name": "1ay1/agentty",
+      "url": "https://github.com/1ay1/agentty",
+      "provider": "GitHub",
+      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 616,
+        "forks": 25,
+        "pushed_at": "2026-10-05T02:03:52Z",
+        "updated_at": "2026-10-05T02:03:55Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9eea40c7ac422d9a",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yuxino/Mimi",
+      "kind": "github_repository",
+      "name": "yuxino/Mimi",
+      "url": "https://github.com/yuxino/Mimi",
+      "provider": "GitHub",
+      "description": "A live subtitle translation app for videos, streams, and lessons. 实时字幕翻译工具，把电脑里播放的人声翻译成悬浮字幕。",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 524,
+        "forks": 26,
+        "pushed_at": "2026-10-05T01:08:46Z",
+        "updated_at": "2026-10-05T00:17:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1ede05876f337686",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JetBrains/thinkrail",
+      "kind": "github_repository",
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "provider": "GitHub",
+      "description": "Vibe code with pi in a lightweight, real IDE - The Vibe You Need",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 508,
+        "forks": 41,
+        "pushed_at": "2026-10-05T01:59:23Z",
+        "updated_at": "2026-10-05T01:26:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "946d039676c46ac8",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Cloudflare/clef-flash",
+      "kind": "hf_model",
+      "name": "Cloudflare/clef-flash",
+      "url": "https://huggingface.co/models/Cloudflare/clef-flash",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:finetune:qwen/qwen3.5-9b",
+        "base_model:qwen/qwen3.5-9b",
+        "classification",
+        "clef",
+        "cloudflare",
+        "conversational",
+        "custom-code",
+        "endpoints_compatible",
+        "image-text-to-text",
+        "image-text-to-typed-output",
+        "license:apache-2.0",
+        "multimodal",
+        "post-train",
+        "qwen3.5",
+        "qwen3_5",
+        "region:us",
+        "safetensors",
+        "structured-output",
+        "systemone",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 6372,
+        "likes": 429,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d1756aa0fa33e0d8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/openwong2kim/wmux",
+      "kind": "github_repository",
+      "name": "openwong2kim/wmux",
+      "url": "https://github.com/openwong2kim/wmux",
+      "provider": "GitHub",
+      "description": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 410,
+        "forks": 70,
+        "pushed_at": "2026-10-05T02:03:11Z",
+        "updated_at": "2026-10-05T02:03:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e6a523f5816764c9",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HenestrosaDev/audiotext",
+      "kind": "github_repository",
+      "name": "HenestrosaDev/audiotext",
+      "url": "https://github.com/HenestrosaDev/audiotext",
+      "provider": "GitHub",
+      "description": "A desktop application that transcribes audio from files, microphone input or YouTube videos with the option to translate the content and create subtitles.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 353,
+        "forks": 33,
+        "pushed_at": "2026-10-04T23:21:34Z",
+        "updated_at": "2026-10-04T23:20:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5bbbd10c3febabb8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xr843/fojin",
+      "kind": "github_repository",
+      "name": "xr843/fojin",
+      "url": "https://github.com/xr843/fojin",
+      "provider": "GitHub",
+      "description": "Buddhist Digital Text Platform — 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full-text search",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 345,
+        "forks": 64,
+        "pushed_at": "2026-10-05T01:35:45Z",
+        "updated_at": "2026-10-05T01:35:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ce7da27eb05c4de5",
+        "novel": false,
+        "dedup_age_days": 68
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/FineEnvs/multi-harness-rl",
+      "kind": "hf_space",
+      "name": "FineEnvs/multi-harness-rl",
+      "url": "https://huggingface.co/spaces/FineEnvs/multi-harness-rl",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "agents",
+        "docker",
+        "grpo",
+        "harbor",
+        "llm-training",
+        "openenv",
+        "region:us",
+        "reinforcement-learning",
+        "research-article-template",
+        "rl-environments",
+        "trl"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 101,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e17ed1f5ab991126",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+      "kind": "hf_space",
+      "name": "hugging-apps/bfs-best-face-swap",
+      "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 78,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "41b9468b9086503b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

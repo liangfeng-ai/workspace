@@ -122,7 +122,7 @@
       "fingerprint": "eeaf04df23a5a786"
     },
     "github_repository:https://github.com/koala73/worldmonitor": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-10-05",
       "fingerprint": "812a574c81036a31"
     },
     "github_repository:https://github.com/openclaw/Peekaboo": {
@@ -554,7 +554,7 @@
       "fingerprint": "94e68fdd3979f670"
     },
     "github_repository:https://github.com/openwong2kim/wmux": {
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-10-05",
       "fingerprint": "e6a523f5816764c9"
     },
     "github_repository:https://github.com/InsForge/InsForge": {
@@ -1446,7 +1446,7 @@
       "fingerprint": "9b31ea4ed64188db"
     },
     "github_repository:https://github.com/xr843/fojin": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-10-05",
       "fingerprint": "ce7da27eb05c4de5"
     },
     "github_repository:https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization": {
@@ -1570,7 +1570,7 @@
       "fingerprint": "b86b296bd5e792b5"
     },
     "official_repository:https://github.com/huggingface/peft": {
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-10-05",
       "fingerprint": "f076500efcfd9733"
     },
     "hf_model:https://huggingface.co/models/unsloth/Kimi-K3-GGUF": {
@@ -1626,7 +1626,7 @@
       "fingerprint": "827feaf6528eb939"
     },
     "github_repository:https://github.com/melgarafael/DeskcommCRM": {
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-10-05",
       "fingerprint": "b90426ebdca2a808"
     },
     "github_repository:https://github.com/multikernel/sandlock": {
@@ -1858,7 +1858,7 @@
       "fingerprint": "ad43a176a01a3425"
     },
     "official_repository:https://github.com/huggingface/transformers.js": {
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-10-05",
       "fingerprint": "bf32fd2b768bf415"
     },
     "hf_model:https://huggingface.co/models/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot": {
@@ -2438,7 +2438,7 @@
       "fingerprint": "b8c7b7567447f684"
     },
     "github_repository:https://github.com/1ay1/agentty": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-10-05",
       "fingerprint": "9eea40c7ac422d9a"
     },
     "github_repository:https://github.com/basicmachines-co/basic-memory": {
@@ -2574,7 +2574,7 @@
       "fingerprint": "3550bfee0697e9d2"
     },
     "github_repository:https://github.com/sandbaseai/sandbase-harness": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-10-05",
       "fingerprint": "05e943c87e286bd0"
     },
     "official_repository:https://github.com/groq/groq-mcp-server": {
@@ -3058,7 +3058,7 @@
       "fingerprint": "55d2d297d1a5d44b"
     },
     "github_repository:https://github.com/JetBrains/thinkrail": {
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-10-05",
       "fingerprint": "946d039676c46ac8"
     },
     "github_repository:https://github.com/PaulDuvall/ai-development-patterns": {
@@ -3070,7 +3070,7 @@
       "fingerprint": "1496b0e313bed875"
     },
     "github_repository:https://github.com/SteveTheKiller/KillerPDF": {
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-10-05",
       "fingerprint": "e856e5fb83ab774f"
     },
     "github_repository:https://github.com/CursorTouch/Windows-MCP": {
@@ -3090,7 +3090,7 @@
       "fingerprint": "b337b5a5bb50358b"
     },
     "github_repository:https://github.com/casdoor/casdoor": {
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-10-05",
       "fingerprint": "5bbf71abd8a129fd"
     },
     "github_repository:https://github.com/future-agi/future-agi": {
@@ -4260,6 +4260,42 @@
     "hf_model:https://huggingface.co/models/PSRben/VisionHOPE": {
       "last_seen": "2026-10-02",
       "fingerprint": "03c3371e7584390a"
+    },
+    "github_repository:https://github.com/yuxino/Mimi": {
+      "last_seen": "2026-10-05",
+      "fingerprint": "1ede05876f337686"
+    },
+    "github_repository:https://github.com/HenestrosaDev/audiotext": {
+      "last_seen": "2026-10-05",
+      "fingerprint": "5bbbd10c3febabb8"
+    },
+    "github_repository:https://github.com/stickerdaniel/linkedin-mcp-server": {
+      "last_seen": "2026-10-05",
+      "fingerprint": "eed24c4976246e33"
+    },
+    "github_repository:https://github.com/liliu-z/stashbase": {
+      "last_seen": "2026-10-05",
+      "fingerprint": "e643523aef05549b"
+    },
+    "github_repository:https://github.com/ruvnet/ruflo": {
+      "last_seen": "2026-10-05",
+      "fingerprint": "0eb2688fd8225324"
+    },
+    "github_repository:https://github.com/Louis-CFM/coucou": {
+      "last_seen": "2026-10-05",
+      "fingerprint": "76fb3f15dc5570d6"
+    },
+    "hf_model:https://huggingface.co/models/Cloudflare/clef-flash": {
+      "last_seen": "2026-10-05",
+      "fingerprint": "d1756aa0fa33e0d8"
+    },
+    "hf_space:https://huggingface.co/spaces/FineEnvs/multi-harness-rl": {
+      "last_seen": "2026-10-05",
+      "fingerprint": "e17ed1f5ab991126"
+    },
+    "hf_space:https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap": {
+      "last_seen": "2026-10-05",
+      "fingerprint": "41b9468b9086503b"
     }
   }
 }
