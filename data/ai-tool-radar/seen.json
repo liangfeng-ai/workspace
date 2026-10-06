@@ -134,7 +134,7 @@
       "fingerprint": "190e3d9055901c53"
     },
     "github_repository:https://github.com/bex-co/bex": {
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-10-06",
       "fingerprint": "138cf1ddb0429cab"
     },
     "github_repository:https://github.com/GlitterKill/sdl-mcp": {
@@ -398,7 +398,7 @@
       "fingerprint": "a6b82e6a173cf32d"
     },
     "github_repository:https://github.com/1jehuang/jcode": {
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-10-06",
       "fingerprint": "f11d77865649d2aa"
     },
     "github_repository:https://github.com/UnicomAI/wanwu": {
@@ -1098,7 +1098,7 @@
       "fingerprint": "8a72ac2d9c807f4b"
     },
     "github_repository:https://github.com/icereed/paperless-gpt": {
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-10-06",
       "fingerprint": "7fc2a8b21cb08bd0"
     },
     "github_repository:https://github.com/mittagessen/kraken": {
@@ -1358,7 +1358,7 @@
       "fingerprint": "3f328ffdb005e037"
     },
     "github_repository:https://github.com/microsoft/foundry-local": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-06",
       "fingerprint": "504834d9be167bd7"
     },
     "github_repository:https://github.com/stacklok/toolhive": {
@@ -1554,7 +1554,7 @@
       "fingerprint": "f508f07404337526"
     },
     "github_repository:https://github.com/gotempsh/temps": {
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-10-06",
       "fingerprint": "af32a2fda72c1d8d"
     },
     "github_repository:https://github.com/the-open-engine/zeroshot": {
@@ -1902,7 +1902,7 @@
       "fingerprint": "24ddee3cd7abc259"
     },
     "github_repository:https://github.com/genkit-ai/genkit": {
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-10-06",
       "fingerprint": "d1b53269933f2d41"
     },
     "github_repository:https://github.com/Dicklesworthstone/ntm": {
@@ -4296,6 +4296,66 @@
     "hf_space:https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap": {
       "last_seen": "2026-10-05",
       "fingerprint": "41b9468b9086503b"
+    },
+    "github_repository:https://github.com/Twigpine/openclaude": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "6c6f0fc576e6f446"
+    },
+    "github_repository:https://github.com/datalab-to/lift": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "fdd92e86692b5548"
+    },
+    "github_repository:https://github.com/tensorflow/lingvo": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "9e5eb4b944631acc"
+    },
+    "github_repository:https://github.com/chubbyguan/chubbyskills": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "c1523f825c16d8b3"
+    },
+    "github_repository:https://github.com/vinhnx/VTCode": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "db3473ee8e6f0959"
+    },
+    "github_repository:https://github.com/ZaxbyHub/opencode-swarm": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "e3d367183bf03677"
+    },
+    "github_repository:https://github.com/BBC-Esq/VectorDB-Plugin": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "3ea91cc6a13c1a07"
+    },
+    "github_repository:https://github.com/framerslab/agentos": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "8c9c52db5db4efdc"
+    },
+    "github_repository:https://github.com/The-Vibe-Company/quivr": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "62e157f61e236f1f"
+    },
+    "github_repository:https://github.com/Gaurav-Gosain/tuios": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "5add5fb1c0695e0d"
+    },
+    "github_repository:https://github.com/Dicklesworthstone/ultimate_bug_scanner": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "9d7b20ec64c2c0b8"
+    },
+    "hf_model:https://huggingface.co/models/autotrust/JEV-27B-VL": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "598bfefec275b754"
+    },
+    "hf_model:https://huggingface.co/models/autotrust/GEV-26B-Decide": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "cf70ae9674e0238a"
+    },
+    "hf_model:https://huggingface.co/models/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "5264e84bf43d6280"
+    },
+    "hf_space:https://huggingface.co/spaces/autotrust/jev-9b-decision-demo": {
+      "last_seen": "2026-10-06",
+      "fingerprint": "963c7c7fdc800545"
     }
   }
 }
