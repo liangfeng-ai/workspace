@@ -1,0 +1,677 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T02:27:44.512025+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 25,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/lerobot",
+      "kind": "official_repository",
+      "name": "huggingface/lerobot",
+      "url": "https://github.com/huggingface/lerobot",
+      "provider": "huggingface",
+      "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 27971,
+        "pushed_at": "2026-10-06T22:43:49Z",
+        "updated_at": "2026-10-07T02:22:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "84375b7f41a6221b",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/math",
+      "kind": "official_repository",
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "provider": "openai",
+      "description": "",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2724,
+        "pushed_at": "2026-10-06T22:01:11Z",
+        "updated_at": "2026-10-07T02:27:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "80a79aad2bd8a633",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/Repo2RLEnv",
+      "kind": "official_repository",
+      "name": "huggingface/Repo2RLEnv",
+      "url": "https://github.com/huggingface/Repo2RLEnv",
+      "provider": "huggingface",
+      "description": "Turn any repository into verifiable RL environments for coding agents - Harbor tasks you can train on, evaluate and share on the Hugging Face Hub",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 703,
+        "pushed_at": "2026-10-05T09:57:33Z",
+        "updated_at": "2026-10-07T02:06:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "48dbac200e047450",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/leLab",
+      "kind": "official_repository",
+      "name": "huggingface/leLab",
+      "url": "https://github.com/huggingface/leLab",
+      "provider": "huggingface",
+      "description": "🤗 LeLab: A web UI interface on top of LeRobot",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 190,
+        "pushed_at": "2026-10-05T14:54:23Z",
+        "updated_at": "2026-10-07T02:22:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "970475dddaa497bf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/opendataloader-project/opendataloader-pdf",
+      "kind": "github_repository",
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "provider": "GitHub",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 29482,
+        "forks": 2807,
+        "pushed_at": "2026-10-07T01:32:08Z",
+        "updated_at": "2026-10-07T02:21:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1bb5797e6f0fcca7",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langbot-app/LangBot",
+      "kind": "github_repository",
+      "name": "langbot-app/LangBot",
+      "url": "https://github.com/langbot-app/LangBot",
+      "provider": "GitHub",
+      "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 18034,
+        "forks": 1625,
+        "pushed_at": "2026-10-07T02:20:10Z",
+        "updated_at": "2026-10-07T02:20:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b2dac87836418b83",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/morluto/rea",
+      "kind": "github_repository",
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "provider": "GitHub",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 9707,
+        "forks": 1078,
+        "pushed_at": "2026-10-07T02:26:48Z",
+        "updated_at": "2026-10-07T02:27:19Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9374a5c219ea57c0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/argmaxinc/argmax-oss-swift",
+      "kind": "github_repository",
+      "name": "argmaxinc/argmax-oss-swift",
+      "url": "https://github.com/argmaxinc/argmax-oss-swift",
+      "provider": "GitHub",
+      "description": "On-device Speech AI for Apple Silicon",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6390,
+        "forks": 618,
+        "pushed_at": "2026-10-07T00:32:15Z",
+        "updated_at": "2026-10-07T00:32:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0eb890163f567095",
+        "novel": false,
+        "dedup_age_days": 70
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/macro-inc/macro",
+      "kind": "github_repository",
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "provider": "GitHub",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4577,
+        "forks": 442,
+        "pushed_at": "2026-10-07T02:26:16Z",
+        "updated_at": "2026-10-07T02:23:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "702af34614037120",
+        "novel": false,
+        "dedup_age_days": 55
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dicklesworthstone/pi_agent_rust",
+      "kind": "github_repository",
+      "name": "Dicklesworthstone/pi_agent_rust",
+      "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
+      "provider": "GitHub",
+      "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1849,
+        "forks": 218,
+        "pushed_at": "2026-10-07T02:27:37Z",
+        "updated_at": "2026-10-07T02:26:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8bcfab9885a26389",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/uvwt/agentdock",
+      "kind": "github_repository",
+      "name": "uvwt/agentdock",
+      "url": "https://github.com/uvwt/agentdock",
+      "provider": "GitHub",
+      "description": "Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1173,
+        "forks": 146,
+        "pushed_at": "2026-10-07T02:23:25Z",
+        "updated_at": "2026-10-07T02:23:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7f3c7453596c0682",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kdlbs/kandev",
+      "kind": "github_repository",
+      "name": "kdlbs/kandev",
+      "url": "https://github.com/kdlbs/kandev",
+      "provider": "GitHub",
+      "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 903,
+        "forks": 146,
+        "pushed_at": "2026-10-07T02:27:14Z",
+        "updated_at": "2026-10-07T02:27:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7c47babc43eac6d9",
+        "novel": false,
+        "dedup_age_days": 55
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/helixml/helix",
+      "kind": "github_repository",
+      "name": "helixml/helix",
+      "url": "https://github.com/helixml/helix",
+      "provider": "GitHub",
+      "description": "♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 816,
+        "forks": 87,
+        "pushed_at": "2026-10-07T02:26:56Z",
+        "updated_at": "2026-10-07T02:07:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ee8aa7922f1c27cd",
+        "novel": false,
+        "dedup_age_days": 69
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/google/embeddinggemma-2",
+      "kind": "hf_model",
+      "name": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/models/google/embeddinggemma-2",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "audio",
+        "audio-feature-extraction",
+        "embedding",
+        "embedding_gemma2",
+        "endpoints_compatible",
+        "feature-extraction",
+        "image-feature-extraction",
+        "license:apache-2.0",
+        "multilingual",
+        "multimodal",
+        "multimodal-embedding",
+        "region:us",
+        "safetensors",
+        "sentence-similarity",
+        "sentence-transformers",
+        "transformers",
+        "video",
+        "video-feature-extraction",
+        "vision"
+      ],
+      "input_output": "feature-extraction -> inference result",
+      "signals": {
+        "downloads": 364,
+        "likes": 518,
+        "updated_at": null,
+        "pipeline_tag": "feature-extraction"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bd3a1ebaf2e35e31",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/anig1scur/tocify",
+      "kind": "github_repository",
+      "name": "anig1scur/tocify",
+      "url": "https://github.com/anig1scur/tocify",
+      "provider": "GitHub",
+      "description": "Add PDF bookmarks online and make it searchable by OCR",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 486,
+        "forks": 20,
+        "pushed_at": "2026-10-07T01:14:22Z",
+        "updated_at": "2026-10-07T01:14:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "94098bb94b795855",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Picovoice/leopard",
+      "kind": "github_repository",
+      "name": "Picovoice/leopard",
+      "url": "https://github.com/Picovoice/leopard",
+      "provider": "GitHub",
+      "description": "On-device speech-to-text engine powered by deep learning",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 485,
+        "forks": 28,
+        "pushed_at": "2026-10-07T00:35:14Z",
+        "updated_at": "2026-10-07T00:09:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7fbe03678e8a5514",
+        "novel": false,
+        "dedup_age_days": 78
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/coco-research/coco",
+      "kind": "github_repository",
+      "name": "coco-research/coco",
+      "url": "https://github.com/coco-research/coco",
+      "provider": "GitHub",
+      "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 470,
+        "forks": 12,
+        "pushed_at": "2026-10-07T02:27:25Z",
+        "updated_at": "2026-10-07T02:27:28Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2865c08ee975591d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/decocms/studio",
+      "kind": "github_repository",
+      "name": "decocms/studio",
+      "url": "https://github.com/decocms/studio",
+      "provider": "GitHub",
+      "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 408,
+        "forks": 55,
+        "pushed_at": "2026-10-07T02:27:27Z",
+        "updated_at": "2026-10-07T02:27:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "707f24a3c91acec0",
+        "novel": false,
+        "dedup_age_days": 78
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/jialinyyzz/humanizer",
+      "kind": "hf_model",
+      "name": "jialinyyzz/humanizer",
+      "url": "https://huggingface.co/models/jialinyyzz/humanizer",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:finetune:google/gemma-4-12b",
+        "base_model:google/gemma-4-12b",
+        "conversational",
+        "en",
+        "endpoints_compatible",
+        "gemma4",
+        "gemma4_unified",
+        "gguf",
+        "humanizer",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "llama.cpp",
+        "paraphrase",
+        "region:us",
+        "rewriting",
+        "safetensors",
+        "style-transfer",
+        "text-generation",
+        "text-rewriting",
+        "transformers",
+        "zh"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 15134,
+        "likes": 404,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9abdd297fb09ce99",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/autonomous-ai/Physical-AI-Operating-System",
+      "kind": "github_repository",
+      "name": "autonomous-ai/Physical-AI-Operating-System",
+      "url": "https://github.com/autonomous-ai/Physical-AI-Operating-System",
+      "provider": "GitHub",
+      "description": "The open-source operating system for physical AI.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 381,
+        "forks": 60,
+        "pushed_at": "2026-10-07T02:27:35Z",
+        "updated_at": "2026-10-07T02:25:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "991a7abb3247df12",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Leon-Drq/openagentskill",
+      "kind": "github_repository",
+      "name": "Leon-Drq/openagentskill",
+      "url": "https://github.com/Leon-Drq/openagentskill",
+      "provider": "GitHub",
+      "description": "The skill layer for AI agents: npm for AI Agent Skills.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 357,
+        "forks": 31,
+        "pushed_at": "2026-10-07T02:11:23Z",
+        "updated_at": "2026-10-07T02:11:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "566396cd0b856c8e",
+        "novel": false,
+        "dedup_age_days": 82
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/scribeocr/scribe.js",
+      "kind": "github_repository",
+      "name": "scribeocr/scribe.js",
+      "url": "https://github.com/scribeocr/scribe.js",
+      "provider": "GitHub",
+      "description": "JavaScript OCR and text extraction for images and PDFs.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 322,
+        "forks": 24,
+        "pushed_at": "2026-10-07T02:18:32Z",
+        "updated_at": "2026-10-07T02:18:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "34afb15238a5ba04",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/grisuno/LazyOwn",
+      "kind": "github_repository",
+      "name": "grisuno/LazyOwn",
+      "url": "https://github.com/grisuno/LazyOwn",
+      "provider": "GitHub",
+      "description": "LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 290,
+        "forks": 57,
+        "pushed_at": "2026-10-07T02:26:24Z",
+        "updated_at": "2026-10-07T02:26:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f84e365c05d0b60b",
+        "novel": false,
+        "dedup_age_days": 68
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/fabric-runtime/pi-fabric",
+      "kind": "github_repository",
+      "name": "fabric-runtime/pi-fabric",
+      "url": "https://github.com/fabric-runtime/pi-fabric",
+      "provider": "GitHub",
+      "description": "A programmable tool and agent runtime for Pi",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 284,
+        "forks": 35,
+        "pushed_at": "2026-10-07T02:26:52Z",
+        "updated_at": "2026-10-07T02:26:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "075de135c2c42459",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agentuse/agentuse",
+      "kind": "github_repository",
+      "name": "agentuse/agentuse",
+      "url": "https://github.com/agentuse/agentuse",
+      "provider": "GitHub",
+      "description": "🤖 AI agents on autopilot. Any model. Runs local, cron, CI/CD, or Docker.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 204,
+        "forks": 21,
+        "pushed_at": "2026-10-07T01:25:45Z",
+        "updated_at": "2026-10-07T01:25:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "be56178fdde33869",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

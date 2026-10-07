@@ -58,7 +58,7 @@
       "fingerprint": "bc7b30c6a34fb6eb"
     },
     "github_repository:https://github.com/opendataloader-project/opendataloader-pdf": {
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-10-07",
       "fingerprint": "1bb5797e6f0fcca7"
     },
     "github_repository:https://github.com/JabRef/jabref": {
@@ -154,7 +154,7 @@
       "fingerprint": "9bfe2bc48b8ebf87"
     },
     "github_repository:https://github.com/decocms/studio": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-10-07",
       "fingerprint": "707f24a3c91acec0"
     },
     "github_repository:https://github.com/trpc-group/trpc-agent-go": {
@@ -254,7 +254,7 @@
       "fingerprint": "da749c0e40b6dfe6"
     },
     "official_repository:https://github.com/huggingface/lerobot": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-10-07",
       "fingerprint": "84375b7f41a6221b"
     },
     "official_repository:https://github.com/huggingface/agents-course": {
@@ -618,7 +618,7 @@
       "fingerprint": "2e3c755f62aad5cf"
     },
     "github_repository:https://github.com/Leon-Drq/openagentskill": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-10-07",
       "fingerprint": "566396cd0b856c8e"
     },
     "github_repository:https://github.com/Javis603/token-monitor": {
@@ -918,7 +918,7 @@
       "fingerprint": "627fde2d995ce3b7"
     },
     "github_repository:https://github.com/Picovoice/leopard": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-10-07",
       "fingerprint": "7fbe03678e8a5514"
     },
     "github_repository:https://github.com/automagik-dev/genie": {
@@ -1262,7 +1262,7 @@
       "fingerprint": "a9bace421a6151a8"
     },
     "github_repository:https://github.com/scribeocr/scribe.js": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-10-07",
       "fingerprint": "34afb15238a5ba04"
     },
     "github_repository:https://github.com/amicalhq/amical": {
@@ -1418,7 +1418,7 @@
       "fingerprint": "aeef7e08b6cd5c8b"
     },
     "github_repository:https://github.com/argmaxinc/argmax-oss-swift": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-10-07",
       "fingerprint": "0eb890163f567095"
     },
     "github_repository:https://github.com/FrigadeHQ/yap": {
@@ -1538,7 +1538,7 @@
       "fingerprint": "e1adf8f441d40178"
     },
     "github_repository:https://github.com/helixml/helix": {
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-10-07",
       "fingerprint": "ee8aa7922f1c27cd"
     },
     "github_repository:https://github.com/EverMind-AI/EverOS": {
@@ -1610,7 +1610,7 @@
       "fingerprint": "367d7514cb7e4e7c"
     },
     "github_repository:https://github.com/grisuno/LazyOwn": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-10-07",
       "fingerprint": "f84e365c05d0b60b"
     },
     "github_repository:https://github.com/mixpeek/amux": {
@@ -2222,7 +2222,7 @@
       "fingerprint": "3f52b8c083f671da"
     },
     "github_repository:https://github.com/macro-inc/macro": {
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-10-07",
       "fingerprint": "702af34614037120"
     },
     "github_repository:https://github.com/Syngnat/GoNavi": {
@@ -2238,7 +2238,7 @@
       "fingerprint": "baf6a55088621aab"
     },
     "github_repository:https://github.com/kdlbs/kandev": {
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-10-07",
       "fingerprint": "7c47babc43eac6d9"
     },
     "github_repository:https://github.com/strukto-ai/mirage": {
@@ -2526,7 +2526,7 @@
       "fingerprint": "028486f4d081622a"
     },
     "github_repository:https://github.com/agentuse/agentuse": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-10-07",
       "fingerprint": "be56178fdde33869"
     },
     "github_repository:https://github.com/AaronGIG/pdf2zh-desktop": {
@@ -2750,7 +2750,7 @@
       "fingerprint": "16f2bcd851d59091"
     },
     "github_repository:https://github.com/Dicklesworthstone/pi_agent_rust": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-10-07",
       "fingerprint": "8bcfab9885a26389"
     },
     "github_repository:https://github.com/gakonst/nanocodex": {
@@ -4356,6 +4356,54 @@
     "hf_space:https://huggingface.co/spaces/autotrust/jev-9b-decision-demo": {
       "last_seen": "2026-10-06",
       "fingerprint": "963c7c7fdc800545"
+    },
+    "github_repository:https://github.com/anig1scur/tocify": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "94098bb94b795855"
+    },
+    "github_repository:https://github.com/coco-research/coco": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "2865c08ee975591d"
+    },
+    "github_repository:https://github.com/fabric-runtime/pi-fabric": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "075de135c2c42459"
+    },
+    "github_repository:https://github.com/morluto/rea": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "9374a5c219ea57c0"
+    },
+    "github_repository:https://github.com/uvwt/agentdock": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "7f3c7453596c0682"
+    },
+    "github_repository:https://github.com/langbot-app/LangBot": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "b2dac87836418b83"
+    },
+    "github_repository:https://github.com/autonomous-ai/Physical-AI-Operating-System": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "991a7abb3247df12"
+    },
+    "official_repository:https://github.com/openai/math": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "80a79aad2bd8a633"
+    },
+    "official_repository:https://github.com/huggingface/leLab": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "970475dddaa497bf"
+    },
+    "official_repository:https://github.com/huggingface/Repo2RLEnv": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "48dbac200e047450"
+    },
+    "hf_model:https://huggingface.co/models/google/embeddinggemma-2": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "bd3a1ebaf2e35e31"
+    },
+    "hf_model:https://huggingface.co/models/jialinyyzz/humanizer": {
+      "last_seen": "2026-10-07",
+      "fingerprint": "9abdd297fb09ce99"
     }
   }
 }
