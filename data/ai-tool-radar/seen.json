@@ -1214,7 +1214,7 @@
       "fingerprint": "18397be41dfd9367"
     },
     "github_repository:https://github.com/yilewang/llm-for-zotero": {
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-10-08",
       "fingerprint": "86e2758e1bbd8df1"
     },
     "github_repository:https://github.com/arc53/DocsGPT": {
@@ -1334,7 +1334,7 @@
       "fingerprint": "30479af3249d12c1"
     },
     "github_repository:https://github.com/tong-io/tongflow": {
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-10-08",
       "fingerprint": "448757cb51a1257f"
     },
     "github_repository:https://github.com/steel-dev/steel-browser": {
@@ -1450,7 +1450,7 @@
       "fingerprint": "ce7da27eb05c4de5"
     },
     "github_repository:https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-08",
       "fingerprint": "bde64be6b9a22dee"
     },
     "github_repository:https://github.com/EvotecIT/OfficeIMO": {
@@ -1698,7 +1698,7 @@
       "fingerprint": "9f4d83bf07f6101d"
     },
     "github_repository:https://github.com/professorpalmer/Puppetmaster": {
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-10-08",
       "fingerprint": "f1e28daa8d78c056"
     },
     "github_repository:https://github.com/opral/lix": {
@@ -1846,7 +1846,7 @@
       "fingerprint": "900b7cf6e8e5dbd6"
     },
     "github_repository:https://github.com/smithersai/smithers": {
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-10-08",
       "fingerprint": "31d84b5c7bb953bf"
     },
     "github_repository:https://github.com/Team-Commonly/commonly": {
@@ -2318,7 +2318,7 @@
       "fingerprint": "aed552776839505d"
     },
     "official_repository:https://github.com/huggingface/notebooks": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-10-08",
       "fingerprint": "b4e851c21b634453"
     },
     "hf_model:https://huggingface.co/models/MiniMaxAI/MiniMax-Music3": {
@@ -2342,7 +2342,7 @@
       "fingerprint": "0a4d03718bd97bc7"
     },
     "github_repository:https://github.com/Anionex/dsh-vision-toolkit": {
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-10-08",
       "fingerprint": "0e7894da76099b23"
     },
     "github_repository:https://github.com/ttop32/MouseTooltipTranslator": {
@@ -3226,7 +3226,7 @@
       "fingerprint": "f7305a584fdc6591"
     },
     "hf_space:https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-08",
       "fingerprint": "230fbacb997c7dae"
     },
     "github_repository:https://github.com/Peiiii/nextclaw": {
@@ -3318,7 +3318,7 @@
       "fingerprint": "8a81e62edf548d0a"
     },
     "github_repository:https://github.com/xberg-io/xberg": {
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-10-08",
       "fingerprint": "0b7a8945e26a471a"
     },
     "github_repository:https://github.com/gptme/gptme": {
@@ -4404,6 +4404,30 @@
     "hf_model:https://huggingface.co/models/jialinyyzz/humanizer": {
       "last_seen": "2026-10-07",
       "fingerprint": "9abdd297fb09ce99"
+    },
+    "github_repository:https://github.com/zidage/AlcedoStudio": {
+      "last_seen": "2026-10-08",
+      "fingerprint": "57263779a506bc19"
+    },
+    "github_repository:https://github.com/feder-cr/invisible_playwright_mcp": {
+      "last_seen": "2026-10-08",
+      "fingerprint": "f879ab9e8548fbfe"
+    },
+    "github_repository:https://github.com/cobusgreyling/loop-engineering": {
+      "last_seen": "2026-10-08",
+      "fingerprint": "11f7abb13de78acb"
+    },
+    "github_repository:https://github.com/Zleap-AI/SAG": {
+      "last_seen": "2026-10-08",
+      "fingerprint": "83f8b0c5a2826656"
+    },
+    "github_repository:https://github.com/timmyy123/LLM-Hub": {
+      "last_seen": "2026-10-08",
+      "fingerprint": "bd3b086dc1dcceaf"
+    },
+    "hf_model:https://huggingface.co/models/canberkkkkkk/ema-lightning": {
+      "last_seen": "2026-10-08",
+      "fingerprint": "8a1905415fc8a706"
     }
   }
 }

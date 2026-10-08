@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T02:44:04.712274+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 15,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/notebooks",
+      "kind": "official_repository",
+      "name": "huggingface/notebooks",
+      "url": "https://github.com/huggingface/notebooks",
+      "provider": "huggingface",
+      "description": "Notebooks using the Hugging Face libraries 🤗",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 4639,
+        "pushed_at": "2026-10-06T16:39:31Z",
+        "updated_at": "2026-10-08T02:41:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b4e851c21b634453",
+        "novel": false,
+        "dedup_age_days": 55
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cobusgreyling/loop-engineering",
+      "kind": "github_repository",
+      "name": "cobusgreyling/loop-engineering",
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "provider": "GitHub",
+      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11439,
+        "forks": 1533,
+        "pushed_at": "2026-10-08T02:43:25Z",
+        "updated_at": "2026-10-08T02:43:30Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "11f7abb13de78acb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xberg-io/xberg",
+      "kind": "github_repository",
+      "name": "xberg-io/xberg",
+      "url": "https://github.com/xberg-io/xberg",
+      "provider": "GitHub",
+      "description": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 9384,
+        "forks": 589,
+        "pushed_at": "2026-10-08T02:43:04Z",
+        "updated_at": "2026-10-08T02:43:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0b7a8945e26a471a",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yilewang/llm-for-zotero",
+      "kind": "github_repository",
+      "name": "yilewang/llm-for-zotero",
+      "url": "https://github.com/yilewang/llm-for-zotero",
+      "provider": "GitHub",
+      "description": "An open-source research agent system for your Zotero library.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3211,
+        "forks": 187,
+        "pushed_at": "2026-10-08T02:36:41Z",
+        "updated_at": "2026-10-08T02:36:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "86e2758e1bbd8df1",
+        "novel": false,
+        "dedup_age_days": 76
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/feder-cr/invisible_playwright_mcp",
+      "kind": "github_repository",
+      "name": "feder-cr/invisible_playwright_mcp",
+      "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+      "provider": "GitHub",
+      "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2643,
+        "forks": 459,
+        "pushed_at": "2026-10-08T01:42:34Z",
+        "updated_at": "2026-10-08T01:42:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f879ab9e8548fbfe",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Zleap-AI/SAG",
+      "kind": "github_repository",
+      "name": "Zleap-AI/SAG",
+      "url": "https://github.com/Zleap-AI/SAG",
+      "provider": "GitHub",
+      "description": "A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2517,
+        "forks": 167,
+        "pushed_at": "2026-10-08T02:39:17Z",
+        "updated_at": "2026-10-08T02:39:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "83f8b0c5a2826656",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "kind": "github_repository",
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "provider": "GitHub",
+      "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated reporting. The VSS Blueprint uses vision language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, RAG, and NVIDIA NIMs.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1912,
+        "forks": 404,
+        "pushed_at": "2026-10-08T02:36:39Z",
+        "updated_at": "2026-10-08T02:36:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bde64be6b9a22dee",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tong-io/tongflow",
+      "kind": "github_repository",
+      "name": "tong-io/tongflow",
+      "url": "https://github.com/tong-io/tongflow",
+      "provider": "GitHub",
+      "description": "Modality-First GenAI Platform",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1041,
+        "forks": 136,
+        "pushed_at": "2026-10-08T01:15:28Z",
+        "updated_at": "2026-10-08T01:15:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "448757cb51a1257f",
+        "novel": false,
+        "dedup_age_days": 72
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Anionex/dsh-vision-toolkit",
+      "kind": "github_repository",
+      "name": "Anionex/dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "provider": "GitHub",
+      "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 886,
+        "forks": 47,
+        "pushed_at": "2026-10-08T02:38:31Z",
+        "updated_at": "2026-10-08T02:38:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0e7894da76099b23",
+        "novel": false,
+        "dedup_age_days": 52
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/timmyy123/LLM-Hub",
+      "kind": "github_repository",
+      "name": "timmyy123/LLM-Hub",
+      "url": "https://github.com/timmyy123/LLM-Hub",
+      "provider": "GitHub",
+      "description": "Local LLM, image&video&music generator, vibecode like cursor with local models on your phone",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 606,
+        "forks": 135,
+        "pushed_at": "2026-10-08T02:34:02Z",
+        "updated_at": "2026-10-08T02:34:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bd3b086dc1dcceaf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/professorpalmer/Puppetmaster",
+      "kind": "github_repository",
+      "name": "professorpalmer/Puppetmaster",
+      "url": "https://github.com/professorpalmer/Puppetmaster",
+      "provider": "GitHub",
+      "description": "Provider-neutral control plane for durable-state agent swarms: subprocess workers, leases, artifacts, memory, and deterministic stitching.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 467,
+        "forks": 40,
+        "pushed_at": "2026-10-08T02:41:42Z",
+        "updated_at": "2026-10-08T02:41:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f1e28daa8d78c056",
+        "novel": false,
+        "dedup_age_days": 66
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/smithersai/smithers",
+      "kind": "github_repository",
+      "name": "smithersai/smithers",
+      "url": "https://github.com/smithersai/smithers",
+      "provider": "GitHub",
+      "description": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 429,
+        "forks": 51,
+        "pushed_at": "2026-10-08T02:43:21Z",
+        "updated_at": "2026-10-08T02:43:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "31d84b5c7bb953bf",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+      "kind": "hf_space",
+      "name": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+      "url": "https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 403,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "230fbacb997c7dae",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/canberkkkkkk/ema-lightning",
+      "kind": "hf_model",
+      "name": "canberkkkkkk/ema-lightning",
+      "url": "https://huggingface.co/models/canberkkkkkk/ema-lightning",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2405.14867",
+        "ema-lightning",
+        "flow-matching",
+        "license:apache-2.0",
+        "region:us",
+        "speech-synthesis",
+        "text-to-speech",
+        "tr",
+        "tts",
+        "turkish"
+      ],
+      "input_output": "text-to-speech -> inference result",
+      "signals": {
+        "downloads": 2724,
+        "likes": 273,
+        "updated_at": null,
+        "pipeline_tag": "text-to-speech"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8a1905415fc8a706",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zidage/AlcedoStudio",
+      "kind": "github_repository",
+      "name": "zidage/AlcedoStudio",
+      "url": "https://github.com/zidage/AlcedoStudio",
+      "provider": "GitHub",
+      "description": "Open-source RAW photo processing and digital asset management software.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 210,
+        "forks": 12,
+        "pushed_at": "2026-10-08T02:27:28Z",
+        "updated_at": "2026-10-08T02:27:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "57263779a506bc19",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
