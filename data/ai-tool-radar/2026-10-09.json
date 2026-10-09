@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T02:58:39.527736+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 16,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/symphony",
+      "kind": "official_repository",
+      "name": "openai/symphony",
+      "url": "https://github.com/openai/symphony",
+      "provider": "openai",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 27603,
+        "pushed_at": "2026-09-15T22:14:59Z",
+        "updated_at": "2026-10-09T02:53:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f0b3eeac9d1efc61",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/firecrawl/firecrawl",
+      "kind": "github_repository",
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "provider": "GitHub",
+      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 189648,
+        "forks": 10061,
+        "pushed_at": "2026-10-09T02:54:22Z",
+        "updated_at": "2026-10-09T02:57:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "32401ba5aed008d7",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/PDFMathTranslate/PDFMathTranslate",
+      "kind": "github_repository",
+      "name": "PDFMathTranslate/PDFMathTranslate",
+      "url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
+      "provider": "GitHub",
+      "description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 37401,
+        "forks": 3341,
+        "pushed_at": "2026-10-09T02:51:54Z",
+        "updated_at": "2026-10-09T02:52:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a24b297a6c95a795",
+        "novel": false,
+        "dedup_age_days": 38
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Tencent/WeKnora",
+      "kind": "github_repository",
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "provider": "GitHub",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 32677,
+        "forks": 4350,
+        "pushed_at": "2026-10-09T02:56:04Z",
+        "updated_at": "2026-10-09T02:56:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b408a21ed56bed53",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Zipstack/unstract",
+      "kind": "github_repository",
+      "name": "Zipstack/unstract",
+      "url": "https://github.com/Zipstack/unstract",
+      "provider": "GitHub",
+      "description": "LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7279,
+        "forks": 718,
+        "pushed_at": "2026-10-08T23:34:35Z",
+        "updated_at": "2026-10-09T01:54:43Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "13d07eb2c6e8b798",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Vexa-ai/vexa",
+      "kind": "github_repository",
+      "name": "Vexa-ai/vexa",
+      "url": "https://github.com/Vexa-ai/vexa",
+      "provider": "GitHub",
+      "description": "Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2864,
+        "forks": 501,
+        "pushed_at": "2026-10-09T02:07:16Z",
+        "updated_at": "2026-10-09T01:05:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2b70962195c4e21b",
+        "novel": false,
+        "dedup_age_days": 60
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vmoranv/jshookmcp",
+      "kind": "github_repository",
+      "name": "vmoranv/jshookmcp",
+      "url": "https://github.com/vmoranv/jshookmcp",
+      "provider": "GitHub",
+      "description": "js hook toolkit that all you need",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2030,
+        "forks": 457,
+        "pushed_at": "2026-10-09T02:52:48Z",
+        "updated_at": "2026-10-09T02:52:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8fafcc90e68c2010",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/BryceWG/BiBi-Keyboard",
+      "kind": "github_repository",
+      "name": "BryceWG/BiBi-Keyboard",
+      "url": "https://github.com/BryceWG/BiBi-Keyboard",
+      "provider": "GitHub",
+      "description": "说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用 An LLM ASR voice input method keyboard application for the Android platform based on Kotlin",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 823,
+        "forks": 60,
+        "pushed_at": "2026-10-09T02:47:17Z",
+        "updated_at": "2026-10-09T02:47:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "99ecbb40d8668145",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/uu201/character-arc",
+      "kind": "github_repository",
+      "name": "uu201/character-arc",
+      "url": "https://github.com/uu201/character-arc",
+      "provider": "GitHub",
+      "description": "CharacterArc(弧光) AI 小说创作应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 580,
+        "forks": 82,
+        "pushed_at": "2026-10-09T02:50:17Z",
+        "updated_at": "2026-10-09T02:50:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9575dd50f1f182cb",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/qunqin24/Pulse",
+      "kind": "github_repository",
+      "name": "qunqin24/Pulse",
+      "url": "https://github.com/qunqin24/Pulse",
+      "provider": "GitHub",
+      "description": "Know how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding tools you have left — a free, open-source macOS monitor on the edge of your screen.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 517,
+        "forks": 54,
+        "pushed_at": "2026-10-09T02:48:34Z",
+        "updated_at": "2026-10-09T02:48:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4dd59c3c4f86283a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/autotrust/GLM5.3-Flash-E224-DGX-Spark",
+      "kind": "hf_model",
+      "name": "autotrust/GLM5.3-Flash-E224-DGX-Spark",
+      "url": "https://huggingface.co/models/autotrust/GLM5.3-Flash-E224-DGX-Spark",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "autotrust",
+        "base_model:quantized:zai-org/glm-5.3-flash",
+        "base_model:zai-org/glm-5.3-flash",
+        "blackwell",
+        "conversational",
+        "dgx-spark",
+        "en",
+        "expert-pruned",
+        "gb10",
+        "glm5_next",
+        "image-text-to-text",
+        "license:mit",
+        "modelopt",
+        "moe",
+        "nvfp4",
+        "region:us",
+        "safetensors",
+        "vllm",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 5422,
+        "likes": 417,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "89523bee719e26f2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Fergana-Labs/stash",
+      "kind": "github_repository",
+      "name": "Fergana-Labs/stash",
+      "url": "https://github.com/Fergana-Labs/stash",
+      "provider": "GitHub",
+      "description": "Open-source infrastructure for agents that learn from experience. Capture production traces and turn lessons into reusable knowledge and skills.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 335,
+        "forks": 43,
+        "pushed_at": "2026-10-09T02:57:41Z",
+        "updated_at": "2026-10-09T02:57:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2f71b2fc66899324",
+        "novel": false,
+        "dedup_age_days": 85
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jin-bo/agentao",
+      "kind": "github_repository",
+      "name": "jin-bo/agentao",
+      "url": "https://github.com/jin-bo/agentao",
+      "provider": "GitHub",
+      "description": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 307,
+        "forks": 14,
+        "pushed_at": "2026-10-09T02:57:29Z",
+        "updated_at": "2026-10-09T02:57:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8eae3a2c93cdd2c7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pqpo/pragma",
+      "kind": "github_repository",
+      "name": "pqpo/pragma",
+      "url": "https://github.com/pqpo/pragma",
+      "provider": "GitHub",
+      "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows — then bring them into Codex, Claude Code, or any AI system you build. 构建跨 harness 和模型的可移植 Agent Team，共享记忆、技能、工具和工作流，一次构建，接入 Codex、Claude Code 或任何 AI 系统。",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 246,
+        "forks": 15,
+        "pushed_at": "2026-10-09T02:56:42Z",
+        "updated_at": "2026-10-09T02:56:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "97731ffceaece57b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/shaharia-lab/slackcli",
+      "kind": "github_repository",
+      "name": "shaharia-lab/slackcli",
+      "url": "https://github.com/shaharia-lab/slackcli",
+      "provider": "GitHub",
+      "description": "Slack CLI for humans and AI agents. Read, send, search and reply across one or many Slack workspaces from the terminal. No Slack app needed.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 230,
+        "forks": 53,
+        "pushed_at": "2026-10-09T02:04:59Z",
+        "updated_at": "2026-10-09T02:05:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1cce8df68d958a0f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/engasnm111/lnwjud",
+      "kind": "github_repository",
+      "name": "engasnm111/lnwjud",
+      "url": "https://github.com/engasnm111/lnwjud",
+      "provider": "GitHub",
+      "description": "lnwjud — local AI-agent runtime & MCP gateway",
+      "capability_tags": [
+        "ai-tools",
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 201,
+        "forks": 89,
+        "pushed_at": "2026-10-09T01:50:18Z",
+        "updated_at": "2026-10-09T01:48:53Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1fcfb7202df42012",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

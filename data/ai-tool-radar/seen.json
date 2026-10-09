@@ -210,7 +210,7 @@
       "fingerprint": "a6f35268706d8cff"
     },
     "github_repository:https://github.com/firecrawl/firecrawl": {
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-10-09",
       "fingerprint": "32401ba5aed008d7"
     },
     "github_repository:https://github.com/stablyai/orca": {
@@ -534,7 +534,7 @@
       "fingerprint": "d101fd521e603a9d"
     },
     "github_repository:https://github.com/Fergana-Labs/stash": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-10-09",
       "fingerprint": "2f71b2fc66899324"
     },
     "github_repository:https://github.com/mezmo/aura": {
@@ -1170,7 +1170,7 @@
       "fingerprint": "15a20427b068f124"
     },
     "github_repository:https://github.com/Zipstack/unstract": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-10-09",
       "fingerprint": "13d07eb2c6e8b798"
     },
     "github_repository:https://github.com/ballerine-io/ballerine": {
@@ -1234,7 +1234,7 @@
       "fingerprint": "24a7136ed8f10692"
     },
     "official_repository:https://github.com/openai/symphony": {
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-10-09",
       "fingerprint": "f0b3eeac9d1efc61"
     },
     "official_repository:https://github.com/huggingface/tokenizers": {
@@ -2014,7 +2014,7 @@
       "fingerprint": "64b5a82107be01c3"
     },
     "github_repository:https://github.com/Vexa-ai/vexa": {
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-10-09",
       "fingerprint": "2b70962195c4e21b"
     },
     "github_repository:https://github.com/dimastatz/whisper-flow": {
@@ -2862,7 +2862,7 @@
       "fingerprint": "879cd4befde80129"
     },
     "github_repository:https://github.com/Tencent/WeKnora": {
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-10-09",
       "fingerprint": "b408a21ed56bed53"
     },
     "github_repository:https://github.com/ZJU-REAL/Polaris": {
@@ -3082,7 +3082,7 @@
       "fingerprint": "7eafcaf7812a21c2"
     },
     "github_repository:https://github.com/PDFMathTranslate/PDFMathTranslate": {
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-10-09",
       "fingerprint": "a24b297a6c95a795"
     },
     "github_repository:https://github.com/aqm857886159/Nomi": {
@@ -3286,7 +3286,7 @@
       "fingerprint": "4688176e02323fbe"
     },
     "github_repository:https://github.com/uu201/character-arc": {
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-10-09",
       "fingerprint": "9575dd50f1f182cb"
     },
     "github_repository:https://github.com/kydlikebtc/awesome-grokbot": {
@@ -4428,6 +4428,38 @@
     "hf_model:https://huggingface.co/models/canberkkkkkk/ema-lightning": {
       "last_seen": "2026-10-08",
       "fingerprint": "8a1905415fc8a706"
+    },
+    "github_repository:https://github.com/qunqin24/Pulse": {
+      "last_seen": "2026-10-09",
+      "fingerprint": "4dd59c3c4f86283a"
+    },
+    "github_repository:https://github.com/shaharia-lab/slackcli": {
+      "last_seen": "2026-10-09",
+      "fingerprint": "1cce8df68d958a0f"
+    },
+    "github_repository:https://github.com/engasnm111/lnwjud": {
+      "last_seen": "2026-10-09",
+      "fingerprint": "1fcfb7202df42012"
+    },
+    "github_repository:https://github.com/BryceWG/BiBi-Keyboard": {
+      "last_seen": "2026-10-09",
+      "fingerprint": "99ecbb40d8668145"
+    },
+    "github_repository:https://github.com/jin-bo/agentao": {
+      "last_seen": "2026-10-09",
+      "fingerprint": "8eae3a2c93cdd2c7"
+    },
+    "github_repository:https://github.com/vmoranv/jshookmcp": {
+      "last_seen": "2026-10-09",
+      "fingerprint": "8fafcc90e68c2010"
+    },
+    "github_repository:https://github.com/pqpo/pragma": {
+      "last_seen": "2026-10-09",
+      "fingerprint": "97731ffceaece57b"
+    },
+    "hf_model:https://huggingface.co/models/autotrust/GLM5.3-Flash-E224-DGX-Spark": {
+      "last_seen": "2026-10-09",
+      "fingerprint": "89523bee719e26f2"
     }
   }
 }
