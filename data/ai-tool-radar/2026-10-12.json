@@ -1,0 +1,756 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T02:29:04.601972+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 26,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/open_asr_leaderboard",
+      "kind": "official_repository",
+      "name": "huggingface/open_asr_leaderboard",
+      "url": "https://github.com/huggingface/open_asr_leaderboard",
+      "provider": "huggingface",
+      "description": "",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 264,
+        "pushed_at": "2026-10-09T12:50:29Z",
+        "updated_at": "2026-10-12T02:13:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b8d93f564f94a967",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/farion1231/cc-switch",
+      "kind": "github_repository",
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "provider": "GitHub",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 142861,
+        "forks": 9515,
+        "pushed_at": "2026-10-12T01:59:28Z",
+        "updated_at": "2026-10-12T02:28:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "04e4312d3a4d50e6",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jeecgboot/JeecgBoot",
+      "kind": "github_repository",
+      "name": "jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "provider": "GitHub",
+      "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 48177,
+        "forks": 16212,
+        "pushed_at": "2026-10-12T02:11:38Z",
+        "updated_at": "2026-10-12T02:13:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a81a0295cb8d385f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/milvus-io/milvus",
+      "kind": "github_repository",
+      "name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "provider": "GitHub",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 46356,
+        "forks": 4288,
+        "pushed_at": "2026-10-12T02:13:56Z",
+        "updated_at": "2026-10-12T02:26:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cffd8fd5ceeb4756",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/codewhale-hq/Codewhale",
+      "kind": "github_repository",
+      "name": "codewhale-hq/Codewhale",
+      "url": "https://github.com/codewhale-hq/Codewhale",
+      "provider": "GitHub",
+      "description": "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 41073,
+        "forks": 3566,
+        "pushed_at": "2026-10-12T02:24:22Z",
+        "updated_at": "2026-10-12T02:24:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0b109be10880b627",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HKUDS/LightRAG",
+      "kind": "github_repository",
+      "name": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "provider": "GitHub",
+      "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 40068,
+        "forks": 5683,
+        "pushed_at": "2026-10-12T01:55:28Z",
+        "updated_at": "2026-10-12T01:55:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1397a8b3d4e67035",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mozilla-ai/llamafile",
+      "kind": "github_repository",
+      "name": "mozilla-ai/llamafile",
+      "url": "https://github.com/mozilla-ai/llamafile",
+      "provider": "GitHub",
+      "description": "Distribute and run LLMs with a single file.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 26224,
+        "forks": 1650,
+        "pushed_at": "2026-10-12T00:26:41Z",
+        "updated_at": "2026-10-12T02:10:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9a0a74e690def3a6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/k2-fsa/sherpa-onnx",
+      "kind": "github_repository",
+      "name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "provider": "GitHub",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 15225,
+        "forks": 1764,
+        "pushed_at": "2026-10-12T01:35:56Z",
+        "updated_at": "2026-10-12T01:36:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5ae8150dba8ab3fa",
+        "novel": false,
+        "dedup_age_days": 84
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rikkahub/rikkahub",
+      "kind": "github_repository",
+      "name": "rikkahub/rikkahub",
+      "url": "https://github.com/rikkahub/rikkahub",
+      "provider": "GitHub",
+      "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8131,
+        "forks": 759,
+        "pushed_at": "2026-10-12T02:28:24Z",
+        "updated_at": "2026-10-12T02:28:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fd1eefd4dac62672",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Lightricks/LTX-2.5",
+      "kind": "hf_model",
+      "name": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/models/Lightricks/LTX-2.5",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2601.03233",
+        "audio-to-audio",
+        "audio-to-video",
+        "comfyui",
+        "de",
+        "diffusion-single-file",
+        "en",
+        "es",
+        "fr",
+        "image-text-to-audio-video",
+        "image-text-to-video",
+        "image-to-audio-video",
+        "image-to-video",
+        "it",
+        "ja",
+        "ko",
+        "license:other",
+        "lightricks",
+        "ltx",
+        "ltx-2.5",
+        "ltx-video",
+        "pt",
+        "region:us",
+        "text-to-audio",
+        "text-to-audio-video",
+        "text-to-video",
+        "video-to-audio",
+        "video-to-video",
+        "zh"
+      ],
+      "input_output": "image-to-video -> inference result",
+      "signals": {
+        "downloads": 1726683,
+        "likes": 7326,
+        "updated_at": null,
+        "pipeline_tag": "image-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "865809ece42a1c9f",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vastsa/PI-Desktop",
+      "kind": "github_repository",
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "provider": "GitHub",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6668,
+        "forks": 620,
+        "pushed_at": "2026-10-12T02:24:43Z",
+        "updated_at": "2026-10-12T02:27:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3e4153ee0ff5d2bb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mg-chao/snow-apps",
+      "kind": "github_repository",
+      "name": "mg-chao/snow-apps",
+      "url": "https://github.com/mg-chao/snow-apps",
+      "provider": "GitHub",
+      "description": "Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5752,
+        "forks": 354,
+        "pushed_at": "2026-10-12T02:07:40Z",
+        "updated_at": "2026-10-12T02:07:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a7eafc190050eb95",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aipoch/open-science",
+      "kind": "github_repository",
+      "name": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "provider": "GitHub",
+      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5518,
+        "forks": 512,
+        "pushed_at": "2026-10-12T02:27:59Z",
+        "updated_at": "2026-10-12T02:28:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c3482f3fb725668f",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kirodotdev/KiroCrew",
+      "kind": "github_repository",
+      "name": "kirodotdev/KiroCrew",
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "provider": "GitHub",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4370,
+        "forks": 785,
+        "pushed_at": "2026-10-12T02:27:41Z",
+        "updated_at": "2026-10-12T02:27:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "200d7c21b2bbf6de",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
+      "kind": "github_repository",
+      "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+      "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
+      "provider": "GitHub",
+      "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, and Interview Coder. Real-time transcription, AI meeting notes, lecture recording, local RAG, BYOK, and stealth mode. Runs locally. No subscriptions. No data breaches.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2887,
+        "forks": 615,
+        "pushed_at": "2026-10-12T02:05:52Z",
+        "updated_at": "2026-10-12T01:39:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "206b024ad55c12aa",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hashgraph-online/hol-guard",
+      "kind": "github_repository",
+      "name": "hashgraph-online/hol-guard",
+      "url": "https://github.com/hashgraph-online/hol-guard",
+      "provider": "GitHub",
+      "description": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 852,
+        "forks": 150,
+        "pushed_at": "2026-10-12T02:27:00Z",
+        "updated_at": "2026-10-12T02:26:16Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "747d365b5a1712b4",
+        "novel": false,
+        "dedup_age_days": 61
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/junruxiong/IncarnaMind",
+      "kind": "github_repository",
+      "name": "junruxiong/IncarnaMind",
+      "url": "https://github.com/junruxiong/IncarnaMind",
+      "provider": "GitHub",
+      "description": "The AI notebook that checks its own citations. Ask your PDFs, Word, PowerPoint and Excel files and every answer cites the exact page, with the quote checked against it. Open-source desktop app for macOS, Windows and Linux; works with your ChatGPT plan, your own API key (Claude, GPT, DeepSeek…) or a local model via Ollama.",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 804,
+        "forks": 55,
+        "pushed_at": "2026-10-12T02:26:49Z",
+        "updated_at": "2026-10-12T02:25:29Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "10e02e76c992640b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Qwen/Qwen-Image-2.1-Turbo",
+      "kind": "hf_model",
+      "name": "Qwen/Qwen-Image-2.1-Turbo",
+      "url": "https://huggingface.co/models/Qwen/Qwen-Image-2.1-Turbo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:finetune:qwen/qwen-image-2.1",
+        "base_model:qwen/qwen-image-2.1",
+        "diffusers",
+        "diffusers:qwenimage21pipeline",
+        "image-editing",
+        "image-generation",
+        "license:other",
+        "qwen",
+        "region:us",
+        "safetensors",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 4702,
+        "likes": 545,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "756846462164a16c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JungHoonGhae/tossinvest-cli",
+      "kind": "github_repository",
+      "name": "JungHoonGhae/tossinvest-cli",
+      "url": "https://github.com/JungHoonGhae/tossinvest-cli",
+      "provider": "GitHub",
+      "description": "공식 API에 없는 30+ 기능까지, 터미널과 AI에서 쓰세요. 토스증권 비공식 CLI·MCP.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 515,
+        "forks": 82,
+        "pushed_at": "2026-10-12T02:28:14Z",
+        "updated_at": "2026-10-12T02:28:18Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "83354df3f9053ae9",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "kind": "hf_model",
+      "name": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "url": "https://huggingface.co/models/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "2-bit",
+        "agents",
+        "base_model:ista-daslab/qwen3.8-27b-gsq-rco-gguf",
+        "base_model:quantized:ista-daslab/qwen3.8-27b-gsq-rco-gguf",
+        "conversational",
+        "en",
+        "endpoints_compatible",
+        "function-calling",
+        "gguf",
+        "imatrix",
+        "license:apache-2.0",
+        "llama.cpp",
+        "qwen3.8",
+        "region:us",
+        "text-generation",
+        "tool-calling"
+      ],
+      "input_output": "text-generation -> inference result",
+      "signals": {
+        "downloads": 108900,
+        "likes": 324,
+        "updated_at": null,
+        "pipeline_tag": "text-generation"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cd5dddc63e4ffe64",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/LiquidAI/d1-3B",
+      "kind": "hf_model",
+      "name": "LiquidAI/d1-3B",
+      "url": "https://huggingface.co/models/LiquidAI/d1-3B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "ar",
+        "arxiv:2511.23404",
+        "base_model:finetune:liquidai/lfm2.5-vl-3b",
+        "base_model:liquidai/lfm2.5-vl-3b",
+        "calibration",
+        "classification",
+        "conversational",
+        "custom_code",
+        "de",
+        "decision",
+        "decision-model",
+        "edge",
+        "en",
+        "endpoints_compatible",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "image-text-to-text",
+        "it",
+        "ja",
+        "ko",
+        "lfm2.5",
+        "lfm2_vl",
+        "license:other",
+        "liquid",
+        "multimodal",
+        "pl",
+        "pt",
+        "region:us",
+        "ru",
+        "safetensors",
+        "system-one",
+        "th",
+        "transformers",
+        "vi",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 10843,
+        "likes": 300,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7146867a1778d33a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/island-io/mila",
+      "kind": "github_repository",
+      "name": "island-io/mila",
+      "url": "https://github.com/island-io/mila",
+      "provider": "GitHub",
+      "description": "Mila — native macOS local transcription app (whisper.cpp) with optional speaker diarization. Apache-2.0.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 237,
+        "forks": 28,
+        "pushed_at": "2026-10-12T00:54:25Z",
+        "updated_at": "2026-10-12T00:46:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2f62ce4524256a10",
+        "novel": false,
+        "dedup_age_days": 77
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nirholas/three.ws",
+      "kind": "github_repository",
+      "name": "nirholas/three.ws",
+      "url": "https://github.com/nirholas/three.ws",
+      "provider": "GitHub",
+      "description": "Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain, memory and a wallet, and embed it anywhere with one web component. Remote MCP server, x402 payments, Three.js, browser-native.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 231,
+        "forks": 63,
+        "pushed_at": "2026-10-12T02:28:46Z",
+        "updated_at": "2026-10-12T02:28:50Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "acf579c810218a1f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JeanExtreme002/PyMemoryEditor",
+      "kind": "github_repository",
+      "name": "JeanExtreme002/PyMemoryEditor",
+      "url": "https://github.com/JeanExtreme002/PyMemoryEditor",
+      "provider": "GitHub",
+      "description": "A pure-Python library that lets you inspect, modify and search the memory of any running process in a few lines of Python :snake: .",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 223,
+        "forks": 32,
+        "pushed_at": "2026-10-12T02:25:38Z",
+        "updated_at": "2026-10-12T02:18:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e0154adc20f685e4",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/deegerwalker/qwen-image-2.1-uncensored-gguf",
+      "kind": "hf_space",
+      "name": "deegerwalker/qwen-image-2.1-uncensored-gguf",
+      "url": "https://huggingface.co/spaces/deegerwalker/qwen-image-2.1-uncensored-gguf",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 53,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5d77c58bf3b1662e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/webml-community/embeddinggemma-2-webgpu",
+      "kind": "hf_space",
+      "name": "webml-community/embeddinggemma-2-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/embeddinggemma-2-webgpu",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "region:us",
+        "static"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 48,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "27987fd0ae71b070",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

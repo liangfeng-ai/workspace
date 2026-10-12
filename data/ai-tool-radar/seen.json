@@ -366,7 +366,7 @@
       "fingerprint": "df0dce32dc4c60c2"
     },
     "github_repository:https://github.com/milvus-io/milvus": {
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-10-12",
       "fingerprint": "cffd8fd5ceeb4756"
     },
     "github_repository:https://github.com/Agent-Field/agentfield": {
@@ -690,7 +690,7 @@
       "fingerprint": "11ff0e91d9d23066"
     },
     "github_repository:https://github.com/HKUDS/LightRAG": {
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-10-12",
       "fingerprint": "1397a8b3d4e67035"
     },
     "github_repository:https://github.com/Graphify-Labs/graphify": {
@@ -778,7 +778,7 @@
       "fingerprint": "67d2b7a7355f5ca3"
     },
     "github_repository:https://github.com/k2-fsa/sherpa-onnx": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-10-12",
       "fingerprint": "5ae8150dba8ab3fa"
     },
     "github_repository:https://github.com/handy-computer/transcribe.cpp": {
@@ -934,7 +934,7 @@
       "fingerprint": "da7928dfecbbaa82"
     },
     "github_repository:https://github.com/aipoch/open-science": {
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-10-12",
       "fingerprint": "c3482f3fb725668f"
     },
     "github_repository:https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine": {
@@ -1270,7 +1270,7 @@
       "fingerprint": "8000207f2e5350d3"
     },
     "github_repository:https://github.com/island-io/mila": {
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-10-12",
       "fingerprint": "2f62ce4524256a10"
     },
     "github_repository:https://github.com/vshulcz/deja-vu": {
@@ -1522,7 +1522,7 @@
       "fingerprint": "5bb0dda3caaed67f"
     },
     "github_repository:https://github.com/JungHoonGhae/tossinvest-cli": {
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-10-12",
       "fingerprint": "83354df3f9053ae9"
     },
     "github_repository:https://github.com/mongodb-developer/GenAI-Showcase": {
@@ -1838,7 +1838,7 @@
       "fingerprint": "355d7d228aec0d25"
     },
     "github_repository:https://github.com/kirodotdev/KiroCrew": {
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-10-12",
       "fingerprint": "200d7c21b2bbf6de"
     },
     "github_repository:https://github.com/memgraph/memgraph": {
@@ -2086,7 +2086,7 @@
       "fingerprint": "968bad9b24271c73"
     },
     "github_repository:https://github.com/mg-chao/snow-apps": {
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-10-12",
       "fingerprint": "a7eafc190050eb95"
     },
     "github_repository:https://github.com/getopenscreen/openscreen": {
@@ -2174,7 +2174,7 @@
       "fingerprint": "a3e4c795b833c03e"
     },
     "github_repository:https://github.com/hashgraph-online/hol-guard": {
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-10-12",
       "fingerprint": "747d365b5a1712b4"
     },
     "github_repository:https://github.com/ag-ui-protocol/ag-ui": {
@@ -2198,7 +2198,7 @@
       "fingerprint": "e211c14b70958f65"
     },
     "hf_model:https://huggingface.co/models/Lightricks/LTX-2.5": {
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-10-12",
       "fingerprint": "865809ece42a1c9f"
     },
     "github_repository:https://github.com/liaohch3/claude-tap": {
@@ -3354,7 +3354,7 @@
       "fingerprint": "198ae8990c125759"
     },
     "github_repository:https://github.com/JeanExtreme002/PyMemoryEditor": {
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-10-12",
       "fingerprint": "e0154adc20f685e4"
     },
     "github_repository:https://github.com/UB-Mannheim/zotero-ocr": {
@@ -3442,7 +3442,7 @@
       "fingerprint": "a2b4479903cc1b85"
     },
     "github_repository:https://github.com/farion1231/cc-switch": {
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-10-12",
       "fingerprint": "04e4312d3a4d50e6"
     },
     "github_repository:https://github.com/rockbenben/ChatGPT-Shortcut": {
@@ -4460,6 +4460,62 @@
     "hf_model:https://huggingface.co/models/autotrust/GLM5.3-Flash-E224-DGX-Spark": {
       "last_seen": "2026-10-09",
       "fingerprint": "89523bee719e26f2"
+    },
+    "github_repository:https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "206b024ad55c12aa"
+    },
+    "github_repository:https://github.com/mozilla-ai/llamafile": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "9a0a74e690def3a6"
+    },
+    "github_repository:https://github.com/nirholas/three.ws": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "acf579c810218a1f"
+    },
+    "github_repository:https://github.com/rikkahub/rikkahub": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "fd1eefd4dac62672"
+    },
+    "github_repository:https://github.com/junruxiong/IncarnaMind": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "10e02e76c992640b"
+    },
+    "github_repository:https://github.com/vastsa/PI-Desktop": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "3e4153ee0ff5d2bb"
+    },
+    "github_repository:https://github.com/codewhale-hq/Codewhale": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "0b109be10880b627"
+    },
+    "github_repository:https://github.com/jeecgboot/JeecgBoot": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "a81a0295cb8d385f"
+    },
+    "official_repository:https://github.com/huggingface/open_asr_leaderboard": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "b8d93f564f94a967"
+    },
+    "hf_model:https://huggingface.co/models/Qwen/Qwen-Image-2.1-Turbo": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "756846462164a16c"
+    },
+    "hf_model:https://huggingface.co/models/ConwayResearch/Underdog-Saluki-27B-1.0": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "cd5dddc63e4ffe64"
+    },
+    "hf_model:https://huggingface.co/models/LiquidAI/d1-3B": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "7146867a1778d33a"
+    },
+    "hf_space:https://huggingface.co/spaces/webml-community/embeddinggemma-2-webgpu": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "27987fd0ae71b070"
+    },
+    "hf_space:https://huggingface.co/spaces/deegerwalker/qwen-image-2.1-uncensored-gguf": {
+      "last_seen": "2026-10-12",
+      "fingerprint": "5d77c58bf3b1662e"
     }
   }
 }
