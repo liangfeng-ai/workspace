@@ -762,7 +762,7 @@
       "fingerprint": "de28a185635212eb"
     },
     "github_repository:https://github.com/dataelement/bisheng": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-13",
       "fingerprint": "9db5959cebfc0b92"
     },
     "github_repository:https://github.com/garylab/MakeMoneyWithAI": {
@@ -1278,7 +1278,7 @@
       "fingerprint": "b0df11b730d993b4"
     },
     "github_repository:https://github.com/neomjs/neo": {
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-10-13",
       "fingerprint": "79c1b299dfe6a2b1"
     },
     "github_repository:https://github.com/vinkius-labs/mcpfusion": {
@@ -1730,7 +1730,7 @@
       "fingerprint": "265c39483253d416"
     },
     "github_repository:https://github.com/rlaope/oh-my-hermes": {
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-10-13",
       "fingerprint": "170165e9b104a9f9"
     },
     "github_repository:https://github.com/mobile-next/mobilecli": {
@@ -1882,7 +1882,7 @@
       "fingerprint": "7b907c0fafdf572a"
     },
     "github_repository:https://github.com/Open-Less/openless": {
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-10-13",
       "fingerprint": "964f6828aa299980"
     },
     "github_repository:https://github.com/deepgram/deepgram-js-sdk": {
@@ -2778,7 +2778,7 @@
       "fingerprint": "151da1036b33b3f5"
     },
     "github_repository:https://github.com/lemonade-sdk/lemonade": {
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-10-13",
       "fingerprint": "2f5c9e61ed072c3e"
     },
     "github_repository:https://github.com/Classic298/open-webui-plugins": {
@@ -3006,7 +3006,7 @@
       "fingerprint": "b01495460b911596"
     },
     "github_repository:https://github.com/yyjeqhc/webcodex": {
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-10-13",
       "fingerprint": "7e3d2cbb0f70b08a"
     },
     "github_repository:https://github.com/fancyboi999/ai-engineering-from-scratch-zh": {
@@ -3166,7 +3166,7 @@
       "fingerprint": "d7a4297295b8f76a"
     },
     "github_repository:https://github.com/tinyhumansai/openhuman": {
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-10-13",
       "fingerprint": "ccae742f6b78f247"
     },
     "github_repository:https://github.com/jentic/jentic-public-apis": {
@@ -3214,7 +3214,7 @@
       "fingerprint": "3cf513bd939c9a4c"
     },
     "official_repository:https://github.com/huggingface/lighteval": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-13",
       "fingerprint": "045a7cd6f58b6b66"
     },
     "official_repository:https://github.com/huggingface/datatrove": {
@@ -3418,7 +3418,7 @@
       "fingerprint": "ebafbfc3f1bf29bc"
     },
     "github_repository:https://github.com/xberg-io/html-to-markdown": {
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-10-13",
       "fingerprint": "680ed56bae91abca"
     },
     "github_repository:https://github.com/Bytedesk/bytedesk": {
@@ -4516,6 +4516,58 @@
     "hf_space:https://huggingface.co/spaces/deegerwalker/qwen-image-2.1-uncensored-gguf": {
       "last_seen": "2026-10-12",
       "fingerprint": "5d77c58bf3b1662e"
+    },
+    "github_repository:https://github.com/paperclipai/paperclip": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "7ec7752c59b3fda3"
+    },
+    "github_repository:https://github.com/skillsgate/skillsgate": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "bad2577007078ecc"
+    },
+    "github_repository:https://github.com/TalAter/annyang": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "716030ef23f9c50d"
+    },
+    "github_repository:https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "2737c921a917610a"
+    },
+    "github_repository:https://github.com/irinabuht12-oss/marketing-skills": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "29cb34f2c68ac5ef"
+    },
+    "github_repository:https://github.com/off-grid-ai/OGAM": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "7e4277ca8f7974a7"
+    },
+    "github_repository:https://github.com/browseros-ai/BrowserOS": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "9cb16b0802b962c3"
+    },
+    "github_repository:https://github.com/guardana/guardana": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "9446449cce9c2fd6"
+    },
+    "github_repository:https://github.com/kamjin3086/chatless": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "89a3323ff3194d19"
+    },
+    "github_repository:https://github.com/loopx-project/loopx": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "ae91d6270e0b9100"
+    },
+    "github_repository:https://github.com/powerfooI/roamgate": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "dc3271e5382449f5"
+    },
+    "official_repository:https://github.com/huggingface/nanotron": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "85b1244453451f14"
+    },
+    "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Uncensored-Quantized": {
+      "last_seen": "2026-10-13",
+      "fingerprint": "c985642f1d98491d"
     }
   }
 }

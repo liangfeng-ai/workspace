@@ -1,0 +1,579 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T03:38:01.332557+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 22,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/nanotron",
+      "kind": "official_repository",
+      "name": "huggingface/nanotron",
+      "url": "https://github.com/huggingface/nanotron",
+      "provider": "huggingface",
+      "description": "Minimalistic large language model 3D-parallelism training",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2839,
+        "pushed_at": "2026-10-08T08:18:54Z",
+        "updated_at": "2026-10-13T03:36:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "85b1244453451f14",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/lighteval",
+      "kind": "official_repository",
+      "name": "huggingface/lighteval",
+      "url": "https://github.com/huggingface/lighteval",
+      "provider": "huggingface",
+      "description": "Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2554,
+        "pushed_at": "2026-10-06T09:36:52Z",
+        "updated_at": "2026-10-13T03:30:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "045a7cd6f58b6b66",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/paperclipai/paperclip",
+      "kind": "github_repository",
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "provider": "GitHub",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 101042,
+        "forks": 16980,
+        "pushed_at": "2026-10-13T03:34:54Z",
+        "updated_at": "2026-10-13T03:37:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7ec7752c59b3fda3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tinyhumansai/openhuman",
+      "kind": "github_repository",
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "provider": "GitHub",
+      "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 41922,
+        "forks": 4125,
+        "pushed_at": "2026-10-13T03:36:22Z",
+        "updated_at": "2026-10-13T03:36:28Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ccae742f6b78f247",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/browseros-ai/BrowserOS",
+      "kind": "github_repository",
+      "name": "browseros-ai/BrowserOS",
+      "url": "https://github.com/browseros-ai/BrowserOS",
+      "provider": "GitHub",
+      "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 13887,
+        "forks": 1489,
+        "pushed_at": "2026-10-13T03:37:04Z",
+        "updated_at": "2026-10-13T03:37:07Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9cb16b0802b962c3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dataelement/bisheng",
+      "kind": "github_repository",
+      "name": "dataelement/bisheng",
+      "url": "https://github.com/dataelement/bisheng",
+      "provider": "GitHub",
+      "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12040,
+        "forks": 1978,
+        "pushed_at": "2026-10-13T03:15:12Z",
+        "updated_at": "2026-10-13T03:11:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9db5959cebfc0b92",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/TalAter/annyang",
+      "kind": "github_repository",
+      "name": "TalAter/annyang",
+      "url": "https://github.com/TalAter/annyang",
+      "provider": "GitHub",
+      "description": "💬 Speech recognition for your site",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6818,
+        "forks": 1045,
+        "pushed_at": "2026-10-13T02:01:59Z",
+        "updated_at": "2026-10-13T02:44:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "716030ef23f9c50d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/loopx-project/loopx",
+      "kind": "github_repository",
+      "name": "loopx-project/loopx",
+      "url": "https://github.com/loopx-project/loopx",
+      "provider": "GitHub",
+      "description": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6266,
+        "forks": 597,
+        "pushed_at": "2026-10-13T03:37:54Z",
+        "updated_at": "2026-10-13T03:37:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ae91d6270e0b9100",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lemonade-sdk/lemonade",
+      "kind": "github_repository",
+      "name": "lemonade-sdk/lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "provider": "GitHub",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5880,
+        "forks": 527,
+        "pushed_at": "2026-10-13T03:35:25Z",
+        "updated_at": "2026-10-13T03:35:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2f5c9e61ed072c3e",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "kind": "github_repository",
+      "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "provider": "GitHub",
+      "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5201,
+        "forks": 367,
+        "pushed_at": "2026-10-13T03:37:44Z",
+        "updated_at": "2026-10-13T03:37:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2737c921a917610a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/irinabuht12-oss/marketing-skills",
+      "kind": "github_repository",
+      "name": "irinabuht12-oss/marketing-skills",
+      "url": "https://github.com/irinabuht12-oss/marketing-skills",
+      "provider": "GitHub",
+      "description": "Claude skills for marketing: 49 free marketing skills for Claude Code and claude.ai (Google Ads, Meta Ads, SEO, AI visibility) + the Ryze Google Ads MCP / Meta Ads MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4398,
+        "forks": 554,
+        "pushed_at": "2026-10-13T03:37:43Z",
+        "updated_at": "2026-10-13T03:37:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "29cb34f2c68ac5ef",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "kind": "hf_model",
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:quantized:qwen/qwen-image-2.1",
+        "base_model:qwen/qwen-image-2.1",
+        "comfyui",
+        "comfyui-gguf",
+        "fp8",
+        "gguf",
+        "image-generation",
+        "license:other",
+        "mlx",
+        "nvfp4",
+        "qwen",
+        "region:us",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 2188658,
+        "likes": 4108,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c985642f1d98491d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Open-Less/openless",
+      "kind": "github_repository",
+      "name": "Open-Less/openless",
+      "url": "https://github.com/Open-Less/openless",
+      "provider": "GitHub",
+      "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3797,
+        "forks": 356,
+        "pushed_at": "2026-10-13T03:06:19Z",
+        "updated_at": "2026-10-13T03:06:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "964f6828aa299980",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rlaope/oh-my-hermes",
+      "kind": "github_repository",
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "provider": "GitHub",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3352,
+        "forks": 248,
+        "pushed_at": "2026-10-13T03:11:28Z",
+        "updated_at": "2026-10-13T03:33:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "170165e9b104a9f9",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/neomjs/neo",
+      "kind": "github_repository",
+      "name": "neomjs/neo",
+      "url": "https://github.com/neomjs/neo",
+      "provider": "GitHub",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3291,
+        "forks": 248,
+        "pushed_at": "2026-10-13T03:37:06Z",
+        "updated_at": "2026-10-13T03:29:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "79c1b299dfe6a2b1",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/off-grid-ai/OGAM",
+      "kind": "github_repository",
+      "name": "off-grid-ai/OGAM",
+      "url": "https://github.com/off-grid-ai/OGAM",
+      "provider": "GitHub",
+      "description": "The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text, Stable Diffusion, tool calling, and local-network servers. Runs on your CPU, GPU, or NPU. No account, no API key, zero data leaves your device.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3235,
+        "forks": 312,
+        "pushed_at": "2026-10-13T03:37:22Z",
+        "updated_at": "2026-10-13T03:37:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7e4277ca8f7974a7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yyjeqhc/webcodex",
+      "kind": "github_repository",
+      "name": "yyjeqhc/webcodex",
+      "url": "https://github.com/yyjeqhc/webcodex",
+      "provider": "GitHub",
+      "description": "Give cloud AI agents a real development environment on your own machines.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2272,
+        "forks": 304,
+        "pushed_at": "2026-10-13T03:36:38Z",
+        "updated_at": "2026-10-13T03:36:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7e3d2cbb0f70b08a",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/skillsgate/skillsgate",
+      "kind": "github_repository",
+      "name": "skillsgate/skillsgate",
+      "url": "https://github.com/skillsgate/skillsgate",
+      "provider": "GitHub",
+      "description": "",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1379,
+        "forks": 84,
+        "pushed_at": "2026-10-13T02:58:17Z",
+        "updated_at": "2026-10-13T02:58:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bad2577007078ecc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xberg-io/html-to-markdown",
+      "kind": "github_repository",
+      "name": "xberg-io/html-to-markdown",
+      "url": "https://github.com/xberg-io/html-to-markdown",
+      "provider": "GitHub",
+      "description": "High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 98+ document formats using streaming parsers and built-in OCR.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 881,
+        "forks": 74,
+        "pushed_at": "2026-10-13T03:31:05Z",
+        "updated_at": "2026-10-13T03:31:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "680ed56bae91abca",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kamjin3086/chatless",
+      "kind": "github_repository",
+      "name": "kamjin3086/chatless",
+      "url": "https://github.com/kamjin3086/chatless",
+      "provider": "GitHub",
+      "description": "💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写 A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 301,
+        "forks": 43,
+        "pushed_at": "2026-10-13T03:32:11Z",
+        "updated_at": "2026-10-13T03:31:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "89a3323ff3194d19",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/powerfooI/roamgate",
+      "kind": "github_repository",
+      "name": "powerfooI/roamgate",
+      "url": "https://github.com/powerfooI/roamgate",
+      "provider": "GitHub",
+      "description": "A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 292,
+        "forks": 35,
+        "pushed_at": "2026-10-13T03:35:59Z",
+        "updated_at": "2026-10-13T03:36:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dc3271e5382449f5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/guardana/guardana",
+      "kind": "github_repository",
+      "name": "guardana/guardana",
+      "url": "https://github.com/guardana/guardana",
+      "provider": "GitHub",
+      "description": "Open-source AI security verification for model artifacts, live endpoints, MCP servers, and recorded agent traces. Reproducible evidence for release decisions.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 272,
+        "forks": 13,
+        "pushed_at": "2026-10-13T03:37:19Z",
+        "updated_at": "2026-10-13T03:36:41Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9446449cce9c2fd6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
