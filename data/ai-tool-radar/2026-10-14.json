@@ -1,0 +1,888 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T01:58:46.338928+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 34,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/codex",
+      "kind": "official_repository",
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "provider": "openai",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 129056,
+        "pushed_at": "2026-10-14T01:50:12Z",
+        "updated_at": "2026-10-14T01:52:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dac02e4c63100563",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/mistral-vibe",
+      "kind": "official_repository",
+      "name": "mistralai/mistral-vibe",
+      "url": "https://github.com/mistralai/mistral-vibe",
+      "provider": "mistralai",
+      "description": "Minimal CLI coding agent by Mistral",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 5116,
+        "pushed_at": "2026-10-09T14:56:56Z",
+        "updated_at": "2026-10-13T22:24:35Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "edcf512a3a9ed1a9",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/diffusion-models-class",
+      "kind": "official_repository",
+      "name": "huggingface/diffusion-models-class",
+      "url": "https://github.com/huggingface/diffusion-models-class",
+      "provider": "huggingface",
+      "description": "Materials for the Hugging Face Diffusion Models Course",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 4375,
+        "pushed_at": "2026-10-06T09:23:18Z",
+        "updated_at": "2026-10-14T01:56:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8b4b6146f91d1f47",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/funes",
+      "kind": "official_repository",
+      "name": "huggingface/funes",
+      "url": "https://github.com/huggingface/funes",
+      "provider": "huggingface",
+      "description": "Durable, searchable memory of your past agent sessions.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 559,
+        "pushed_at": "2026-10-13T14:35:42Z",
+        "updated_at": "2026-10-14T01:58:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0253bf6e213719f7",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "official_reference:https://console.groq.com/docs/speech-to-text",
+      "kind": "official_reference",
+      "name": "Groq Speech-to-Text",
+      "url": "https://console.groq.com/docs/speech-to-text",
+      "provider": "Groq",
+      "description": "Official speech transcription and translation API documentation.",
+      "capability_tags": [
+        "asr",
+        "audio-chunking",
+        "speech-to-text",
+        "transcription"
+      ],
+      "input_output": "Audio -> text, verbose JSON, segment or word timestamps",
+      "signals": {
+        "authority": "official",
+        "updated_at": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5bd9b7b6f01ac268",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_reference:https://huggingface.co/docs/huggingface_hub/guides/search",
+      "kind": "official_reference",
+      "name": "Hugging Face Hub Search",
+      "url": "https://huggingface.co/docs/huggingface_hub/guides/search",
+      "provider": "Hugging Face",
+      "description": "Official Hub search and filtering documentation.",
+      "capability_tags": [
+        "inference",
+        "models",
+        "search",
+        "spaces"
+      ],
+      "input_output": "Task filters -> model, dataset, or Space candidates",
+      "signals": {
+        "authority": "official",
+        "updated_at": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9f902fe83c066dbd",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_reference:https://docs.mistral.ai/studio-api/document-processing/basic_ocr",
+      "kind": "official_reference",
+      "name": "Mistral Document AI OCR",
+      "url": "https://docs.mistral.ai/studio-api/document-processing/basic_ocr",
+      "provider": "Mistral AI",
+      "description": "Official OCR documentation for structured PDF and image extraction.",
+      "capability_tags": [
+        "document-ai",
+        "ocr",
+        "structured-extraction"
+      ],
+      "input_output": "PDF or image -> Markdown, tables, images, links, blocks, confidence scores",
+      "signals": {
+        "authority": "official",
+        "updated_at": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "555413e54238b570",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_reference:https://github.com/openai/openai-cookbook",
+      "kind": "official_reference",
+      "name": "OpenAI Cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "provider": "OpenAI",
+      "description": "Official API examples and implementation patterns.",
+      "capability_tags": [
+        "agents",
+        "api",
+        "sdk",
+        "structured-output"
+      ],
+      "input_output": "Task input -> API example and inspectable output",
+      "signals": {
+        "authority": "official",
+        "updated_at": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8dbe68e7e462eff0",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cjpais/Handy",
+      "kind": "github_repository",
+      "name": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "provider": "GitHub",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 33700,
+        "forks": 3151,
+        "pushed_at": "2026-10-14T00:36:52Z",
+        "updated_at": "2026-10-14T01:32:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "99dfca28439d8179",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mksglu/context-mode",
+      "kind": "github_repository",
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "provider": "GitHub",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 28285,
+        "forks": 1995,
+        "pushed_at": "2026-10-14T01:57:23Z",
+        "updated_at": "2026-10-14T01:58:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "122d28732d994b4e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/elizaOS/eliza",
+      "kind": "github_repository",
+      "name": "elizaOS/eliza",
+      "url": "https://github.com/elizaOS/eliza",
+      "provider": "GitHub",
+      "description": "Open source agentic operating system",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 19593,
+        "forks": 5807,
+        "pushed_at": "2026-10-14T01:58:05Z",
+        "updated_at": "2026-10-14T01:50:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "803de3d27a0383d6",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/open-metadata/OpenMetadata",
+      "kind": "github_repository",
+      "name": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "provider": "GitHub",
+      "description": "The Open Context Layer for Data and AI , OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 15470,
+        "forks": 2451,
+        "pushed_at": "2026-10-14T01:57:13Z",
+        "updated_at": "2026-10-14T01:57:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0db415575955c2f6",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/OpenWhispr/openwhispr",
+      "kind": "github_repository",
+      "name": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "provider": "GitHub",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 9364,
+        "forks": 1170,
+        "pushed_at": "2026-10-13T23:54:14Z",
+        "updated_at": "2026-10-14T01:45:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "124ead8d0c7fe936",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CursorTouch/Windows-MCP",
+      "kind": "github_repository",
+      "name": "CursorTouch/Windows-MCP",
+      "url": "https://github.com/CursorTouch/Windows-MCP",
+      "provider": "GitHub",
+      "description": "MCP Server for Computer Use in Windows",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8899,
+        "forks": 965,
+        "pushed_at": "2026-10-14T01:57:29Z",
+        "updated_at": "2026-10-14T01:57:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3db4a7b335398986",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zai-org/GLM-OCR",
+      "kind": "github_repository",
+      "name": "zai-org/GLM-OCR",
+      "url": "https://github.com/zai-org/GLM-OCR",
+      "provider": "GitHub",
+      "description": "GLM-OCR: Accurate × Fast × Comprehensive",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7504,
+        "forks": 671,
+        "pushed_at": "2026-10-14T01:46:03Z",
+        "updated_at": "2026-10-14T01:46:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dc328736244f416d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Q00/ouroboros",
+      "kind": "github_repository",
+      "name": "Q00/ouroboros",
+      "url": "https://github.com/Q00/ouroboros",
+      "provider": "GitHub",
+      "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6215,
+        "forks": 627,
+        "pushed_at": "2026-10-14T01:56:48Z",
+        "updated_at": "2026-10-14T01:56:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "367e1b588430ff19",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JabRef/jabref",
+      "kind": "github_repository",
+      "name": "JabRef/jabref",
+      "url": "https://github.com/JabRef/jabref",
+      "provider": "GitHub",
+      "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4806,
+        "forks": 3647,
+        "pushed_at": "2026-10-13T23:50:27Z",
+        "updated_at": "2026-10-13T23:50:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "900bd839a606029c",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/gptme/gptme",
+      "kind": "github_repository",
+      "name": "gptme/gptme",
+      "url": "https://github.com/gptme/gptme",
+      "provider": "GitHub",
+      "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4448,
+        "forks": 450,
+        "pushed_at": "2026-10-14T01:58:27Z",
+        "updated_at": "2026-10-14T01:55:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7736b440aff007f2",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/EthanYoQ/AI-Novel-Writer",
+      "kind": "github_repository",
+      "name": "EthanYoQ/AI-Novel-Writer",
+      "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
+      "provider": "GitHub",
+      "description": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1455,
+        "forks": 172,
+        "pushed_at": "2026-10-14T01:52:10Z",
+        "updated_at": "2026-10-14T01:53:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "72e477465eb5c6ba",
+        "novel": false,
+        "dedup_age_days": 51
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lzhgus/Capso",
+      "kind": "github_repository",
+      "name": "lzhgus/Capso",
+      "url": "https://github.com/lzhgus/Capso",
+      "provider": "GitHub",
+      "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1398,
+        "forks": 82,
+        "pushed_at": "2026-10-14T01:54:48Z",
+        "updated_at": "2026-10-14T01:54:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "888c7cf8ba26c387",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Capsize-Games/airunner",
+      "kind": "github_repository",
+      "name": "Capsize-Games/airunner",
+      "url": "https://github.com/Capsize-Games/airunner",
+      "provider": "GitHub",
+      "description": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1319,
+        "forks": 104,
+        "pushed_at": "2026-10-14T00:44:06Z",
+        "updated_at": "2026-10-14T00:44:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b8c7b7567447f684",
+        "novel": false,
+        "dedup_age_days": 57
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/superiorlu/AITreasureBox",
+      "kind": "github_repository",
+      "name": "superiorlu/AITreasureBox",
+      "url": "https://github.com/superiorlu/AITreasureBox",
+      "provider": "GitHub",
+      "description": "🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 873,
+        "forks": 124,
+        "pushed_at": "2026-10-14T00:50:08Z",
+        "updated_at": "2026-10-14T00:50:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2ff255a277be7d91",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/IncarnaMind/IncarnaMind",
+      "kind": "github_repository",
+      "name": "IncarnaMind/IncarnaMind",
+      "url": "https://github.com/IncarnaMind/IncarnaMind",
+      "provider": "GitHub",
+      "description": "IncarnaMind is a free, open-source desktop app for macOS, Windows and Linux where you ask questions about your own documents (PDF, Word, PowerPoint, Excel and more) and write with AI. Every answer cites the exact page, and IncarnaMind checks that each quoted passage is really there.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 808,
+        "forks": 56,
+        "pushed_at": "2026-10-14T01:56:16Z",
+        "updated_at": "2026-10-14T01:56:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9f790ce64d5cd36b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Picovoice/cheetah",
+      "kind": "github_repository",
+      "name": "Picovoice/cheetah",
+      "url": "https://github.com/Picovoice/cheetah",
+      "provider": "GitHub",
+      "description": "On-device streaming speech-to-text engine powered by deep learning",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 670,
+        "forks": 78,
+        "pushed_at": "2026-10-14T00:23:25Z",
+        "updated_at": "2026-10-14T00:21:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7a3042ed36cba804",
+        "novel": false,
+        "dedup_age_days": 84
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/openbmb/MiniCPM-V-4.7-35B-A3B",
+      "kind": "hf_model",
+      "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "url": "https://huggingface.co/models/openbmb/MiniCPM-V-4.7-35B-A3B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "conversational",
+        "endpoints_compatible",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "lightweight",
+        "minicpm-v",
+        "minicpmv4_7",
+        "moe",
+        "multimodal",
+        "on-device model",
+        "region:us",
+        "safetensors",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 630,
+        "likes": 468,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8224fc928e8712bb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Arvo-AI/aurora",
+      "kind": "github_repository",
+      "name": "Arvo-AI/aurora",
+      "url": "https://github.com/Arvo-AI/aurora",
+      "provider": "GitHub",
+      "description": "Aurora — Open source AI-powered agentic incident management & root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 432,
+        "forks": 78,
+        "pushed_at": "2026-10-14T01:57:33Z",
+        "updated_at": "2026-10-14T01:57:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e8f7885e80c8305d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "kind": "hf_model",
+      "name": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "url": "https://huggingface.co/models/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "abliteration",
+        "atomic-chat",
+        "base_model:finetune:qwen/qwen3-vl-8b-instruct",
+        "base_model:qwen/qwen3-vl-8b-instruct",
+        "conversational",
+        "endpoints_compatible",
+        "gguf",
+        "imatrix",
+        "license:apache-2.0",
+        "qwen",
+        "qwen-image",
+        "qwen3-vl",
+        "refusal-direction",
+        "region:us",
+        "stable-diffusion.cpp",
+        "text-encoder",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 208575,
+        "likes": 409,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9e1ee0033f647660",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/liliang-cn/cortexdb",
+      "kind": "github_repository",
+      "name": "liliang-cn/cortexdb",
+      "url": "https://github.com/liliang-cn/cortexdb",
+      "provider": "GitHub",
+      "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP tools. Works without an embedding model.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 363,
+        "forks": 15,
+        "pushed_at": "2026-10-14T01:51:18Z",
+        "updated_at": "2026-10-14T01:51:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23cc10cc0b706040",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/meangrinch/MangaTranslator",
+      "kind": "github_repository",
+      "name": "meangrinch/MangaTranslator",
+      "url": "https://github.com/meangrinch/MangaTranslator",
+      "provider": "GitHub",
+      "description": "Manga translation app powered by AI",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 344,
+        "forks": 56,
+        "pushed_at": "2026-10-14T01:08:18Z",
+        "updated_at": "2026-10-14T01:51:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "57dda70164b50382",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dragonked2/alphacode",
+      "kind": "github_repository",
+      "name": "dragonked2/alphacode",
+      "url": "https://github.com/dragonked2/alphacode",
+      "provider": "GitHub",
+      "description": "Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 more. Swarm mode, 40+ tools, browser & desktop automation, built in Rust.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 298,
+        "forks": 18,
+        "pushed_at": "2026-10-14T01:50:57Z",
+        "updated_at": "2026-10-14T01:50:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "48a2e3c4dde86206",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jentic/jentic-public-apis",
+      "kind": "github_repository",
+      "name": "jentic/jentic-public-apis",
+      "url": "https://github.com/jentic/jentic-public-apis",
+      "provider": "GitHub",
+      "description": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 261,
+        "forks": 36,
+        "pushed_at": "2026-10-14T01:57:10Z",
+        "updated_at": "2026-10-14T01:57:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6fac6ee7f8b53e7f",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dodaios/Dodaios",
+      "kind": "github_repository",
+      "name": "Dodaios/Dodaios",
+      "url": "https://github.com/Dodaios/Dodaios",
+      "provider": "GitHub",
+      "description": "Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and your apps. Windows, macOS, Linux.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 72,
+        "pushed_at": "2026-10-14T01:28:05Z",
+        "updated_at": "2026-10-14T01:00:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3994fa796f8220fb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/vclnhihihi/qwen-image-21-uncensored",
+      "kind": "hf_space",
+      "name": "vclnhihihi/qwen-image-21-uncensored",
+      "url": "https://huggingface.co/spaces/vclnhihihi/qwen-image-21-uncensored",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 50,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "50a710f038f3f7d3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/lightonai/LightOnOCR-3-Demo",
+      "kind": "hf_space",
+      "name": "lightonai/LightOnOCR-3-Demo",
+      "url": "https://huggingface.co/spaces/lightonai/LightOnOCR-3-Demo",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 45,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0a54d8c8c3eb83c8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
