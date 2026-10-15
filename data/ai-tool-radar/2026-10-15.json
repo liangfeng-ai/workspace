@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T01:33:24.461510+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 17,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/pytorch-image-models",
+      "kind": "official_repository",
+      "name": "huggingface/pytorch-image-models",
+      "url": "https://github.com/huggingface/pytorch-image-models",
+      "provider": "huggingface",
+      "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 37217,
+        "pushed_at": "2026-10-14T22:11:18Z",
+        "updated_at": "2026-10-15T01:29:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c7a7210203a3a049",
+        "novel": false,
+        "dedup_age_days": 76
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/plugins",
+      "kind": "official_repository",
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "provider": "openai",
+      "description": "OpenAI Plugins",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 7446,
+        "pushed_at": "2026-10-08T05:21:35Z",
+        "updated_at": "2026-10-15T01:29:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e06078a1bb88cb36",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/hf-image",
+      "kind": "official_repository",
+      "name": "huggingface/hf-image",
+      "url": "https://github.com/huggingface/hf-image",
+      "provider": "huggingface",
+      "description": "Fast build, push, pull and run of container images on the Hugging Face registry (cr.hf.co), as an hf CLI extension",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 1,
+        "pushed_at": "2026-10-14T08:59:47Z",
+        "updated_at": "2026-10-15T01:30:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2e75cc3ae983d6cc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Mintplex-Labs/anything-llm",
+      "kind": "github_repository",
+      "name": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "provider": "GitHub",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 67090,
+        "forks": 7496,
+        "pushed_at": "2026-10-15T01:22:13Z",
+        "updated_at": "2026-10-15T01:29:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e812d3ee0042aa15",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/paperless-ngx/paperless-ngx",
+      "kind": "github_repository",
+      "name": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "provider": "GitHub",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 46681,
+        "forks": 3240,
+        "pushed_at": "2026-10-15T00:48:14Z",
+        "updated_at": "2026-10-15T01:22:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d85e6bb1545dcd7d",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langchain-ai/langgraph",
+      "kind": "github_repository",
+      "name": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "provider": "GitHub",
+      "description": "Build resilient agents.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 43281,
+        "forks": 7361,
+        "pushed_at": "2026-10-15T01:31:13Z",
+        "updated_at": "2026-10-15T01:31:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "99c34a1da5bed1dd",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/1Panel-dev/MaxKB",
+      "kind": "github_repository",
+      "name": "1Panel-dev/MaxKB",
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "provider": "GitHub",
+      "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 22974,
+        "forks": 3201,
+        "pushed_at": "2026-10-15T01:30:52Z",
+        "updated_at": "2026-10-15T01:17:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d7a4297295b8f76a",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/screenpipe/screenpipe",
+      "kind": "github_repository",
+      "name": "screenpipe/screenpipe",
+      "url": "https://github.com/screenpipe/screenpipe",
+      "provider": "GitHub",
+      "description": "YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 21943,
+        "forks": 2245,
+        "pushed_at": "2026-10-15T01:18:58Z",
+        "updated_at": "2026-10-15T01:19:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3ec55f62278b5923",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pymupdf/PyMuPDF",
+      "kind": "github_repository",
+      "name": "pymupdf/PyMuPDF",
+      "url": "https://github.com/pymupdf/PyMuPDF",
+      "provider": "GitHub",
+      "description": "PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 10900,
+        "forks": 812,
+        "pushed_at": "2026-10-14T22:59:07Z",
+        "updated_at": "2026-10-14T22:59:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b0ffbf158b098180",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zhouxiaoka/autoclip",
+      "kind": "github_repository",
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "provider": "GitHub",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 9414,
+        "forks": 1700,
+        "pushed_at": "2026-10-15T01:29:07Z",
+        "updated_at": "2026-10-15T01:29:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9e710143066dc585",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/bherbruck/solidcraft",
+      "kind": "github_repository",
+      "name": "bherbruck/solidcraft",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "provider": "GitHub",
+      "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2388,
+        "forks": 235,
+        "pushed_at": "2026-10-15T01:31:13Z",
+        "updated_at": "2026-10-15T01:32:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9c72b7578efd7c0b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/juspay/xyne-spaces",
+      "kind": "github_repository",
+      "name": "juspay/xyne-spaces",
+      "url": "https://github.com/juspay/xyne-spaces",
+      "provider": "GitHub",
+      "description": "The AI Org-OS — a collaborative platform for humans and agents. Explore: https://spaces.xyne.ai",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 805,
+        "forks": 573,
+        "pushed_at": "2026-10-14T23:47:48Z",
+        "updated_at": "2026-10-14T23:40:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3a209c9d9868078f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/autotrust/JEV-35B",
+      "kind": "hf_model",
+      "name": "autotrust/JEV-35B",
+      "url": "https://huggingface.co/models/autotrust/JEV-35B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2609.14973",
+        "base_model:finetune:qwen/qwen3.5-35b-a3b",
+        "base_model:qwen/qwen3.5-35b-a3b",
+        "calibrated-probabilities",
+        "choice",
+        "decision-model",
+        "en",
+        "endpoints_compatible",
+        "image-text-to-text",
+        "jev",
+        "license:apache-2.0",
+        "mixture-of-experts",
+        "model-index",
+        "noul",
+        "qwen3_5_moe",
+        "region:us",
+        "safetensors",
+        "score",
+        "system-one",
+        "text-classification",
+        "transformers",
+        "typed-decisions",
+        "vllm"
+      ],
+      "input_output": "text-classification -> inference result",
+      "signals": {
+        "downloads": 27970,
+        "likes": 726,
+        "updated_at": null,
+        "pipeline_tag": "text-classification"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "72b5d05f07194b0a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/wh000wh000/awesome-jev-live",
+      "kind": "github_repository",
+      "name": "wh000wh000/awesome-jev-live",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "provider": "GitHub",
+      "description": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 314,
+        "forks": 14,
+        "pushed_at": "2026-10-15T01:30:02Z",
+        "updated_at": "2026-10-15T01:30:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5b69bcf5ca2cabdc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/scaleapi/agentenv-framework",
+      "kind": "github_repository",
+      "name": "scaleapi/agentenv-framework",
+      "url": "https://github.com/scaleapi/agentenv-framework",
+      "provider": "GitHub",
+      "description": "Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments tools, dynamism of the environment, reproducibility, and more. There is no open source framework for building these environments effectively. Until now.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 301,
+        "forks": 27,
+        "pushed_at": "2026-10-15T01:32:02Z",
+        "updated_at": "2026-10-15T01:32:05Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8d3420728187a2a8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yicheng47/runner",
+      "kind": "github_repository",
+      "name": "yicheng47/runner",
+      "url": "https://github.com/yicheng47/runner",
+      "provider": "GitHub",
+      "description": "Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on the same task, in one mission, each keeping its own TUI in a real terminal.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 283,
+        "forks": 20,
+        "pushed_at": "2026-10-15T01:31:54Z",
+        "updated_at": "2026-10-15T01:31:56Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3e719b6645b856ca",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CelestoAI/agentor",
+      "kind": "github_repository",
+      "name": "CelestoAI/agentor",
+      "url": "https://github.com/CelestoAI/agentor",
+      "provider": "GitHub",
+      "description": "Open source version of Claude Managed Agents. Fastest way to build and deploy reliable AI agents, MCP tools and agent-to-agent.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 214,
+        "forks": 47,
+        "pushed_at": "2026-10-14T23:36:00Z",
+        "updated_at": "2026-10-15T00:05:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f09c5003c709b95e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

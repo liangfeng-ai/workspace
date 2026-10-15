@@ -74,7 +74,7 @@
       "fingerprint": "f5ee0fdca98ce0b5"
     },
     "github_repository:https://github.com/paperless-ngx/paperless-ngx": {
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-10-15",
       "fingerprint": "d85e6bb1545dcd7d"
     },
     "github_repository:https://github.com/yusufkaraaslan/Skill_Seekers": {
@@ -106,7 +106,7 @@
       "fingerprint": "c66e503ea50064f2"
     },
     "github_repository:https://github.com/screenpipe/screenpipe": {
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-15",
       "fingerprint": "3ec55f62278b5923"
     },
     "github_repository:https://github.com/watzon/pindrop": {
@@ -438,7 +438,7 @@
       "fingerprint": "4d8d8951d9e1815e"
     },
     "official_repository:https://github.com/openai/plugins": {
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-10-15",
       "fingerprint": "e06078a1bb88cb36"
     },
     "official_repository:https://github.com/huggingface/transformers": {
@@ -482,7 +482,7 @@
       "fingerprint": "c262cf9a219a5fe6"
     },
     "github_repository:https://github.com/pymupdf/PyMuPDF": {
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-10-15",
       "fingerprint": "b0ffbf158b098180"
     },
     "github_repository:https://github.com/schmitech/orbit": {
@@ -1378,7 +1378,7 @@
       "fingerprint": "0216e148a244d021"
     },
     "github_repository:https://github.com/langchain-ai/langgraph": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-15",
       "fingerprint": "99c34a1da5bed1dd"
     },
     "github_repository:https://github.com/RyanCodrai/turbovec": {
@@ -1646,7 +1646,7 @@
       "fingerprint": "1a722ab3772b8ab6"
     },
     "official_repository:https://github.com/huggingface/pytorch-image-models": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-10-15",
       "fingerprint": "c7a7210203a3a049"
     },
     "hf_model:https://huggingface.co/models/Audio8/Audio8-TTS-Preview-0.6b": {
@@ -1754,7 +1754,7 @@
       "fingerprint": "74d90918356bf966"
     },
     "github_repository:https://github.com/Mintplex-Labs/anything-llm": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-15",
       "fingerprint": "e812d3ee0042aa15"
     },
     "github_repository:https://github.com/archie0732/healthy-diet-ai-agent": {
@@ -3162,7 +3162,7 @@
       "fingerprint": "0449b3a29a899f73"
     },
     "github_repository:https://github.com/1Panel-dev/MaxKB": {
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-10-15",
       "fingerprint": "d7a4297295b8f76a"
     },
     "github_repository:https://github.com/tinyhumansai/openhuman": {
@@ -4616,6 +4616,42 @@
     "hf_space:https://huggingface.co/spaces/vclnhihihi/qwen-image-21-uncensored": {
       "last_seen": "2026-10-14",
       "fingerprint": "50a710f038f3f7d3"
+    },
+    "github_repository:https://github.com/juspay/xyne-spaces": {
+      "last_seen": "2026-10-15",
+      "fingerprint": "3a209c9d9868078f"
+    },
+    "github_repository:https://github.com/CelestoAI/agentor": {
+      "last_seen": "2026-10-15",
+      "fingerprint": "f09c5003c709b95e"
+    },
+    "github_repository:https://github.com/scaleapi/agentenv-framework": {
+      "last_seen": "2026-10-15",
+      "fingerprint": "8d3420728187a2a8"
+    },
+    "github_repository:https://github.com/yicheng47/runner": {
+      "last_seen": "2026-10-15",
+      "fingerprint": "3e719b6645b856ca"
+    },
+    "github_repository:https://github.com/bherbruck/solidcraft": {
+      "last_seen": "2026-10-15",
+      "fingerprint": "9c72b7578efd7c0b"
+    },
+    "github_repository:https://github.com/wh000wh000/awesome-jev-live": {
+      "last_seen": "2026-10-15",
+      "fingerprint": "5b69bcf5ca2cabdc"
+    },
+    "github_repository:https://github.com/zhouxiaoka/autoclip": {
+      "last_seen": "2026-10-15",
+      "fingerprint": "9e710143066dc585"
+    },
+    "official_repository:https://github.com/huggingface/hf-image": {
+      "last_seen": "2026-10-15",
+      "fingerprint": "2e75cc3ae983d6cc"
+    },
+    "hf_model:https://huggingface.co/models/autotrust/JEV-35B": {
+      "last_seen": "2026-10-15",
+      "fingerprint": "72b5d05f07194b0a"
     }
   }
 }
