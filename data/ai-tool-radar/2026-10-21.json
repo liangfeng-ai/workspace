@@ -1,0 +1,614 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T01:41:22.668327+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/datasets",
+      "kind": "official_repository",
+      "name": "huggingface/datasets",
+      "url": "https://github.com/huggingface/datasets",
+      "provider": "huggingface",
+      "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 22074,
+        "pushed_at": "2026-10-19T18:07:31Z",
+        "updated_at": "2026-10-21T01:40:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cc074e3293407998",
+        "novel": false,
+        "dedup_age_days": 51
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/huggingface_hub",
+      "kind": "official_repository",
+      "name": "huggingface/huggingface_hub",
+      "url": "https://github.com/huggingface/huggingface_hub",
+      "provider": "huggingface",
+      "description": "The official CLI and Python client for the Hugging Face Hub.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 3993,
+        "pushed_at": "2026-10-20T16:10:09Z",
+        "updated_at": "2026-10-21T01:40:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "17736985f2eb76cb",
+        "novel": false,
+        "dedup_age_days": 55
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/siderolabs-talos",
+      "kind": "official_repository",
+      "name": "groq/siderolabs-talos",
+      "url": "https://github.com/groq/siderolabs-talos",
+      "provider": "groq",
+      "description": "",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 1,
+        "pushed_at": "2026-10-21T00:14:48Z",
+        "updated_at": "2026-10-21T00:14:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d0700df2ca2fc60f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lobehub/lobehub",
+      "kind": "github_repository",
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "provider": "GitHub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 83366,
+        "forks": 16004,
+        "pushed_at": "2026-10-21T01:35:40Z",
+        "updated_at": "2026-10-21T01:37:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6aec81c7117bc347",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agentscope-ai/QwenPaw",
+      "kind": "github_repository",
+      "name": "agentscope-ai/QwenPaw",
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "provider": "GitHub",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 35877,
+        "forks": 3196,
+        "pushed_at": "2026-10-21T01:36:06Z",
+        "updated_at": "2026-10-21T01:40:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b545aa0b0b63c281",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+      "kind": "github_repository",
+      "name": "Evil0ctal/Douyin_TikTok_Download_API",
+      "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+      "provider": "GitHub",
+      "description": "🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity pool, PostgreSQL archive, one docker compose up.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 20807,
+        "forks": 2916,
+        "pushed_at": "2026-10-20T23:46:21Z",
+        "updated_at": "2026-10-20T23:48:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e54b08e56569c0b1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Unstructured-IO/unstructured",
+      "kind": "github_repository",
+      "name": "Unstructured-IO/unstructured",
+      "url": "https://github.com/Unstructured-IO/unstructured",
+      "provider": "GitHub",
+      "description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 15582,
+        "forks": 1355,
+        "pushed_at": "2026-10-20T23:33:01Z",
+        "updated_at": "2026-10-20T23:07:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6aeb7c2653f9d85",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/oomol-lab/pdf-craft",
+      "kind": "github_repository",
+      "name": "oomol-lab/pdf-craft",
+      "url": "https://github.com/oomol-lab/pdf-craft",
+      "provider": "GitHub",
+      "description": "PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6413,
+        "forks": 471,
+        "pushed_at": "2026-10-21T00:45:41Z",
+        "updated_at": "2026-10-21T00:39:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a990611831398b50",
+        "novel": false,
+        "dedup_age_days": 55
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "kind": "github_repository",
+      "name": "oracle-devrel/oracle-ai-developer-hub",
+      "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "provider": "GitHub",
+      "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4445,
+        "forks": 852,
+        "pushed_at": "2026-10-21T01:35:53Z",
+        "updated_at": "2026-10-21T01:24:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cd85666703900dad",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/FluidInference/FluidAudio",
+      "kind": "github_repository",
+      "name": "FluidInference/FluidAudio",
+      "url": "https://github.com/FluidInference/FluidAudio",
+      "provider": "GitHub",
+      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3138,
+        "forks": 479,
+        "pushed_at": "2026-10-21T01:19:42Z",
+        "updated_at": "2026-10-21T00:52:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b00a4aa82ff90edc",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dynobo/normcap",
+      "kind": "github_repository",
+      "name": "dynobo/normcap",
+      "url": "https://github.com/dynobo/normcap",
+      "provider": "GitHub",
+      "description": "OCR powered screen-capture tool to capture information instead of images",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2752,
+        "forks": 126,
+        "pushed_at": "2026-10-20T21:33:21Z",
+        "updated_at": "2026-10-21T00:13:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "affd25082f68e82e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/memorax-ai/memorax-code",
+      "kind": "github_repository",
+      "name": "memorax-ai/memorax-code",
+      "url": "https://github.com/memorax-ai/memorax-code",
+      "provider": "GitHub",
+      "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2049,
+        "forks": 66,
+        "pushed_at": "2026-10-21T01:40:37Z",
+        "updated_at": "2026-10-21T01:40:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5e89dc8f992a5785",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/silverstein/minutes",
+      "kind": "github_repository",
+      "name": "silverstein/minutes",
+      "url": "https://github.com/silverstein/minutes",
+      "provider": "GitHub",
+      "description": "Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1562,
+        "forks": 177,
+        "pushed_at": "2026-10-20T23:30:34Z",
+        "updated_at": "2026-10-21T01:07:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "444933100dfd5fd7",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lycorp-jp/sim-use",
+      "kind": "github_repository",
+      "name": "lycorp-jp/sim-use",
+      "url": "https://github.com/lycorp-jp/sim-use",
+      "provider": "GitHub",
+      "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1447,
+        "forks": 104,
+        "pushed_at": "2026-10-21T01:39:30Z",
+        "updated_at": "2026-10-21T01:39:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1854b555b4d28738",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/basementstudio/xmcp",
+      "kind": "github_repository",
+      "name": "basementstudio/xmcp",
+      "url": "https://github.com/basementstudio/xmcp",
+      "provider": "GitHub",
+      "description": "The TypeScript MCP framework",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1342,
+        "forks": 95,
+        "pushed_at": "2026-10-21T01:37:17Z",
+        "updated_at": "2026-10-21T01:35:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "670aa7904f8a8f16",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/milisp/codexia",
+      "kind": "github_repository",
+      "name": "milisp/codexia",
+      "url": "https://github.com/milisp/codexia",
+      "provider": "GitHub",
+      "description": "Lightweight Agent Workstation for Codex + Claude code + keke-agent — with dots, task scheduler, git worktree & remote control",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 939,
+        "forks": 108,
+        "pushed_at": "2026-10-21T01:39:27Z",
+        "updated_at": "2026-10-21T01:39:32Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b0570c3126dd1861",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/thanhkeke97/RSTGameTranslation",
+      "kind": "github_repository",
+      "name": "thanhkeke97/RSTGameTranslation",
+      "url": "https://github.com/thanhkeke97/RSTGameTranslation",
+      "provider": "GitHub",
+      "description": "🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 735,
+        "forks": 119,
+        "pushed_at": "2026-10-21T01:30:44Z",
+        "updated_at": "2026-10-21T01:30:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ff83f60c12552c95",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/genomoncology/biomcp",
+      "kind": "github_repository",
+      "name": "genomoncology/biomcp",
+      "url": "https://github.com/genomoncology/biomcp",
+      "provider": "GitHub",
+      "description": "BioMCP: Biomedical Model Context Protocol",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 661,
+        "forks": 119,
+        "pushed_at": "2026-10-21T01:37:30Z",
+        "updated_at": "2026-10-21T01:35:43Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ad6e1e7351e6f432",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/shuxiachai/academic-commercialization-agent",
+      "kind": "github_repository",
+      "name": "shuxiachai/academic-commercialization-agent",
+      "url": "https://github.com/shuxiachai/academic-commercialization-agent",
+      "provider": "GitHub",
+      "description": "AI multi-agent tool that turns research papers into cited commercialization and tech-transfer assessments: TRL, patent landscape, market and risks. CrewAI + FastAPI, with a reproducible benchmark.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 645,
+        "forks": 85,
+        "pushed_at": "2026-10-21T01:32:55Z",
+        "updated_at": "2026-10-21T01:32:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3f9b4c14adc1ce45",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/felladrin/MiniSearch",
+      "kind": "github_repository",
+      "name": "felladrin/MiniSearch",
+      "url": "https://github.com/felladrin/MiniSearch",
+      "provider": "GitHub",
+      "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 601,
+        "forks": 75,
+        "pushed_at": "2026-10-21T01:39:18Z",
+        "updated_at": "2026-10-21T01:39:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e602b907444e9f32",
+        "novel": false,
+        "dedup_age_days": 50
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/multikernel/sandlock",
+      "kind": "github_repository",
+      "name": "multikernel/sandlock",
+      "url": "https://github.com/multikernel/sandlock",
+      "provider": "GitHub",
+      "description": "The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 574,
+        "forks": 59,
+        "pushed_at": "2026-10-21T01:38:43Z",
+        "updated_at": "2026-10-21T01:38:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e00290daee303236",
+        "novel": false,
+        "dedup_age_days": 82
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pixtuoid/pixtuoid",
+      "kind": "github_repository",
+      "name": "pixtuoid/pixtuoid",
+      "url": "https://github.com/pixtuoid/pixtuoid",
+      "provider": "GitHub",
+      "description": "Terminal pixel-art office for AI coding agents",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 496,
+        "forks": 35,
+        "pushed_at": "2026-10-21T01:39:15Z",
+        "updated_at": "2026-10-21T01:39:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8dd312ff6710fff0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/taylorsatula/mira",
+      "kind": "github_repository",
+      "name": "taylorsatula/mira",
+      "url": "https://github.com/taylorsatula/mira",
+      "provider": "GitHub",
+      "description": "a best-effort approximation of a synthetic entity complete with all of the primatives required for long-horizon persistance. batteries included.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 482,
+        "forks": 44,
+        "pushed_at": "2026-10-21T01:29:36Z",
+        "updated_at": "2026-10-21T01:29:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cd9e542249e973ca",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/ibm-granite/speech-to-decisions",
+      "kind": "hf_space",
+      "name": "ibm-granite/speech-to-decisions",
+      "url": "https://huggingface.co/spaces/ibm-granite/speech-to-decisions",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "docker",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 38,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1f988b3e96073811",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

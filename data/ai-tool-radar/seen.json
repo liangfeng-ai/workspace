@@ -86,7 +86,7 @@
       "fingerprint": "d6e142e320a83355"
     },
     "github_repository:https://github.com/silverstein/minutes": {
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-10-21",
       "fingerprint": "444933100dfd5fd7"
     },
     "github_repository:https://github.com/OpenWhispr/openwhispr": {
@@ -474,7 +474,7 @@
       "fingerprint": "37c0dcb717bdb48b"
     },
     "github_repository:https://github.com/Unstructured-IO/unstructured": {
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-10-21",
       "fingerprint": "a6aeb7c2653f9d85"
     },
     "github_repository:https://github.com/scambier/obsidian-omnisearch": {
@@ -526,7 +526,7 @@
       "fingerprint": "aecd50bffc9889a8"
     },
     "github_repository:https://github.com/genomoncology/biomcp": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-21",
       "fingerprint": "ad6e1e7351e6f432"
     },
     "github_repository:https://github.com/kwaroran/Risuai": {
@@ -654,7 +654,7 @@
       "fingerprint": "e56263fcc12fe438"
     },
     "github_repository:https://github.com/FluidInference/FluidAudio": {
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-10-21",
       "fingerprint": "b00a4aa82ff90edc"
     },
     "github_repository:https://github.com/modelcontextprotocol/ext-apps": {
@@ -1618,7 +1618,7 @@
       "fingerprint": "c3d91be5ed48936e"
     },
     "github_repository:https://github.com/felladrin/MiniSearch": {
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-10-21",
       "fingerprint": "e602b907444e9f32"
     },
     "github_repository:https://github.com/MODSetter/SurfSense": {
@@ -1630,7 +1630,7 @@
       "fingerprint": "b90426ebdca2a808"
     },
     "github_repository:https://github.com/multikernel/sandlock": {
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-10-21",
       "fingerprint": "e00290daee303236"
     },
     "github_repository:https://github.com/hardness1020/awesome-agent-architecture": {
@@ -1954,7 +1954,7 @@
       "fingerprint": "a0ae692fb5b4e932"
     },
     "github_repository:https://github.com/lobehub/lobehub": {
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-21",
       "fingerprint": "6aec81c7117bc347"
     },
     "github_repository:https://github.com/Brhiza/mingyu": {
@@ -2822,7 +2822,7 @@
       "fingerprint": "9d9e14f6c57a9c4f"
     },
     "github_repository:https://github.com/oomol-lab/pdf-craft": {
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-10-21",
       "fingerprint": "a990611831398b50"
     },
     "github_repository:https://github.com/LaoFeng-mouse/flyingmouse-format": {
@@ -2882,7 +2882,7 @@
       "fingerprint": "8bf62f76d177069b"
     },
     "official_repository:https://github.com/huggingface/huggingface_hub": {
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-10-21",
       "fingerprint": "17736985f2eb76cb"
     },
     "hf_model:https://huggingface.co/models/Qwen/Qwen3.8-Flash-Next": {
@@ -3034,7 +3034,7 @@
       "fingerprint": "ed64b09643139bde"
     },
     "official_repository:https://github.com/huggingface/datasets": {
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-10-21",
       "fingerprint": "cc074e3293407998"
     },
     "hf_model:https://huggingface.co/models/BreezeBlue/Breeze-TTS-2": {
@@ -3478,7 +3478,7 @@
       "fingerprint": "44837200620ebc04"
     },
     "github_repository:https://github.com/lycorp-jp/sim-use": {
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-10-21",
       "fingerprint": "1854b555b4d28738"
     },
     "official_repository:https://github.com/groq/groq-frontend-base": {
@@ -4788,6 +4788,58 @@
     "hf_space:https://huggingface.co/spaces/raubatz/qwen-image-2.1-uncensored-aio-loras": {
       "last_seen": "2026-10-20",
       "fingerprint": "18dfb7b23d4b5078"
+    },
+    "github_repository:https://github.com/thanhkeke97/RSTGameTranslation": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "ff83f60c12552c95"
+    },
+    "github_repository:https://github.com/dynobo/normcap": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "affd25082f68e82e"
+    },
+    "github_repository:https://github.com/Evil0ctal/Douyin_TikTok_Download_API": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "e54b08e56569c0b1"
+    },
+    "github_repository:https://github.com/milisp/codexia": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "b0570c3126dd1861"
+    },
+    "github_repository:https://github.com/agentscope-ai/QwenPaw": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "b545aa0b0b63c281"
+    },
+    "github_repository:https://github.com/basementstudio/xmcp": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "670aa7904f8a8f16"
+    },
+    "github_repository:https://github.com/shuxiachai/academic-commercialization-agent": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "3f9b4c14adc1ce45"
+    },
+    "github_repository:https://github.com/taylorsatula/mira": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "cd9e542249e973ca"
+    },
+    "github_repository:https://github.com/oracle-devrel/oracle-ai-developer-hub": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "cd85666703900dad"
+    },
+    "github_repository:https://github.com/memorax-ai/memorax-code": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "5e89dc8f992a5785"
+    },
+    "github_repository:https://github.com/pixtuoid/pixtuoid": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "8dd312ff6710fff0"
+    },
+    "official_repository:https://github.com/groq/siderolabs-talos": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "d0700df2ca2fc60f"
+    },
+    "hf_space:https://huggingface.co/spaces/ibm-granite/speech-to-decisions": {
+      "last_seen": "2026-10-21",
+      "fingerprint": "1f988b3e96073811"
     }
   }
 }
