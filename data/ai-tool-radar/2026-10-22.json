@@ -1,0 +1,441 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T01:36:25.649609+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 17,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/hf-mount",
+      "kind": "official_repository",
+      "name": "huggingface/hf-mount",
+      "url": "https://github.com/huggingface/hf-mount",
+      "provider": "huggingface",
+      "description": "Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 817,
+        "pushed_at": "2026-10-18T08:53:00Z",
+        "updated_at": "2026-10-22T01:31:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a4f840f6809dcfec",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/kernels",
+      "kind": "official_repository",
+      "name": "huggingface/kernels",
+      "url": "https://github.com/huggingface/kernels",
+      "provider": "huggingface",
+      "description": "Build compute kernels and load them from the Hub.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 775,
+        "pushed_at": "2026-10-21T08:29:39Z",
+        "updated_at": "2026-10-22T01:34:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "de350e7760af8e84",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/php2shell-checker",
+      "kind": "official_repository",
+      "name": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "provider": "openai",
+      "description": "",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 415,
+        "pushed_at": "2026-10-21T18:05:56Z",
+        "updated_at": "2026-10-22T01:34:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3c5c6d1529585838",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/run-llama/liteparse",
+      "kind": "github_repository",
+      "name": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "provider": "GitHub",
+      "description": "A fast, helpful, and open-source document parser",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12898,
+        "forks": 886,
+        "pushed_at": "2026-10-21T20:45:49Z",
+        "updated_at": "2026-10-21T20:46:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bdc25d48fb447e2a",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xerj-org/xerj",
+      "kind": "github_repository",
+      "name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "provider": "GitHub",
+      "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12800,
+        "forks": 808,
+        "pushed_at": "2026-10-22T01:34:09Z",
+        "updated_at": "2026-10-22T01:35:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "29ee36fc75992bf3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/apify/apify-mcp-server",
+      "kind": "github_repository",
+      "name": "apify/apify-mcp-server",
+      "url": "https://github.com/apify/apify-mcp-server",
+      "provider": "GitHub",
+      "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12472,
+        "forks": 371,
+        "pushed_at": "2026-10-22T01:35:16Z",
+        "updated_at": "2026-10-22T01:34:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cc6131597ce9949d",
+        "novel": false,
+        "dedup_age_days": 63
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ruvnet/RuVector",
+      "kind": "github_repository",
+      "name": "ruvnet/RuVector",
+      "url": "https://github.com/ruvnet/RuVector",
+      "provider": "GitHub",
+      "description": "RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learning Ai, Vector GNN DB built in Rust.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4608,
+        "forks": 613,
+        "pushed_at": "2026-10-21T19:42:05Z",
+        "updated_at": "2026-10-22T00:55:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2d639d1453b2aa71",
+        "novel": false,
+        "dedup_age_days": 52
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/archestra-ai/archestra",
+      "kind": "github_repository",
+      "name": "archestra-ai/archestra",
+      "url": "https://github.com/archestra-ai/archestra",
+      "provider": "GitHub",
+      "description": "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4385,
+        "forks": 1223,
+        "pushed_at": "2026-10-22T01:32:50Z",
+        "updated_at": "2026-10-22T01:35:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c3047252ae8fd1ef",
+        "novel": false,
+        "dedup_age_days": 57
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/beenuar/AiSOC",
+      "kind": "github_repository",
+      "name": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "provider": "GitHub",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2594,
+        "forks": 284,
+        "pushed_at": "2026-10-22T01:36:09Z",
+        "updated_at": "2026-10-22T01:35:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "93de5a43f0931409",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ginlix-ai/LangAlpha",
+      "kind": "github_repository",
+      "name": "ginlix-ai/LangAlpha",
+      "url": "https://github.com/ginlix-ai/LangAlpha",
+      "provider": "GitHub",
+      "description": "Claude Code for Financial Market",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1874,
+        "forks": 315,
+        "pushed_at": "2026-10-22T01:33:59Z",
+        "updated_at": "2026-10-22T01:34:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4de7053fc50ef3c5",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ryantsai/KKTerm",
+      "kind": "github_repository",
+      "name": "ryantsai/KKTerm",
+      "url": "https://github.com/ryantsai/KKTerm",
+      "provider": "GitHub",
+      "description": "Super-tool for vibe coders & system admins — terminals, SSH, SFTP, RDP/VNC, dashboards, install helpers, and a built-in AI assistant.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 507,
+        "forks": 60,
+        "pushed_at": "2026-10-22T00:15:37Z",
+        "updated_at": "2026-10-22T00:15:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a10abca1e01909e8",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/laihenyi/NBLM2PPTX",
+      "kind": "github_repository",
+      "name": "laihenyi/NBLM2PPTX",
+      "url": "https://github.com/laihenyi/NBLM2PPTX",
+      "provider": "GitHub",
+      "description": "NBLM2PPTX for macOS: turn NotebookLM PDFs into editable PowerPoint on your Mac — offline, no API key, nothing uploaded. (The earlier Gemini web version is no longer updated.)",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 347,
+        "forks": 75,
+        "pushed_at": "2026-10-22T01:22:13Z",
+        "updated_at": "2026-10-22T01:29:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d145622076f4bc3e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/IvanMurzak/Godot-MCP",
+      "kind": "github_repository",
+      "name": "IvanMurzak/Godot-MCP",
+      "url": "https://github.com/IvanMurzak/Godot-MCP",
+      "provider": "GitHub",
+      "description": "Godot-MCP — Model Context Protocol (MCP) integration for the Godot Engine. AI tools for the Godot Editor in C#, with cloud connection to ai-game.dev. Apache-2.0.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 301,
+        "forks": 28,
+        "pushed_at": "2026-10-22T00:44:54Z",
+        "updated_at": "2026-10-22T01:32:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "266fe62bad9c2672",
+        "novel": false,
+        "dedup_age_days": 58
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/danpla/dpscreenocr",
+      "kind": "github_repository",
+      "name": "danpla/dpscreenocr",
+      "url": "https://github.com/danpla/dpscreenocr",
+      "provider": "GitHub",
+      "description": "A program to recognize text on the screen",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 297,
+        "forks": 18,
+        "pushed_at": "2026-10-21T18:11:59Z",
+        "updated_at": "2026-10-21T18:12:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "29e95b4f1fb0a725",
+        "novel": false,
+        "dedup_age_days": 45
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lobu-ai/lobu",
+      "kind": "github_repository",
+      "name": "lobu-ai/lobu",
+      "url": "https://github.com/lobu-ai/lobu",
+      "provider": "GitHub",
+      "description": "Open-source control plane and runtime for organisational agents: shared company context & brain",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 228,
+        "forks": 31,
+        "pushed_at": "2026-10-22T01:34:01Z",
+        "updated_at": "2026-10-22T01:34:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e35ca1022a623e8b",
+        "novel": false,
+        "dedup_age_days": 38
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/impossibleG/phorminx",
+      "kind": "github_repository",
+      "name": "impossibleG/phorminx",
+      "url": "https://github.com/impossibleG/phorminx",
+      "provider": "GitHub",
+      "description": "A local-first Windows application for dictation and meeting transcription, with searchable notes, optional local AI formatting and private model management.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 206,
+        "forks": 3,
+        "pushed_at": "2026-10-22T01:11:24Z",
+        "updated_at": "2026-10-22T01:18:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "42999212d116a522",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/fishpasters/uncensored-imageTOimage2Ref",
+      "kind": "hf_space",
+      "name": "fishpasters/uncensored-imageTOimage2Ref",
+      "url": "https://huggingface.co/spaces/fishpasters/uncensored-imageTOimage2Ref",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 69,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "42963192daab9b56",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/search/repositories?q=topic%3Arag+stars%3A%3E%3D200+pushed%3A%3E%3D2026-09-22+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Aai-agents+stars%3A%3E%3D200+pushed%3A%3E%3D2026-09-22+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded"
+  ],
+  "status": "partial"
+}

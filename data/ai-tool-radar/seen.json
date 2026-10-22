@@ -50,7 +50,7 @@
       "fingerprint": "e250cc8df7c6143f"
     },
     "github_repository:https://github.com/run-llama/liteparse": {
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-22",
       "fingerprint": "bdc25d48fb447e2a"
     },
     "github_repository:https://github.com/ShareX/ShareX": {
@@ -810,7 +810,7 @@
       "fingerprint": "296f8130054ca3dd"
     },
     "github_repository:https://github.com/archestra-ai/archestra": {
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-10-22",
       "fingerprint": "c3047252ae8fd1ef"
     },
     "github_repository:https://github.com/kentcdodds/kody": {
@@ -1018,7 +1018,7 @@
       "fingerprint": "2dc44746f80d47c8"
     },
     "github_repository:https://github.com/ryantsai/KKTerm": {
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-22",
       "fingerprint": "a10abca1e01909e8"
     },
     "github_repository:https://github.com/dmMaze/BallonsTranslator": {
@@ -1342,7 +1342,7 @@
       "fingerprint": "0606a9bede6f3963"
     },
     "github_repository:https://github.com/ruvnet/RuVector": {
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-10-22",
       "fingerprint": "2d639d1453b2aa71"
     },
     "github_repository:https://github.com/hgmzhn/manga-translator-ui": {
@@ -1498,7 +1498,7 @@
       "fingerprint": "697da942d27bb932"
     },
     "github_repository:https://github.com/danpla/dpscreenocr": {
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-10-22",
       "fingerprint": "29e95b4f1fb0a725"
     },
     "github_repository:https://github.com/TheJoeFin/Text-Grab": {
@@ -2026,7 +2026,7 @@
       "fingerprint": "3323fa9ba690e8b1"
     },
     "github_repository:https://github.com/lobu-ai/lobu": {
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-10-22",
       "fingerprint": "e35ca1022a623e8b"
     },
     "github_repository:https://github.com/zebbern/claude-code-guide": {
@@ -2550,7 +2550,7 @@
       "fingerprint": "2aa4245e47dc40d5"
     },
     "github_repository:https://github.com/apify/apify-mcp-server": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-10-22",
       "fingerprint": "cc6131597ce9949d"
     },
     "github_repository:https://github.com/CalebYcj/codex-rehome": {
@@ -2706,7 +2706,7 @@
       "fingerprint": "7098213a69cfc0db"
     },
     "github_repository:https://github.com/IvanMurzak/Godot-MCP": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-10-22",
       "fingerprint": "266fe62bad9c2672"
     },
     "github_repository:https://github.com/zclucas/RMT": {
@@ -3310,7 +3310,7 @@
       "fingerprint": "52121929a566f26d"
     },
     "github_repository:https://github.com/ginlix-ai/LangAlpha": {
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-10-22",
       "fingerprint": "4de7053fc50ef3c5"
     },
     "github_repository:https://github.com/WenyuChiou/awesome-agentic-ai-zh": {
@@ -4840,6 +4840,38 @@
     "hf_space:https://huggingface.co/spaces/ibm-granite/speech-to-decisions": {
       "last_seen": "2026-10-21",
       "fingerprint": "1f988b3e96073811"
+    },
+    "github_repository:https://github.com/laihenyi/NBLM2PPTX": {
+      "last_seen": "2026-10-22",
+      "fingerprint": "d145622076f4bc3e"
+    },
+    "github_repository:https://github.com/impossibleG/phorminx": {
+      "last_seen": "2026-10-22",
+      "fingerprint": "42999212d116a522"
+    },
+    "github_repository:https://github.com/beenuar/AiSOC": {
+      "last_seen": "2026-10-22",
+      "fingerprint": "93de5a43f0931409"
+    },
+    "github_repository:https://github.com/xerj-org/xerj": {
+      "last_seen": "2026-10-22",
+      "fingerprint": "29ee36fc75992bf3"
+    },
+    "official_repository:https://github.com/openai/php2shell-checker": {
+      "last_seen": "2026-10-22",
+      "fingerprint": "3c5c6d1529585838"
+    },
+    "official_repository:https://github.com/huggingface/kernels": {
+      "last_seen": "2026-10-22",
+      "fingerprint": "de350e7760af8e84"
+    },
+    "official_repository:https://github.com/huggingface/hf-mount": {
+      "last_seen": "2026-10-22",
+      "fingerprint": "a4f840f6809dcfec"
+    },
+    "hf_space:https://huggingface.co/spaces/fishpasters/uncensored-imageTOimage2Ref": {
+      "last_seen": "2026-10-22",
+      "fingerprint": "42963192daab9b56"
     }
   }
 }
