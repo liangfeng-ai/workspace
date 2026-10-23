@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T01:37:17.147428+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 11,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/aisheets",
+      "kind": "official_repository",
+      "name": "huggingface/aisheets",
+      "url": "https://github.com/huggingface/aisheets",
+      "provider": "huggingface",
+      "description": "Build, enrich, and transform datasets using AI models with no code",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 1653,
+        "pushed_at": "2026-09-23T12:47:05Z",
+        "updated_at": "2026-10-23T01:34:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4579c7a029deae54",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/liuzhao1225/YouDub-webui",
+      "kind": "github_repository",
+      "name": "liuzhao1225/YouDub-webui",
+      "url": "https://github.com/liuzhao1225/YouDub-webui",
+      "provider": "GitHub",
+      "description": "Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5722,
+        "forks": 622,
+        "pushed_at": "2026-10-23T00:23:13Z",
+        "updated_at": "2026-10-23T00:27:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "03fcc7295f0f97af",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agentic-community/mcp-gateway-registry",
+      "kind": "github_repository",
+      "name": "agentic-community/mcp-gateway-registry",
+      "url": "https://github.com/agentic-community/mcp-gateway-registry",
+      "provider": "GitHub",
+      "description": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1012,
+        "forks": 255,
+        "pushed_at": "2026-10-23T01:35:39Z",
+        "updated_at": "2026-10-23T01:34:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "395fef6942b9c7bb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/backmeupplz/voicy",
+      "kind": "github_repository",
+      "name": "backmeupplz/voicy",
+      "url": "https://github.com/backmeupplz/voicy",
+      "provider": "GitHub",
+      "description": "@voicybot Telegram bot main repository",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 914,
+        "forks": 164,
+        "pushed_at": "2026-10-22T23:14:06Z",
+        "updated_at": "2026-10-22T23:14:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "aaa38f4269e16f05",
+        "novel": false,
+        "dedup_age_days": 86
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/multimodalart/jev-decision-index",
+      "kind": "hf_space",
+      "name": "multimodalart/jev-decision-index",
+      "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "region:us",
+        "static"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 782,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2a03ef03388ac02a",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CrispStrobe/CrispASR",
+      "kind": "github_repository",
+      "name": "CrispStrobe/CrispASR",
+      "url": "https://github.com/CrispStrobe/CrispASR",
+      "provider": "GitHub",
+      "description": "C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 764,
+        "forks": 120,
+        "pushed_at": "2026-10-22T23:06:27Z",
+        "updated_at": "2026-10-23T01:10:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "be2520a07e1563f1",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ibrahimqureshae/mdflux",
+      "kind": "github_repository",
+      "name": "ibrahimqureshae/mdflux",
+      "url": "https://github.com/ibrahimqureshae/mdflux",
+      "provider": "GitHub",
+      "description": "Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 568,
+        "forks": 44,
+        "pushed_at": "2026-10-22T20:14:07Z",
+        "updated_at": "2026-10-22T20:10:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "32745347b08c4ea6",
+        "novel": false,
+        "dedup_age_days": 64
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/anomalyco/hex",
+      "kind": "github_repository",
+      "name": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "provider": "GitHub",
+      "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 527,
+        "forks": 68,
+        "pushed_at": "2026-10-23T01:10:43Z",
+        "updated_at": "2026-10-23T01:10:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "61849fd173e139a4",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Arnon-hs/open-source",
+      "kind": "github_repository",
+      "name": "Arnon-hs/open-source",
+      "url": "https://github.com/Arnon-hs/open-source",
+      "provider": "GitHub",
+      "description": "A living, machine-readable catalog of open-source projects with practical summaries, categories, quality signals and transparent scoring.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 218,
+        "forks": 36,
+        "pushed_at": "2026-10-23T01:34:36Z",
+        "updated_at": "2026-10-23T01:34:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "786833c956fb3eb1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ChetanXpro/nodejs-whisper",
+      "kind": "github_repository",
+      "name": "ChetanXpro/nodejs-whisper",
+      "url": "https://github.com/ChetanXpro/nodejs-whisper",
+      "provider": "GitHub",
+      "description": "NodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper, as initially crafted in C++ by ggerganov.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 212,
+        "forks": 44,
+        "pushed_at": "2026-10-22T23:21:17Z",
+        "updated_at": "2026-10-22T23:21:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "675e3ed7f21d62f0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Sallyn0225/eidolon-sc",
+      "kind": "github_repository",
+      "name": "Sallyn0225/eidolon-sc",
+      "url": "https://github.com/Sallyn0225/eidolon-sc",
+      "provider": "GitHub",
+      "description": "和《偶像大师 闪耀色彩》偶像实时语音/文字对话的 AI 分身：日语原声 + 中文字幕、回忆原作剧情、跨角色共享记忆；支持 Google/GitHub 登录与自带密钥，Docker Compose 一键部署（参考 LAPLACE Eidolon）",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 203,
+        "forks": 39,
+        "pushed_at": "2026-10-23T01:09:36Z",
+        "updated_at": "2026-10-23T01:09:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1d4f9ebe2962e7ac",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/search/repositories?q=topic%3Arag+stars%3A%3E%3D200+pushed%3A%3E%3D2026-09-23+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Aai-agents+stars%3A%3E%3D200+pushed%3A%3E%3D2026-09-23+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded"
+  ],
+  "status": "partial"
+}

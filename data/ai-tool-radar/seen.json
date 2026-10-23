@@ -506,7 +506,7 @@
       "fingerprint": "cb10c44e2ca7b000"
     },
     "github_repository:https://github.com/CrispStrobe/CrispASR": {
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-23",
       "fingerprint": "be2520a07e1563f1"
     },
     "github_repository:https://github.com/anthropics/claude-plugins-official": {
@@ -1426,7 +1426,7 @@
       "fingerprint": "2c50dee0e379a641"
     },
     "github_repository:https://github.com/backmeupplz/voicy": {
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-10-23",
       "fingerprint": "aaa38f4269e16f05"
     },
     "github_repository:https://github.com/jatinkrmalik/vocalinux": {
@@ -2534,7 +2534,7 @@
       "fingerprint": "00da92d12a1f32b4"
     },
     "github_repository:https://github.com/ibrahimqureshae/mdflux": {
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-10-23",
       "fingerprint": "32745347b08c4ea6"
     },
     "github_repository:https://github.com/debpalash/VoiceStudio": {
@@ -3878,7 +3878,7 @@
       "fingerprint": "30430f71eba38448"
     },
     "github_repository:https://github.com/anomalyco/hex": {
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-10-23",
       "fingerprint": "61849fd173e139a4"
     },
     "github_repository:https://github.com/inkeep/agents": {
@@ -3918,7 +3918,7 @@
       "fingerprint": "9cadef280711e5f9"
     },
     "hf_space:https://huggingface.co/spaces/multimodalart/jev-decision-index": {
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-10-23",
       "fingerprint": "2a03ef03388ac02a"
     },
     "hf_space:https://huggingface.co/spaces/hugging-apps/qwen-image-2-1": {
@@ -4872,6 +4872,30 @@
     "hf_space:https://huggingface.co/spaces/fishpasters/uncensored-imageTOimage2Ref": {
       "last_seen": "2026-10-22",
       "fingerprint": "42963192daab9b56"
+    },
+    "github_repository:https://github.com/Sallyn0225/eidolon-sc": {
+      "last_seen": "2026-10-23",
+      "fingerprint": "1d4f9ebe2962e7ac"
+    },
+    "github_repository:https://github.com/liuzhao1225/YouDub-webui": {
+      "last_seen": "2026-10-23",
+      "fingerprint": "03fcc7295f0f97af"
+    },
+    "github_repository:https://github.com/ChetanXpro/nodejs-whisper": {
+      "last_seen": "2026-10-23",
+      "fingerprint": "675e3ed7f21d62f0"
+    },
+    "github_repository:https://github.com/agentic-community/mcp-gateway-registry": {
+      "last_seen": "2026-10-23",
+      "fingerprint": "395fef6942b9c7bb"
+    },
+    "github_repository:https://github.com/Arnon-hs/open-source": {
+      "last_seen": "2026-10-23",
+      "fingerprint": "786833c956fb3eb1"
+    },
+    "official_repository:https://github.com/huggingface/aisheets": {
+      "last_seen": "2026-10-23",
+      "fingerprint": "4579c7a029deae54"
     }
   }
 }
