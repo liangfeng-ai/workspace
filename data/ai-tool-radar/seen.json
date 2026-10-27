@@ -826,7 +826,7 @@
       "fingerprint": "e8144472652a0e00"
     },
     "github_repository:https://github.com/cocoindex-io/cocoindex": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-10-27",
       "fingerprint": "dde3cb02fce173e3"
     },
     "github_repository:https://github.com/oceanbase/seekdb": {
@@ -1934,7 +1934,7 @@
       "fingerprint": "6ba497a1c94ec462"
     },
     "github_repository:https://github.com/xiufengsun/TokenTracker": {
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-10-27",
       "fingerprint": "a8fb9c9cd5c9643e"
     },
     "github_repository:https://github.com/QVerisAI/qveris-agent-toolkit": {
@@ -2682,7 +2682,7 @@
       "fingerprint": "5b1176266d7a382d"
     },
     "github_repository:https://github.com/Cotal-AI/Cotal": {
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-10-27",
       "fingerprint": "78977d99e62cbbfe"
     },
     "github_repository:https://github.com/BradGroux/veritas-kanban": {
@@ -2898,7 +2898,7 @@
       "fingerprint": "38853d6da9e3320e"
     },
     "github_repository:https://github.com/syrizelink/OpenFic": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-10-27",
       "fingerprint": "311955c4a1ca70ed"
     },
     "github_repository:https://github.com/shawnxie94/infinitum": {
@@ -3210,7 +3210,7 @@
       "fingerprint": "c1ba2909b94fa686"
     },
     "official_repository:https://github.com/openai/openai-go": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-27",
       "fingerprint": "3cf513bd939c9a4c"
     },
     "official_repository:https://github.com/huggingface/lighteval": {
@@ -3542,7 +3542,7 @@
       "fingerprint": "9e4f350fffecc054"
     },
     "github_repository:https://github.com/JudgePeach/math-question-bank": {
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-27",
       "fingerprint": "bf072a44bd6dd3ae"
     },
     "github_repository:https://github.com/wxyhgk/retain-pdf": {
@@ -3946,7 +3946,7 @@
       "fingerprint": "a8fcd7486ebf3c57"
     },
     "github_repository:https://github.com/nrslib/takt": {
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-10-27",
       "fingerprint": "a079f3381391eb3e"
     },
     "github_repository:https://github.com/google-gemini/gemini-cli": {
@@ -4940,6 +4940,54 @@
     "hf_model:https://huggingface.co/models/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8": {
       "last_seen": "2026-10-26",
       "fingerprint": "c12410d74d153d61"
+    },
+    "github_repository:https://github.com/Tavotto/Tavotto": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "ef2b8c0eb7b4d40c"
+    },
+    "github_repository:https://github.com/saurabhav88/EnviousWispr": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "26c2f59c323220c4"
+    },
+    "github_repository:https://github.com/cheaper-inference/OmniRoute": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "ed588cee49e7346f"
+    },
+    "github_repository:https://github.com/AstrBotDevs/AstrBot": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "b8a03abdc8be1963"
+    },
+    "github_repository:https://github.com/alibaba/nacos": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "dc8fa070c77cac5b"
+    },
+    "github_repository:https://github.com/ZSeven-W/openpencil": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "7906769ee1cf085e"
+    },
+    "github_repository:https://github.com/calmrocks/ai-engineer-notebooks": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "0afac336e06407ec"
+    },
+    "github_repository:https://github.com/LazyAGI/LazyMind": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "942726c962bbf5a5"
+    },
+    "github_repository:https://github.com/Annyfee/agent-craft": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "78eaf141290d2bc7"
+    },
+    "github_repository:https://github.com/thetahealth/mirobody": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "48a15cb1c979f712"
+    },
+    "official_repository:https://github.com/huggingface/paperswithcode": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "67d2b78441fe870d"
+    },
+    "hf_space:https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3": {
+      "last_seen": "2026-10-27",
+      "fingerprint": "ab447a3c16c8a73b"
     }
   }
 }

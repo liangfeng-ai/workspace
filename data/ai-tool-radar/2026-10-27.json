@@ -1,0 +1,492 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T02:09:06.678281+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/openai-go",
+      "kind": "official_repository",
+      "name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "provider": "openai",
+      "description": "The official Go library for the OpenAI API",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 3506,
+        "pushed_at": "2026-10-27T01:22:57Z",
+        "updated_at": "2026-10-27T02:00:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3cf513bd939c9a4c",
+        "novel": false,
+        "dedup_age_days": 54
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/paperswithcode",
+      "kind": "official_repository",
+      "name": "huggingface/paperswithcode",
+      "url": "https://github.com/huggingface/paperswithcode",
+      "provider": "huggingface",
+      "description": "This repository hosts the code of Papers with Code, which tracks trending AI research with code, datasets and leaderboards.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 124,
+        "pushed_at": "2026-10-26T15:16:44Z",
+        "updated_at": "2026-10-27T02:08:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "67d2b78441fe870d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cheaper-inference/OmniRoute",
+      "kind": "github_repository",
+      "name": "cheaper-inference/OmniRoute",
+      "url": "https://github.com/cheaper-inference/OmniRoute",
+      "provider": "GitHub",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 81545,
+        "forks": 11980,
+        "pushed_at": "2026-10-27T02:05:50Z",
+        "updated_at": "2026-10-27T02:07:13Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ed588cee49e7346f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AstrBotDevs/AstrBot",
+      "kind": "github_repository",
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "provider": "GitHub",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 43856,
+        "forks": 3213,
+        "pushed_at": "2026-10-27T02:05:38Z",
+        "updated_at": "2026-10-27T02:08:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b8a03abdc8be1963",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/alibaba/nacos",
+      "kind": "github_repository",
+      "name": "alibaba/nacos",
+      "url": "https://github.com/alibaba/nacos",
+      "provider": "GitHub",
+      "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 33484,
+        "forks": 13281,
+        "pushed_at": "2026-10-27T02:05:21Z",
+        "updated_at": "2026-10-27T02:05:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dc8fa070c77cac5b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cocoindex-io/cocoindex",
+      "kind": "github_repository",
+      "name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "provider": "GitHub",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11757,
+        "forks": 921,
+        "pushed_at": "2026-10-27T02:08:42Z",
+        "updated_at": "2026-10-27T01:59:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dde3cb02fce173e3",
+        "novel": false,
+        "dedup_age_days": 69
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ZSeven-W/openpencil",
+      "kind": "github_repository",
+      "name": "ZSeven-W/openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "provider": "GitHub",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6708,
+        "forks": 587,
+        "pushed_at": "2026-10-27T02:05:52Z",
+        "updated_at": "2026-10-27T02:05:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7906769ee1cf085e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xiufengsun/TokenTracker",
+      "kind": "github_repository",
+      "name": "xiufengsun/TokenTracker",
+      "url": "https://github.com/xiufengsun/TokenTracker",
+      "provider": "GitHub",
+      "description": "Local-first AI token usage & cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini & DeepSeek Harness—with native apps. Never reads prompts.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2137,
+        "forks": 223,
+        "pushed_at": "2026-10-27T02:07:27Z",
+        "updated_at": "2026-10-27T01:49:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a8fb9c9cd5c9643e",
+        "novel": false,
+        "dedup_age_days": 81
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nrslib/takt",
+      "kind": "github_repository",
+      "name": "nrslib/takt",
+      "url": "https://github.com/nrslib/takt",
+      "provider": "GitHub",
+      "description": "TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1421,
+        "forks": 116,
+        "pushed_at": "2026-10-27T02:05:19Z",
+        "updated_at": "2026-10-27T02:05:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a079f3381391eb3e",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/thetahealth/mirobody",
+      "kind": "github_repository",
+      "name": "thetahealth/mirobody",
+      "url": "https://github.com/thetahealth/mirobody",
+      "provider": "GitHub",
+      "description": "Turn scattered health data into answers you can trace. Self-hosted AI health data engine for lab reports, wearables and genetics, with a built-in MCP server. Run it with Docker and one LLM key, or keep every model local on llama.cpp.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1393,
+        "forks": 250,
+        "pushed_at": "2026-10-27T02:08:57Z",
+        "updated_at": "2026-10-27T02:09:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "48a15cb1c979f712",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/syrizelink/OpenFic",
+      "kind": "github_repository",
+      "name": "syrizelink/OpenFic",
+      "url": "https://github.com/syrizelink/OpenFic",
+      "provider": "GitHub",
+      "description": "专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Writing 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe Writing tool designed specifically for novel writing.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1249,
+        "forks": 134,
+        "pushed_at": "2026-10-27T02:08:50Z",
+        "updated_at": "2026-10-27T01:51:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "311955c4a1ca70ed",
+        "novel": false,
+        "dedup_age_days": 60
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/calmrocks/ai-engineer-notebooks",
+      "kind": "github_repository",
+      "name": "calmrocks/ai-engineer-notebooks",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "provider": "GitHub",
+      "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from scratch, tool design, guardrails, MCP, Skills), fine-tuning vs LoRA, prompt-injection/security, LLMOps, and customer craft. Runs on the free Groq API.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 712,
+        "forks": 65,
+        "pushed_at": "2026-10-27T02:03:44Z",
+        "updated_at": "2026-10-27T02:03:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0afac336e06407ec",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Annyfee/agent-craft",
+      "kind": "github_repository",
+      "name": "Annyfee/agent-craft",
+      "url": "https://github.com/Annyfee/agent-craft",
+      "provider": "GitHub",
+      "description": "AI Agent 教学仓库 | 系统化 LangChain、RAG、LangGraph、MCP 全栈实战代码 | 万字博客详解 | 开源可运行示例 | 从零构建智能体",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 525,
+        "forks": 75,
+        "pushed_at": "2026-10-27T01:50:17Z",
+        "updated_at": "2026-10-27T01:50:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "78eaf141290d2bc7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Tavotto/Tavotto",
+      "kind": "github_repository",
+      "name": "Tavotto/Tavotto",
+      "url": "https://github.com/Tavotto/Tavotto",
+      "provider": "GitHub",
+      "description": "AI drew your research figure. Tavotto makes it publication-ready: edit matplotlib and AI-generated figures on a canvas, lay out multi-panel pages in mm, check journal rules before export. Scripts stay untouched.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 508,
+        "forks": 25,
+        "pushed_at": "2026-10-27T01:46:02Z",
+        "updated_at": "2026-10-27T01:46:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ef2b8c0eb7b4d40c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/LazyAGI/LazyMind",
+      "kind": "github_repository",
+      "name": "LazyAGI/LazyMind",
+      "url": "https://github.com/LazyAGI/LazyMind",
+      "provider": "GitHub",
+      "description": "An AI Skill Runtime for knowledge-intensive work which makes everything under your control.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 412,
+        "forks": 62,
+        "pushed_at": "2026-10-27T02:03:26Z",
+        "updated_at": "2026-10-27T02:03:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "942726c962bbf5a5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Cotal-AI/Cotal",
+      "kind": "github_repository",
+      "name": "Cotal-AI/Cotal",
+      "url": "https://github.com/Cotal-AI/Cotal",
+      "provider": "GitHub",
+      "description": "The open standard for agent coordination",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 361,
+        "forks": 44,
+        "pushed_at": "2026-10-27T02:07:47Z",
+        "updated_at": "2026-10-27T02:07:52Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "78977d99e62cbbfe",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JudgePeach/math-question-bank",
+      "kind": "github_repository",
+      "name": "JudgePeach/math-question-bank",
+      "url": "https://github.com/JudgePeach/math-question-bank",
+      "provider": "GitHub",
+      "description": "本地化高中数学题库管理系统，支持 LaTeX 实时渲染、智能大模型 AI 解析与 OCR 公式识别。Localized High School Math Question Bank Management System, supporting real-time LaTeX rendering, smart LLM AI parsing & solving, and formula OCR recognition.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 350,
+        "forks": 93,
+        "pushed_at": "2026-10-27T00:33:19Z",
+        "updated_at": "2026-10-27T00:33:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bf072a44bd6dd3ae",
+        "novel": false,
+        "dedup_age_days": 42
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/saurabhav88/EnviousWispr",
+      "kind": "github_repository",
+      "name": "saurabhav88/EnviousWispr",
+      "url": "https://github.com/saurabhav88/EnviousWispr",
+      "provider": "GitHub",
+      "description": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS 26), Ollama, or your own OpenAI/Gemini/Claude key. Snippets, custom words, no account, no subscription, audio never leaves your Mac.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 200,
+        "forks": 17,
+        "pushed_at": "2026-10-27T00:13:27Z",
+        "updated_at": "2026-10-27T00:13:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "26c2f59c323220c4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
+      "kind": "hf_space",
+      "name": "JCisHERE/wan2-2-i2v-v3",
+      "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 75,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ab447a3c16c8a73b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
