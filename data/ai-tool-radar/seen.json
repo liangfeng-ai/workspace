@@ -174,7 +174,7 @@
       "fingerprint": "c298f932ea3f90ff"
     },
     "github_repository:https://github.com/langgenius/dify": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-28",
       "fingerprint": "472bbcf1726e26ef"
     },
     "github_repository:https://github.com/headroomlabs-ai/headroom": {
@@ -190,7 +190,7 @@
       "fingerprint": "3e7a053e2fba39cc"
     },
     "github_repository:https://github.com/thedotmack/claude-mem": {
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-10-28",
       "fingerprint": "b12e6c23b90f145f"
     },
     "github_repository:https://github.com/Lyellr88/marm-memory": {
@@ -470,7 +470,7 @@
       "fingerprint": "d31122d57f097e1a"
     },
     "github_repository:https://github.com/run-llama/ParseBench": {
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-10-28",
       "fingerprint": "37c0dcb717bdb48b"
     },
     "github_repository:https://github.com/Unstructured-IO/unstructured": {
@@ -882,7 +882,7 @@
       "fingerprint": "6d88c076f68b2b39"
     },
     "github_repository:https://github.com/nocobase/nocobase": {
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-10-28",
       "fingerprint": "4b54ae81b260ac9b"
     },
     "github_repository:https://github.com/johannesjo/parallel-code": {
@@ -1186,7 +1186,7 @@
       "fingerprint": "11cd9b4d664dcec8"
     },
     "github_repository:https://github.com/QuintinShaw/openasr": {
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-10-28",
       "fingerprint": "369f748dd8b50b85"
     },
     "github_repository:https://github.com/xuzhougeng/wisp-science": {
@@ -1830,7 +1830,7 @@
       "fingerprint": "73e858f6bb99f293"
     },
     "github_repository:https://github.com/antflydb/antfly": {
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-10-28",
       "fingerprint": "c33a87a95c8aba5a"
     },
     "github_repository:https://github.com/aa0101181514/tw-legal-rag": {
@@ -2298,7 +2298,7 @@
       "fingerprint": "ae5e61671e34d7d7"
     },
     "github_repository:https://github.com/codecoradev/uteke": {
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-10-28",
       "fingerprint": "59f308c0920ae171"
     },
     "github_repository:https://github.com/xuiltul/animaworks": {
@@ -2402,7 +2402,7 @@
       "fingerprint": "30c18b0681efbc09"
     },
     "official_repository:https://github.com/huggingface/text-embeddings-inference": {
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-10-28",
       "fingerprint": "1272ab1d9c344cad"
     },
     "hf_model:https://huggingface.co/models/Qwen/Qwen3.8-27B": {
@@ -3274,7 +3274,7 @@
       "fingerprint": "e31e5b77a68d739b"
     },
     "hf_model:https://huggingface.co/models/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF": {
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-10-28",
       "fingerprint": "f529b128d6943bed"
     },
     "hf_model:https://huggingface.co/models/sentence-transformers/all-MiniLM-L6-v2": {
@@ -3762,7 +3762,7 @@
       "fingerprint": "9c6cf39d9f15af3b"
     },
     "github_repository:https://github.com/chunxiaoxx/nautilus-compass": {
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-10-28",
       "fingerprint": "b2d7e1aa238d15f1"
     },
     "github_repository:https://github.com/gustavoeenriquez/MakerAi": {
@@ -4018,7 +4018,7 @@
       "fingerprint": "780bf47af036c26e"
     },
     "github_repository:https://github.com/zhayujie/CowAgent": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-28",
       "fingerprint": "33ceb7aefa1cc78d"
     },
     "github_repository:https://github.com/peters/horizon": {
@@ -4988,6 +4988,46 @@
     "hf_space:https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3": {
       "last_seen": "2026-10-27",
       "fingerprint": "ab447a3c16c8a73b"
+    },
+    "github_repository:https://github.com/qpst4/XGesture": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "d96839ed70c63acd"
+    },
+    "github_repository:https://github.com/niyongsheng/AudioScript": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "54a5069c353154bb"
+    },
+    "github_repository:https://github.com/Soodok/Deepseek-Harness-Local-Android": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "afcc34468d0c7ac0"
+    },
+    "github_repository:https://github.com/caipe-io/ai-platform-engineering": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "ca76548aa87843eb"
+    },
+    "github_repository:https://github.com/Gentleman-Programming/gentle-ai": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "5ed592498d2d71ce"
+    },
+    "github_repository:https://github.com/alibaba/zvec": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "da8d92731376c3b3"
+    },
+    "github_repository:https://github.com/oceanbase/powercontext": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "e13d9f6578fef5d8"
+    },
+    "github_repository:https://github.com/jmagly/aiwg": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "5e85b4402d1a40bc"
+    },
+    "hf_model:https://huggingface.co/models/baidu/Unlimited-OCR-2": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "c958238ecc61b942"
+    },
+    "hf_space:https://huggingface.co/spaces/WizardTY/GEAR": {
+      "last_seen": "2026-10-28",
+      "fingerprint": "9529204d2e61ae92"
     }
   }
 }

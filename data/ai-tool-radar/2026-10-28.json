@@ -1,0 +1,597 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T02:22:44.476235+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/text-embeddings-inference",
+      "kind": "official_repository",
+      "name": "huggingface/text-embeddings-inference",
+      "url": "https://github.com/huggingface/text-embeddings-inference",
+      "provider": "huggingface",
+      "description": "A blazing fast inference solution for text embeddings models",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 5088,
+        "pushed_at": "2026-10-13T14:33:07Z",
+        "updated_at": "2026-10-28T02:20:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1272ab1d9c344cad",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langgenius/dify",
+      "kind": "github_repository",
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "provider": "GitHub",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 159741,
+        "forks": 25242,
+        "pushed_at": "2026-10-28T02:22:28Z",
+        "updated_at": "2026-10-28T02:22:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "472bbcf1726e26ef",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/thedotmack/claude-mem",
+      "kind": "github_repository",
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "provider": "GitHub",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 103753,
+        "forks": 9154,
+        "pushed_at": "2026-10-28T02:14:15Z",
+        "updated_at": "2026-10-28T02:16:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b12e6c23b90f145f",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zhayujie/CowAgent",
+      "kind": "github_repository",
+      "name": "zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "provider": "GitHub",
+      "description": "Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 47630,
+        "forks": 10409,
+        "pushed_at": "2026-10-28T02:21:15Z",
+        "updated_at": "2026-10-28T02:21:46Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "33ceb7aefa1cc78d",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nocobase/nocobase",
+      "kind": "github_repository",
+      "name": "nocobase/nocobase",
+      "url": "https://github.com/nocobase/nocobase",
+      "provider": "GitHub",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 24745,
+        "forks": 2938,
+        "pushed_at": "2026-10-28T02:17:39Z",
+        "updated_at": "2026-10-28T02:08:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4b54ae81b260ac9b",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/alibaba/zvec",
+      "kind": "github_repository",
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "provider": "GitHub",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 16157,
+        "forks": 1012,
+        "pushed_at": "2026-10-28T02:21:26Z",
+        "updated_at": "2026-10-28T02:21:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "da8d92731376c3b3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Gentleman-Programming/gentle-ai",
+      "kind": "github_repository",
+      "name": "Gentleman-Programming/gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "provider": "GitHub",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8075,
+        "forks": 870,
+        "pushed_at": "2026-10-28T02:21:32Z",
+        "updated_at": "2026-10-28T02:21:37Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5ed592498d2d71ce",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "kind": "hf_model",
+      "name": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/models/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "abliterated",
+        "all genres",
+        "all use cases",
+        "ara",
+        "base_model:davidau/qwen3.8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau",
+        "base_model:quantized:davidau/qwen3.8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau",
+        "bfloat16",
+        "coder",
+        "conversational",
+        "creative",
+        "creative writing",
+        "dataset:davidau/f451-strict-datasets",
+        "dataset:davidau/polar-strict-datasets",
+        "en",
+        "endpoints_compatible",
+        "fiction",
+        "fine tune",
+        "gguf",
+        "heretic",
+        "image-text-to-text",
+        "imatrix",
+        "license:apache-2.0",
+        "mtp gguf quants",
+        "multi-stage tuned",
+        "multi-stage-tune",
+        "multi-state-merge",
+        "qwen3_5",
+        "qwen3_6",
+        "qwen3_8",
+        "reasoning",
+        "region:us",
+        "regular gguf quants",
+        "roleplaying",
+        "story",
+        "thinking",
+        "uncensored",
+        "unsloth",
+        "writing",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 1713544,
+        "likes": 2170,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f529b128d6943bed",
+        "novel": false,
+        "dedup_age_days": 51
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/oceanbase/powercontext",
+      "kind": "github_repository",
+      "name": "oceanbase/powercontext",
+      "url": "https://github.com/oceanbase/powercontext",
+      "provider": "GitHub",
+      "description": "Not only memory but a full story",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1383,
+        "forks": 483,
+        "pushed_at": "2026-10-28T02:20:55Z",
+        "updated_at": "2026-10-28T02:21:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e13d9f6578fef5d8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/chunxiaoxx/nautilus-compass",
+      "kind": "github_repository",
+      "name": "chunxiaoxx/nautilus-compass",
+      "url": "https://github.com/chunxiaoxx/nautilus-compass",
+      "provider": "GitHub",
+      "description": "Open memory & reliability layer for AI agents + independent judging/verification (NACRE judge, caliber-bench meta-benchmark, preregistered criteria) — by Nautilus Platform",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1254,
+        "forks": 35,
+        "pushed_at": "2026-10-28T02:20:13Z",
+        "updated_at": "2026-10-28T02:20:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b2d7e1aa238d15f1",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/run-llama/ParseBench",
+      "kind": "github_repository",
+      "name": "run-llama/ParseBench",
+      "url": "https://github.com/run-llama/ParseBench",
+      "provider": "GitHub",
+      "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 618,
+        "forks": 132,
+        "pushed_at": "2026-10-28T00:56:56Z",
+        "updated_at": "2026-10-28T00:57:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "37c0dcb717bdb48b",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/antflydb/antfly",
+      "kind": "github_repository",
+      "name": "antflydb/antfly",
+      "url": "https://github.com/antflydb/antfly",
+      "provider": "GitHub",
+      "description": "",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 476,
+        "forks": 32,
+        "pushed_at": "2026-10-28T02:20:52Z",
+        "updated_at": "2026-10-28T02:08:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c33a87a95c8aba5a",
+        "novel": false,
+        "dedup_age_days": 50
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/caipe-io/ai-platform-engineering",
+      "kind": "github_repository",
+      "name": "caipe-io/ai-platform-engineering",
+      "url": "https://github.com/caipe-io/ai-platform-engineering",
+      "provider": "GitHub",
+      "description": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 434,
+        "forks": 91,
+        "pushed_at": "2026-10-28T02:21:43Z",
+        "updated_at": "2026-10-28T02:21:46Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ca76548aa87843eb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Soodok/Deepseek-Harness-Local-Android",
+      "kind": "github_repository",
+      "name": "Soodok/Deepseek-Harness-Local-Android",
+      "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android",
+      "provider": "GitHub",
+      "description": "Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termux",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 363,
+        "forks": 28,
+        "pushed_at": "2026-10-28T02:22:01Z",
+        "updated_at": "2026-10-28T02:22:06Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "afcc34468d0c7ac0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/QuintinShaw/openasr",
+      "kind": "github_repository",
+      "name": "QuintinShaw/openasr",
+      "url": "https://github.com/QuintinShaw/openasr",
+      "provider": "GitHub",
+      "description": "Local-first speech-to-text: no cloud, no telemetry, fail-closed by design. One CLI, seven model families, signed model catalog, OpenAI-compatible local API.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 287,
+        "forks": 32,
+        "pushed_at": "2026-10-28T01:23:40Z",
+        "updated_at": "2026-10-28T01:23:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "369f748dd8b50b85",
+        "novel": false,
+        "dedup_age_days": 54
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/codecoradev/uteke",
+      "kind": "github_repository",
+      "name": "codecoradev/uteke",
+      "url": "https://github.com/codecoradev/uteke",
+      "provider": "GitHub",
+      "description": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 277,
+        "forks": 31,
+        "pushed_at": "2026-10-28T02:18:17Z",
+        "updated_at": "2026-10-28T02:18:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "59f308c0920ae171",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/baidu/Unlimited-OCR-2",
+      "kind": "hf_model",
+      "name": "baidu/Unlimited-OCR-2",
+      "url": "https://huggingface.co/models/baidu/Unlimited-OCR-2",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2606.23050",
+        "baidu",
+        "custom_code",
+        "feature-extraction",
+        "image-text-to-text",
+        "license:mit",
+        "multilingual",
+        "ocr",
+        "region:us",
+        "safetensors",
+        "transformers",
+        "unlimited-ocr",
+        "vision-language"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 513,
+        "likes": 250,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c958238ecc61b942",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/niyongsheng/AudioScript",
+      "kind": "github_repository",
+      "name": "niyongsheng/AudioScript",
+      "url": "https://github.com/niyongsheng/AudioScript",
+      "provider": "GitHub",
+      "description": "[讯飞同传]免费平替——本地系统语音实时转写，国际会议、英文播客、生肉影视，屏幕浮窗、实时字幕、离线识别。",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 240,
+        "forks": 47,
+        "pushed_at": "2026-10-28T01:11:34Z",
+        "updated_at": "2026-10-28T01:11:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "54a5069c353154bb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/qpst4/XGesture",
+      "kind": "github_repository",
+      "name": "qpst4/XGesture",
+      "url": "https://github.com/qpst4/XGesture",
+      "provider": "GitHub",
+      "description": "The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 239,
+        "forks": 17,
+        "pushed_at": "2026-10-28T02:16:29Z",
+        "updated_at": "2026-10-28T02:16:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d96839ed70c63acd",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jmagly/aiwg",
+      "kind": "github_repository",
+      "name": "jmagly/aiwg",
+      "url": "https://github.com/jmagly/aiwg",
+      "provider": "GitHub",
+      "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Codex, Copilot, Cursor and more, plus SDLC workflows, session memory, and Jev decision support that offloads bounded LLM decisions to save tokens.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 225,
+        "forks": 34,
+        "pushed_at": "2026-10-28T02:20:28Z",
+        "updated_at": "2026-10-28T02:20:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5e85b4402d1a40bc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/WizardTY/GEAR",
+      "kind": "hf_space",
+      "name": "WizardTY/GEAR",
+      "url": "https://huggingface.co/spaces/WizardTY/GEAR",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "harness",
+        "llm-agents",
+        "region:us",
+        "research",
+        "self-improvement",
+        "static"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 55,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9529204d2e61ae92",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
