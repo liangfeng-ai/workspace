@@ -1,0 +1,535 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T02:30:06.438889+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 18,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/orchard",
+      "kind": "official_repository",
+      "name": "openai/orchard",
+      "url": "https://github.com/openai/orchard",
+      "provider": "openai",
+      "description": "Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 587,
+        "pushed_at": "2026-10-22T17:33:18Z",
+        "updated_at": "2026-10-29T02:26:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "33a5edab97cff2d2",
+        "novel": false,
+        "dedup_age_days": 100
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/infiniflow/ragflow",
+      "kind": "github_repository",
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "provider": "GitHub",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 93028,
+        "forks": 11145,
+        "pushed_at": "2026-10-29T02:21:52Z",
+        "updated_at": "2026-10-29T02:22:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7049451086bb35e4",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/headroomlabs-ai/headroom",
+      "kind": "github_repository",
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "provider": "GitHub",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 78160,
+        "forks": 6088,
+        "pushed_at": "2026-10-29T02:26:15Z",
+        "updated_at": "2026-10-29T02:23:54Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1bb1732ceed994f7",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DeusData/codebase-memory-mcp",
+      "kind": "github_repository",
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "provider": "GitHub",
+      "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 47738,
+        "forks": 3928,
+        "pushed_at": "2026-10-29T02:29:49Z",
+        "updated_at": "2026-10-29T02:28:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6805c13b72ab2b8c",
+        "novel": false,
+        "dedup_age_days": 105
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/deepset-ai/haystack",
+      "kind": "github_repository",
+      "name": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "provider": "GitHub",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 26874,
+        "forks": 3354,
+        "pushed_at": "2026-10-29T02:12:29Z",
+        "updated_at": "2026-10-29T02:22:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ed200fd8cf1fbb40",
+        "novel": false,
+        "dedup_age_days": 62
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Osmantic/ODS",
+      "kind": "github_repository",
+      "name": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "provider": "GitHub",
+      "description": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7712,
+        "forks": 1100,
+        "pushed_at": "2026-10-29T02:09:34Z",
+        "updated_at": "2026-10-29T00:51:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "217acbd04b5164e0",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/strukto-ai/mirage",
+      "kind": "github_repository",
+      "name": "strukto-ai/mirage",
+      "url": "https://github.com/strukto-ai/mirage",
+      "provider": "GitHub",
+      "description": "The World's First Virtual Terminal for AI Agents",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3748,
+        "forks": 275,
+        "pushed_at": "2026-10-29T02:28:56Z",
+        "updated_at": "2026-10-29T02:29:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "153c67690867cc69",
+        "novel": false,
+        "dedup_age_days": 77
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kuafuai/andee",
+      "kind": "github_repository",
+      "name": "kuafuai/andee",
+      "url": "https://github.com/kuafuai/andee",
+      "provider": "GitHub",
+      "description": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any model; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆和密码绝不离开设备。",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3278,
+        "forks": 186,
+        "pushed_at": "2026-10-29T02:28:14Z",
+        "updated_at": "2026-10-29T02:28:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "279fd7bf30b4db62",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/chrisryugj/kordoc",
+      "kind": "github_repository",
+      "name": "chrisryugj/kordoc",
+      "url": "https://github.com/chrisryugj/kordoc",
+      "provider": "GitHub",
+      "description": "모두 파싱해버리겠다 — HWP·HWPX·PDF·Office 문서를 Markdown으로. 양식 자동 채우기와 신구대조를 갖춘 CLI·MCP 서버 | Convert Korean documents (HWP, HWPX, PDF, Office) to Markdown — CLI and MCP server with form filling and diff",
+      "capability_tags": [
+        "ocr",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2828,
+        "forks": 505,
+        "pushed_at": "2026-10-29T02:25:40Z",
+        "updated_at": "2026-10-29T02:25:44Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "739cc8e9fed947b7",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/shibing624/agentica",
+      "kind": "github_repository",
+      "name": "shibing624/agentica",
+      "url": "https://github.com/shibing624/agentica",
+      "provider": "GitHub",
+      "description": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and self-evolving skills. 一个人，一支 Agent 团队：支持多终端协作、持久记忆与技能自进化的 AI Agent 框架。",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 359,
+        "forks": 48,
+        "pushed_at": "2026-10-29T02:12:52Z",
+        "updated_at": "2026-10-29T02:12:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ec075e18574a00f6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dicklesworthstone/franken_ocr",
+      "kind": "github_repository",
+      "name": "Dicklesworthstone/franken_ocr",
+      "url": "https://github.com/Dicklesworthstone/franken_ocr",
+      "provider": "GitHub",
+      "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-model zoo, custom int8 kernels, no ML framework, no Python, no GPU.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 342,
+        "forks": 40,
+        "pushed_at": "2026-10-29T00:30:44Z",
+        "updated_at": "2026-10-29T00:30:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "33b4105fb78c45ed",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Translate-It-App/Translate-It",
+      "kind": "github_repository",
+      "name": "Translate-It-App/Translate-It",
+      "url": "https://github.com/Translate-It-App/Translate-It",
+      "provider": "GitHub",
+      "description": "Open-source translation extension for Chrome and Firefox with text, page, PDF, OCR, subtitles, and live dubbing.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 294,
+        "forks": 37,
+        "pushed_at": "2026-10-28T23:44:58Z",
+        "updated_at": "2026-10-28T23:44:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7a8872e7a75058b6",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/IngvarConsulting/unica",
+      "kind": "github_repository",
+      "name": "IngvarConsulting/unica",
+      "url": "https://github.com/IngvarConsulting/unica",
+      "provider": "GitHub",
+      "description": "Unica (Ю́ника) — публичный плагин Codex и Claude Code для разработки на 1С:Предприятии.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 234,
+        "forks": 35,
+        "pushed_at": "2026-10-29T02:27:50Z",
+        "updated_at": "2026-10-29T02:27:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "be0424fef20ff192",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Knuckles92/OpenWhisper",
+      "kind": "github_repository",
+      "name": "Knuckles92/OpenWhisper",
+      "url": "https://github.com/Knuckles92/OpenWhisper",
+      "provider": "GitHub",
+      "description": "Local dictation and meeting notes with Whisper or the OpenAI API. Custom Whisper models, MCP history access, and shared engines over LAN/Tailscale. Optional Parakeet/Nemotron (Windows x64, Linux x86_64), Qwen3-ASR/Moonshine (Windows x64), and Parakeet CPU/experimental MLX (Apple Silicon).",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 227,
+        "forks": 33,
+        "pushed_at": "2026-10-29T01:46:10Z",
+        "updated_at": "2026-10-29T01:46:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5f6e55844d224072",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "kind": "hf_model",
+      "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/models/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "ar",
+        "arxiv:2310.09424",
+        "asr",
+        "audio",
+        "audio-question-answering",
+        "automatic-speech-recognition",
+        "base_model:finetune:nvidia/nvidia-nemotron-3.5-lightning-30b-a3b-bf16",
+        "base_model:nvidia/nvidia-nemotron-3.5-lightning-30b-a3b-bf16",
+        "bg",
+        "bn",
+        "code-switching",
+        "cs",
+        "da",
+        "dataset:nvidia/granary-v2",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "eval-results",
+        "fi",
+        "fr",
+        "he",
+        "hf-asr-leaderboard",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "instruction-following",
+        "it",
+        "ja",
+        "ko",
+        "language-identification",
+        "license:other",
+        "long-form-audio",
+        "lt",
+        "lv",
+        "mr",
+        "mt",
+        "multilingual",
+        "nemo",
+        "nemo_speechlm",
+        "nemotron-3.5",
+        "nl",
+        "nvidia",
+        "pl",
+        "pt",
+        "pytorch",
+        "region:us",
+        "ro",
+        "ru",
+        "safetensors",
+        "sk",
+        "sl",
+        "speaker-diarization",
+        "speech",
+        "speech-to-text",
+        "speech-translation",
+        "sv",
+        "ta",
+        "te",
+        "text2text-generation",
+        "th",
+        "timestamps",
+        "tl",
+        "tr",
+        "transcription",
+        "transformers",
+        "uk",
+        "vi",
+        "zh"
+      ],
+      "input_output": "automatic-speech-recognition -> inference result",
+      "signals": {
+        "downloads": 338,
+        "likes": 203,
+        "updated_at": null,
+        "pipeline_tag": "automatic-speech-recognition"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c166ec9741f53da1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Zaneris/passenger",
+      "kind": "github_repository",
+      "name": "Zaneris/passenger",
+      "url": "https://github.com/Zaneris/passenger",
+      "provider": "GitHub",
+      "description": "An open-source IDE for C# and .NET, built with Avalonia, for Windows, macOS and Linux: a Roslyn-powered editor, its own debugger with Hot Reload, a CPU and memory profiler, XAML tooling for Avalonia and WPF, and an MCP server for coding agents.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 203,
+        "forks": 16,
+        "pushed_at": "2026-10-29T02:27:48Z",
+        "updated_at": "2026-10-29T02:27:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b163beb0aeab5cc8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/wank3r/qwen-image-2.1-uncensored-aio-loras-2",
+      "kind": "hf_space",
+      "name": "wank3r/qwen-image-2.1-uncensored-aio-loras-2",
+      "url": "https://huggingface.co/spaces/wank3r/qwen-image-2.1-uncensored-aio-loras-2",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 66,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cb930a65e761bc2e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime",
+      "kind": "hf_space",
+      "name": "linoyts/qwen-image-2-1-realtime",
+      "url": "https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 49,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7d0cfc4a2acdc814",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

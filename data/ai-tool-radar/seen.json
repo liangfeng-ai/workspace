@@ -98,7 +98,7 @@
       "fingerprint": "40dca180ef7e834b"
     },
     "github_repository:https://github.com/Osmantic/ODS": {
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-29",
       "fingerprint": "217acbd04b5164e0"
     },
     "github_repository:https://github.com/istupakov/onnx-asr": {
@@ -178,7 +178,7 @@
       "fingerprint": "472bbcf1726e26ef"
     },
     "github_repository:https://github.com/headroomlabs-ai/headroom": {
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-10-29",
       "fingerprint": "1bb1732ceed994f7"
     },
     "github_repository:https://github.com/promptfoo/promptfoo": {
@@ -406,7 +406,7 @@
       "fingerprint": "445db4344e2a0d95"
     },
     "github_repository:https://github.com/infiniflow/ragflow": {
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-29",
       "fingerprint": "7049451086bb35e4"
     },
     "github_repository:https://github.com/simstudioai/sim": {
@@ -514,7 +514,7 @@
       "fingerprint": "e7237a6de14af7d0"
     },
     "github_repository:https://github.com/DeusData/codebase-memory-mcp": {
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-10-29",
       "fingerprint": "6805c13b72ab2b8c"
     },
     "github_repository:https://github.com/Th0rgal/sandboxed.sh": {
@@ -990,7 +990,7 @@
       "fingerprint": "995981aca03f2fd4"
     },
     "official_repository:https://github.com/openai/orchard": {
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-10-29",
       "fingerprint": "33a5edab97cff2d2"
     },
     "official_repository:https://github.com/huggingface/speech-to-speech": {
@@ -1942,7 +1942,7 @@
       "fingerprint": "50798a071f666d74"
     },
     "github_repository:https://github.com/Dicklesworthstone/franken_ocr": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-29",
       "fingerprint": "33b4105fb78c45ed"
     },
     "github_repository:https://github.com/misyaguziya/VRCT": {
@@ -2242,7 +2242,7 @@
       "fingerprint": "7c47babc43eac6d9"
     },
     "github_repository:https://github.com/strukto-ai/mirage": {
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-10-29",
       "fingerprint": "153c67690867cc69"
     },
     "github_repository:https://github.com/coreyhaines31/makerskills": {
@@ -2942,7 +2942,7 @@
       "fingerprint": "70d829d8c45aeccd"
     },
     "github_repository:https://github.com/deepset-ai/haystack": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-10-29",
       "fingerprint": "ed200fd8cf1fbb40"
     },
     "github_repository:https://github.com/modelscope/evalscope": {
@@ -4006,7 +4006,7 @@
       "fingerprint": "3e063939a98e6e68"
     },
     "github_repository:https://github.com/Translate-It-App/Translate-It": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-29",
       "fingerprint": "7a8872e7a75058b6"
     },
     "github_repository:https://github.com/Chimahon/chimahon": {
@@ -4086,7 +4086,7 @@
       "fingerprint": "904e00401bc3dcb1"
     },
     "github_repository:https://github.com/chrisryugj/kordoc": {
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-29",
       "fingerprint": "739cc8e9fed947b7"
     },
     "github_repository:https://github.com/Haozhe-Xing/agent_learning": {
@@ -5028,6 +5028,38 @@
     "hf_space:https://huggingface.co/spaces/WizardTY/GEAR": {
       "last_seen": "2026-10-28",
       "fingerprint": "9529204d2e61ae92"
+    },
+    "github_repository:https://github.com/Knuckles92/OpenWhisper": {
+      "last_seen": "2026-10-29",
+      "fingerprint": "5f6e55844d224072"
+    },
+    "github_repository:https://github.com/IngvarConsulting/unica": {
+      "last_seen": "2026-10-29",
+      "fingerprint": "be0424fef20ff192"
+    },
+    "github_repository:https://github.com/Zaneris/passenger": {
+      "last_seen": "2026-10-29",
+      "fingerprint": "b163beb0aeab5cc8"
+    },
+    "github_repository:https://github.com/shibing624/agentica": {
+      "last_seen": "2026-10-29",
+      "fingerprint": "ec075e18574a00f6"
+    },
+    "github_repository:https://github.com/kuafuai/andee": {
+      "last_seen": "2026-10-29",
+      "fingerprint": "279fd7bf30b4db62"
+    },
+    "hf_model:https://huggingface.co/models/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B": {
+      "last_seen": "2026-10-29",
+      "fingerprint": "c166ec9741f53da1"
+    },
+    "hf_space:https://huggingface.co/spaces/wank3r/qwen-image-2.1-uncensored-aio-loras-2": {
+      "last_seen": "2026-10-29",
+      "fingerprint": "cb930a65e761bc2e"
+    },
+    "hf_space:https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime": {
+      "last_seen": "2026-10-29",
+      "fingerprint": "7d0cfc4a2acdc814"
     }
   }
 }
