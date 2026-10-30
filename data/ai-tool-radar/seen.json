@@ -46,7 +46,7 @@
       "fingerprint": "3d85ad4a151b3442"
     },
     "github_repository:https://github.com/realskyrin/capcap": {
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-30",
       "fingerprint": "e250cc8df7c6143f"
     },
     "github_repository:https://github.com/run-llama/liteparse": {
@@ -394,7 +394,7 @@
       "fingerprint": "f5ed541ee5844dbb"
     },
     "official_repository:https://github.com/huggingface/tau": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-30",
       "fingerprint": "a6b82e6a173cf32d"
     },
     "github_repository:https://github.com/1jehuang/jcode": {
@@ -622,7 +622,7 @@
       "fingerprint": "566396cd0b856c8e"
     },
     "github_repository:https://github.com/Javis603/token-monitor": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-30",
       "fingerprint": "eaf087af50450ed2"
     },
     "github_repository:https://github.com/Nexus-JPF/note-companion": {
@@ -1374,7 +1374,7 @@
       "fingerprint": "a9fe0de22090af6f"
     },
     "github_repository:https://github.com/codexu/note-gen": {
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-10-30",
       "fingerprint": "0216e148a244d021"
     },
     "github_repository:https://github.com/langchain-ai/langgraph": {
@@ -1598,7 +1598,7 @@
       "fingerprint": "22d5566bdc4f4e76"
     },
     "github_repository:https://github.com/opendatalab/MinerU": {
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-10-30",
       "fingerprint": "0c7f861b4ea3302d"
     },
     "github_repository:https://github.com/Uberi/speech_recognition": {
@@ -2710,7 +2710,7 @@
       "fingerprint": "266fe62bad9c2672"
     },
     "github_repository:https://github.com/zclucas/RMT": {
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-10-30",
       "fingerprint": "a38ec207564e3df5"
     },
     "github_repository:https://github.com/kmonkeyhead/MORT": {
@@ -2918,7 +2918,7 @@
       "fingerprint": "76fa8839a0817574"
     },
     "github_repository:https://github.com/0xShug0/audio.cpp": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-30",
       "fingerprint": "a3579054edfd7cbf"
     },
     "github_repository:https://github.com/onecli/onecli": {
@@ -3130,7 +3130,7 @@
       "fingerprint": "8525b1ccfb1c1ead"
     },
     "github_repository:https://github.com/meizhong986/WhisperJAV": {
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-10-30",
       "fingerprint": "7c4987afc1152e20"
     },
     "github_repository:https://github.com/QwenAudio/Fun-ASR": {
@@ -3438,7 +3438,7 @@
       "fingerprint": "86fde8393b18c547"
     },
     "github_repository:https://github.com/linshenkx/prompt-optimizer": {
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-10-30",
       "fingerprint": "a2b4479903cc1b85"
     },
     "github_repository:https://github.com/farion1231/cc-switch": {
@@ -4002,7 +4002,7 @@
       "fingerprint": "e315e536e0264b8d"
     },
     "github_repository:https://github.com/MichaelKinsy/PiG": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-30",
       "fingerprint": "3e063939a98e6e68"
     },
     "github_repository:https://github.com/Translate-It-App/Translate-It": {
@@ -4074,7 +4074,7 @@
       "fingerprint": "0467d52315343c47"
     },
     "github_repository:https://github.com/SylphxAI/anymd": {
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-30",
       "fingerprint": "f81466e00a6d2c18"
     },
     "github_repository:https://github.com/jev-chat/jev-chat-jarvis-mac": {
@@ -5060,6 +5060,30 @@
     "hf_space:https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime": {
       "last_seen": "2026-10-29",
       "fingerprint": "7d0cfc4a2acdc814"
+    },
+    "github_repository:https://github.com/OpenBMB/MiniCPM-OCR": {
+      "last_seen": "2026-10-30",
+      "fingerprint": "fc39dba696a64b16"
+    },
+    "github_repository:https://github.com/zereight/gitlab-mcp": {
+      "last_seen": "2026-10-30",
+      "fingerprint": "0a060aba4fe103a1"
+    },
+    "hf_model:https://huggingface.co/models/mistralai/Mistral-Large-4-1T-A52B": {
+      "last_seen": "2026-10-30",
+      "fingerprint": "0b37fb72365b6dd8"
+    },
+    "hf_model:https://huggingface.co/models/LiquidAI/LFM3-Omni-2B": {
+      "last_seen": "2026-10-30",
+      "fingerprint": "eb10c37bfd0661b5"
+    },
+    "hf_model:https://huggingface.co/models/openbmb/MiniCPM-OCR-1.0": {
+      "last_seen": "2026-10-30",
+      "fingerprint": "e37da80b0b35b365"
+    },
+    "hf_space:https://huggingface.co/spaces/a-test-user-in-the-wrold/qwen-image-21-uncensored": {
+      "last_seen": "2026-10-30",
+      "fingerprint": "6d88cd758160193e"
     }
   }
 }

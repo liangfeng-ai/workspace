@@ -1,0 +1,543 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T02:40:38.640599+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 17,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/tau",
+      "kind": "official_repository",
+      "name": "huggingface/tau",
+      "url": "https://github.com/huggingface/tau",
+      "provider": "huggingface",
+      "description": "A Python port of Pi’s minimalist coding agent.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 3002,
+        "pushed_at": "2026-10-27T17:41:20Z",
+        "updated_at": "2026-10-30T02:36:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a6b82e6a173cf32d",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/opendatalab/MinerU",
+      "kind": "github_repository",
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "provider": "GitHub",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 82769,
+        "forks": 6844,
+        "pushed_at": "2026-10-30T02:37:11Z",
+        "updated_at": "2026-10-30T02:36:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0c7f861b4ea3302d",
+        "novel": false,
+        "dedup_age_days": 46
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/linshenkx/prompt-optimizer",
+      "kind": "github_repository",
+      "name": "linshenkx/prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "provider": "GitHub",
+      "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 39819,
+        "forks": 4513,
+        "pushed_at": "2026-10-30T02:31:49Z",
+        "updated_at": "2026-10-30T02:31:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a2b4479903cc1b85",
+        "novel": false,
+        "dedup_age_days": 49
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/codexu/note-gen",
+      "kind": "github_repository",
+      "name": "codexu/note-gen",
+      "url": "https://github.com/codexu/note-gen",
+      "provider": "GitHub",
+      "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12937,
+        "forks": 978,
+        "pushed_at": "2026-10-30T02:39:39Z",
+        "updated_at": "2026-10-30T02:39:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0216e148a244d021",
+        "novel": false,
+        "dedup_age_days": 51
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/0xShug0/audio.cpp",
+      "kind": "github_repository",
+      "name": "0xShug0/audio.cpp",
+      "url": "https://github.com/0xShug0/audio.cpp",
+      "provider": "GitHub",
+      "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3856,
+        "forks": 467,
+        "pushed_at": "2026-10-30T01:23:37Z",
+        "updated_at": "2026-10-30T01:49:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a3579054edfd7cbf",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Javis603/token-monitor",
+      "kind": "github_repository",
+      "name": "Javis603/token-monitor",
+      "url": "https://github.com/Javis603/token-monitor",
+      "provider": "GitHub",
+      "description": "Local-first desktop widget for tracking token usage, costs, limits, and session activity across 47+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3453,
+        "forks": 329,
+        "pushed_at": "2026-10-30T02:37:30Z",
+        "updated_at": "2026-10-30T02:18:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "eaf087af50450ed2",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/meizhong986/WhisperJAV",
+      "kind": "github_repository",
+      "name": "meizhong986/WhisperJAV",
+      "url": "https://github.com/meizhong986/WhisperJAV",
+      "provider": "GitHub",
+      "description": "ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2392,
+        "forks": 203,
+        "pushed_at": "2026-10-30T01:28:05Z",
+        "updated_at": "2026-10-30T01:28:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7c4987afc1152e20",
+        "novel": false,
+        "dedup_age_days": 58
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zereight/gitlab-mcp",
+      "kind": "github_repository",
+      "name": "zereight/gitlab-mcp",
+      "url": "https://github.com/zereight/gitlab-mcp",
+      "provider": "GitHub",
+      "description": "MCP server for GitLab: 277 tools for projects, MRs, issues, pipelines, wikis and more via the GitLab REST/GraphQL API",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2077,
+        "forks": 365,
+        "pushed_at": "2026-10-30T02:39:03Z",
+        "updated_at": "2026-10-30T02:39:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0a060aba4fe103a1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/mistralai/Mistral-Large-4-1T-A52B",
+      "kind": "hf_model",
+      "name": "mistralai/Mistral-Large-4-1T-A52B",
+      "url": "https://huggingface.co/models/mistralai/Mistral-Large-4-1T-A52B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "ar",
+        "bg",
+        "bn",
+        "conversational",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "endpoints_compatible",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fp8",
+        "fr",
+        "ga",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "image-text-to-text",
+        "it",
+        "ja",
+        "ko",
+        "license:other",
+        "llama.cpp",
+        "lt",
+        "lv",
+        "mistral_large4",
+        "ms",
+        "mt",
+        "ne",
+        "nl",
+        "pl",
+        "pt",
+        "region:us",
+        "ro",
+        "ru",
+        "sglang",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "tr",
+        "transformers",
+        "uk",
+        "vi",
+        "vllm",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 278,
+        "likes": 1228,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0b37fb72365b6dd8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zclucas/RMT",
+      "kind": "github_repository",
+      "name": "zclucas/RMT",
+      "url": "https://github.com/zclucas/RMT",
+      "provider": "GitHub",
+      "description": "RMT (RuoMengTu) is a free, open-source macro tool built on AHKv2. Let the code handle the tedious work—you have more meaningful things to do.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1168,
+        "forks": 96,
+        "pushed_at": "2026-10-30T02:22:10Z",
+        "updated_at": "2026-10-30T02:22:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a38ec207564e3df5",
+        "novel": false,
+        "dedup_age_days": 66
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SylphxAI/anymd",
+      "kind": "github_repository",
+      "name": "SylphxAI/anymd",
+      "url": "https://github.com/SylphxAI/anymd",
+      "provider": "GitHub",
+      "description": "Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that runs on your machine. No API key.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1059,
+        "forks": 93,
+        "pushed_at": "2026-10-30T02:14:50Z",
+        "updated_at": "2026-10-30T02:23:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f81466e00a6d2c18",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/realskyrin/capcap",
+      "kind": "github_repository",
+      "name": "realskyrin/capcap",
+      "url": "https://github.com/realskyrin/capcap",
+      "provider": "GitHub",
+      "description": "⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1028,
+        "forks": 79,
+        "pushed_at": "2026-10-30T02:34:53Z",
+        "updated_at": "2026-10-30T02:34:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e250cc8df7c6143f",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/MichaelKinsy/PiG",
+      "kind": "github_repository",
+      "name": "MichaelKinsy/PiG",
+      "url": "https://github.com/MichaelKinsy/PiG",
+      "provider": "GitHub",
+      "description": "PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding agent. It is a parity-bound translation, not a rewrite: upstream behavior is the contract, and Go is the implementation language.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 776,
+        "forks": 64,
+        "pushed_at": "2026-10-30T02:33:42Z",
+        "updated_at": "2026-10-30T02:24:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3e063939a98e6e68",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/OpenBMB/MiniCPM-OCR",
+      "kind": "github_repository",
+      "name": "OpenBMB/MiniCPM-OCR",
+      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+      "provider": "GitHub",
+      "description": "Fast, accurate OCR with correctness assessment.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 540,
+        "forks": 30,
+        "pushed_at": "2026-10-30T02:28:15Z",
+        "updated_at": "2026-10-30T02:39:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fc39dba696a64b16",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/openbmb/MiniCPM-OCR-1.0",
+      "kind": "hf_model",
+      "name": "openbmb/MiniCPM-OCR-1.0",
+      "url": "https://huggingface.co/models/openbmb/MiniCPM-OCR-1.0",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:finetune:openbmb/minicpm-v-4.6",
+        "base_model:openbmb/minicpm-v-4.6",
+        "conversational",
+        "document-parsing",
+        "en",
+        "formula-recognition",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "minicpm-ocr",
+        "minicpm_ocr",
+        "multimodal",
+        "ocr",
+        "region:us",
+        "safetensors",
+        "table-recognition",
+        "vision-language",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 1597,
+        "likes": 328,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e37da80b0b35b365",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/LiquidAI/LFM3-Omni-2B",
+      "kind": "hf_model",
+      "name": "LiquidAI/LFM3-Omni-2B",
+      "url": "https://huggingface.co/models/LiquidAI/LFM3-Omni-2B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "any-to-any",
+        "ar",
+        "audio",
+        "conversational",
+        "custom_code",
+        "da",
+        "de",
+        "edge",
+        "el",
+        "en",
+        "es",
+        "eval-results",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "id",
+        "image-text-to-text",
+        "it",
+        "ja",
+        "ko",
+        "lfm3",
+        "lfm3-omni",
+        "lfm3_omni",
+        "license:other",
+        "liquid",
+        "nl",
+        "omni",
+        "pl",
+        "pt",
+        "region:us",
+        "ru",
+        "safetensors",
+        "speech-to-speech",
+        "sv",
+        "th",
+        "tr",
+        "transformers",
+        "vi",
+        "vision",
+        "zh"
+      ],
+      "input_output": "any-to-any -> inference result",
+      "signals": {
+        "downloads": 1814,
+        "likes": 207,
+        "updated_at": null,
+        "pipeline_tag": "any-to-any"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "eb10c37bfd0661b5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/a-test-user-in-the-wrold/qwen-image-21-uncensored",
+      "kind": "hf_space",
+      "name": "a-test-user-in-the-wrold/qwen-image-21-uncensored",
+      "url": "https://huggingface.co/spaces/a-test-user-in-the-wrold/qwen-image-21-uncensored",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 48,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6d88cd758160193e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/search/repositories?q=topic%3Arag+stars%3A%3E%3D200+pushed%3A%3E%3D2026-09-30+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Aai-agents+stars%3A%3E%3D200+pushed%3A%3E%3D2026-09-30+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded"
+  ],
+  "status": "partial"
+}
