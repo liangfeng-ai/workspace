@@ -1,0 +1,405 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T03:57:10.294556+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 14,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/smolagents",
+      "kind": "official_repository",
+      "name": "huggingface/smolagents",
+      "url": "https://github.com/huggingface/smolagents",
+      "provider": "huggingface",
+      "description": "🤗 smolagents: a barebones library for agents that think in code.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 30194,
+        "pushed_at": "2026-10-29T12:52:33Z",
+        "updated_at": "2026-11-03T03:46:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "188634f04cdf1679",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NVIDIA/NemoClaw",
+      "kind": "github_repository",
+      "name": "NVIDIA/NemoClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "provider": "GitHub",
+      "description": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 22922,
+        "forks": 3193,
+        "pushed_at": "2026-11-03T03:56:32Z",
+        "updated_at": "2026-11-03T03:53:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e510266a5bf01210",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/metalbear-co/mirrord",
+      "kind": "github_repository",
+      "name": "metalbear-co/mirrord",
+      "url": "https://github.com/metalbear-co/mirrord",
+      "provider": "GitHub",
+      "description": "Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5401,
+        "forks": 226,
+        "pushed_at": "2026-11-03T03:54:22Z",
+        "updated_at": "2026-11-03T03:54:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b194d798f144f754",
+        "novel": false,
+        "dedup_age_days": 61
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/oceanbase/seekdb",
+      "kind": "github_repository",
+      "name": "oceanbase/seekdb",
+      "url": "https://github.com/oceanbase/seekdb",
+      "provider": "GitHub",
+      "description": "The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one database makes agents smarter, easier to run, and more stable.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3223,
+        "forks": 1212,
+        "pushed_at": "2026-11-03T03:48:18Z",
+        "updated_at": "2026-11-03T03:48:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5a0331548045ff16",
+        "novel": false,
+        "dedup_age_days": 106
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zzet/gortex",
+      "kind": "github_repository",
+      "name": "zzet/gortex",
+      "url": "https://github.com/zzet/gortex",
+      "provider": "GitHub",
+      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1950,
+        "forks": 191,
+        "pushed_at": "2026-11-03T03:43:38Z",
+        "updated_at": "2026-11-03T03:43:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7e1680d601142c48",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/trpc-group/trpc-agent-go",
+      "kind": "github_repository",
+      "name": "trpc-group/trpc-agent-go",
+      "url": "https://github.com/trpc-group/trpc-agent-go",
+      "provider": "GitHub",
+      "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1896,
+        "forks": 335,
+        "pushed_at": "2026-11-03T03:52:17Z",
+        "updated_at": "2026-11-03T03:52:22Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "65cf3213a52e79a2",
+        "novel": false,
+        "dedup_age_days": 111
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rapidaai/voice-ai",
+      "kind": "github_repository",
+      "name": "rapidaai/voice-ai",
+      "url": "https://github.com/rapidaai/voice-ai",
+      "provider": "GitHub",
+      "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 752,
+        "forks": 124,
+        "pushed_at": "2026-11-03T03:09:17Z",
+        "updated_at": "2026-11-03T02:21:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3323fa9ba690e8b1",
+        "novel": false,
+        "dedup_age_days": 85
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Ancienttwo/repo-harness",
+      "kind": "github_repository",
+      "name": "Ancienttwo/repo-harness",
+      "url": "https://github.com/Ancienttwo/repo-harness",
+      "provider": "GitHub",
+      "description": "File-backed workflow harness for reliable Claude Code and Codex sessions.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 435,
+        "forks": 35,
+        "pushed_at": "2026-11-03T03:55:02Z",
+        "updated_at": "2026-11-03T03:54:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ddc15867d9392b61",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AmrDab/clawdcursor",
+      "kind": "github_repository",
+      "name": "AmrDab/clawdcursor",
+      "url": "https://github.com/AmrDab/clawdcursor",
+      "provider": "GitHub",
+      "description": "Local MCP server that gives any AI agent safe desktop control on Windows, macOS and Linux. Reads the screen as text and structure (accessibility + OCR) and acts by element name, with screenshots as the last resort. Multi-monitor aware, verifies every action, one safety gate.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 406,
+        "forks": 59,
+        "pushed_at": "2026-11-03T03:52:05Z",
+        "updated_at": "2026-11-03T03:38:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e315e536e0264b8d",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DitriXNew/EDT-MCP",
+      "kind": "github_repository",
+      "name": "DitriXNew/EDT-MCP",
+      "url": "https://github.com/DitriXNew/EDT-MCP",
+      "provider": "GitHub",
+      "description": "MCP for 1C:EDT",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 325,
+        "forks": 63,
+        "pushed_at": "2026-11-03T03:55:27Z",
+        "updated_at": "2026-11-03T03:55:31Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4545d2c0187c0744",
+        "novel": false,
+        "dedup_age_days": 74
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Edge0/Audio8-TTS-Realistic-Air",
+      "kind": "hf_model",
+      "name": "Edge0/Audio8-TTS-Realistic-Air",
+      "url": "https://huggingface.co/models/Edge0/Audio8-TTS-Realistic-Air",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "ar",
+        "arktts",
+        "arxiv:2610.14776",
+        "audio",
+        "base_model:edge0/audio8-tts-preview-0.6b",
+        "base_model:finetune:edge0/audio8-tts-preview-0.6b",
+        "custom_code",
+        "de",
+        "en",
+        "es",
+        "feature-extraction",
+        "fi",
+        "fr",
+        "hi",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "license:apache-2.0",
+        "ms",
+        "multilingual",
+        "nl",
+        "no",
+        "pl",
+        "pt",
+        "region:us",
+        "ru",
+        "safetensors",
+        "sv",
+        "text-to-speech",
+        "th",
+        "tr",
+        "transformers",
+        "tts",
+        "vi",
+        "voice-cloning",
+        "yue",
+        "zero-shot",
+        "zh"
+      ],
+      "input_output": "text-to-speech -> inference result",
+      "signals": {
+        "downloads": 7259,
+        "likes": 250,
+        "updated_at": null,
+        "pipeline_tag": "text-to-speech"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "eaaf487ff607731a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/toolsdk-ai/toolsdk-mcp-registry",
+      "kind": "github_repository",
+      "name": "toolsdk-ai/toolsdk-mcp-registry",
+      "url": "https://github.com/toolsdk-ai/toolsdk-mcp-registry",
+      "provider": "GitHub",
+      "description": "MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR...",
+      "capability_tags": [
+        "ai-tools",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 208,
+        "forks": 759,
+        "pushed_at": "2026-11-03T03:55:43Z",
+        "updated_at": "2026-11-03T03:55:47Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7eac6aad5b7b1a11",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "kind": "hf_space",
+      "name": "aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "url": "https://huggingface.co/spaces/aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 54,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7c270a40dcc3850f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/Guaryn/qwen-image-2.1-uncensored-aio-loras",
+      "kind": "hf_space",
+      "name": "Guaryn/qwen-image-2.1-uncensored-aio-loras",
+      "url": "https://huggingface.co/spaces/Guaryn/qwen-image-2.1-uncensored-aio-loras",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 51,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c69a922a3759e31a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
