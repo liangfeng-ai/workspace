@@ -498,7 +498,7 @@
       "fingerprint": "f73e07ccd3b52335"
     },
     "github_repository:https://github.com/TypeWhisper/typewhisper-mac": {
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-04",
       "fingerprint": "21be25c577ceec48"
     },
     "github_repository:https://github.com/Blaizzy/mlx-audio-swift": {
@@ -1422,7 +1422,7 @@
       "fingerprint": "0eb890163f567095"
     },
     "github_repository:https://github.com/FrigadeHQ/yap": {
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-11-04",
       "fingerprint": "2c50dee0e379a641"
     },
     "github_repository:https://github.com/backmeupplz/voicy": {
@@ -1714,7 +1714,7 @@
       "fingerprint": "625ea0287f561aa5"
     },
     "official_repository:https://github.com/openai/openai-agents-python": {
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-11-04",
       "fingerprint": "77fd46ca26fe0c82"
     },
     "hf_model:https://huggingface.co/models/thinkingmachines/Inkling-Small": {
@@ -2854,7 +2854,7 @@
       "fingerprint": "507ae75632266812"
     },
     "github_repository:https://github.com/t8y2/dbx": {
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-11-04",
       "fingerprint": "9573535c823669e1"
     },
     "github_repository:https://github.com/ongridio/ongrid": {
@@ -3474,7 +3474,7 @@
       "fingerprint": "9a8b4b6967086761"
     },
     "github_repository:https://github.com/yifanfeng97/Hyper-Extract": {
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-11-04",
       "fingerprint": "44837200620ebc04"
     },
     "github_repository:https://github.com/lycorp-jp/sim-use": {
@@ -4138,7 +4138,7 @@
       "fingerprint": "86b917667b464071"
     },
     "github_repository:https://github.com/leon-ai/leon": {
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-11-04",
       "fingerprint": "2bbde92ccf0cbf6b"
     },
     "github_repository:https://github.com/ascending-llc/jarvis-registry": {
@@ -4294,7 +4294,7 @@
       "fingerprint": "e17ed1f5ab991126"
     },
     "hf_space:https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap": {
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-11-04",
       "fingerprint": "41b9468b9086503b"
     },
     "github_repository:https://github.com/Twigpine/openclaude": {
@@ -5160,6 +5160,54 @@
     "hf_space:https://huggingface.co/spaces/Guaryn/qwen-image-2.1-uncensored-aio-loras": {
       "last_seen": "2026-11-03",
       "fingerprint": "c69a922a3759e31a"
+    },
+    "github_repository:https://github.com/edison7009/EchoBird": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "287d2722866aa6ee"
+    },
+    "github_repository:https://github.com/valkia/aramgg_client": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "2c66d94ab06f0a7e"
+    },
+    "github_repository:https://github.com/yjid/kensaku": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "a4228b713eb491cf"
+    },
+    "github_repository:https://github.com/jfarcand/mirroir-mcp": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "5d1949f32b4699a8"
+    },
+    "github_repository:https://github.com/udecode/plate": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "e1cdc49a087d2df5"
+    },
+    "github_repository:https://github.com/Blave-TW/blave-agent": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "ece3a5e597ceeb3e"
+    },
+    "github_repository:https://github.com/vstorm-co/agenticos": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "5082adb5428ecbbf"
+    },
+    "github_repository:https://github.com/himovo/movo": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "4751cf62e8979a19"
+    },
+    "github_repository:https://github.com/OrgoAI/bops": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "7145766b0aa00099"
+    },
+    "github_repository:https://github.com/devswha/ovis": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "9e413318d4ca87d6"
+    },
+    "official_repository:https://github.com/huggingface/deep-rl-class": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "40e42d104c86fe74"
+    },
+    "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Turbo-Quantized": {
+      "last_seen": "2026-11-04",
+      "fingerprint": "a90338aa133f5940"
     }
   }
 }

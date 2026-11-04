@@ -1,0 +1,499 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T03:01:59.229017+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/openai-agents-python",
+      "kind": "official_repository",
+      "name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "provider": "openai",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 30487,
+        "pushed_at": "2026-11-04T02:36:42Z",
+        "updated_at": "2026-11-04T02:47:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "77fd46ca26fe0c82",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/deep-rl-class",
+      "kind": "official_repository",
+      "name": "huggingface/deep-rl-class",
+      "url": "https://github.com/huggingface/deep-rl-class",
+      "provider": "huggingface",
+      "description": "This repo contains the Hugging Face Deep Reinforcement Learning Course.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 5088,
+        "pushed_at": "2026-10-14T16:17:32Z",
+        "updated_at": "2026-11-04T02:53:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "40e42d104c86fe74",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/t8y2/dbx",
+      "kind": "github_repository",
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "provider": "GitHub",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 28963,
+        "forks": 2644,
+        "pushed_at": "2026-11-04T03:00:19Z",
+        "updated_at": "2026-11-04T03:00:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9573535c823669e1",
+        "novel": false,
+        "dedup_age_days": 69
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/leon-ai/leon",
+      "kind": "github_repository",
+      "name": "leon-ai/leon",
+      "url": "https://github.com/leon-ai/leon",
+      "provider": "GitHub",
+      "description": "🧠 Leon is your open-source personal assistant.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 17635,
+        "forks": 1479,
+        "pushed_at": "2026-11-04T01:51:55Z",
+        "updated_at": "2026-11-04T01:52:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2bbde92ccf0cbf6b",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/udecode/plate",
+      "kind": "github_repository",
+      "name": "udecode/plate",
+      "url": "https://github.com/udecode/plate",
+      "provider": "GitHub",
+      "description": "Rich-text editor with AI and shadcn/ui",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 16686,
+        "forks": 998,
+        "pushed_at": "2026-11-04T03:00:28Z",
+        "updated_at": "2026-11-04T03:00:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e1cdc49a087d2df5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+      "kind": "hf_model",
+      "name": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+      "url": "https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:quantized:qwen/qwen-image-2.1-turbo",
+        "base_model:qwen/qwen-image-2.1-turbo",
+        "comfyui",
+        "comfyui-gguf",
+        "fp8",
+        "gguf",
+        "image-generation",
+        "license:other",
+        "mlx",
+        "nvfp4",
+        "qwen",
+        "region:us",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 2508590,
+        "likes": 5624,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a90338aa133f5940",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yifanfeng97/Hyper-Extract",
+      "kind": "github_repository",
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "provider": "GitHub",
+      "description": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4211,
+        "forks": 483,
+        "pushed_at": "2026-11-04T02:58:59Z",
+        "updated_at": "2026-11-04T02:59:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "44837200620ebc04",
+        "novel": false,
+        "dedup_age_days": 54
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/edison7009/EchoBird",
+      "kind": "github_repository",
+      "name": "edison7009/EchoBird",
+      "url": "https://github.com/edison7009/EchoBird",
+      "provider": "GitHub",
+      "description": "All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonus: a Token Pet that grows as you use AI.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3509,
+        "forks": 403,
+        "pushed_at": "2026-11-04T02:21:11Z",
+        "updated_at": "2026-11-04T02:21:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "287d2722866aa6ee",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/TypeWhisper/typewhisper-mac",
+      "kind": "github_repository",
+      "name": "TypeWhisper/typewhisper-mac",
+      "url": "https://github.com/TypeWhisper/typewhisper-mac",
+      "provider": "GitHub",
+      "description": "Local speech-to-text for macOS on-device AI, fully private, optional cloud",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1905,
+        "forks": 153,
+        "pushed_at": "2026-11-04T02:29:32Z",
+        "updated_at": "2026-11-04T02:29:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "21be25c577ceec48",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/devswha/ovis",
+      "kind": "github_repository",
+      "name": "devswha/ovis",
+      "url": "https://github.com/devswha/ovis",
+      "provider": "GitHub",
+      "description": "Ovis (formerly herdr web UI): free, open-source browser and phone client for herdr. Chat and live terminal for Claude Code, Codex and every agent pane, remote PCs over SSH, web push alerts",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1852,
+        "forks": 258,
+        "pushed_at": "2026-11-04T03:00:23Z",
+        "updated_at": "2026-11-04T03:00:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9e413318d4ca87d6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yjid/kensaku",
+      "kind": "github_repository",
+      "name": "yjid/kensaku",
+      "url": "https://github.com/yjid/kensaku",
+      "provider": "GitHub",
+      "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 731,
+        "forks": 49,
+        "pushed_at": "2026-11-04T01:54:48Z",
+        "updated_at": "2026-11-04T01:54:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a4228b713eb491cf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+      "kind": "hf_space",
+      "name": "hugging-apps/bfs-best-face-swap",
+      "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 726,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "41b9468b9086503b",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/valkia/aramgg_client",
+      "kind": "github_repository",
+      "name": "valkia/aramgg_client",
+      "url": "https://github.com/valkia/aramgg_client",
+      "provider": "GitHub",
+      "description": "Windows companion for League of Legends ARAM Mayhem with read-only LCU recommendations, Hextech Augment stats, and in-game OCR overlays.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 632,
+        "forks": 11,
+        "pushed_at": "2026-11-04T02:02:44Z",
+        "updated_at": "2026-11-04T02:53:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2c66d94ab06f0a7e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/himovo/movo",
+      "kind": "github_repository",
+      "name": "himovo/movo",
+      "url": "https://github.com/himovo/movo",
+      "provider": "GitHub",
+      "description": "Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 517,
+        "forks": 122,
+        "pushed_at": "2026-11-04T02:59:23Z",
+        "updated_at": "2026-11-04T02:58:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4751cf62e8979a19",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/FrigadeHQ/yap",
+      "kind": "github_repository",
+      "name": "FrigadeHQ/yap",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "provider": "GitHub",
+      "description": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud/no API keys/no account.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 465,
+        "forks": 34,
+        "pushed_at": "2026-11-04T00:24:29Z",
+        "updated_at": "2026-11-04T00:23:35Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2c50dee0e379a641",
+        "novel": false,
+        "dedup_age_days": 50
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/OrgoAI/bops",
+      "kind": "github_repository",
+      "name": "OrgoAI/bops",
+      "url": "https://github.com/OrgoAI/bops",
+      "provider": "GitHub",
+      "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 433,
+        "forks": 149,
+        "pushed_at": "2026-11-04T03:01:12Z",
+        "updated_at": "2026-11-04T03:01:15Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7145766b0aa00099",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/jfarcand/mirroir-mcp",
+      "kind": "github_repository",
+      "name": "jfarcand/mirroir-mcp",
+      "url": "https://github.com/jfarcand/mirroir-mcp",
+      "provider": "GitHub",
+      "description": "Drive a real, stock iPhone (and any macOS app) from any MCP client via iPhone Mirroring — no Developer Mode, no Xcode, no WebDriverAgent. Tap, swipe, type, OCR, plus replayable AI-authored test skills.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 278,
+        "forks": 38,
+        "pushed_at": "2026-11-04T01:44:51Z",
+        "updated_at": "2026-11-04T01:35:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5d1949f32b4699a8",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Blave-TW/blave-agent",
+      "kind": "github_repository",
+      "name": "Blave-TW/blave-agent",
+      "url": "https://github.com/Blave-TW/blave-agent",
+      "provider": "GitHub",
+      "description": "Quant infrastructure for AI agents — a free, open-source desktop workspace for macOS and Windows where your Claude Code or Codex turns a trading idea into a backtested strategy and runs it live.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 258,
+        "forks": 31,
+        "pushed_at": "2026-11-04T02:59:56Z",
+        "updated_at": "2026-11-04T03:00:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ece3a5e597ceeb3e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vstorm-co/agenticos",
+      "kind": "github_repository",
+      "name": "vstorm-co/agenticos",
+      "url": "https://github.com/vstorm-co/agenticos",
+      "provider": "GitHub",
+      "description": "Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 205,
+        "forks": 35,
+        "pushed_at": "2026-11-04T02:58:20Z",
+        "updated_at": "2026-11-04T02:58:12Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5082adb5428ecbbf",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
