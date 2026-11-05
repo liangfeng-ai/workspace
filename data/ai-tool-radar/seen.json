@@ -610,7 +610,7 @@
       "fingerprint": "20773a1654ce917e"
     },
     "github_repository:https://github.com/Stack-Cairn/LiveAgent": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-11-05",
       "fingerprint": "a5e02f69b8a5e28c"
     },
     "github_repository:https://github.com/voidcraft-dev/memory-forge-rs": {
@@ -770,7 +770,7 @@
       "fingerprint": "519ae24dd1ce20f0"
     },
     "github_repository:https://github.com/STranslate/STranslate": {
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-11-05",
       "fingerprint": "22e15e61085b4d92"
     },
     "github_repository:https://github.com/karolswdev/HoldSpeak": {
@@ -786,7 +786,7 @@
       "fingerprint": "bc8754fe7146b6cb"
     },
     "github_repository:https://github.com/goodroot/hyprwhspr": {
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-05",
       "fingerprint": "57b7a9445ca2eaca"
     },
     "github_repository:https://github.com/osaurus-ai/osaurus": {
@@ -1078,7 +1078,7 @@
       "fingerprint": "b1ecce1c76d17f78"
     },
     "github_repository:https://github.com/dolthub/dolt": {
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-11-05",
       "fingerprint": "49a3af706b0b737f"
     },
     "github_repository:https://github.com/nesquena/hermes-webui": {
@@ -1946,7 +1946,7 @@
       "fingerprint": "33b4105fb78c45ed"
     },
     "github_repository:https://github.com/misyaguziya/VRCT": {
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-11-05",
       "fingerprint": "09daf1de6c558e41"
     },
     "github_repository:https://github.com/mahimairaja/voiceai": {
@@ -2498,7 +2498,7 @@
       "fingerprint": "261815133b681ec9"
     },
     "official_repository:https://github.com/mistralai/cli": {
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-11-05",
       "fingerprint": "541cb2183af89f07"
     },
     "official_repository:https://github.com/openai/openai-python": {
@@ -3650,7 +3650,7 @@
       "fingerprint": "1dcd3d8cd574aba9"
     },
     "github_repository:https://github.com/wangzhishou/OneBox": {
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-05",
       "fingerprint": "80ba7e74918d4a7b"
     },
     "github_repository:https://github.com/ExtractPDF4J/ExtractPDF4J": {
@@ -4134,7 +4134,7 @@
       "fingerprint": "628090b1c579d419"
     },
     "github_repository:https://github.com/1003129155/jietuba": {
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-11-05",
       "fingerprint": "86b917667b464071"
     },
     "github_repository:https://github.com/leon-ai/leon": {
@@ -4334,7 +4334,7 @@
       "fingerprint": "62e157f61e236f1f"
     },
     "github_repository:https://github.com/Gaurav-Gosain/tuios": {
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-11-05",
       "fingerprint": "5add5fb1c0695e0d"
     },
     "github_repository:https://github.com/Dicklesworthstone/ultimate_bug_scanner": {
@@ -5208,6 +5208,50 @@
     "hf_model:https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Turbo-Quantized": {
       "last_seen": "2026-11-04",
       "fingerprint": "a90338aa133f5940"
+    },
+    "github_repository:https://github.com/SergeyShk/Speech-to-Text-Russian": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "d42fefe725430824"
+    },
+    "github_repository:https://github.com/techjarves/Portable-Local-Studio": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "1b5a69ad4a8df59d"
+    },
+    "github_repository:https://github.com/AnalyseDeCircuit/oxideterm": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "476e46541fac9611"
+    },
+    "github_repository:https://github.com/zilliztech/memsearch": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "8a8e32308623ee81"
+    },
+    "github_repository:https://github.com/spec-kitty/spec-kitty": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "d19e8962386042aa"
+    },
+    "github_repository:https://github.com/agenticloops-ai/agentic-ai-engineering": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "353bf9583a247c53"
+    },
+    "github_repository:https://github.com/dagucloud/dagu": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "3683b30ebf09141e"
+    },
+    "official_repository:https://github.com/openai/gpt-oss": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "e12de0e2d0b47c6c"
+    },
+    "official_repository:https://github.com/huggingface/AnyLanguageModel": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "cff3b13cf94370ac"
+    },
+    "hf_model:https://huggingface.co/models/moonshotai/Kimi-K3.1-Pro": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "0dd7a1a1540ee56d"
+    },
+    "hf_model:https://huggingface.co/models/sensenova/SenseNova-Loop-9B-Preview": {
+      "last_seen": "2026-11-05",
+      "fingerprint": "98bf322a47feb5ce"
     }
   }
 }

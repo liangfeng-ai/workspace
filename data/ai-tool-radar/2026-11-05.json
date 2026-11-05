@@ -1,0 +1,535 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T03:32:48.255376+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 20,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/gpt-oss",
+      "kind": "official_repository",
+      "name": "openai/gpt-oss",
+      "url": "https://github.com/openai/gpt-oss",
+      "provider": "openai",
+      "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 20513,
+        "pushed_at": "2026-10-29T16:42:13Z",
+        "updated_at": "2026-11-05T03:26:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e12de0e2d0b47c6c",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/AnyLanguageModel",
+      "kind": "official_repository",
+      "name": "huggingface/AnyLanguageModel",
+      "url": "https://github.com/huggingface/AnyLanguageModel",
+      "provider": "huggingface",
+      "description": "An API-compatible, drop-in replacement for Apple's Foundation Models framework with support for custom language model providers.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 979,
+        "pushed_at": "2026-11-05T00:25:17Z",
+        "updated_at": "2026-11-05T03:24:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cff3b13cf94370ac",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/cli",
+      "kind": "official_repository",
+      "name": "mistralai/cli",
+      "url": "https://github.com/mistralai/cli",
+      "provider": "mistralai",
+      "description": "",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 4,
+        "pushed_at": "2026-11-04T15:10:35Z",
+        "updated_at": "2026-11-05T03:05:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "541cb2183af89f07",
+        "novel": false,
+        "dedup_age_days": 78
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dolthub/dolt",
+      "kind": "github_repository",
+      "name": "dolthub/dolt",
+      "url": "https://github.com/dolthub/dolt",
+      "provider": "GitHub",
+      "description": "Dolt – Git for Data",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 24819,
+        "forks": 912,
+        "pushed_at": "2026-11-05T03:31:57Z",
+        "updated_at": "2026-11-05T03:32:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "49a3af706b0b737f",
+        "novel": false,
+        "dedup_age_days": 106
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/STranslate/STranslate",
+      "kind": "github_repository",
+      "name": "STranslate/STranslate",
+      "url": "https://github.com/STranslate/STranslate",
+      "provider": "GitHub",
+      "description": "A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8517,
+        "forks": 451,
+        "pushed_at": "2026-11-05T02:52:21Z",
+        "updated_at": "2026-11-05T03:19:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "22e15e61085b4d92",
+        "novel": false,
+        "dedup_age_days": 108
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Gaurav-Gosain/tuios",
+      "kind": "github_repository",
+      "name": "Gaurav-Gosain/tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "provider": "GitHub",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6351,
+        "forks": 304,
+        "pushed_at": "2026-11-05T03:32:20Z",
+        "updated_at": "2026-11-05T03:32:19Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5add5fb1c0695e0d",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dagucloud/dagu",
+      "kind": "github_repository",
+      "name": "dagucloud/dagu",
+      "url": "https://github.com/dagucloud/dagu",
+      "provider": "GitHub",
+      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4547,
+        "forks": 396,
+        "pushed_at": "2026-11-05T03:29:42Z",
+        "updated_at": "2026-11-05T03:31:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3683b30ebf09141e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zilliztech/memsearch",
+      "kind": "github_repository",
+      "name": "zilliztech/memsearch",
+      "url": "https://github.com/zilliztech/memsearch",
+      "provider": "GitHub",
+      "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2820,
+        "forks": 278,
+        "pushed_at": "2026-11-05T03:10:29Z",
+        "updated_at": "2026-11-05T03:10:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8a8e32308623ee81",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Stack-Cairn/LiveAgent",
+      "kind": "github_repository",
+      "name": "Stack-Cairn/LiveAgent",
+      "url": "https://github.com/Stack-Cairn/LiveAgent",
+      "provider": "GitHub",
+      "description": "A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded!",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2254,
+        "forks": 251,
+        "pushed_at": "2026-11-05T03:03:23Z",
+        "updated_at": "2026-11-05T03:03:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a5e02f69b8a5e28c",
+        "novel": false,
+        "dedup_age_days": 38
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/techjarves/Portable-Local-Studio",
+      "kind": "github_repository",
+      "name": "techjarves/Portable-Local-Studio",
+      "url": "https://github.com/techjarves/Portable-Local-Studio",
+      "provider": "GitHub",
+      "description": "Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1895,
+        "forks": 461,
+        "pushed_at": "2026-11-05T02:40:09Z",
+        "updated_at": "2026-11-05T03:01:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1b5a69ad4a8df59d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/AnalyseDeCircuit/oxideterm",
+      "kind": "github_repository",
+      "name": "AnalyseDeCircuit/oxideterm",
+      "url": "https://github.com/AnalyseDeCircuit/oxideterm",
+      "provider": "GitHub",
+      "description": "AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription.Written in Rust+GPUI",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1777,
+        "forks": 154,
+        "pushed_at": "2026-11-05T03:26:53Z",
+        "updated_at": "2026-11-05T03:27:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "476e46541fac9611",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/spec-kitty/spec-kitty",
+      "kind": "github_repository",
+      "name": "spec-kitty/spec-kitty",
+      "url": "https://github.com/spec-kitty/spec-kitty",
+      "provider": "GitHub",
+      "description": "Spec-Driven Development with organizational governance. Specs tell AI agents what to build; Charter governs how they build it. Git-native missions, enforceable workflows, and consistent engineering standards across AI coding agents and harnesses.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1713,
+        "forks": 193,
+        "pushed_at": "2026-11-05T03:32:13Z",
+        "updated_at": "2026-11-05T03:32:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d19e8962386042aa",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/goodroot/hyprwhspr",
+      "kind": "github_repository",
+      "name": "goodroot/hyprwhspr",
+      "url": "https://github.com/goodroot/hyprwhspr",
+      "provider": "GitHub",
+      "description": "Native speech-to-text for Linux - Fast, accurate, private, and hackable system-wide dictation",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1271,
+        "forks": 113,
+        "pushed_at": "2026-11-05T02:50:01Z",
+        "updated_at": "2026-11-05T02:50:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "57b7a9445ca2eaca",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/wangzhishou/OneBox",
+      "kind": "github_repository",
+      "name": "wangzhishou/OneBox",
+      "url": "https://github.com/wangzhishou/OneBox",
+      "provider": "GitHub",
+      "description": "A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1041,
+        "forks": 180,
+        "pushed_at": "2026-11-05T03:25:05Z",
+        "updated_at": "2026-11-05T03:25:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "80ba7e74918d4a7b",
+        "novel": false,
+        "dedup_age_days": 49
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/moonshotai/Kimi-K3.1-Pro",
+      "kind": "hf_model",
+      "name": "moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/models/moonshotai/Kimi-K3.1-Pro",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "compressed-tensors",
+        "conversational",
+        "custom_code",
+        "endpoints_compatible",
+        "eval-results",
+        "image-text-to-text",
+        "kimi_k31",
+        "license:other",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 797,
+        "likes": 556,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0dd7a1a1540ee56d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/1003129155/jietuba",
+      "kind": "github_repository",
+      "name": "1003129155/jietuba",
+      "url": "https://github.com/1003129155/jietuba",
+      "provider": "GitHub",
+      "description": "Open-source Windows screenshot tool with scrolling capture, annotation, OCR, translation, pinned-image editing, GIF recording and clipboard history. 开源 Windows 截图工具：长截图、标注、OCR、翻译、钉图编辑、GIF 录制与剪贴板历史。",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 555,
+        "forks": 57,
+        "pushed_at": "2026-11-05T03:19:27Z",
+        "updated_at": "2026-11-05T02:46:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "86b917667b464071",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/misyaguziya/VRCT",
+      "kind": "github_repository",
+      "name": "misyaguziya/VRCT",
+      "url": "https://github.com/misyaguziya/VRCT",
+      "provider": "GitHub",
+      "description": "VRCT(VRChat Chatbox Translator & Transcription)",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 458,
+        "forks": 51,
+        "pushed_at": "2026-11-05T01:26:18Z",
+        "updated_at": "2026-11-05T01:21:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "09daf1de6c558e41",
+        "novel": false,
+        "dedup_age_days": 52
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agenticloops-ai/agentic-ai-engineering",
+      "kind": "github_repository",
+      "name": "agenticloops-ai/agentic-ai-engineering",
+      "url": "https://github.com/agenticloops-ai/agentic-ai-engineering",
+      "provider": "GitHub",
+      "description": "Hands-on tutorials for building AI agents from scratch. Learn LLM APIs, prompt engineering, tool calling, and the agent loop through practical examples.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 381,
+        "forks": 79,
+        "pushed_at": "2026-11-05T03:30:51Z",
+        "updated_at": "2026-11-05T03:30:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "353bf9583a247c53",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/SergeyShk/Speech-to-Text-Russian",
+      "kind": "github_repository",
+      "name": "SergeyShk/Speech-to-Text-Russian",
+      "url": "https://github.com/SergeyShk/Speech-to-Text-Russian",
+      "provider": "GitHub",
+      "description": "Распознавание русской речи: библиотека Python, CLI stt-ru, веб-интерфейс с REST API и Docker-образ на модели GigaAM-v3.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 352,
+        "forks": 58,
+        "pushed_at": "2026-11-05T02:57:15Z",
+        "updated_at": "2026-11-05T02:57:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d42fefe725430824",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/sensenova/SenseNova-Loop-9B-Preview",
+      "kind": "hf_model",
+      "name": "sensenova/SenseNova-Loop-9B-Preview",
+      "url": "https://huggingface.co/models/sensenova/SenseNova-Loop-9B-Preview",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "conversational",
+        "custom_code",
+        "en",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "looped-transformer",
+        "mhc",
+        "multimodal",
+        "region:us",
+        "safetensors",
+        "sensenova_loop",
+        "text-generation",
+        "transformers",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 2704,
+        "likes": 235,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "98bf322a47feb5ce",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
