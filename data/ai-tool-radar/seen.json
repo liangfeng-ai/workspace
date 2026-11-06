@@ -678,7 +678,7 @@
       "fingerprint": "e9648489b176d684"
     },
     "github_repository:https://github.com/harehare/mq": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-11-06",
       "fingerprint": "4acb00b5817a8265"
     },
     "github_repository:https://github.com/infragate/capa": {
@@ -1262,7 +1262,7 @@
       "fingerprint": "a9bace421a6151a8"
     },
     "github_repository:https://github.com/scribeocr/scribe.js": {
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-11-06",
       "fingerprint": "34afb15238a5ba04"
     },
     "github_repository:https://github.com/amicalhq/amical": {
@@ -1358,7 +1358,7 @@
       "fingerprint": "3f328ffdb005e037"
     },
     "github_repository:https://github.com/microsoft/foundry-local": {
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-11-06",
       "fingerprint": "504834d9be167bd7"
     },
     "github_repository:https://github.com/stacklok/toolhive": {
@@ -1542,7 +1542,7 @@
       "fingerprint": "ee8aa7922f1c27cd"
     },
     "github_repository:https://github.com/EverMind-AI/EverOS": {
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-11-06",
       "fingerprint": "a5a9ee3c6efff338"
     },
     "github_repository:https://github.com/chroma-core/chroma": {
@@ -1874,7 +1874,7 @@
       "fingerprint": "f78de16e646117d3"
     },
     "github_repository:https://github.com/zelon88/HRConvert2": {
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-11-06",
       "fingerprint": "b831099a4829b40b"
     },
     "github_repository:https://github.com/Anionex/agent-vision-toolkit": {
@@ -2222,7 +2222,7 @@
       "fingerprint": "3f52b8c083f671da"
     },
     "github_repository:https://github.com/macro-inc/macro": {
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-11-06",
       "fingerprint": "702af34614037120"
     },
     "github_repository:https://github.com/Syngnat/GoNavi": {
@@ -2266,11 +2266,11 @@
       "fingerprint": "8da73a2619c051e4"
     },
     "official_repository:https://github.com/huggingface/candle": {
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-06",
       "fingerprint": "85b13327e27546d7"
     },
     "official_repository:https://github.com/huggingface/hub-docs": {
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-11-06",
       "fingerprint": "fa3a1a87103830e0"
     },
     "github_repository:https://github.com/medusajs/medusa": {
@@ -2294,7 +2294,7 @@
       "fingerprint": "28b68ab760670264"
     },
     "github_repository:https://github.com/agentlas-ai/Agentlas-OS": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-11-06",
       "fingerprint": "ae5e61671e34d7d7"
     },
     "github_repository:https://github.com/codecoradev/uteke": {
@@ -3782,7 +3782,7 @@
       "fingerprint": "e8a2808d8ac61903"
     },
     "official_repository:https://github.com/openai/openai-cli": {
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-11-06",
       "fingerprint": "aac41c9b8b277c79"
     },
     "official_repository:https://github.com/huggingface/xet-core": {
@@ -4026,7 +4026,7 @@
       "fingerprint": "7c71905832ec5225"
     },
     "github_repository:https://github.com/FB208/OpenBidKit_Yibiao": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-11-06",
       "fingerprint": "839c5f7cccfafd62"
     },
     "github_repository:https://github.com/autonomous-ai/autonomous-os": {
@@ -4178,7 +4178,7 @@
       "fingerprint": "5041788844f6ca20"
     },
     "github_repository:https://github.com/CrossPaste/crosspaste-desktop": {
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-06",
       "fingerprint": "275d7cb1f080acf7"
     },
     "github_repository:https://github.com/kotaro-kinoshita/yomitoku": {
@@ -4198,7 +4198,7 @@
       "fingerprint": "b9ab795b431d8e82"
     },
     "github_repository:https://github.com/agentscope-ai/ReMe": {
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-06",
       "fingerprint": "eea401100f8bab25"
     },
     "github_repository:https://github.com/ReflexioAI/claude-smart": {
@@ -4318,7 +4318,7 @@
       "fingerprint": "db3473ee8e6f0959"
     },
     "github_repository:https://github.com/ZaxbyHub/opencode-swarm": {
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-11-06",
       "fingerprint": "e3d367183bf03677"
     },
     "github_repository:https://github.com/BBC-Esq/VectorDB-Plugin": {
@@ -5252,6 +5252,42 @@
     "hf_model:https://huggingface.co/models/sensenova/SenseNova-Loop-9B-Preview": {
       "last_seen": "2026-11-05",
       "fingerprint": "98bf322a47feb5ce"
+    },
+    "github_repository:https://github.com/RapidAI/RapidDoc": {
+      "last_seen": "2026-11-06",
+      "fingerprint": "a9a717f72d9c2f0c"
+    },
+    "github_repository:https://github.com/AGIHunt/blurt": {
+      "last_seen": "2026-11-06",
+      "fingerprint": "0fdabe22c5e11b47"
+    },
+    "github_repository:https://github.com/kody-hq/kody": {
+      "last_seen": "2026-11-06",
+      "fingerprint": "a70363e0a87a4b70"
+    },
+    "github_repository:https://github.com/a2ui-project/a2ui": {
+      "last_seen": "2026-11-06",
+      "fingerprint": "62c6b6e16d3f6a17"
+    },
+    "github_repository:https://github.com/fajarhide/contexere": {
+      "last_seen": "2026-11-06",
+      "fingerprint": "10fd28a85f2b37a0"
+    },
+    "github_repository:https://github.com/gy15901580825/Argus": {
+      "last_seen": "2026-11-06",
+      "fingerprint": "d9d8d779d61ee9b0"
+    },
+    "github_repository:https://github.com/PerpetualSoftware/pad": {
+      "last_seen": "2026-11-06",
+      "fingerprint": "b8203da4dd66cb60"
+    },
+    "github_repository:https://github.com/amirfish1/claude-command-center": {
+      "last_seen": "2026-11-06",
+      "fingerprint": "88e84db464e51976"
+    },
+    "github_repository:https://github.com/ai-sdlc-framework/ai-sdlc": {
+      "last_seen": "2026-11-06",
+      "fingerprint": "ae08caac949faba7"
     }
   }
 }
