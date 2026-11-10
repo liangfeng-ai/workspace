@@ -34,7 +34,7 @@
       "fingerprint": "99b32794d96a0a1e"
     },
     "github_repository:https://github.com/aqua5230/usage": {
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-10",
       "fingerprint": "fd1c541ce7319604"
     },
     "github_repository:https://github.com/zzet/gortex": {
@@ -58,7 +58,7 @@
       "fingerprint": "bc7b30c6a34fb6eb"
     },
     "github_repository:https://github.com/opendataloader-project/opendataloader-pdf": {
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-11-10",
       "fingerprint": "1bb5797e6f0fcca7"
     },
     "github_repository:https://github.com/JabRef/jabref": {
@@ -418,7 +418,7 @@
       "fingerprint": "e8a1945f6e154047"
     },
     "github_repository:https://github.com/apache/texera": {
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-11-10",
       "fingerprint": "5e004f79949a4e2c"
     },
     "github_repository:https://github.com/ogulcancelik/herdr": {
@@ -434,7 +434,7 @@
       "fingerprint": "c85ace65d71237e9"
     },
     "github_repository:https://github.com/omnigent-ai/omnigent": {
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-11-10",
       "fingerprint": "4d8d8951d9e1815e"
     },
     "official_repository:https://github.com/openai/plugins": {
@@ -706,7 +706,7 @@
       "fingerprint": "dac8d093c6180d53"
     },
     "github_repository:https://github.com/first-fluke/oh-my-agent": {
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-11-10",
       "fingerprint": "b46fae5e15067820"
     },
     "github_repository:https://github.com/superset-sh/superset": {
@@ -1170,7 +1170,7 @@
       "fingerprint": "15a20427b068f124"
     },
     "github_repository:https://github.com/Zipstack/unstract": {
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-11-10",
       "fingerprint": "13d07eb2c6e8b798"
     },
     "github_repository:https://github.com/ballerine-io/ballerine": {
@@ -1290,7 +1290,7 @@
       "fingerprint": "7d9614ca4b115499"
     },
     "github_repository:https://github.com/tianma-if/edgeever": {
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-11-10",
       "fingerprint": "83d71fd091514cc3"
     },
     "github_repository:https://github.com/eddmpython/dartlab": {
@@ -2302,7 +2302,7 @@
       "fingerprint": "59f308c0920ae171"
     },
     "github_repository:https://github.com/xuiltul/animaworks": {
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-11-10",
       "fingerprint": "e5ed7a8c56226adb"
     },
     "github_repository:https://github.com/EmpiricaAI/empirica": {
@@ -2614,7 +2614,7 @@
       "fingerprint": "4545d2c0187c0744"
     },
     "github_repository:https://github.com/NVIDIA/SkillSpector": {
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-11-10",
       "fingerprint": "257de89d64f51e5f"
     },
     "github_repository:https://github.com/oisee/vibing-steampunk": {
@@ -2974,7 +2974,7 @@
       "fingerprint": "5c0b4fc9537f6786"
     },
     "official_repository:https://github.com/openai/tiktoken": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-11-10",
       "fingerprint": "70f4bf3db214afad"
     },
     "official_repository:https://github.com/huggingface/transformers-mlinter": {
@@ -3718,7 +3718,7 @@
       "fingerprint": "0bd348017c2c7375"
     },
     "github_repository:https://github.com/brekkylab/backlot": {
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-10",
       "fingerprint": "0d55b5831e77a166"
     },
     "github_repository:https://github.com/sjkim1127/Reversecore_MCP": {
@@ -4326,7 +4326,7 @@
       "fingerprint": "3ea91cc6a13c1a07"
     },
     "github_repository:https://github.com/framerslab/agentos": {
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-11-10",
       "fingerprint": "8c9c52db5db4efdc"
     },
     "github_repository:https://github.com/The-Vibe-Company/quivr": {
@@ -4378,7 +4378,7 @@
       "fingerprint": "7f3c7453596c0682"
     },
     "github_repository:https://github.com/langbot-app/LangBot": {
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-11-10",
       "fingerprint": "b2dac87836418b83"
     },
     "github_repository:https://github.com/autonomous-ai/Physical-AI-Operating-System": {
@@ -5308,6 +5308,38 @@
     "hf_model:https://huggingface.co/models/PrunaAI/P-H3-Image-Comfy": {
       "last_seen": "2026-11-09",
       "fingerprint": "37d59e9ec0fec46f"
+    },
+    "github_repository:https://github.com/Jeffrey0117/SpeakSlow": {
+      "last_seen": "2026-11-10",
+      "fingerprint": "d02f61ac52bfb5fc"
+    },
+    "github_repository:https://github.com/Infatoshi/phonon": {
+      "last_seen": "2026-11-10",
+      "fingerprint": "0e78611a77f463b6"
+    },
+    "github_repository:https://github.com/Haohao-end/openagent": {
+      "last_seen": "2026-11-10",
+      "fingerprint": "ec1374e423fb38eb"
+    },
+    "github_repository:https://github.com/slow-stack/mneme": {
+      "last_seen": "2026-11-10",
+      "fingerprint": "3d963553dd5bd77b"
+    },
+    "github_repository:https://github.com/ZingerLittleBee/Heeler": {
+      "last_seen": "2026-11-10",
+      "fingerprint": "5d9ac8d7f4afd2a5"
+    },
+    "github_repository:https://github.com/Yeachan-Heo/oh-my-claudecode": {
+      "last_seen": "2026-11-10",
+      "fingerprint": "fb9e8740f79ea3b5"
+    },
+    "hf_model:https://huggingface.co/models/PrunaAI/P-H3-Image": {
+      "last_seen": "2026-11-10",
+      "fingerprint": "60c62fe08a6c0e66"
+    },
+    "hf_space:https://huggingface.co/spaces/FelyaHuhing/qwen-image-21-uncensored": {
+      "last_seen": "2026-11-10",
+      "fingerprint": "5c57192a076cdef1"
     }
   }
 }

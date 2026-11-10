@@ -1,0 +1,551 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T04:40:13.883848+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/tiktoken",
+      "kind": "official_repository",
+      "name": "openai/tiktoken",
+      "url": "https://github.com/openai/tiktoken",
+      "provider": "openai",
+      "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 19624,
+        "pushed_at": "2026-11-08T08:48:20Z",
+        "updated_at": "2026-11-10T04:36:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "70f4bf3db214afad",
+        "novel": false,
+        "dedup_age_days": 74
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "kind": "github_repository",
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "provider": "GitHub",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 40724,
+        "forks": 3639,
+        "pushed_at": "2026-11-10T04:38:06Z",
+        "updated_at": "2026-11-10T04:38:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fb9e8740f79ea3b5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/opendataloader-project/opendataloader-pdf",
+      "kind": "github_repository",
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "provider": "GitHub",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 30264,
+        "forks": 2898,
+        "pushed_at": "2026-11-10T04:04:29Z",
+        "updated_at": "2026-11-10T04:04:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1bb5797e6f0fcca7",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NVIDIA/SkillSpector",
+      "kind": "github_repository",
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "provider": "GitHub",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 25117,
+        "forks": 2198,
+        "pushed_at": "2026-11-10T04:38:19Z",
+        "updated_at": "2026-11-10T04:39:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "257de89d64f51e5f",
+        "novel": false,
+        "dedup_age_days": 81
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/langbot-app/LangBot",
+      "kind": "github_repository",
+      "name": "langbot-app/LangBot",
+      "url": "https://github.com/langbot-app/LangBot",
+      "provider": "GitHub",
+      "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Kimi, openclaw / hermes agent, deerflow",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 18860,
+        "forks": 1697,
+        "pushed_at": "2026-11-10T04:17:10Z",
+        "updated_at": "2026-11-10T04:39:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b2dac87836418b83",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/omnigent-ai/omnigent",
+      "kind": "github_repository",
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "provider": "GitHub",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11305,
+        "forks": 1873,
+        "pushed_at": "2026-11-10T04:38:22Z",
+        "updated_at": "2026-11-10T04:37:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4d8d8951d9e1815e",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Zipstack/unstract",
+      "kind": "github_repository",
+      "name": "Zipstack/unstract",
+      "url": "https://github.com/Zipstack/unstract",
+      "provider": "GitHub",
+      "description": "LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7438,
+        "forks": 754,
+        "pushed_at": "2026-11-10T04:39:03Z",
+        "updated_at": "2026-11-10T04:38:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "13d07eb2c6e8b798",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tianma-if/edgeever",
+      "kind": "github_repository",
+      "name": "tianma-if/edgeever",
+      "url": "https://github.com/tianma-if/edgeever",
+      "provider": "GitHub",
+      "description": "AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3180,
+        "forks": 1646,
+        "pushed_at": "2026-11-10T04:38:22Z",
+        "updated_at": "2026-11-10T04:38:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "83d71fd091514cc3",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/first-fluke/oh-my-agent",
+      "kind": "github_repository",
+      "name": "first-fluke/oh-my-agent",
+      "url": "https://github.com/first-fluke/oh-my-agent",
+      "provider": "GitHub",
+      "description": "Agent skills and specialist teams for Claude Code, Codex, Cursor and other coding agents. Load one skill or install domain presets, project hooks and parallel workflows with test gates.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1377,
+        "forks": 156,
+        "pushed_at": "2026-11-10T04:38:04Z",
+        "updated_at": "2026-11-10T04:37:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b46fae5e15067820",
+        "novel": false,
+        "dedup_age_days": 116
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ZingerLittleBee/Heeler",
+      "kind": "github_repository",
+      "name": "ZingerLittleBee/Heeler",
+      "url": "https://github.com/ZingerLittleBee/Heeler",
+      "provider": "GitHub",
+      "description": "Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR pairing, and push notifications when an agent needs you",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 854,
+        "forks": 93,
+        "pushed_at": "2026-11-10T04:38:33Z",
+        "updated_at": "2026-11-10T04:38:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5d9ac8d7f4afd2a5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Haohao-end/openagent",
+      "kind": "github_repository",
+      "name": "Haohao-end/openagent",
+      "url": "https://github.com/Haohao-end/openagent",
+      "provider": "GitHub",
+      "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 752,
+        "forks": 78,
+        "pushed_at": "2026-11-10T04:37:48Z",
+        "updated_at": "2026-11-10T04:37:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ec1374e423fb38eb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/framerslab/agentos",
+      "kind": "github_repository",
+      "name": "framerslab/agentos",
+      "url": "https://github.com/framerslab/agentos",
+      "provider": "GitHub",
+      "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 685,
+        "forks": 104,
+        "pushed_at": "2026-11-10T04:40:00Z",
+        "updated_at": "2026-11-10T04:17:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8c9c52db5db4efdc",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Infatoshi/phonon",
+      "kind": "github_repository",
+      "name": "Infatoshi/phonon",
+      "url": "https://github.com/Infatoshi/phonon",
+      "provider": "GitHub",
+      "description": "Fast, local, simple voice typing for macOS.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 382,
+        "forks": 38,
+        "pushed_at": "2026-11-10T04:11:25Z",
+        "updated_at": "2026-11-10T04:11:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0e78611a77f463b6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aqua5230/usage",
+      "kind": "github_repository",
+      "name": "aqua5230/usage",
+      "url": "https://github.com/aqua5230/usage",
+      "provider": "GitHub",
+      "description": "macOS menu bar & Windows tray app pinning Claude Code, Codex, Antigravity & Grok CLI quota, burn rate, and cost to your screen. Local-first, no telemetry. HTML reports, 16 themes.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 347,
+        "forks": 66,
+        "pushed_at": "2026-11-10T04:18:27Z",
+        "updated_at": "2026-11-10T04:18:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fd1c541ce7319604",
+        "novel": false,
+        "dedup_age_days": 55
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/apache/texera",
+      "kind": "github_repository",
+      "name": "apache/texera",
+      "url": "https://github.com/apache/texera",
+      "provider": "GitHub",
+      "description": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 333,
+        "forks": 202,
+        "pushed_at": "2026-11-10T04:38:14Z",
+        "updated_at": "2026-11-10T04:38:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5e004f79949a4e2c",
+        "novel": false,
+        "dedup_age_days": 118
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xuiltul/animaworks",
+      "kind": "github_repository",
+      "name": "xuiltul/animaworks",
+      "url": "https://github.com/xuiltul/animaworks",
+      "provider": "GitHub",
+      "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 268,
+        "forks": 47,
+        "pushed_at": "2026-11-10T04:36:24Z",
+        "updated_at": "2026-11-10T04:17:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e5ed7a8c56226adb",
+        "novel": false,
+        "dedup_age_days": 56
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/brekkylab/backlot",
+      "kind": "github_repository",
+      "name": "brekkylab/backlot",
+      "url": "https://github.com/brekkylab/backlot",
+      "provider": "GitHub",
+      "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 222,
+        "forks": 81,
+        "pushed_at": "2026-11-10T04:36:16Z",
+        "updated_at": "2026-11-10T04:36:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0d55b5831e77a166",
+        "novel": false,
+        "dedup_age_days": 53
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/slow-stack/mneme",
+      "kind": "github_repository",
+      "name": "slow-stack/mneme",
+      "url": "https://github.com/slow-stack/mneme",
+      "provider": "GitHub",
+      "description": "🧠 The memory that dreams — cross-session memory for DeepSeek Harness. Local SQLite + Markdown mirrors, autoDream consolidation, 4-way recall (keyword/vector/BM25/entity), and a memory panel. 10 model tools, MCP server, CLI.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 218,
+        "forks": 25,
+        "pushed_at": "2026-11-10T04:31:13Z",
+        "updated_at": "2026-11-10T04:31:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3d963553dd5bd77b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Jeffrey0117/SpeakSlow",
+      "kind": "github_repository",
+      "name": "Jeffrey0117/SpeakSlow",
+      "url": "https://github.com/Jeffrey0117/SpeakSlow",
+      "provider": "GitHub",
+      "description": "🔥 聲聲慢 SpeakSlow：專為中文打造、最快的本地語音輸入。免費開源、100% 本機、不上雲，講完直接貼到游標處，特別適合用語音跟 AI 對話",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 205,
+        "forks": 31,
+        "pushed_at": "2026-11-10T04:29:03Z",
+        "updated_at": "2026-11-10T04:29:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d02f61ac52bfb5fc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/PrunaAI/P-H3-Image",
+      "kind": "hf_model",
+      "name": "PrunaAI/P-H3-Image",
+      "url": "https://huggingface.co/models/PrunaAI/P-H3-Image",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:finetune:minimaxai/minimax-h3",
+        "base_model:minimaxai/minimax-h3",
+        "diffusers",
+        "en",
+        "image-editing",
+        "image-generation",
+        "image-to-image",
+        "license:other",
+        "minimax-h3",
+        "modular-diffusers",
+        "prompt-upsampling",
+        "pruna-ai",
+        "region:us",
+        "safetensors",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 1016,
+        "likes": 185,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "60c62fe08a6c0e66",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/FelyaHuhing/qwen-image-21-uncensored",
+      "kind": "hf_space",
+      "name": "FelyaHuhing/qwen-image-21-uncensored",
+      "url": "https://huggingface.co/spaces/FelyaHuhing/qwen-image-21-uncensored",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 82,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5c57192a076cdef1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
