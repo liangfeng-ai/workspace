@@ -1,0 +1,586 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T02:51:04.505140+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/skills",
+      "kind": "official_repository",
+      "name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "provider": "huggingface",
+      "description": "Give your agents the power of the Hugging Face ecosystem",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 11331,
+        "pushed_at": "2026-10-30T14:12:53Z",
+        "updated_at": "2026-11-11T02:46:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a1611509c84ed523",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/accelerate",
+      "kind": "official_repository",
+      "name": "huggingface/accelerate",
+      "url": "https://github.com/huggingface/accelerate",
+      "provider": "huggingface",
+      "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 9939,
+        "pushed_at": "2026-11-10T16:07:21Z",
+        "updated_at": "2026-11-11T02:45:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ee33233aeb6cd521",
+        "novel": false,
+        "dedup_age_days": 58
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/farion1231/cc-switch",
+      "kind": "github_repository",
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "provider": "GitHub",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 153390,
+        "forks": 10077,
+        "pushed_at": "2026-11-11T02:28:06Z",
+        "updated_at": "2026-11-11T02:50:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "04e4312d3a4d50e6",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/arc53/DocsGPT",
+      "kind": "github_repository",
+      "name": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "provider": "GitHub",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 18370,
+        "forks": 2251,
+        "pushed_at": "2026-11-11T02:42:45Z",
+        "updated_at": "2026-11-11T02:31:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bdfa8cdc7a8ebfa4",
+        "novel": false,
+        "dedup_age_days": 40
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/k2-fsa/sherpa-onnx",
+      "kind": "github_repository",
+      "name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "provider": "GitHub",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 15868,
+        "forks": 1867,
+        "pushed_at": "2026-11-11T02:07:16Z",
+        "updated_at": "2026-11-11T02:18:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5ae8150dba8ab3fa",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Lightricks/LTX-2.5",
+      "kind": "hf_model",
+      "name": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/models/Lightricks/LTX-2.5",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "arxiv:2601.03233",
+        "audio-to-audio",
+        "audio-to-video",
+        "comfyui",
+        "de",
+        "diffusion-single-file",
+        "en",
+        "es",
+        "fr",
+        "image-text-to-audio-video",
+        "image-text-to-video",
+        "image-to-audio-video",
+        "image-to-video",
+        "it",
+        "ja",
+        "ko",
+        "license:other",
+        "lightricks",
+        "ltx",
+        "ltx-2.5",
+        "ltx-video",
+        "pt",
+        "region:us",
+        "text-to-audio",
+        "text-to-audio-video",
+        "text-to-video",
+        "video-to-audio",
+        "video-to-video",
+        "zh"
+      ],
+      "input_output": "image-to-video -> inference result",
+      "signals": {
+        "downloads": 2791606,
+        "likes": 11388,
+        "updated_at": null,
+        "pipeline_tag": "image-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "865809ece42a1c9f",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zyddnys/manga-image-translator",
+      "kind": "github_repository",
+      "name": "zyddnys/manga-image-translator",
+      "url": "https://github.com/zyddnys/manga-image-translator",
+      "provider": "GitHub",
+      "description": "Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 10584,
+        "forks": 1085,
+        "pushed_at": "2026-11-11T02:27:49Z",
+        "updated_at": "2026-11-11T02:39:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8a5fabcfcb489332",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/elie222/rakazo",
+      "kind": "github_repository",
+      "name": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "provider": "GitHub",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7848,
+        "forks": 1422,
+        "pushed_at": "2026-11-11T02:47:05Z",
+        "updated_at": "2026-11-11T02:47:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4315eb1838d5ca66",
+        "novel": false,
+        "dedup_age_days": 77
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/getopenscreen/openscreen",
+      "kind": "github_repository",
+      "name": "getopenscreen/openscreen",
+      "url": "https://github.com/getopenscreen/openscreen",
+      "provider": "GitHub",
+      "description": "Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6882,
+        "forks": 450,
+        "pushed_at": "2026-11-11T02:01:20Z",
+        "updated_at": "2026-11-11T02:20:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "aab3616c91c426c2",
+        "novel": false,
+        "dedup_age_days": 55
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/melgarafael/DeskcommCRM",
+      "kind": "github_repository",
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "provider": "GitHub",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5340,
+        "forks": 1533,
+        "pushed_at": "2026-11-11T02:42:22Z",
+        "updated_at": "2026-11-11T02:48:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b90426ebdca2a808",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nguyenphutrong/quotio",
+      "kind": "github_repository",
+      "name": "nguyenphutrong/quotio",
+      "url": "https://github.com/nguyenphutrong/quotio",
+      "provider": "GitHub",
+      "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4911,
+        "forks": 326,
+        "pushed_at": "2026-11-11T02:09:58Z",
+        "updated_at": "2026-11-11T02:22:41Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7993bbe88e5daf3d",
+        "novel": false,
+        "dedup_age_days": 56
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/poco-ai/Agentero",
+      "kind": "github_repository",
+      "name": "poco-ai/Agentero",
+      "url": "https://github.com/poco-ai/Agentero",
+      "provider": "GitHub",
+      "description": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。",
+      "capability_tags": [
+        "ai-agents",
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2314,
+        "forks": 139,
+        "pushed_at": "2026-11-11T02:46:48Z",
+        "updated_at": "2026-11-11T02:49:10Z",
+        "archived": false,
+        "source_count": 3
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b7cbf995fe5747a6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/expo/exact",
+      "kind": "github_repository",
+      "name": "expo/exact",
+      "url": "https://github.com/expo/exact",
+      "provider": "GitHub",
+      "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2247,
+        "forks": 48,
+        "pushed_at": "2026-11-11T02:49:51Z",
+        "updated_at": "2026-11-11T02:50:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "79f6141ddbba6851",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Gentleman-Programming/gentle-shell",
+      "kind": "github_repository",
+      "name": "Gentleman-Programming/gentle-shell",
+      "url": "https://github.com/Gentleman-Programming/gentle-shell",
+      "provider": "GitHub",
+      "description": "Gentle Shell is a Pi-native workspace for AI-assisted development, bringing parallel coding agents, live tasks, Git diffs, persistent memory, and permission controls into one terminal interface. Powered by Gentle AI and Organic Driven Development (ODD).",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2227,
+        "forks": 267,
+        "pushed_at": "2026-11-11T02:46:16Z",
+        "updated_at": "2026-11-11T02:48:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "39468d4faf175d5b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hashgraph-online/hol-guard",
+      "kind": "github_repository",
+      "name": "hashgraph-online/hol-guard",
+      "url": "https://github.com/hashgraph-online/hol-guard",
+      "provider": "GitHub",
+      "description": "Open-source antivirus and firewall for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1085,
+        "forks": 263,
+        "pushed_at": "2026-11-11T02:46:10Z",
+        "updated_at": "2026-11-11T02:47:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "747d365b5a1712b4",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JosssphZhou/poki",
+      "kind": "github_repository",
+      "name": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "provider": "GitHub",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 925,
+        "forks": 176,
+        "pushed_at": "2026-11-11T02:47:56Z",
+        "updated_at": "2026-11-11T02:49:23Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3ad9379e260d2fef",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/chainloop-dev/chainloop",
+      "kind": "github_repository",
+      "name": "chainloop-dev/chainloop",
+      "url": "https://github.com/chainloop-dev/chainloop",
+      "provider": "GitHub",
+      "description": "Agentic SDLC infrastructure. Define guardrails. Collect signals. Enforce continuously. Signed records of what your AI coding agents and CI/CD pipelines did, checked against policies as code, with the loop closed in CI/CD. AI sessions, SBOMs, VEX, SARIF and SLSA provenance, built on Sigstore and in-toto. Apache 2.0.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 611,
+        "forks": 64,
+        "pushed_at": "2026-11-11T02:48:25Z",
+        "updated_at": "2026-11-11T02:49:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "54ad8bbd8627e1c0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/MiniMaxAI/MiniMax-H3-Image",
+      "kind": "hf_model",
+      "name": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/models/MiniMaxAI/MiniMax-H3-Image",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:finetune:minimaxai/minimax-h3",
+        "base_model:minimaxai/minimax-h3",
+        "diffusers",
+        "en",
+        "image-editing",
+        "image-generation",
+        "image-to-image",
+        "license:other",
+        "minimax-h3",
+        "region:us",
+        "safetensors",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 667,
+        "likes": 427,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4c7b324181507af4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/aa0101181514/tw-legal-rag",
+      "kind": "github_repository",
+      "name": "aa0101181514/tw-legal-rag",
+      "url": "https://github.com/aa0101181514/tw-legal-rag",
+      "provider": "GitHub",
+      "description": "台灣法律 MCP 伺服器 + CLI（免費、免金鑰，連接時登入法律偵探帳號）：2,280 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Free Taiwan legal MCP server for Claude/ChatGPT/Codex: sign in with a Dr.Legal account, bring your own LLM, retrieval-only.",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 345,
+        "forks": 46,
+        "pushed_at": "2026-11-11T02:46:00Z",
+        "updated_at": "2026-11-10T23:55:21Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "355d7d228aec0d25",
+        "novel": false,
+        "dedup_age_days": 98
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Dongbumlee/ontosmith",
+      "kind": "github_repository",
+      "name": "Dongbumlee/ontosmith",
+      "url": "https://github.com/Dongbumlee/ontosmith",
+      "provider": "GitHub",
+      "description": "A decision-model-based ontology & knowledge-graph builder — builds governed knowledge graphs from your documents, every fact gated and traceable to its evidence.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 268,
+        "forks": 27,
+        "pushed_at": "2026-11-11T02:17:57Z",
+        "updated_at": "2026-11-11T02:28:56Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "92d0a7f3a1bf8a00",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Comfy-Org/MiniMax-H3-Image",
+      "kind": "hf_model",
+      "name": "Comfy-Org/MiniMax-H3-Image",
+      "url": "https://huggingface.co/models/Comfy-Org/MiniMax-H3-Image",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:finetune:minimaxai/minimax-h3-image",
+        "base_model:minimaxai/minimax-h3-image",
+        "comfyui",
+        "diffusion-single-file",
+        "license:other",
+        "region:us",
+        "text-to-image"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 18,
+        "likes": 168,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "45be14e96b97ade1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

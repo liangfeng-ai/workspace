@@ -778,7 +778,7 @@
       "fingerprint": "67d2b7a7355f5ca3"
     },
     "github_repository:https://github.com/k2-fsa/sherpa-onnx": {
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-11-11",
       "fingerprint": "5ae8150dba8ab3fa"
     },
     "github_repository:https://github.com/handy-computer/transcribe.cpp": {
@@ -1090,7 +1090,7 @@
       "fingerprint": "ad4a5b067d6ed574"
     },
     "official_repository:https://github.com/huggingface/accelerate": {
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-11-11",
       "fingerprint": "ee33233aeb6cd521"
     },
     "github_repository:https://github.com/modelscope/FunClip": {
@@ -1218,7 +1218,7 @@
       "fingerprint": "86e2758e1bbd8df1"
     },
     "github_repository:https://github.com/arc53/DocsGPT": {
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-11-11",
       "fingerprint": "bdfa8cdc7a8ebfa4"
     },
     "github_repository:https://github.com/MicrosoftDocs/mcp": {
@@ -1626,7 +1626,7 @@
       "fingerprint": "827feaf6528eb939"
     },
     "github_repository:https://github.com/melgarafael/DeskcommCRM": {
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-11-11",
       "fingerprint": "b90426ebdca2a808"
     },
     "github_repository:https://github.com/multikernel/sandlock": {
@@ -1834,7 +1834,7 @@
       "fingerprint": "c33a87a95c8aba5a"
     },
     "github_repository:https://github.com/aa0101181514/tw-legal-rag": {
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-11-11",
       "fingerprint": "355d7d228aec0d25"
     },
     "github_repository:https://github.com/kirodotdev/KiroCrew": {
@@ -2090,7 +2090,7 @@
       "fingerprint": "a7eafc190050eb95"
     },
     "github_repository:https://github.com/getopenscreen/openscreen": {
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-11",
       "fingerprint": "aab3616c91c426c2"
     },
     "github_repository:https://github.com/VocaHQ/vocalinux": {
@@ -2174,7 +2174,7 @@
       "fingerprint": "a3e4c795b833c03e"
     },
     "github_repository:https://github.com/hashgraph-online/hol-guard": {
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-11-11",
       "fingerprint": "747d365b5a1712b4"
     },
     "github_repository:https://github.com/ag-ui-protocol/ag-ui": {
@@ -2198,7 +2198,7 @@
       "fingerprint": "e211c14b70958f65"
     },
     "hf_model:https://huggingface.co/models/Lightricks/LTX-2.5": {
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-11-11",
       "fingerprint": "865809ece42a1c9f"
     },
     "github_repository:https://github.com/liaohch3/claude-tap": {
@@ -2582,7 +2582,7 @@
       "fingerprint": "dbb28f4d2ba31ace"
     },
     "official_repository:https://github.com/huggingface/skills": {
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-11-11",
       "fingerprint": "a1611509c84ed523"
     },
     "hf_model:https://huggingface.co/models/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF": {
@@ -2794,7 +2794,7 @@
       "fingerprint": "36927f05a306e0cc"
     },
     "github_repository:https://github.com/elie222/rakazo": {
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-11-11",
       "fingerprint": "4315eb1838d5ca66"
     },
     "hf_model:https://huggingface.co/models/superwhisper/s1-mini": {
@@ -3442,7 +3442,7 @@
       "fingerprint": "a2b4479903cc1b85"
     },
     "github_repository:https://github.com/farion1231/cc-switch": {
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-11-11",
       "fingerprint": "04e4312d3a4d50e6"
     },
     "github_repository:https://github.com/rockbenben/ChatGPT-Shortcut": {
@@ -3586,7 +3586,7 @@
       "fingerprint": "12a7942eab4f3ec9"
     },
     "github_repository:https://github.com/nguyenphutrong/quotio": {
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-11",
       "fingerprint": "7993bbe88e5daf3d"
     },
     "github_repository:https://github.com/leeguooooo/claude-code-usage-bar": {
@@ -5340,6 +5340,42 @@
     "hf_space:https://huggingface.co/spaces/FelyaHuhing/qwen-image-21-uncensored": {
       "last_seen": "2026-11-10",
       "fingerprint": "5c57192a076cdef1"
+    },
+    "github_repository:https://github.com/zyddnys/manga-image-translator": {
+      "last_seen": "2026-11-11",
+      "fingerprint": "8a5fabcfcb489332"
+    },
+    "github_repository:https://github.com/JosssphZhou/poki": {
+      "last_seen": "2026-11-11",
+      "fingerprint": "3ad9379e260d2fef"
+    },
+    "github_repository:https://github.com/poco-ai/Agentero": {
+      "last_seen": "2026-11-11",
+      "fingerprint": "b7cbf995fe5747a6"
+    },
+    "github_repository:https://github.com/Gentleman-Programming/gentle-shell": {
+      "last_seen": "2026-11-11",
+      "fingerprint": "39468d4faf175d5b"
+    },
+    "github_repository:https://github.com/Dongbumlee/ontosmith": {
+      "last_seen": "2026-11-11",
+      "fingerprint": "92d0a7f3a1bf8a00"
+    },
+    "github_repository:https://github.com/expo/exact": {
+      "last_seen": "2026-11-11",
+      "fingerprint": "79f6141ddbba6851"
+    },
+    "github_repository:https://github.com/chainloop-dev/chainloop": {
+      "last_seen": "2026-11-11",
+      "fingerprint": "54ad8bbd8627e1c0"
+    },
+    "hf_model:https://huggingface.co/models/MiniMaxAI/MiniMax-H3-Image": {
+      "last_seen": "2026-11-11",
+      "fingerprint": "4c7b324181507af4"
+    },
+    "hf_model:https://huggingface.co/models/Comfy-Org/MiniMax-H3-Image": {
+      "last_seen": "2026-11-11",
+      "fingerprint": "45be14e96b97ade1"
     }
   }
 }
