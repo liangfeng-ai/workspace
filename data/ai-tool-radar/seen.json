@@ -254,7 +254,7 @@
       "fingerprint": "da749c0e40b6dfe6"
     },
     "official_repository:https://github.com/huggingface/lerobot": {
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-11-12",
       "fingerprint": "84375b7f41a6221b"
     },
     "official_repository:https://github.com/huggingface/agents-course": {
@@ -366,7 +366,7 @@
       "fingerprint": "df0dce32dc4c60c2"
     },
     "github_repository:https://github.com/milvus-io/milvus": {
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-11-12",
       "fingerprint": "cffd8fd5ceeb4756"
     },
     "github_repository:https://github.com/Agent-Field/agentfield": {
@@ -410,7 +410,7 @@
       "fingerprint": "7049451086bb35e4"
     },
     "github_repository:https://github.com/simstudioai/sim": {
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-12",
       "fingerprint": "c5008fef6c26edbc"
     },
     "github_repository:https://github.com/steipete/agent-scripts": {
@@ -762,7 +762,7 @@
       "fingerprint": "de28a185635212eb"
     },
     "github_repository:https://github.com/dataelement/bisheng": {
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-11-12",
       "fingerprint": "9db5959cebfc0b92"
     },
     "github_repository:https://github.com/garylab/MakeMoneyWithAI": {
@@ -1006,7 +1006,7 @@
       "fingerprint": "89df2d81039b2c30"
     },
     "github_repository:https://github.com/kevinpbuckley/VibeUE": {
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-11-12",
       "fingerprint": "bee85a6af9f80e84"
     },
     "github_repository:https://github.com/aartiq/servicenow-mcp": {
@@ -1334,7 +1334,7 @@
       "fingerprint": "30479af3249d12c1"
     },
     "github_repository:https://github.com/tong-io/tongflow": {
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-11-12",
       "fingerprint": "448757cb51a1257f"
     },
     "github_repository:https://github.com/steel-dev/steel-browser": {
@@ -1730,7 +1730,7 @@
       "fingerprint": "265c39483253d416"
     },
     "github_repository:https://github.com/rlaope/oh-my-hermes": {
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-11-12",
       "fingerprint": "170165e9b104a9f9"
     },
     "github_repository:https://github.com/mobile-next/mobilecli": {
@@ -2658,7 +2658,7 @@
       "fingerprint": "0d92cb92901b4c0f"
     },
     "github_repository:https://github.com/razzant/claudexor": {
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-11-12",
       "fingerprint": "229dc9d2e8f05ec9"
     },
     "github_repository:https://github.com/macOS26/Agent": {
@@ -2946,7 +2946,7 @@
       "fingerprint": "ed200fd8cf1fbb40"
     },
     "github_repository:https://github.com/modelscope/evalscope": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-11-12",
       "fingerprint": "749e5a5222cf3277"
     },
     "github_repository:https://github.com/MemTensor/MemOS": {
@@ -3962,7 +3962,7 @@
       "fingerprint": "6926cb5b41cf2f61"
     },
     "github_repository:https://github.com/currenjin/site-for-developers": {
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-12",
       "fingerprint": "3a8d6faee12c3f1d"
     },
     "github_repository:https://github.com/Sumanth077/Hands-On-AI-Engineering": {
@@ -4518,7 +4518,7 @@
       "fingerprint": "5d77c58bf3b1662e"
     },
     "github_repository:https://github.com/paperclipai/paperclip": {
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-11-12",
       "fingerprint": "7ec7752c59b3fda3"
     },
     "github_repository:https://github.com/skillsgate/skillsgate": {
@@ -5376,6 +5376,38 @@
     "hf_model:https://huggingface.co/models/Comfy-Org/MiniMax-H3-Image": {
       "last_seen": "2026-11-11",
       "fingerprint": "45be14e96b97ade1"
+    },
+    "github_repository:https://github.com/mg-chao/snow-shot": {
+      "last_seen": "2026-11-12",
+      "fingerprint": "a7dd9b82ae6732a3"
+    },
+    "github_repository:https://github.com/eduwxyz/tucano": {
+      "last_seen": "2026-11-12",
+      "fingerprint": "2d4c6e1325f961e5"
+    },
+    "github_repository:https://github.com/amitshekhariitbhu/ai-engineering-interview-questions": {
+      "last_seen": "2026-11-12",
+      "fingerprint": "8e32ccd00c1f27bb"
+    },
+    "github_repository:https://github.com/agentes-chat/agentes-chat": {
+      "last_seen": "2026-11-12",
+      "fingerprint": "45ed05389e55aa0b"
+    },
+    "github_repository:https://github.com/HKUDS/nanobot": {
+      "last_seen": "2026-11-12",
+      "fingerprint": "d315ebf904bb351d"
+    },
+    "github_repository:https://github.com/codepawl/67.js": {
+      "last_seen": "2026-11-12",
+      "fingerprint": "ecf17a1c423f3e8e"
+    },
+    "github_repository:https://github.com/Zleap-AI/SAG-Wiki": {
+      "last_seen": "2026-11-12",
+      "fingerprint": "f5ba2f26fe4ccc36"
+    },
+    "hf_model:https://huggingface.co/models/VideoRebirthAI/hyperflow-h3-flash": {
+      "last_seen": "2026-11-12",
+      "fingerprint": "158efaf0f0124d11"
     }
   }
 }

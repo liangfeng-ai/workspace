@@ -1,0 +1,514 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T03:53:58.093174+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/lerobot",
+      "kind": "official_repository",
+      "name": "huggingface/lerobot",
+      "url": "https://github.com/huggingface/lerobot",
+      "provider": "huggingface",
+      "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 28823,
+        "pushed_at": "2026-11-12T03:31:01Z",
+        "updated_at": "2026-11-12T03:14:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "84375b7f41a6221b",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/paperclipai/paperclip",
+      "kind": "github_repository",
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "provider": "GitHub",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "capability_tags": [
+        "ai-tools",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 113217,
+        "forks": 18795,
+        "pushed_at": "2026-11-12T03:49:57Z",
+        "updated_at": "2026-11-12T03:52:15Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7ec7752c59b3fda3",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/HKUDS/nanobot",
+      "kind": "github_repository",
+      "name": "HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "provider": "GitHub",
+      "description": "Your lightweight open-source personal agent.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 50026,
+        "forks": 8731,
+        "pushed_at": "2026-11-12T03:47:53Z",
+        "updated_at": "2026-11-12T03:51:44Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d315ebf904bb351d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/milvus-io/milvus",
+      "kind": "github_repository",
+      "name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "provider": "GitHub",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 46646,
+        "forks": 4327,
+        "pushed_at": "2026-11-12T03:52:55Z",
+        "updated_at": "2026-11-12T03:41:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cffd8fd5ceeb4756",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/simstudioai/sim",
+      "kind": "github_repository",
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "provider": "GitHub",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 30125,
+        "forks": 3904,
+        "pushed_at": "2026-11-12T03:43:30Z",
+        "updated_at": "2026-11-12T03:53:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c5008fef6c26edbc",
+        "novel": false,
+        "dedup_age_days": 55
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/dataelement/bisheng",
+      "kind": "github_repository",
+      "name": "dataelement/bisheng",
+      "url": "https://github.com/dataelement/bisheng",
+      "provider": "GitHub",
+      "description": "BISHENG is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management, desktop agent integration, and vibecoding app hosting with unified model management, evaluation, observability, access control, and enterprise administration.",
+      "capability_tags": [
+        "ocr",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12268,
+        "forks": 2025,
+        "pushed_at": "2026-11-12T03:49:08Z",
+        "updated_at": "2026-11-12T03:31:37Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9db5959cebfc0b92",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mg-chao/snow-shot",
+      "kind": "github_repository",
+      "name": "mg-chao/snow-shot",
+      "url": "https://github.com/mg-chao/snow-shot",
+      "provider": "GitHub",
+      "description": "Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6957,
+        "forks": 449,
+        "pushed_at": "2026-11-12T03:11:02Z",
+        "updated_at": "2026-11-12T03:51:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a7dd9b82ae6732a3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rlaope/oh-my-hermes",
+      "kind": "github_repository",
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "provider": "GitHub",
+      "description": "⚚ The ultrawork agent with AI coworkers wired into you",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 5513,
+        "forks": 444,
+        "pushed_at": "2026-11-12T03:50:57Z",
+        "updated_at": "2026-11-12T03:35:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "170165e9b104a9f9",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/modelscope/evalscope",
+      "kind": "github_repository",
+      "name": "modelscope/evalscope",
+      "url": "https://github.com/modelscope/evalscope",
+      "provider": "GitHub",
+      "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3682,
+        "forks": 567,
+        "pushed_at": "2026-11-12T03:40:11Z",
+        "updated_at": "2026-11-12T03:44:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "749e5a5222cf3277",
+        "novel": false,
+        "dedup_age_days": 76
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+      "kind": "github_repository",
+      "name": "amitshekhariitbhu/ai-engineering-interview-questions",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+      "provider": "GitHub",
+      "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
+      "capability_tags": [
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3637,
+        "forks": 646,
+        "pushed_at": "2026-11-12T03:52:09Z",
+        "updated_at": "2026-11-11T17:26:46Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8e32ccd00c1f27bb",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/currenjin/site-for-developers",
+      "kind": "github_repository",
+      "name": "currenjin/site-for-developers",
+      "url": "https://github.com/currenjin/site-for-developers",
+      "provider": "GitHub",
+      "description": "🌎💎 개발자들의 첫 번째 북마크",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1205,
+        "forks": 157,
+        "pushed_at": "2026-11-12T03:40:24Z",
+        "updated_at": "2026-11-11T06:04:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3a8d6faee12c3f1d",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Zleap-AI/SAG-Wiki",
+      "kind": "github_repository",
+      "name": "Zleap-AI/SAG-Wiki",
+      "url": "https://github.com/Zleap-AI/SAG-Wiki",
+      "provider": "GitHub",
+      "description": "A lightweight knowledge base for people and agents, with ultra fast indexing and most precise retrieval.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1071,
+        "forks": 123,
+        "pushed_at": "2026-11-12T03:47:09Z",
+        "updated_at": "2026-11-12T03:47:41Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f5ba2f26fe4ccc36",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/tong-io/tongflow",
+      "kind": "github_repository",
+      "name": "tong-io/tongflow",
+      "url": "https://github.com/tong-io/tongflow",
+      "provider": "GitHub",
+      "description": "Agent-Human-Friendly, Modality-First, Enterprise-Level GenAI Workflow Platform",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 1047,
+        "forks": 136,
+        "pushed_at": "2026-11-12T03:12:29Z",
+        "updated_at": "2026-11-12T03:08:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "448757cb51a1257f",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kevinpbuckley/VibeUE",
+      "kind": "github_repository",
+      "name": "kevinpbuckley/VibeUE",
+      "url": "https://github.com/kevinpbuckley/VibeUE",
+      "provider": "GitHub",
+      "description": "Unreal Engine Vibe Coding tool",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 830,
+        "forks": 180,
+        "pushed_at": "2026-11-12T02:45:00Z",
+        "updated_at": "2026-11-12T03:50:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bee85a6af9f80e84",
+        "novel": false,
+        "dedup_age_days": 58
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/razzant/claudexor",
+      "kind": "github_repository",
+      "name": "razzant/claudexor",
+      "url": "https://github.com/razzant/claudexor",
+      "provider": "GitHub",
+      "description": "Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 524,
+        "forks": 59,
+        "pushed_at": "2026-11-12T03:53:22Z",
+        "updated_at": "2026-11-12T02:01:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "229dc9d2e8f05ec9",
+        "novel": false,
+        "dedup_age_days": 80
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/codepawl/67.js",
+      "kind": "github_repository",
+      "name": "codepawl/67.js",
+      "url": "https://github.com/codepawl/67.js",
+      "provider": "GitHub",
+      "description": "3D engine that AI agents drive",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 522,
+        "forks": 27,
+        "pushed_at": "2026-11-12T03:53:52Z",
+        "updated_at": "2026-11-12T03:34:08Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ecf17a1c423f3e8e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/agentes-chat/agentes-chat",
+      "kind": "github_repository",
+      "name": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "provider": "GitHub",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 390,
+        "forks": 51,
+        "pushed_at": "2026-11-12T03:51:41Z",
+        "updated_at": "2026-11-12T03:52:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "45ed05389e55aa0b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/eduwxyz/tucano",
+      "kind": "github_repository",
+      "name": "eduwxyz/tucano",
+      "url": "https://github.com/eduwxyz/tucano",
+      "provider": "GitHub",
+      "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 377,
+        "forks": 71,
+        "pushed_at": "2026-11-12T03:53:31Z",
+        "updated_at": "2026-11-12T03:42:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2d4c6e1325f961e5",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/VideoRebirthAI/hyperflow-h3-flash",
+      "kind": "hf_model",
+      "name": "VideoRebirthAI/hyperflow-h3-flash",
+      "url": "https://huggingface.co/models/VideoRebirthAI/hyperflow-h3-flash",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "audio-video-generation",
+        "base_model:minimaxai/minimax-h3",
+        "base_model:quantized:minimaxai/minimax-h3",
+        "comfyui",
+        "diffusers",
+        "en",
+        "few-step",
+        "gguf",
+        "hyperflow-h3",
+        "image-text-to-video",
+        "image-to-video",
+        "int8",
+        "license:other",
+        "minimax-h3",
+        "reference-to-video",
+        "region:us",
+        "safetensors",
+        "stable-diffusion.cpp",
+        "text-to-video",
+        "unsloth",
+        "zh"
+      ],
+      "input_output": "image-text-to-video -> inference result",
+      "signals": {
+        "downloads": 241579,
+        "likes": 210,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-video"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "158efaf0f0124d11",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/search/repositories?q=topic%3Aai-agents+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-13+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded"
+  ],
+  "status": "partial"
+}
