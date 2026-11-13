@@ -1,0 +1,669 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T03:26:57.584766+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/codex",
+      "kind": "official_repository",
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "provider": "openai",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 135072,
+        "pushed_at": "2026-11-13T02:11:35Z",
+        "updated_at": "2026-11-13T03:25:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "dac02e4c63100563",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/mistral-vibe",
+      "kind": "official_repository",
+      "name": "mistralai/mistral-vibe",
+      "url": "https://github.com/mistralai/mistral-vibe",
+      "provider": "mistralai",
+      "description": "Minimal CLI coding agent by Mistral",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 5377,
+        "pushed_at": "2026-11-10T16:56:57Z",
+        "updated_at": "2026-11-13T00:07:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "edcf512a3a9ed1a9",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/openai/mcp-extensions",
+      "kind": "official_repository",
+      "name": "openai/mcp-extensions",
+      "url": "https://github.com/openai/mcp-extensions",
+      "provider": "openai",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 1179,
+        "pushed_at": "2026-11-10T22:55:15Z",
+        "updated_at": "2026-11-13T03:19:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "999b77fded9849c7",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/kernels-community",
+      "kind": "official_repository",
+      "name": "huggingface/kernels-community",
+      "url": "https://github.com/huggingface/kernels-community",
+      "provider": "huggingface",
+      "description": "Kernel sources for https://huggingface.co/kernels-community",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 158,
+        "pushed_at": "2026-11-12T23:06:17Z",
+        "updated_at": "2026-11-13T03:10:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3df100f6e06dd5d7",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_reference:https://console.groq.com/docs/speech-to-text",
+      "kind": "official_reference",
+      "name": "Groq Speech-to-Text",
+      "url": "https://console.groq.com/docs/speech-to-text",
+      "provider": "Groq",
+      "description": "Official speech transcription and translation API documentation.",
+      "capability_tags": [
+        "asr",
+        "audio-chunking",
+        "speech-to-text",
+        "transcription"
+      ],
+      "input_output": "Audio -> text, verbose JSON, segment or word timestamps",
+      "signals": {
+        "authority": "official",
+        "updated_at": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5bd9b7b6f01ac268",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_reference:https://huggingface.co/docs/huggingface_hub/guides/search",
+      "kind": "official_reference",
+      "name": "Hugging Face Hub Search",
+      "url": "https://huggingface.co/docs/huggingface_hub/guides/search",
+      "provider": "Hugging Face",
+      "description": "Official Hub search and filtering documentation.",
+      "capability_tags": [
+        "inference",
+        "models",
+        "search",
+        "spaces"
+      ],
+      "input_output": "Task filters -> model, dataset, or Space candidates",
+      "signals": {
+        "authority": "official",
+        "updated_at": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9f902fe83c066dbd",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_reference:https://docs.mistral.ai/studio-api/document-processing/basic_ocr",
+      "kind": "official_reference",
+      "name": "Mistral Document AI OCR",
+      "url": "https://docs.mistral.ai/studio-api/document-processing/basic_ocr",
+      "provider": "Mistral AI",
+      "description": "Official OCR documentation for structured PDF and image extraction.",
+      "capability_tags": [
+        "document-ai",
+        "ocr",
+        "structured-extraction"
+      ],
+      "input_output": "PDF or image -> Markdown, tables, images, links, blocks, confidence scores",
+      "signals": {
+        "authority": "official",
+        "updated_at": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "555413e54238b570",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_reference:https://github.com/openai/openai-cookbook",
+      "kind": "official_reference",
+      "name": "OpenAI Cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "provider": "OpenAI",
+      "description": "Official API examples and implementation patterns.",
+      "capability_tags": [
+        "agents",
+        "api",
+        "sdk",
+        "structured-output"
+      ],
+      "input_output": "Task input -> API example and inspectable output",
+      "signals": {
+        "authority": "official",
+        "updated_at": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8dbe68e7e462eff0",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Twigpine/openclaude",
+      "kind": "github_repository",
+      "name": "Twigpine/openclaude",
+      "url": "https://github.com/Twigpine/openclaude",
+      "provider": "GitHub",
+      "description": "runs anywhere. uses anything",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 34350,
+        "forks": 9121,
+        "pushed_at": "2026-11-13T02:48:36Z",
+        "updated_at": "2026-11-13T03:25:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6c6f0fc576e6f446",
+        "novel": false,
+        "dedup_age_days": 38
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/vercel-labs/agent-desktop",
+      "kind": "github_repository",
+      "name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "provider": "GitHub",
+      "description": "Computer use CLI for AI agents",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 22803,
+        "forks": 1688,
+        "pushed_at": "2026-11-13T03:24:43Z",
+        "updated_at": "2026-11-13T03:24:26Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a91cba43ad55798b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kortix-ai/CompanyOS",
+      "kind": "github_repository",
+      "name": "kortix-ai/CompanyOS",
+      "url": "https://github.com/kortix-ai/CompanyOS",
+      "provider": "GitHub",
+      "description": "Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 20674,
+        "forks": 3470,
+        "pushed_at": "2026-11-13T03:24:19Z",
+        "updated_at": "2026-11-13T02:50:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "503b6ebabdb5225d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/elizaOS/eliza",
+      "kind": "github_repository",
+      "name": "elizaOS/eliza",
+      "url": "https://github.com/elizaOS/eliza",
+      "provider": "GitHub",
+      "description": "Open source agentic operating system",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 19870,
+        "forks": 5900,
+        "pushed_at": "2026-11-13T03:24:57Z",
+        "updated_at": "2026-11-13T03:22:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "803de3d27a0383d6",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xerrors/Yuxi",
+      "kind": "github_repository",
+      "name": "xerrors/Yuxi",
+      "url": "https://github.com/xerrors/Yuxi",
+      "provider": "GitHub",
+      "description": "可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7659,
+        "forks": 1264,
+        "pushed_at": "2026-11-13T03:09:12Z",
+        "updated_at": "2026-11-13T01:48:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "467b0e499e01ba83",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/cyanfish/naps2",
+      "kind": "github_repository",
+      "name": "cyanfish/naps2",
+      "url": "https://github.com/cyanfish/naps2",
+      "provider": "GitHub",
+      "description": "Scan documents to PDF and more, as simply as possible.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4780,
+        "forks": 489,
+        "pushed_at": "2026-11-13T02:27:51Z",
+        "updated_at": "2026-11-13T03:00:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9749d6d21bf647f1",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/sandbox-quantum/switch",
+      "kind": "github_repository",
+      "name": "sandbox-quantum/switch",
+      "url": "https://github.com/sandbox-quantum/switch",
+      "provider": "GitHub",
+      "description": "Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4472,
+        "forks": 349,
+        "pushed_at": "2026-11-13T03:17:53Z",
+        "updated_at": "2026-11-13T03:25:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d8d79ace95d1791a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+      "kind": "github_repository",
+      "name": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+      "url": "https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+      "provider": "GitHub",
+      "description": "面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-driven workflows.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3446,
+        "forks": 649,
+        "pushed_at": "2026-11-13T03:07:21Z",
+        "updated_at": "2026-11-13T02:30:20Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c28fb5403ec7b3a1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/shinyobjectz/raea",
+      "kind": "github_repository",
+      "name": "shinyobjectz/raea",
+      "url": "https://github.com/shinyobjectz/raea",
+      "provider": "GitHub",
+      "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2297,
+        "forks": 165,
+        "pushed_at": "2026-11-13T03:20:34Z",
+        "updated_at": "2026-11-13T03:21:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "854b66c1cb477ed3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/FrigadeHQ/yogurt",
+      "kind": "github_repository",
+      "name": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "provider": "GitHub",
+      "description": "Private AI meeting notes. Free and open source.",
+      "capability_tags": [
+        "mcp",
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 985,
+        "forks": 35,
+        "pushed_at": "2026-11-13T03:18:40Z",
+        "updated_at": "2026-11-13T03:26:39Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4ad892a476d4d748",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yuxino/Mimi",
+      "kind": "github_repository",
+      "name": "yuxino/Mimi",
+      "url": "https://github.com/yuxino/Mimi",
+      "provider": "GitHub",
+      "description": "把电脑或麦克风声音转成实时翻译字幕。Live translated subtitles from computer or microphone audio.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 856,
+        "forks": 51,
+        "pushed_at": "2026-11-13T03:24:32Z",
+        "updated_at": "2026-11-13T03:18:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1ede05876f337686",
+        "novel": false,
+        "dedup_age_days": 39
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/UCS-Care-Group/mailcraft",
+      "kind": "github_repository",
+      "name": "UCS-Care-Group/mailcraft",
+      "url": "https://github.com/UCS-Care-Group/mailcraft",
+      "provider": "GitHub",
+      "description": "MailCraft: an open-source, clean-room mail, calendar and contacts program in pure Rust, for Microsoft 365, Outlook.com and IMAP. Early alpha.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 554,
+        "forks": 101,
+        "pushed_at": "2026-11-13T03:19:05Z",
+        "updated_at": "2026-11-13T02:56:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "309f4f149fdac202",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/intent-hq/intent",
+      "kind": "github_repository",
+      "name": "intent-hq/intent",
+      "url": "https://github.com/intent-hq/intent",
+      "provider": "GitHub",
+      "description": "Open-source workspace for coding agents: specialists plan, then Claude Code, Codex & Cursor build in parallel, on your machines or in the cloud.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 428,
+        "forks": 37,
+        "pushed_at": "2026-11-13T03:26:17Z",
+        "updated_at": "2026-11-12T18:36:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23f964cbcc9ff14d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Hon-Lu/OverTranslate",
+      "kind": "github_repository",
+      "name": "Hon-Lu/OverTranslate",
+      "url": "https://github.com/Hon-Lu/OverTranslate",
+      "provider": "GitHub",
+      "description": "Real-time screen translator overlay for Windows — OCR translation for games, manga, comics, videos & everyday text. ｜ Windows 螢幕即時翻譯工具，適合遊戲、漫畫、影音與日常使用。",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 279,
+        "forks": 19,
+        "pushed_at": "2026-11-13T01:47:08Z",
+        "updated_at": "2026-11-12T21:51:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9e96ed8f6ed8a1c3",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zickrian/isle",
+      "kind": "github_repository",
+      "name": "zickrian/isle",
+      "url": "https://github.com/zickrian/isle",
+      "provider": "GitHub",
+      "description": "A notch-style island for GNOME that keeps your day one glance away: music with synced lyrics, notifications, calendar, focus timer, tasks, screen time, a clipboard shelf and an AI assistant that installs and fixes things. In black or glass, and light on your system",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 243,
+        "forks": 44,
+        "pushed_at": "2026-11-13T03:23:51Z",
+        "updated_at": "2026-11-12T17:00:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ff74747e76ce6604",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/Zyphra/ZONOS3-Mini",
+      "kind": "hf_model",
+      "name": "Zyphra/ZONOS3-Mini",
+      "url": "https://huggingface.co/models/Zyphra/ZONOS3-Mini",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "ar",
+        "bg",
+        "bn",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "endpoints_compatible",
+        "es",
+        "fi",
+        "fr",
+        "gguf",
+        "gu",
+        "he",
+        "hi",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ka",
+        "kn",
+        "ko",
+        "license:apache-2.0",
+        "ml",
+        "mr",
+        "ms",
+        "multilingual",
+        "nl",
+        "no",
+        "or",
+        "pa",
+        "pl",
+        "pt",
+        "region:us",
+        "ro",
+        "ru",
+        "safetensors",
+        "sk",
+        "speech-synthesis",
+        "sv",
+        "ta",
+        "te",
+        "text-to-speech",
+        "th",
+        "tl",
+        "tr",
+        "tts",
+        "uk",
+        "ur",
+        "vi",
+        "voice-cloning",
+        "zh",
+        "zonos",
+        "zonos3",
+        "zyphra"
+      ],
+      "input_output": "text-to-speech -> inference result",
+      "signals": {
+        "downloads": 8543,
+        "likes": 235,
+        "updated_at": null,
+        "pipeline_tag": "text-to-speech"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "15046c78700a3016",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

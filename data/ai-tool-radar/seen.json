@@ -162,7 +162,7 @@
       "fingerprint": "65cf3213a52e79a2"
     },
     "github_repository:https://github.com/elizaOS/eliza": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-13",
       "fingerprint": "803de3d27a0383d6"
     },
     "github_repository:https://github.com/activeloopai/hivemind": {
@@ -218,7 +218,7 @@
       "fingerprint": "2149099ea4e39512"
     },
     "official_repository:https://github.com/mistralai/mistral-vibe": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-13",
       "fingerprint": "edcf512a3a9ed1a9"
     },
     "official_repository:https://github.com/mistralai/cookbook": {
@@ -242,7 +242,7 @@
       "fingerprint": "b63b3dd74bc8dade"
     },
     "official_repository:https://github.com/openai/codex": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-13",
       "fingerprint": "dac02e4c63100563"
     },
     "official_repository:https://github.com/openai/openai-cookbook": {
@@ -338,19 +338,19 @@
       "fingerprint": "af7e8445d13d5fa5"
     },
     "official_reference:https://docs.mistral.ai/studio-api/document-processing/basic_ocr": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-13",
       "fingerprint": "555413e54238b570"
     },
     "official_reference:https://console.groq.com/docs/speech-to-text": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-13",
       "fingerprint": "5bd9b7b6f01ac268"
     },
     "official_reference:https://github.com/openai/openai-cookbook": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-13",
       "fingerprint": "8dbe68e7e462eff0"
     },
     "official_reference:https://huggingface.co/docs/huggingface_hub/guides/search": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-13",
       "fingerprint": "9f902fe83c066dbd"
     },
     "github_repository:https://github.com/rahilp/second-brain-cloudflare": {
@@ -902,7 +902,7 @@
       "fingerprint": "4df5600e5c404dea"
     },
     "github_repository:https://github.com/cyanfish/naps2": {
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-13",
       "fingerprint": "9749d6d21bf647f1"
     },
     "github_repository:https://github.com/lzhgus/Capso": {
@@ -4154,7 +4154,7 @@
       "fingerprint": "f50339291de74d87"
     },
     "official_repository:https://github.com/openai/mcp-extensions": {
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-11-13",
       "fingerprint": "999b77fded9849c7"
     },
     "official_repository:https://github.com/huggingface/context-course": {
@@ -4262,7 +4262,7 @@
       "fingerprint": "03c3371e7584390a"
     },
     "github_repository:https://github.com/yuxino/Mimi": {
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-11-13",
       "fingerprint": "1ede05876f337686"
     },
     "github_repository:https://github.com/HenestrosaDev/audiotext": {
@@ -4298,7 +4298,7 @@
       "fingerprint": "41b9468b9086503b"
     },
     "github_repository:https://github.com/Twigpine/openclaude": {
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-11-13",
       "fingerprint": "6c6f0fc576e6f446"
     },
     "github_repository:https://github.com/datalab-to/lift": {
@@ -5408,6 +5408,58 @@
     "hf_model:https://huggingface.co/models/VideoRebirthAI/hyperflow-h3-flash": {
       "last_seen": "2026-11-12",
       "fingerprint": "158efaf0f0124d11"
+    },
+    "github_repository:https://github.com/Hon-Lu/OverTranslate": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "9e96ed8f6ed8a1c3"
+    },
+    "github_repository:https://github.com/FrigadeHQ/yogurt": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "4ad892a476d4d748"
+    },
+    "github_repository:https://github.com/vercel-labs/agent-desktop": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "a91cba43ad55798b"
+    },
+    "github_repository:https://github.com/UCS-Care-Group/mailcraft": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "309f4f149fdac202"
+    },
+    "github_repository:https://github.com/sandbox-quantum/switch": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "d8d79ace95d1791a"
+    },
+    "github_repository:https://github.com/intent-hq/intent": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "23f964cbcc9ff14d"
+    },
+    "github_repository:https://github.com/xerrors/Yuxi": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "467b0e499e01ba83"
+    },
+    "github_repository:https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "c28fb5403ec7b3a1"
+    },
+    "github_repository:https://github.com/zickrian/isle": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "ff74747e76ce6604"
+    },
+    "github_repository:https://github.com/kortix-ai/CompanyOS": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "503b6ebabdb5225d"
+    },
+    "github_repository:https://github.com/shinyobjectz/raea": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "854b66c1cb477ed3"
+    },
+    "official_repository:https://github.com/huggingface/kernels-community": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "3df100f6e06dd5d7"
+    },
+    "hf_model:https://huggingface.co/models/Zyphra/ZONOS3-Mini": {
+      "last_seen": "2026-11-13",
+      "fingerprint": "15046c78700a3016"
     }
   }
 }
