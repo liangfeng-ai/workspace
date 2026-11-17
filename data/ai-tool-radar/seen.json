@@ -18,7 +18,7 @@
       "fingerprint": "2ff255a277be7d91"
     },
     "github_repository:https://github.com/browser-use/browser-use": {
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-11-17",
       "fingerprint": "cae28f83b9d950c0"
     },
     "github_repository:https://github.com/qf-studio/pilot": {
@@ -1198,7 +1198,7 @@
       "fingerprint": "81658a619852c88a"
     },
     "github_repository:https://github.com/punkpeye/awesome-mcp-servers": {
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-11-17",
       "fingerprint": "9a565be1c4bfe1ba"
     },
     "github_repository:https://github.com/nicobailon/pi-mcp-adapter": {
@@ -1386,7 +1386,7 @@
       "fingerprint": "4db1537f08e67310"
     },
     "github_repository:https://github.com/nyldn/claude-octopus": {
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-11-17",
       "fingerprint": "a9d2e14ebfd1c28e"
     },
     "github_repository:https://github.com/crewAIInc/crewAI": {
@@ -1754,7 +1754,7 @@
       "fingerprint": "74d90918356bf966"
     },
     "github_repository:https://github.com/Mintplex-Labs/anything-llm": {
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-11-17",
       "fingerprint": "e812d3ee0042aa15"
     },
     "github_repository:https://github.com/archie0732/healthy-diet-ai-agent": {
@@ -3022,7 +3022,7 @@
       "fingerprint": "d52c04820d2b3c3b"
     },
     "github_repository:https://github.com/acryldev/acryl": {
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-11-17",
       "fingerprint": "853fce66d3eb7315"
     },
     "github_repository:https://github.com/earthtojake/text-to-cad": {
@@ -3058,7 +3058,7 @@
       "fingerprint": "55d2d297d1a5d44b"
     },
     "github_repository:https://github.com/JetBrains/thinkrail": {
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-11-17",
       "fingerprint": "946d039676c46ac8"
     },
     "github_repository:https://github.com/PaulDuvall/ai-development-patterns": {
@@ -3754,7 +3754,7 @@
       "fingerprint": "758a9eadcaf8a779"
     },
     "github_repository:https://github.com/punkpeye/awesome-remote-mcp-servers": {
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-11-17",
       "fingerprint": "e5c8b9ac9aa05243"
     },
     "github_repository:https://github.com/Storybloq/storybloq": {
@@ -4034,7 +4034,7 @@
       "fingerprint": "2ad9b7bea1bc18c4"
     },
     "official_repository:https://github.com/groq/groq-changelog": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-11-17",
       "fingerprint": "acff77f4236f5f58"
     },
     "official_repository:https://github.com/huggingface/meshgen": {
@@ -5512,6 +5512,38 @@
     "hf_space:https://huggingface.co/spaces/Lampyy/qwen-image-edit": {
       "last_seen": "2026-11-16",
       "fingerprint": "2cfd5afca87c13f5"
+    },
+    "github_repository:https://github.com/yazinsai/OpenOats": {
+      "last_seen": "2026-11-17",
+      "fingerprint": "e217d6dac8fe062b"
+    },
+    "github_repository:https://github.com/hehehai/VoxtMini": {
+      "last_seen": "2026-11-17",
+      "fingerprint": "ba513263436b885b"
+    },
+    "github_repository:https://github.com/hehehai/AudioSmith": {
+      "last_seen": "2026-11-17",
+      "fingerprint": "ca7edce67ccd66e0"
+    },
+    "github_repository:https://github.com/zovulrira1974/blender-ai-copilot-assets": {
+      "last_seen": "2026-11-17",
+      "fingerprint": "5835f41fea3f0518"
+    },
+    "github_repository:https://github.com/reacher-z/Awesome-REA": {
+      "last_seen": "2026-11-17",
+      "fingerprint": "2277a1314616a4c4"
+    },
+    "official_repository:https://github.com/huggingface/pybot": {
+      "last_seen": "2026-11-17",
+      "fingerprint": "2fd02117aeb4890a"
+    },
+    "official_repository:https://github.com/huggingface/optimum-intel": {
+      "last_seen": "2026-11-17",
+      "fingerprint": "60b2670468758593"
+    },
+    "hf_space:https://huggingface.co/spaces/amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer": {
+      "last_seen": "2026-11-17",
+      "fingerprint": "75ee6b82d346d4d9"
     }
   }
 }

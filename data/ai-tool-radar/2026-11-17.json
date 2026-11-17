@@ -1,0 +1,434 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T05:07:02.344211+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 16,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/optimum-intel",
+      "kind": "official_repository",
+      "name": "huggingface/optimum-intel",
+      "url": "https://github.com/huggingface/optimum-intel",
+      "provider": "huggingface",
+      "description": "🤗 Optimum Intel: Accelerate inference with Intel optimization tools",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 631,
+        "pushed_at": "2026-11-16T16:54:08Z",
+        "updated_at": "2026-11-17T04:58:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "60b2670468758593",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/pybot",
+      "kind": "official_repository",
+      "name": "huggingface/pybot",
+      "url": "https://github.com/huggingface/pybot",
+      "provider": "huggingface",
+      "description": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 229,
+        "pushed_at": "2026-11-16T11:07:29Z",
+        "updated_at": "2026-11-17T05:02:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2fd02117aeb4890a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-changelog",
+      "kind": "official_repository",
+      "name": "groq/groq-changelog",
+      "url": "https://github.com/groq/groq-changelog",
+      "provider": "groq",
+      "description": "Groq Public Changelog",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 17,
+        "pushed_at": "2026-11-16T16:58:23Z",
+        "updated_at": "2026-10-30T01:35:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "acff77f4236f5f58",
+        "novel": false,
+        "dedup_age_days": 50
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/browser-use/browser-use",
+      "kind": "github_repository",
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "provider": "GitHub",
+      "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 121251,
+        "forks": 13558,
+        "pushed_at": "2026-11-17T05:01:37Z",
+        "updated_at": "2026-11-17T04:22:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cae28f83b9d950c0",
+        "novel": false,
+        "dedup_age_days": 54
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/punkpeye/awesome-mcp-servers",
+      "kind": "github_repository",
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "provider": "GitHub",
+      "description": "A collection of MCP servers.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 97780,
+        "forks": 20158,
+        "pushed_at": "2026-11-17T05:06:23Z",
+        "updated_at": "2026-11-17T05:05:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9a565be1c4bfe1ba",
+        "novel": false,
+        "dedup_age_days": 71
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Mintplex-Labs/anything-llm",
+      "kind": "github_repository",
+      "name": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "provider": "GitHub",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 68350,
+        "forks": 7722,
+        "pushed_at": "2026-11-17T04:50:39Z",
+        "updated_at": "2026-11-17T04:54:21Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e812d3ee0042aa15",
+        "novel": false,
+        "dedup_age_days": 33
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JetBrains/thinkrail",
+      "kind": "github_repository",
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "provider": "GitHub",
+      "description": "ThinkRail is the agentic IDE that gets better every time you use it",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8311,
+        "forks": 531,
+        "pushed_at": "2026-11-17T04:14:23Z",
+        "updated_at": "2026-11-17T04:19:27Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "946d039676c46ac8",
+        "novel": false,
+        "dedup_age_days": 43
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nyldn/claude-octopus",
+      "kind": "github_repository",
+      "name": "nyldn/claude-octopus",
+      "url": "https://github.com/nyldn/claude-octopus",
+      "provider": "GitHub",
+      "description": "Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4453,
+        "forks": 420,
+        "pushed_at": "2026-11-17T04:58:04Z",
+        "updated_at": "2026-11-17T03:48:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a9d2e14ebfd1c28e",
+        "novel": false,
+        "dedup_age_days": 112
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/punkpeye/awesome-remote-mcp-servers",
+      "kind": "github_repository",
+      "name": "punkpeye/awesome-remote-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+      "provider": "GitHub",
+      "description": "A collection of remote MCP servers.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3366,
+        "forks": 4046,
+        "pushed_at": "2026-11-17T05:04:49Z",
+        "updated_at": "2026-11-17T04:53:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e5c8b9ac9aa05243",
+        "novel": false,
+        "dedup_age_days": 57
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/reacher-z/Awesome-REA",
+      "kind": "github_repository",
+      "name": "reacher-z/Awesome-REA",
+      "url": "https://github.com/reacher-z/Awesome-REA",
+      "provider": "GitHub",
+      "description": "Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 3023,
+        "forks": 503,
+        "pushed_at": "2026-11-17T04:59:34Z",
+        "updated_at": "2026-11-17T05:04:21Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2277a1314616a4c4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yazinsai/OpenOats",
+      "kind": "github_repository",
+      "name": "yazinsai/OpenOats",
+      "url": "https://github.com/yazinsai/OpenOats",
+      "provider": "GitHub",
+      "description": "A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2673,
+        "forks": 260,
+        "pushed_at": "2026-11-17T04:54:50Z",
+        "updated_at": "2026-11-17T04:22:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e217d6dac8fe062b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hehehai/VoxtMini",
+      "kind": "github_repository",
+      "name": "hehehai/VoxtMini",
+      "url": "https://github.com/hehehai/VoxtMini",
+      "provider": "GitHub",
+      "description": "Voice input for macOS on local models: transcribe, translate and rewrite in any app. The successor of Voxt.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 907,
+        "forks": 68,
+        "pushed_at": "2026-11-17T04:22:02Z",
+        "updated_at": "2026-11-17T04:36:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ba513263436b885b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/zovulrira1974/blender-ai-copilot-assets",
+      "kind": "github_repository",
+      "name": "zovulrira1974/blender-ai-copilot-assets",
+      "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+      "provider": "GitHub",
+      "description": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 510,
+        "forks": 15,
+        "pushed_at": "2026-11-17T05:02:30Z",
+        "updated_at": "2026-11-16T21:09:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5835f41fea3f0518",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/acryldev/acryl",
+      "kind": "github_repository",
+      "name": "acryldev/acryl",
+      "url": "https://github.com/acryldev/acryl",
+      "provider": "GitHub",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 320,
+        "forks": 36,
+        "pushed_at": "2026-11-17T04:49:30Z",
+        "updated_at": "2026-11-16T20:55:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "853fce66d3eb7315",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hehehai/AudioSmith",
+      "kind": "github_repository",
+      "name": "hehehai/AudioSmith",
+      "url": "https://github.com/hehehai/AudioSmith",
+      "provider": "GitHub",
+      "description": "Speech, voices, stories, audiobooks, dubbing and transcription, made on your Mac. Free and open source.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 235,
+        "forks": 23,
+        "pushed_at": "2026-11-17T03:48:06Z",
+        "updated_at": "2026-11-15T16:38:24Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ca7edce67ccd66e0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer",
+      "kind": "hf_space",
+      "name": "amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer",
+      "url": "https://huggingface.co/spaces/amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "bfs-head-v1.1",
+        "camera-control",
+        "detail-enhancer",
+        "dmd2",
+        "face-swap",
+        "gradio",
+        "image-editing",
+        "image-enhancement",
+        "image-to-image",
+        "mcp-server",
+        "moss-image-edit",
+        "multiple-angles",
+        "outpainting",
+        "qwen-detail-enhancer",
+        "qwen-face-swap",
+        "qwen-image-2.1",
+        "qwen-image-edit",
+        "region:us",
+        "relighting",
+        "uncrop",
+        "viggle-turbo",
+        "zerogpu"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 74,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "75ee6b82d346d4d9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}
