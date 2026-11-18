@@ -1,0 +1,648 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T04:31:47.568700+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/huggingface/transformers",
+      "kind": "official_repository",
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "provider": "huggingface",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 169317,
+        "pushed_at": "2026-11-18T04:14:23Z",
+        "updated_at": "2026-11-18T04:30:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "320399bef82642d6",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/peft",
+      "kind": "official_repository",
+      "name": "huggingface/peft",
+      "url": "https://github.com/huggingface/peft",
+      "provider": "huggingface",
+      "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 21905,
+        "pushed_at": "2026-11-17T17:25:27Z",
+        "updated_at": "2026-11-18T04:18:36Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f076500efcfd9733",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/cookbook",
+      "kind": "official_repository",
+      "name": "mistralai/cookbook",
+      "url": "https://github.com/mistralai/cookbook",
+      "provider": "mistralai",
+      "description": "",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 2368,
+        "pushed_at": "2026-11-13T12:34:18Z",
+        "updated_at": "2026-11-17T21:30:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7eccd30351103cc1",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/n8n-io/n8n",
+      "kind": "github_repository",
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "provider": "GitHub",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 210913,
+        "forks": 61605,
+        "pushed_at": "2026-11-18T04:26:54Z",
+        "updated_at": "2026-11-18T04:30:29Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4a5a4feae72913b6",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/code-yeongyu/oh-my-openagent",
+      "kind": "github_repository",
+      "name": "code-yeongyu/oh-my-openagent",
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "provider": "GitHub",
+      "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 70983,
+        "forks": 5845,
+        "pushed_at": "2026-11-18T04:27:06Z",
+        "updated_at": "2026-11-18T04:28:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fbceb5214d083510",
+        "novel": false,
+        "dedup_age_days": 50
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/labring/FastGPT",
+      "kind": "github_repository",
+      "name": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "provider": "GitHub",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 30059,
+        "forks": 7380,
+        "pushed_at": "2026-11-18T04:01:34Z",
+        "updated_at": "2026-11-18T04:20:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f022cb1d33321b8b",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lexmount/moli",
+      "kind": "github_repository",
+      "name": "lexmount/moli",
+      "url": "https://github.com/lexmount/moli",
+      "provider": "GitHub",
+      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 23955,
+        "forks": 686,
+        "pushed_at": "2026-11-18T03:42:58Z",
+        "updated_at": "2026-11-18T04:28:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "158d7179700c1a15",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/xberg-io/xberg",
+      "kind": "github_repository",
+      "name": "xberg-io/xberg",
+      "url": "https://github.com/xberg-io/xberg",
+      "provider": "GitHub",
+      "description": "The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 9598,
+        "forks": 617,
+        "pushed_at": "2026-11-18T04:30:15Z",
+        "updated_at": "2026-11-17T22:33:23Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "0b7a8945e26a471a",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/repowise-dev/repowise",
+      "kind": "github_repository",
+      "name": "repowise-dev/repowise",
+      "url": "https://github.com/repowise-dev/repowise",
+      "provider": "GitHub",
+      "description": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8170,
+        "forks": 1023,
+        "pushed_at": "2026-11-18T04:29:42Z",
+        "updated_at": "2026-11-18T04:10:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "45b18130fa26f750",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/qybaihe/bla",
+      "kind": "github_repository",
+      "name": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "provider": "GitHub",
+      "description": "🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6080,
+        "forks": 755,
+        "pushed_at": "2026-11-18T04:28:09Z",
+        "updated_at": "2026-11-18T04:30:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9326295d0ad0bad4",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kirodotdev/KiroCrew",
+      "kind": "github_repository",
+      "name": "kirodotdev/KiroCrew",
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "provider": "GitHub",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4980,
+        "forks": 1062,
+        "pushed_at": "2026-11-18T04:31:04Z",
+        "updated_at": "2026-11-18T04:28:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "200d7c21b2bbf6de",
+        "novel": false,
+        "dedup_age_days": 37
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/JabRef/jabref",
+      "kind": "github_repository",
+      "name": "JabRef/jabref",
+      "url": "https://github.com/JabRef/jabref",
+      "provider": "GitHub",
+      "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4901,
+        "forks": 3710,
+        "pushed_at": "2026-11-18T04:18:12Z",
+        "updated_at": "2026-11-17T15:41:09Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "900bd839a606029c",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Open-Less/openless",
+      "kind": "github_repository",
+      "name": "Open-Less/openless",
+      "url": "https://github.com/Open-Less/openless",
+      "provider": "GitHub",
+      "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4129,
+        "forks": 394,
+        "pushed_at": "2026-11-18T04:15:13Z",
+        "updated_at": "2026-11-18T04:24:39Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "964f6828aa299980",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/NVIDIA/skills",
+      "kind": "github_repository",
+      "name": "NVIDIA/skills",
+      "url": "https://github.com/NVIDIA/skills",
+      "provider": "GitHub",
+      "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 4054,
+        "forks": 535,
+        "pushed_at": "2026-11-18T04:11:43Z",
+        "updated_at": "2026-11-18T03:39:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9005b9cd7a3e55d0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/kulkas2pintu/wan777",
+      "kind": "hf_space",
+      "name": "kulkas2pintu/wan777",
+      "url": "https://huggingface.co/spaces/kulkas2pintu/wan777",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 1678,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b3cbad416703dbd6",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/qf-studio/pilot",
+      "kind": "github_repository",
+      "name": "qf-studio/pilot",
+      "url": "https://github.com/qf-studio/pilot",
+      "provider": "GitHub",
+      "description": "AI that ships your tickets.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 739,
+        "forks": 60,
+        "pushed_at": "2026-11-18T04:31:31Z",
+        "updated_at": "2026-11-17T23:57:33Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "58b449d020f6c941",
+        "novel": false,
+        "dedup_age_days": 48
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "kind": "hf_model",
+      "name": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "url": "https://huggingface.co/models/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:quantized:qwen/qwen-image-2.1",
+        "base_model:qwen/qwen-image-2.1",
+        "comfyui",
+        "diffusers",
+        "fp8",
+        "gguf",
+        "image-editing",
+        "int8",
+        "license:other",
+        "nf4",
+        "nvfp4",
+        "quantized",
+        "qwen-image",
+        "qwen-image-2.1",
+        "region:us",
+        "safetensors",
+        "text-to-image",
+        "uncensored"
+      ],
+      "input_output": "text-to-image -> inference result",
+      "signals": {
+        "downloads": 160748,
+        "likes": 519,
+        "updated_at": null,
+        "pipeline_tag": "text-to-image"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4f3cc3db93504439",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/chrisblattman/claudeblattman",
+      "kind": "github_repository",
+      "name": "chrisblattman/claudeblattman",
+      "url": "https://github.com/chrisblattman/claudeblattman",
+      "provider": "GitHub",
+      "description": "Claude Code for professionals who don't code — Skills, agents, and setup guides",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 483,
+        "forks": 80,
+        "pushed_at": "2026-11-18T04:05:34Z",
+        "updated_at": "2026-11-17T10:28:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "07ffe3590c36d724",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/openwong2kim/wmux",
+      "kind": "github_repository",
+      "name": "openwong2kim/wmux",
+      "url": "https://github.com/openwong2kim/wmux",
+      "provider": "GitHub",
+      "description": "The ADE for AI agents. Automate everything else. Do your true work.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 456,
+        "forks": 78,
+        "pushed_at": "2026-11-18T04:25:20Z",
+        "updated_at": "2026-11-17T18:05:52Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e6a523f5816764c9",
+        "novel": false,
+        "dedup_age_days": 44
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/scaleapi/agentenv-framework",
+      "kind": "github_repository",
+      "name": "scaleapi/agentenv-framework",
+      "url": "https://github.com/scaleapi/agentenv-framework",
+      "provider": "GitHub",
+      "description": "Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments tools, dynamism of the environment, reproducibility, and more. There is no open source framework for building these environments effectively. Until now.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 444,
+        "forks": 65,
+        "pushed_at": "2026-11-18T04:24:23Z",
+        "updated_at": "2026-11-18T03:40:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8d3420728187a2a8",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mindroom-ai/mindroom",
+      "kind": "github_repository",
+      "name": "mindroom-ai/mindroom",
+      "url": "https://github.com/mindroom-ai/mindroom",
+      "provider": "GitHub",
+      "description": "AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 370,
+        "forks": 32,
+        "pushed_at": "2026-11-18T04:27:52Z",
+        "updated_at": "2026-11-16T19:40:07Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e3f1ab03393eeab6",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/alicebrown323/pro-tools-desktop",
+      "kind": "github_repository",
+      "name": "alicebrown323/pro-tools-desktop",
+      "url": "https://github.com/alicebrown323/pro-tools-desktop",
+      "provider": "GitHub",
+      "description": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 316,
+        "forks": 0,
+        "pushed_at": "2026-11-18T03:56:51Z",
+        "updated_at": "2026-11-18T04:30:30Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "daa7074ac71d081a",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/n4ze3m/tiny-voca",
+      "kind": "hf_model",
+      "name": "n4ze3m/tiny-voca",
+      "url": "https://huggingface.co/models/n4ze3m/tiny-voca",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "dataset:n4ze3m/tiny-voca",
+        "en",
+        "gguf",
+        "license:apache-2.0",
+        "onnx",
+        "region:us",
+        "text-to-speech"
+      ],
+      "input_output": "text-to-speech -> inference result",
+      "signals": {
+        "downloads": 3042,
+        "likes": 233,
+        "updated_at": null,
+        "pipeline_tag": "text-to-speech"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d97ac6e104f76ed1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/sensenova/SenseNova-Loop-9B",
+      "kind": "hf_model",
+      "name": "sensenova/SenseNova-Loop-9B",
+      "url": "https://huggingface.co/models/sensenova/SenseNova-Loop-9B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "conversational",
+        "custom_code",
+        "en",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "looped-transformer",
+        "mhc",
+        "multimodal",
+        "region:us",
+        "safetensors",
+        "sensenova_loop",
+        "text-generation",
+        "transformers",
+        "zh"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 215,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "57668a8e74f40159",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

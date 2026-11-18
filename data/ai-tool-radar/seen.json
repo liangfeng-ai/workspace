@@ -22,7 +22,7 @@
       "fingerprint": "cae28f83b9d950c0"
     },
     "github_repository:https://github.com/qf-studio/pilot": {
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-18",
       "fingerprint": "58b449d020f6c941"
     },
     "github_repository:https://github.com/webbrain-one/webbrain": {
@@ -62,7 +62,7 @@
       "fingerprint": "1bb5797e6f0fcca7"
     },
     "github_repository:https://github.com/JabRef/jabref": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-18",
       "fingerprint": "900bd839a606029c"
     },
     "github_repository:https://github.com/SylphxAI/pdf-reader-mcp": {
@@ -222,7 +222,7 @@
       "fingerprint": "edcf512a3a9ed1a9"
     },
     "official_repository:https://github.com/mistralai/cookbook": {
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-11-18",
       "fingerprint": "7eccd30351103cc1"
     },
     "official_repository:https://github.com/mistralai/client-ts": {
@@ -442,7 +442,7 @@
       "fingerprint": "e06078a1bb88cb36"
     },
     "official_repository:https://github.com/huggingface/transformers": {
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-11-18",
       "fingerprint": "320399bef82642d6"
     },
     "official_repository:https://github.com/huggingface/autotrain-advanced": {
@@ -554,7 +554,7 @@
       "fingerprint": "94e68fdd3979f670"
     },
     "github_repository:https://github.com/openwong2kim/wmux": {
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-11-18",
       "fingerprint": "e6a523f5816764c9"
     },
     "github_repository:https://github.com/InsForge/InsForge": {
@@ -1114,7 +1114,7 @@
       "fingerprint": "4d7f419ce1522274"
     },
     "github_repository:https://github.com/n8n-io/n8n": {
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-18",
       "fingerprint": "4a5a4feae72913b6"
     },
     "github_repository:https://github.com/mastra-ai/mastra": {
@@ -1570,7 +1570,7 @@
       "fingerprint": "b86b296bd5e792b5"
     },
     "official_repository:https://github.com/huggingface/peft": {
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-11-18",
       "fingerprint": "f076500efcfd9733"
     },
     "hf_model:https://huggingface.co/models/unsloth/Kimi-K3-GGUF": {
@@ -1838,7 +1838,7 @@
       "fingerprint": "355d7d228aec0d25"
     },
     "github_repository:https://github.com/kirodotdev/KiroCrew": {
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-11-18",
       "fingerprint": "200d7c21b2bbf6de"
     },
     "github_repository:https://github.com/memgraph/memgraph": {
@@ -1882,7 +1882,7 @@
       "fingerprint": "7b907c0fafdf572a"
     },
     "github_repository:https://github.com/Open-Less/openless": {
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-11-18",
       "fingerprint": "964f6828aa299980"
     },
     "github_repository:https://github.com/deepgram/deepgram-js-sdk": {
@@ -2046,7 +2046,7 @@
       "fingerprint": "86c4fd16cf9a24bc"
     },
     "github_repository:https://github.com/code-yeongyu/oh-my-openagent": {
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-11-18",
       "fingerprint": "fbceb5214d083510"
     },
     "official_repository:https://github.com/huggingface/agent-manager": {
@@ -2334,7 +2334,7 @@
       "fingerprint": "f7e06af5a9dc6b04"
     },
     "github_repository:https://github.com/lexmount/moli": {
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-11-18",
       "fingerprint": "158d7179700c1a15"
     },
     "github_repository:https://github.com/mohitagw15856/pm-claude-skills": {
@@ -3318,7 +3318,7 @@
       "fingerprint": "8a81e62edf548d0a"
     },
     "github_repository:https://github.com/xberg-io/xberg": {
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-11-18",
       "fingerprint": "0b7a8945e26a471a"
     },
     "github_repository:https://github.com/gptme/gptme": {
@@ -3734,7 +3734,7 @@
       "fingerprint": "390aa8e16228fdb0"
     },
     "hf_space:https://huggingface.co/spaces/kulkas2pintu/wan777": {
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-11-18",
       "fingerprint": "b3cbad416703dbd6"
     },
     "github_repository:https://github.com/ahatem/QTranslate": {
@@ -4626,7 +4626,7 @@
       "fingerprint": "f09c5003c709b95e"
     },
     "github_repository:https://github.com/scaleapi/agentenv-framework": {
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-11-18",
       "fingerprint": "8d3420728187a2a8"
     },
     "github_repository:https://github.com/yicheng47/runner": {
@@ -4718,7 +4718,7 @@
       "fingerprint": "0eec313d607563c8"
     },
     "github_repository:https://github.com/labring/FastGPT": {
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-11-18",
       "fingerprint": "f022cb1d33321b8b"
     },
     "github_repository:https://github.com/NodeDB-Lab/nodedb": {
@@ -5544,6 +5544,42 @@
     "hf_space:https://huggingface.co/spaces/amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer": {
       "last_seen": "2026-11-17",
       "fingerprint": "75ee6b82d346d4d9"
+    },
+    "github_repository:https://github.com/chrisblattman/claudeblattman": {
+      "last_seen": "2026-11-18",
+      "fingerprint": "07ffe3590c36d724"
+    },
+    "github_repository:https://github.com/alicebrown323/pro-tools-desktop": {
+      "last_seen": "2026-11-18",
+      "fingerprint": "daa7074ac71d081a"
+    },
+    "github_repository:https://github.com/repowise-dev/repowise": {
+      "last_seen": "2026-11-18",
+      "fingerprint": "45b18130fa26f750"
+    },
+    "github_repository:https://github.com/qybaihe/bla": {
+      "last_seen": "2026-11-18",
+      "fingerprint": "9326295d0ad0bad4"
+    },
+    "github_repository:https://github.com/mindroom-ai/mindroom": {
+      "last_seen": "2026-11-18",
+      "fingerprint": "e3f1ab03393eeab6"
+    },
+    "github_repository:https://github.com/NVIDIA/skills": {
+      "last_seen": "2026-11-18",
+      "fingerprint": "9005b9cd7a3e55d0"
+    },
+    "hf_model:https://huggingface.co/models/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized": {
+      "last_seen": "2026-11-18",
+      "fingerprint": "4f3cc3db93504439"
+    },
+    "hf_model:https://huggingface.co/models/sensenova/SenseNova-Loop-9B": {
+      "last_seen": "2026-11-18",
+      "fingerprint": "57668a8e74f40159"
+    },
+    "hf_model:https://huggingface.co/models/n4ze3m/tiny-voca": {
+      "last_seen": "2026-11-18",
+      "fingerprint": "d97ac6e104f76ed1"
     }
   }
 }
