@@ -1,0 +1,866 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T04:15:18.882959+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 32,
+  "candidates": [
+    {
+      "id": "github_repository:https://github.com/davila7/claude-code-templates",
+      "kind": "github_repository",
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "provider": "GitHub",
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 33982,
+        "forks": 4041,
+        "pushed_at": "2026-11-19T04:07:54Z",
+        "updated_at": "2026-11-19T04:08:55Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "540164eae3e2a663",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/onyx-dot-app/onyx",
+      "kind": "github_repository",
+      "name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "provider": "GitHub",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 33459,
+        "forks": 4761,
+        "pushed_at": "2026-11-19T03:43:17Z",
+        "updated_at": "2026-11-19T03:45:58Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c298f932ea3f90ff",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/screenpipe/screenpipe",
+      "kind": "github_repository",
+      "name": "screenpipe/screenpipe",
+      "url": "https://github.com/screenpipe/screenpipe",
+      "provider": "GitHub",
+      "description": "YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 22450,
+        "forks": 2310,
+        "pushed_at": "2026-11-19T02:15:58Z",
+        "updated_at": "2026-11-19T04:07:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3ec55f62278b5923",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lidge-jun/opencodex",
+      "kind": "github_repository",
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "provider": "GitHub",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 18642,
+        "forks": 1529,
+        "pushed_at": "2026-11-19T04:13:28Z",
+        "updated_at": "2026-11-19T03:31:34Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "23102615b9b2a991",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CopilotKit/OpenBot",
+      "kind": "github_repository",
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "provider": "GitHub",
+      "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12884,
+        "forks": 1601,
+        "pushed_at": "2026-11-19T04:10:23Z",
+        "updated_at": "2026-11-19T04:12:53Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "758a9eadcaf8a779",
+        "novel": false,
+        "dedup_age_days": 59
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/nexu-io/openmotion",
+      "kind": "github_repository",
+      "name": "nexu-io/openmotion",
+      "url": "https://github.com/nexu-io/openmotion",
+      "provider": "GitHub",
+      "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11909,
+        "forks": 1195,
+        "pushed_at": "2026-11-19T04:13:33Z",
+        "updated_at": "2026-11-19T04:13:50Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "213654435b10710f",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/pymupdf/PyMuPDF",
+      "kind": "github_repository",
+      "name": "pymupdf/PyMuPDF",
+      "url": "https://github.com/pymupdf/PyMuPDF",
+      "provider": "GitHub",
+      "description": "Layout-aware document engine for AI and a feature-rich Python toolkit for extracting, rendering and editing PDFs and other documents. Since version 2.0, its ML-based layout analysis turns PDFs and Office files into high-quality Markdown for RAG and agents, running fast on CPU and grounding every result to its source page.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 11166,
+        "forks": 845,
+        "pushed_at": "2026-11-19T01:54:42Z",
+        "updated_at": "2026-11-19T03:29:32Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b0ffbf158b098180",
+        "novel": false,
+        "dedup_age_days": 35
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kajisho5/ffmpeg-skill",
+      "kind": "github_repository",
+      "name": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "provider": "GitHub",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8057,
+        "forks": 757,
+        "pushed_at": "2026-11-19T04:10:00Z",
+        "updated_at": "2026-11-19T04:11:22Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "82b3367e94617977",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/BuilderIO/agent-native",
+      "kind": "github_repository",
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "provider": "GitHub",
+      "description": "A framework for building agentic apps",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7724,
+        "forks": 711,
+        "pushed_at": "2026-11-19T04:14:40Z",
+        "updated_at": "2026-11-19T02:37:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "fb9f2f29a8209b50",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ashhart/TensorFold",
+      "kind": "github_repository",
+      "name": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "provider": "GitHub",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2332,
+        "forks": 546,
+        "pushed_at": "2026-11-19T04:04:38Z",
+        "updated_at": "2026-11-19T03:55:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d315178e4bc4d84b",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/leepokai/Codync",
+      "kind": "github_repository",
+      "name": "leepokai/Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "provider": "GitHub",
+      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2263,
+        "forks": 232,
+        "pushed_at": "2026-11-19T04:09:48Z",
+        "updated_at": "2026-11-19T04:12:05Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "29edca742788f3a2",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/BryceWG/BiBi-Keyboard",
+      "kind": "github_repository",
+      "name": "BryceWG/BiBi-Keyboard",
+      "url": "https://github.com/BryceWG/BiBi-Keyboard",
+      "provider": "GitHub",
+      "description": "说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用 An LLM ASR voice input method keyboard application for the Android platform based on Kotlin",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 892,
+        "forks": 63,
+        "pushed_at": "2026-11-19T02:12:21Z",
+        "updated_at": "2026-11-19T01:03:14Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "99ecbb40d8668145",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/hackerai-tech/hackerai",
+      "kind": "github_repository",
+      "name": "hackerai-tech/hackerai",
+      "url": "https://github.com/hackerai-tech/hackerai",
+      "provider": "GitHub",
+      "description": "Find and fix vulnerabilities by chatting with AI",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 843,
+        "forks": 227,
+        "pushed_at": "2026-11-19T04:00:32Z",
+        "updated_at": "2026-11-18T21:38:57Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "4a812ff0ca4ed00f",
+        "novel": false,
+        "dedup_age_days": 30
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/DenisovAV/flutter_edge_ai",
+      "kind": "github_repository",
+      "name": "DenisovAV/flutter_edge_ai",
+      "url": "https://github.com/DenisovAV/flutter_edge_ai",
+      "provider": "GitHub",
+      "description": "On-device AI for Flutter — Gemma and other LLMs, multimodal, function calling, embeddings, RAG and speech on Android, iOS, Web, macOS, Windows and Linux.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 667,
+        "forks": 181,
+        "pushed_at": "2026-11-19T03:59:37Z",
+        "updated_at": "2026-11-16T19:06:46Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1b6985fc5340c1a8",
+        "novel": false,
+        "dedup_age_days": 31
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/angelnicolasc/graymatter",
+      "kind": "github_repository",
+      "name": "angelnicolasc/graymatter",
+      "url": "https://github.com/angelnicolasc/graymatter",
+      "provider": "GitHub",
+      "description": "30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 489,
+        "forks": 42,
+        "pushed_at": "2026-11-19T03:57:34Z",
+        "updated_at": "2026-11-17T10:40:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ed81df298595b2bc",
+        "novel": false,
+        "dedup_age_days": 101
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/harness-hub/Qwen3.8-27B-pi-adapted",
+      "kind": "hf_model",
+      "name": "harness-hub/Qwen3.8-27B-pi-adapted",
+      "url": "https://huggingface.co/models/harness-hub/Qwen3.8-27B-pi-adapted",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "agents",
+        "async-grpo",
+        "base_model:adapter:qwen/qwen3.8-27b",
+        "base_model:qwen/qwen3.8-27b",
+        "conversational",
+        "dataset:ai-and/termgrade-environments",
+        "dataset:harness-hub/harness-adapters",
+        "dataset:harness-hub/scale800-harbor",
+        "dataset:harness-hub/termgrade-train-harbor",
+        "grpo",
+        "harbor",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "lora",
+        "openenv",
+        "peft",
+        "pi",
+        "region:us",
+        "safetensors",
+        "trl"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 377,
+        "likes": 436,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c96669b28d91215d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/leeguooooo/claude-code-usage-bar",
+      "kind": "github_repository",
+      "name": "leeguooooo/claude-code-usage-bar",
+      "url": "https://github.com/leeguooooo/claude-code-usage-bar",
+      "provider": "GitHub",
+      "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 394,
+        "forks": 27,
+        "pushed_at": "2026-11-19T03:39:50Z",
+        "updated_at": "2026-11-19T02:30:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "70ddb5aa9c9fe8c7",
+        "novel": false,
+        "dedup_age_days": 64
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/meituan-longcat/LongCat-Video-Avatar-1.6",
+      "kind": "hf_model",
+      "name": "meituan-longcat/LongCat-Video-Avatar-1.6",
+      "url": "https://huggingface.co/models/meituan-longcat/LongCat-Video-Avatar-1.6",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "audio-driven-video-continuation",
+        "audio-image-text-to-video",
+        "audio-text-to-video",
+        "avatar",
+        "base_model:meituan-longcat/longcat-video",
+        "base_model:quantized:meituan-longcat/longcat-video",
+        "diffusers",
+        "en",
+        "license:mit",
+        "longcat-video-avatar-1.6",
+        "onnx",
+        "region:us",
+        "safetensors",
+        "transformers",
+        "video-generation",
+        "zh"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": 1226,
+        "likes": 266,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ee13fda854c8bbb9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/tencent/Hy4-flash",
+      "kind": "hf_model",
+      "name": "tencent/Hy4-flash",
+      "url": "https://huggingface.co/models/tencent/Hy4-flash",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "conversational",
+        "endpoints_compatible",
+        "hunyuan",
+        "hy4-flash",
+        "hy_v4_flash",
+        "image-text-to-text",
+        "instruct",
+        "license:other",
+        "moe",
+        "multimodal",
+        "region:us",
+        "safetensors",
+        "text-generation",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 159,
+        "likes": 242,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f22ff2d798600738",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/rffrasca/PDFKeeper",
+      "kind": "github_repository",
+      "name": "rffrasca/PDFKeeper",
+      "url": "https://github.com/rffrasca/PDFKeeper",
+      "provider": "GitHub",
+      "description": "Open Source PDF Document Management",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 241,
+        "forks": 18,
+        "pushed_at": "2026-11-19T01:42:42Z",
+        "updated_at": "2026-11-02T11:16:02Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "003a78decedcd50d",
+        "novel": false,
+        "dedup_age_days": 101
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/didilili/mianstack",
+      "kind": "github_repository",
+      "name": "didilili/mianstack",
+      "url": "https://github.com/didilili/mianstack",
+      "provider": "GitHub",
+      "description": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 207,
+        "forks": 11,
+        "pushed_at": "2026-11-19T03:39:45Z",
+        "updated_at": "2026-11-18T15:02:45Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d0457ca95d114703",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ITprogamatikDedSec/ai--manus",
+      "kind": "github_repository",
+      "name": "ITprogamatikDedSec/ai--manus",
+      "url": "https://github.com/ITprogamatikDedSec/ai--manus",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:13:41Z",
+        "updated_at": "2026-11-15T17:01:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f88c897977ef906d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kazim768/ai--manus",
+      "kind": "github_repository",
+      "name": "kazim768/ai--manus",
+      "url": "https://github.com/kazim768/ai--manus",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:13:43Z",
+        "updated_at": "2026-11-15T17:00:59Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7fdb5d6e52c7bb94",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/kazim768/manus--ai",
+      "kind": "github_repository",
+      "name": "kazim768/manus--ai",
+      "url": "https://github.com/kazim768/manus--ai",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:13:45Z",
+        "updated_at": "2026-11-15T17:01:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "48366fefb3e8efb9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lloweryfn-rgb/ai--manus",
+      "kind": "github_repository",
+      "name": "lloweryfn-rgb/ai--manus",
+      "url": "https://github.com/lloweryfn-rgb/ai--manus",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:13:42Z",
+        "updated_at": "2026-11-15T17:01:03Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "cdb52169ab7c0053",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/lloweryfn-rgb/manus--ai",
+      "kind": "github_repository",
+      "name": "lloweryfn-rgb/manus--ai",
+      "url": "https://github.com/lloweryfn-rgb/manus--ai",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:13:45Z",
+        "updated_at": "2026-11-16T11:23:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5609633f3594a478",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/python001-dev/manus--ai",
+      "kind": "github_repository",
+      "name": "python001-dev/manus--ai",
+      "url": "https://github.com/python001-dev/manus--ai",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:13:43Z",
+        "updated_at": "2026-11-15T17:01:07Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a02693cd4c6bc6af",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/stancaedy10-glitch/ai--manus",
+      "kind": "github_repository",
+      "name": "stancaedy10-glitch/ai--manus",
+      "url": "https://github.com/stancaedy10-glitch/ai--manus",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:15:17Z",
+        "updated_at": "2026-11-15T17:01:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bce0521b4209fef0",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/stancaedy10-glitch/manus--ai",
+      "kind": "github_repository",
+      "name": "stancaedy10-glitch/manus--ai",
+      "url": "https://github.com/stancaedy10-glitch/manus--ai",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 202,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:13:43Z",
+        "updated_at": "2026-11-15T17:01:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "a25be0adef2f6972",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ITprogamatikDedSec/manus--ai",
+      "kind": "github_repository",
+      "name": "ITprogamatikDedSec/manus--ai",
+      "url": "https://github.com/ITprogamatikDedSec/manus--ai",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 201,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:13:43Z",
+        "updated_at": "2026-11-15T17:01:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "c7bf1adbb003c2c9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/n0-name0/ai--manus",
+      "kind": "github_repository",
+      "name": "n0-name0/ai--manus",
+      "url": "https://github.com/n0-name0/ai--manus",
+      "provider": "GitHub",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 200,
+        "forks": 0,
+        "pushed_at": "2026-11-19T04:13:43Z",
+        "updated_at": "2026-11-15T17:01:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "89d35d7a33b0f086",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/thejagstudio/tessera-pixel-studio",
+      "kind": "hf_space",
+      "name": "thejagstudio/tessera-pixel-studio",
+      "url": "https://huggingface.co/spaces/thejagstudio/tessera-pixel-studio",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "diffusion-llm",
+        "discrete-diffusion",
+        "gradio",
+        "masked-diffusion",
+        "pixel-art",
+        "region:us",
+        "text-to-image"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 37,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "43ed1d692a7d9334",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/orgs/mistralai/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded",
+    "https://api.github.com/orgs/groq/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded",
+    "https://api.github.com/orgs/openai/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded",
+    "https://api.github.com/orgs/huggingface/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded"
+  ],
+  "status": "partial"
+}
