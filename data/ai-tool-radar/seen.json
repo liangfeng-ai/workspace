@@ -438,7 +438,7 @@
       "fingerprint": "4d8d8951d9e1815e"
     },
     "official_repository:https://github.com/openai/plugins": {
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-11-20",
       "fingerprint": "e06078a1bb88cb36"
     },
     "official_repository:https://github.com/huggingface/transformers": {
@@ -1566,7 +1566,7 @@
       "fingerprint": "31219eb8e55da883"
     },
     "official_repository:https://github.com/groq/groq-appgen": {
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-11-20",
       "fingerprint": "b86b296bd5e792b5"
     },
     "official_repository:https://github.com/huggingface/peft": {
@@ -2970,7 +2970,7 @@
       "fingerprint": "6fab9fecbf5f923f"
     },
     "official_repository:https://github.com/groq/compound-mcp-server": {
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-11-20",
       "fingerprint": "5c0b4fc9537f6786"
     },
     "official_repository:https://github.com/openai/tiktoken": {
@@ -3218,7 +3218,7 @@
       "fingerprint": "045a7cd6f58b6b66"
     },
     "official_repository:https://github.com/huggingface/datatrove": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-11-20",
       "fingerprint": "67cb2e4a445aa869"
     },
     "hf_space:https://huggingface.co/spaces/multimodalart/h3-acceleration-arena": {
@@ -5660,6 +5660,18 @@
     "hf_space:https://huggingface.co/spaces/thejagstudio/tessera-pixel-studio": {
       "last_seen": "2026-11-19",
       "fingerprint": "43ed1d692a7d9334"
+    },
+    "official_repository:https://github.com/groq/groq-aisdk-chatbot": {
+      "last_seen": "2026-11-20",
+      "fingerprint": "f86dd04b1a6d3157"
+    },
+    "hf_model:https://huggingface.co/models/inworld/voice-isolator": {
+      "last_seen": "2026-11-20",
+      "fingerprint": "8ca0ea632e41a342"
+    },
+    "hf_model:https://huggingface.co/models/RadixArk/DaisyRose-27B": {
+      "last_seen": "2026-11-20",
+      "fingerprint": "2ce080d56f391b93"
     }
   }
 }

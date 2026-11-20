@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T04:01:46.652360+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 7,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/plugins",
+      "kind": "official_repository",
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "provider": "openai",
+      "description": "OpenAI Plugins",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 8025,
+        "pushed_at": "2026-11-18T19:14:28Z",
+        "updated_at": "2026-11-20T03:55:01Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e06078a1bb88cb36",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/datatrove",
+      "kind": "official_repository",
+      "name": "huggingface/datatrove",
+      "url": "https://github.com/huggingface/datatrove",
+      "provider": "huggingface",
+      "description": "Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 3427,
+        "pushed_at": "2026-11-18T16:12:01Z",
+        "updated_at": "2026-11-20T03:56:51Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "67cb2e4a445aa869",
+        "novel": false,
+        "dedup_age_days": 78
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-appgen",
+      "kind": "official_repository",
+      "name": "groq/groq-appgen",
+      "url": "https://github.com/groq/groq-appgen",
+      "provider": "groq",
+      "description": "Project showcasing Llama 3.3 70B HTML codegen abilities",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 654,
+        "pushed_at": "2026-11-18T18:03:59Z",
+        "updated_at": "2026-11-17T17:57:38Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "b86b296bd5e792b5",
+        "novel": false,
+        "dedup_age_days": 74
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/compound-mcp-server",
+      "kind": "official_repository",
+      "name": "groq/compound-mcp-server",
+      "url": "https://github.com/groq/compound-mcp-server",
+      "provider": "groq",
+      "description": "Groq Compound Beta MCP Server",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 56,
+        "pushed_at": "2026-11-18T18:18:35Z",
+        "updated_at": "2026-11-18T18:20:26Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "5c0b4fc9537f6786",
+        "novel": false,
+        "dedup_age_days": 84
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/groq-aisdk-chatbot",
+      "kind": "official_repository",
+      "name": "groq/groq-aisdk-chatbot",
+      "url": "https://github.com/groq/groq-aisdk-chatbot",
+      "provider": "groq",
+      "description": "Sample chatbot app using groq inference, ai sdk, shadcn ui components and tailwind",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 27,
+        "pushed_at": "2026-11-18T18:07:25Z",
+        "updated_at": "2026-11-18T18:15:11Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f86dd04b1a6d3157",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/inworld/voice-isolator",
+      "kind": "hf_model",
+      "name": "inworld/voice-isolator",
+      "url": "https://huggingface.co/models/inworld/voice-isolator",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "48khz",
+        "audio",
+        "audio-to-audio",
+        "full-band",
+        "inworld-voice-isolation",
+        "license:apache-2.0",
+        "noise-suppression",
+        "realtime",
+        "region:us",
+        "speech",
+        "speech-denoising",
+        "speech-enhancement",
+        "streaming",
+        "voice-isolation"
+      ],
+      "input_output": "audio-to-audio -> inference result",
+      "signals": {
+        "downloads": 0,
+        "likes": 280,
+        "updated_at": null,
+        "pipeline_tag": "audio-to-audio"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "8ca0ea632e41a342",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/RadixArk/DaisyRose-27B",
+      "kind": "hf_model",
+      "name": "RadixArk/DaisyRose-27B",
+      "url": "https://huggingface.co/models/RadixArk/DaisyRose-27B",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:finetune:qwen/qwen3.8-27b",
+        "base_model:qwen/qwen3.8-27b",
+        "conversational",
+        "daisyrose",
+        "endpoints_compatible",
+        "image-text-to-text",
+        "license:apache-2.0",
+        "qwen3.8",
+        "qwen3_5",
+        "region:us",
+        "reinforcement-learning",
+        "safetensors",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 166,
+        "likes": 192,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2ce080d56f391b93",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/search/repositories?q=topic%3Aai-tools+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-21+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Aocr+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-21+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Aspeech-to-text+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-21+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Amcp+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-21+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Arag+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-21+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Aai-agents+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-21+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded"
+  ],
+  "status": "partial"
+}
