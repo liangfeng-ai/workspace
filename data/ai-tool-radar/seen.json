@@ -854,7 +854,7 @@
       "fingerprint": "c22dc61d5841faca"
     },
     "official_repository:https://github.com/groq/openbench": {
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-23",
       "fingerprint": "1b51eea56b0829ce"
     },
     "official_repository:https://github.com/huggingface/smolagents": {
@@ -2326,7 +2326,7 @@
       "fingerprint": "8da456be9adf2b61"
     },
     "hf_space:https://huggingface.co/spaces/agent-memory-leaderboard/leaderboard": {
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-11-23",
       "fingerprint": "1a96417d3dcb593d"
     },
     "hf_space:https://huggingface.co/spaces/dayona/I2V-EXTENDED": {
@@ -2502,7 +2502,7 @@
       "fingerprint": "541cb2183af89f07"
     },
     "official_repository:https://github.com/openai/openai-python": {
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-11-23",
       "fingerprint": "edd1b3b4fa25a618"
     },
     "official_repository:https://github.com/openai/openai-node": {
@@ -3226,7 +3226,7 @@
       "fingerprint": "f7305a584fdc6591"
     },
     "hf_space:https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental": {
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-11-23",
       "fingerprint": "230fbacb997c7dae"
     },
     "github_repository:https://github.com/Peiiii/nextclaw": {
@@ -4122,7 +4122,7 @@
       "fingerprint": "0af07a8c99d3d768"
     },
     "official_repository:https://github.com/huggingface/course": {
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-11-23",
       "fingerprint": "e01e27c89606a3ba"
     },
     "hf_model:https://huggingface.co/models/nvidia/Nemotron-3-Diarization": {
@@ -4670,7 +4670,7 @@
       "fingerprint": "21a774a0ed6c4401"
     },
     "official_repository:https://github.com/mistralai/timestral": {
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-11-23",
       "fingerprint": "ccda0baf1dad95d9"
     },
     "hf_model:https://huggingface.co/models/fishaudio/drama-3": {
@@ -5672,6 +5672,22 @@
     "hf_model:https://huggingface.co/models/RadixArk/DaisyRose-27B": {
       "last_seen": "2026-11-20",
       "fingerprint": "2ce080d56f391b93"
+    },
+    "hf_model:https://huggingface.co/models/thinkingmachines/Inkling-2-Mini": {
+      "last_seen": "2026-11-23",
+      "fingerprint": "7d23676b9a90f4e9"
+    },
+    "hf_model:https://huggingface.co/models/unsloth/Inkling-2-Mini-GGUF": {
+      "last_seen": "2026-11-23",
+      "fingerprint": "406d4b68bd65b58b"
+    },
+    "hf_model:https://huggingface.co/models/AtomicChat/Inkling-2-Mini-Uncensored-GGUF": {
+      "last_seen": "2026-11-23",
+      "fingerprint": "9cbcd95b51fb1d99"
+    },
+    "hf_space:https://huggingface.co/spaces/hugging-apps/clairic": {
+      "last_seen": "2026-11-23",
+      "fingerprint": "40493f738ef86f75"
     }
   }
 }

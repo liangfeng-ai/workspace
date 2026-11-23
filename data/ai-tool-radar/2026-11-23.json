@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T03:46:36.867569+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 10,
+  "candidates": [
+    {
+      "id": "official_repository:https://github.com/openai/openai-python",
+      "kind": "official_repository",
+      "name": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
+      "provider": "openai",
+      "description": "The official Python library for the OpenAI API",
+      "capability_tags": [
+        "official",
+        "openai"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 32218,
+        "pushed_at": "2026-11-20T08:30:03Z",
+        "updated_at": "2026-11-23T03:41:49Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "edd1b3b4fa25a618",
+        "novel": false,
+        "dedup_age_days": 52
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/huggingface/course",
+      "kind": "official_repository",
+      "name": "huggingface/course",
+      "url": "https://github.com/huggingface/course",
+      "provider": "huggingface",
+      "description": "The Hugging Face course on Transformers",
+      "capability_tags": [
+        "huggingface",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 4383,
+        "pushed_at": "2026-11-17T17:24:43Z",
+        "updated_at": "2026-11-23T03:37:13Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e01e27c89606a3ba",
+        "novel": false,
+        "dedup_age_days": 55
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/mistralai/timestral",
+      "kind": "official_repository",
+      "name": "mistralai/timestral",
+      "url": "https://github.com/mistralai/timestral",
+      "provider": "mistralai",
+      "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
+      "capability_tags": [
+        "mistralai",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 1249,
+        "pushed_at": "2026-11-22T17:26:50Z",
+        "updated_at": "2026-11-22T23:32:18Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ccda0baf1dad95d9",
+        "novel": false,
+        "dedup_age_days": 38
+      }
+    },
+    {
+      "id": "official_repository:https://github.com/groq/openbench",
+      "kind": "official_repository",
+      "name": "groq/openbench",
+      "url": "https://github.com/groq/openbench",
+      "provider": "groq",
+      "description": "Provider-agnostic, open-source evaluation infrastructure for language models",
+      "capability_tags": [
+        "groq",
+        "official"
+      ],
+      "input_output": "Official repository README and release notes",
+      "signals": {
+        "stars": 834,
+        "pushed_at": "2026-11-12T20:12:59Z",
+        "updated_at": "2026-11-22T21:06:28Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1b51eea56b0829ce",
+        "novel": false,
+        "dedup_age_days": 34
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/thinkingmachines/Inkling-2-Mini",
+      "kind": "hf_model",
+      "name": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/models/thinkingmachines/Inkling-2-Mini",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "8-bit",
+        "conversational",
+        "endpoints_compatible",
+        "image-text-to-text",
+        "inkling2_loop",
+        "license:apache-2.0",
+        "modelopt",
+        "moe",
+        "region:us",
+        "safetensors",
+        "transformers"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 23543,
+        "likes": 5054,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "7d23676b9a90f4e9",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/agent-memory-leaderboard/leaderboard",
+      "kind": "hf_space",
+      "name": "agent-memory-leaderboard/leaderboard",
+      "url": "https://huggingface.co/spaces/agent-memory-leaderboard/leaderboard",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "agent-memory",
+        "benchmark",
+        "leaderboard",
+        "long-term-memory",
+        "region:us",
+        "static"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 943,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "1a96417d3dcb593d",
+        "novel": false,
+        "dedup_age_days": 101
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/unsloth/Inkling-2-Mini-GGUF",
+      "kind": "hf_model",
+      "name": "unsloth/Inkling-2-Mini-GGUF",
+      "url": "https://huggingface.co/models/unsloth/Inkling-2-Mini-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:quantized:thinkingmachines/inkling-2-mini",
+        "base_model:thinkingmachines/inkling-2-mini",
+        "conversational",
+        "endpoints_compatible",
+        "gguf",
+        "image-text-to-text",
+        "imatrix",
+        "license:apache-2.0",
+        "moe",
+        "region:us",
+        "unsloth"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 805993,
+        "likes": 909,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "406d4b68bd65b58b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+      "kind": "hf_space",
+      "name": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+      "url": "https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 619,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "230fbacb997c7dae",
+        "novel": false,
+        "dedup_age_days": 46
+      }
+    },
+    {
+      "id": "hf_model:https://huggingface.co/models/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "kind": "hf_model",
+      "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "url": "https://huggingface.co/models/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face models",
+      "capability_tags": [
+        "base_model:adapter:thinkingmachines/inkling-2-mini",
+        "base_model:thinkingmachines/inkling-2-mini",
+        "conversational",
+        "endpoints_compatible",
+        "gguf",
+        "image-text-to-text",
+        "imatrix",
+        "inkling2",
+        "license:apache-2.0",
+        "llama.cpp",
+        "lora",
+        "region:us",
+        "uncensored"
+      ],
+      "input_output": "image-text-to-text -> inference result",
+      "signals": {
+        "downloads": 129693,
+        "likes": 507,
+        "updated_at": null,
+        "pipeline_tag": "image-text-to-text"
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "9cbcd95b51fb1d99",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/hugging-apps/clairic",
+      "kind": "hf_space",
+      "name": "hugging-apps/clairic",
+      "url": "https://huggingface.co/spaces/hugging-apps/clairic",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 54,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "40493f738ef86f75",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/search/repositories?q=topic%3Aai-tools+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-24+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Aocr+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-24+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Aspeech-to-text+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-24+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Amcp+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-24+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Arag+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-24+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded",
+    "https://api.github.com/search/repositories?q=topic%3Aai-agents+stars%3A%3E%3D200+pushed%3A%3E%3D2026-10-24+archived%3Afalse&sort=updated&order=desc&per_page=10: rate limit exceeded"
+  ],
+  "status": "partial"
+}
