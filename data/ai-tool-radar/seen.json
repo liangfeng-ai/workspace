@@ -90,7 +90,7 @@
       "fingerprint": "444933100dfd5fd7"
     },
     "github_repository:https://github.com/OpenWhispr/openwhispr": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-24",
       "fingerprint": "124ead8d0c7fe936"
     },
     "github_repository:https://github.com/tetherto/qvac": {
@@ -506,7 +506,7 @@
       "fingerprint": "cb10c44e2ca7b000"
     },
     "github_repository:https://github.com/CrispStrobe/CrispASR": {
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-11-24",
       "fingerprint": "be2520a07e1563f1"
     },
     "github_repository:https://github.com/anthropics/claude-plugins-official": {
@@ -646,7 +646,7 @@
       "fingerprint": "698e864b28ec4dc2"
     },
     "github_repository:https://github.com/cjpais/Handy": {
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-24",
       "fingerprint": "99dfca28439d8179"
     },
     "github_repository:https://github.com/peteonrails/voxtype": {
@@ -2378,7 +2378,7 @@
       "fingerprint": "648b1df5c6714e75"
     },
     "github_repository:https://github.com/yonatangross/orchestkit": {
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-11-24",
       "fingerprint": "6f0a7ad2ed0edcf4"
     },
     "github_repository:https://github.com/raphaelmansuy/edgequake": {
@@ -2566,7 +2566,7 @@
       "fingerprint": "c32be577b51ac4f0"
     },
     "github_repository:https://github.com/caura-ai/caura": {
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-11-24",
       "fingerprint": "6f93b2206c6dacfb"
     },
     "github_repository:https://github.com/eneskirca/nodeterm": {
@@ -3374,7 +3374,7 @@
       "fingerprint": "553f20299d59062a"
     },
     "github_repository:https://github.com/daniel3303/Equibles": {
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-11-24",
       "fingerprint": "e4987d5524eb1552"
     },
     "github_repository:https://github.com/Gentleman-Programming/gentle-pi": {
@@ -3842,7 +3842,7 @@
       "fingerprint": "143bb07dab36aac6"
     },
     "github_repository:https://github.com/Marker-Inc-Korea/AutoRAG": {
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-24",
       "fingerprint": "3bef19e99a578ce8"
     },
     "github_repository:https://github.com/cobanov/awesome-jev": {
@@ -3878,7 +3878,7 @@
       "fingerprint": "30430f71eba38448"
     },
     "github_repository:https://github.com/anomalyco/hex": {
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-11-24",
       "fingerprint": "61849fd173e139a4"
     },
     "github_repository:https://github.com/inkeep/agents": {
@@ -4422,7 +4422,7 @@
       "fingerprint": "83f8b0c5a2826656"
     },
     "github_repository:https://github.com/timmyy123/LLM-Hub": {
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-11-24",
       "fingerprint": "bd3b086dc1dcceaf"
     },
     "hf_model:https://huggingface.co/models/canberkkkkkk/ema-lightning": {
@@ -5688,6 +5688,38 @@
     "hf_space:https://huggingface.co/spaces/hugging-apps/clairic": {
       "last_seen": "2026-11-23",
       "fingerprint": "40493f738ef86f75"
+    },
+    "github_repository:https://github.com/canarybyte/veridrop": {
+      "last_seen": "2026-11-24",
+      "fingerprint": "2b5cb79f8810ef7b"
+    },
+    "github_repository:https://github.com/ximizhou/convenient_window_free": {
+      "last_seen": "2026-11-24",
+      "fingerprint": "ebd37fdf0c4f878b"
+    },
+    "github_repository:https://github.com/five-plus-one/AI-Marker-Suite": {
+      "last_seen": "2026-11-24",
+      "fingerprint": "f3cf5f4695cda38d"
+    },
+    "github_repository:https://github.com/joeseesun/subcast": {
+      "last_seen": "2026-11-24",
+      "fingerprint": "210594db2a46c884"
+    },
+    "github_repository:https://github.com/mdiri-ai/SoduWork": {
+      "last_seen": "2026-11-24",
+      "fingerprint": "e8d6437a92c189e1"
+    },
+    "github_repository:https://github.com/seleniumbase/SeleniumBase": {
+      "last_seen": "2026-11-24",
+      "fingerprint": "189da0c0022b2777"
+    },
+    "github_repository:https://github.com/crbnos/carbon": {
+      "last_seen": "2026-11-24",
+      "fingerprint": "e214d5f32f6a499e"
+    },
+    "hf_space:https://huggingface.co/spaces/johnnysnowblind/wan2-2-fp8da-aoti-preview-2c-finishing": {
+      "last_seen": "2026-11-24",
+      "fingerprint": "d097f9cc09e2eccc"
     }
   }
 }

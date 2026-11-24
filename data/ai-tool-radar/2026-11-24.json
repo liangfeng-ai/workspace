@@ -1,0 +1,450 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T06:58:44.122443+00:00",
+  "lookback_days": 30,
+  "dedup_days": 30,
+  "candidate_count": 17,
+  "candidates": [
+    {
+      "id": "github_repository:https://github.com/cjpais/Handy",
+      "kind": "github_repository",
+      "name": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "provider": "GitHub",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 39933,
+        "forks": 3771,
+        "pushed_at": "2026-11-24T06:28:40Z",
+        "updated_at": "2026-11-24T06:34:47Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "99dfca28439d8179",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/seleniumbase/SeleniumBase",
+      "kind": "github_repository",
+      "name": "seleniumbase/SeleniumBase",
+      "url": "https://github.com/seleniumbase/SeleniumBase",
+      "provider": "GitHub",
+      "description": "Fast and reliable browser automation for e2e testing, scraping, and stealth. Bypasses bot-detection with CDP Mode. Has integrations for pytest, Playwright, and MCP.",
+      "capability_tags": [
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 13279,
+        "forks": 1610,
+        "pushed_at": "2026-11-24T06:57:25Z",
+        "updated_at": "2026-11-24T01:54:37Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "189da0c0022b2777",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/OpenWhispr/openwhispr",
+      "kind": "github_repository",
+      "name": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "provider": "GitHub",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 12131,
+        "forks": 1614,
+        "pushed_at": "2026-11-24T06:31:24Z",
+        "updated_at": "2026-11-24T06:52:17Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "124ead8d0c7fe936",
+        "novel": false,
+        "dedup_age_days": 41
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/anomalyco/hex",
+      "kind": "github_repository",
+      "name": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "provider": "GitHub",
+      "description": "Local voice dictation for mac, windows and linux",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 8371,
+        "forks": 570,
+        "pushed_at": "2026-11-24T06:52:23Z",
+        "updated_at": "2026-11-24T06:53:16Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "61849fd173e139a4",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/mdiri-ai/SoduWork",
+      "kind": "github_repository",
+      "name": "mdiri-ai/SoduWork",
+      "url": "https://github.com/mdiri-ai/SoduWork",
+      "provider": "GitHub",
+      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 7245,
+        "forks": 616,
+        "pushed_at": "2026-11-24T06:57:27Z",
+        "updated_at": "2026-11-24T06:58:35Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e8d6437a92c189e1",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/Marker-Inc-Korea/AutoRAG",
+      "kind": "github_repository",
+      "name": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "provider": "GitHub",
+      "description": "Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 6275,
+        "forks": 536,
+        "pushed_at": "2026-11-24T06:52:31Z",
+        "updated_at": "2026-11-24T06:46:04Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "3bef19e99a578ce8",
+        "novel": false,
+        "dedup_age_days": 63
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/crbnos/carbon",
+      "kind": "github_repository",
+      "name": "crbnos/carbon",
+      "url": "https://github.com/crbnos/carbon",
+      "provider": "GitHub",
+      "description": "Open-source manufacturing ERP, MES and QMS. Quoting, MRP, inventory, shop floor, quality and lot/serial traceability on one Postgres schema, with a REST API and MCP server. Self-host or use Carbon Cloud.",
+      "capability_tags": [
+        "ai-agents"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 2860,
+        "forks": 399,
+        "pushed_at": "2026-11-24T06:55:48Z",
+        "updated_at": "2026-11-24T06:57:40Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e214d5f32f6a499e",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/CrispStrobe/CrispASR",
+      "kind": "github_repository",
+      "name": "CrispStrobe/CrispASR",
+      "url": "https://github.com/CrispStrobe/CrispASR",
+      "provider": "GitHub",
+      "description": "C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 828,
+        "forks": 126,
+        "pushed_at": "2026-11-24T06:26:28Z",
+        "updated_at": "2026-11-23T21:27:25Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "be2520a07e1563f1",
+        "novel": false,
+        "dedup_age_days": 32
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/canarybyte/veridrop",
+      "kind": "github_repository",
+      "name": "canarybyte/veridrop",
+      "url": "https://github.com/canarybyte/veridrop",
+      "provider": "GitHub",
+      "description": "在线检测：veridrop.app｜AI API 中转站检测工具：Claude 中转站检测、OpenAI 中转站检测、Gemini 中转站检测，中转站真伪检测、长上下文验证、思维签名验证、中转站红黑榜，自托管开源。",
+      "capability_tags": [
+        "ai-tools"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 780,
+        "forks": 59,
+        "pushed_at": "2026-11-24T06:26:24Z",
+        "updated_at": "2026-11-24T06:33:06Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "2b5cb79f8810ef7b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/timmyy123/LLM-Hub",
+      "kind": "github_repository",
+      "name": "timmyy123/LLM-Hub",
+      "url": "https://github.com/timmyy123/LLM-Hub",
+      "provider": "GitHub",
+      "description": "Local LLM, image&video&music generator, run 26b moe models on 8gb phones",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 667,
+        "forks": 147,
+        "pushed_at": "2026-11-24T06:54:58Z",
+        "updated_at": "2026-11-24T06:30:00Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "bd3b086dc1dcceaf",
+        "novel": false,
+        "dedup_age_days": 47
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/caura-ai/caura",
+      "kind": "github_repository",
+      "name": "caura-ai/caura",
+      "url": "https://github.com/caura-ai/caura",
+      "provider": "GitHub",
+      "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "capability_tags": [
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 575,
+        "forks": 111,
+        "pushed_at": "2026-11-24T06:41:55Z",
+        "updated_at": "2026-11-23T14:20:42Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6f93b2206c6dacfb",
+        "novel": false,
+        "dedup_age_days": 64
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/yonatangross/orchestkit",
+      "kind": "github_repository",
+      "name": "yonatangross/orchestkit",
+      "url": "https://github.com/yonatangross/orchestkit",
+      "provider": "GitHub",
+      "description": "OrchestKit: free and open source skills and agents for Claude Code, Cursor, Codex and five more coding agents, plus hooks in Claude Code. 115 skills, 36 agents, 163 hooks. Install `ork` for stable (v10.x).",
+      "capability_tags": [
+        "ai-agents",
+        "mcp",
+        "rag"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 307,
+        "forks": 41,
+        "pushed_at": "2026-11-24T06:57:21Z",
+        "updated_at": "2026-11-24T06:18:18Z",
+        "archived": false,
+        "source_count": 3
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "6f0a7ad2ed0edcf4",
+        "novel": false,
+        "dedup_age_days": 57
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/joeseesun/subcast",
+      "kind": "github_repository",
+      "name": "joeseesun/subcast",
+      "url": "https://github.com/joeseesun/subcast",
+      "provider": "GitHub",
+      "description": "海外播客与 YouTube 的双语字幕、精读和 AI 问答桌面 App | Bilingual subtitles, deep reads and AI Q&A for overseas podcasts and YouTube",
+      "capability_tags": [
+        "speech-to-text"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 306,
+        "forks": 45,
+        "pushed_at": "2026-11-24T06:18:59Z",
+        "updated_at": "2026-11-24T06:57:35Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "210594db2a46c884",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/daniel3303/Equibles",
+      "kind": "github_repository",
+      "name": "daniel3303/Equibles",
+      "url": "https://github.com/daniel3303/Equibles",
+      "provider": "GitHub",
+      "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equibles Cloud adds earnings call transcripts, live quotes, options chains with Greeks, guidance and a screener.",
+      "capability_tags": [
+        "ai-agents",
+        "mcp"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 248,
+        "forks": 33,
+        "pushed_at": "2026-11-24T06:57:24Z",
+        "updated_at": "2026-11-23T16:04:52Z",
+        "archived": false,
+        "source_count": 2
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "e4987d5524eb1552",
+        "novel": false,
+        "dedup_age_days": 36
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/five-plus-one/AI-Marker-Suite",
+      "kind": "github_repository",
+      "name": "five-plus-one/AI-Marker-Suite",
+      "url": "https://github.com/five-plus-one/AI-Marker-Suite",
+      "provider": "GitHub",
+      "description": "面向教师的开源浏览器阅卷助手，识别手写答卷并按评分标准给分，支持试改、分小题评分、双评仲裁和评阅历史导出。",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 203,
+        "forks": 41,
+        "pushed_at": "2026-11-24T04:10:55Z",
+        "updated_at": "2026-11-23T03:03:48Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "f3cf5f4695cda38d",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "github_repository:https://github.com/ximizhou/convenient_window_free",
+      "kind": "github_repository",
+      "name": "ximizhou/convenient_window_free",
+      "url": "https://github.com/ximizhou/convenient_window_free",
+      "provider": "GitHub",
+      "description": "Windows 11 window tools for hot corners, edge hiding, mouse gestures and layouts. Available as a standalone desktop app and a DeepSeek Harness (DSH) plugin.",
+      "capability_tags": [
+        "ocr"
+      ],
+      "input_output": "Repository README and examples",
+      "signals": {
+        "stars": 200,
+        "forks": 8,
+        "pushed_at": "2026-11-24T06:43:36Z",
+        "updated_at": "2026-11-24T06:44:10Z",
+        "archived": false
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "ebd37fdf0c4f878b",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    },
+    {
+      "id": "hf_space:https://huggingface.co/spaces/johnnysnowblind/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "kind": "hf_space",
+      "name": "johnnysnowblind/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "url": "https://huggingface.co/spaces/johnnysnowblind/wan2-2-fp8da-aoti-preview-2c-finishing",
+      "provider": "Hugging Face",
+      "description": "Trending Hugging Face spaces",
+      "capability_tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "input_output": "Hugging Face repository -> inference result",
+      "signals": {
+        "downloads": null,
+        "likes": 42,
+        "updated_at": null,
+        "pipeline_tag": null
+      },
+      "source": "public_api",
+      "selection": {
+        "fingerprint": "d097f9cc09e2eccc",
+        "novel": true,
+        "dedup_age_days": null
+      }
+    }
+  ],
+  "errors": [
+    "https://api.github.com/orgs/mistralai/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded",
+    "https://api.github.com/orgs/groq/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded",
+    "https://api.github.com/orgs/openai/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded",
+    "https://api.github.com/orgs/huggingface/repos?sort=updated&direction=desc&per_page=15: rate limit exceeded"
+  ],
+  "status": "partial"
+}
