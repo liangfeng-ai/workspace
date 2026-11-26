@@ -50,7 +50,7 @@
       "fingerprint": "e250cc8df7c6143f"
     },
     "github_repository:https://github.com/run-llama/liteparse": {
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-11-26",
       "fingerprint": "bdc25d48fb447e2a"
     },
     "github_repository:https://github.com/ShareX/ShareX": {
@@ -86,7 +86,7 @@
       "fingerprint": "d6e142e320a83355"
     },
     "github_repository:https://github.com/silverstein/minutes": {
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-11-26",
       "fingerprint": "444933100dfd5fd7"
     },
     "github_repository:https://github.com/OpenWhispr/openwhispr": {
@@ -146,7 +146,7 @@
       "fingerprint": "0a895c1fcda1a8e7"
     },
     "github_repository:https://github.com/speakeasy-api/gram": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-11-26",
       "fingerprint": "97ca1d7d098f9ead"
     },
     "github_repository:https://github.com/nextlevelbuilder/goclaw": {
@@ -206,7 +206,7 @@
       "fingerprint": "38ef2828347083cf"
     },
     "github_repository:https://github.com/marcusquinn/aidevops": {
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-26",
       "fingerprint": "a6f35268706d8cff"
     },
     "github_repository:https://github.com/firecrawl/firecrawl": {
@@ -2682,7 +2682,7 @@
       "fingerprint": "5b1176266d7a382d"
     },
     "github_repository:https://github.com/Cotal-AI/Cotal": {
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-11-26",
       "fingerprint": "78977d99e62cbbfe"
     },
     "github_repository:https://github.com/BradGroux/veritas-kanban": {
@@ -2722,7 +2722,7 @@
       "fingerprint": "42b55040998e0fdb"
     },
     "github_repository:https://github.com/dograh-hq/dograh": {
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-11-26",
       "fingerprint": "deca2ecfe634121c"
     },
     "github_repository:https://github.com/mxsm/rocketmq-rust": {
@@ -3070,7 +3070,7 @@
       "fingerprint": "1496b0e313bed875"
     },
     "github_repository:https://github.com/SteveTheKiller/KillerPDF": {
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-11-26",
       "fingerprint": "e856e5fb83ab774f"
     },
     "github_repository:https://github.com/CursorTouch/Windows-MCP": {
@@ -3138,7 +3138,7 @@
       "fingerprint": "49797bbd884fdc5c"
     },
     "github_repository:https://github.com/Dominic789654/awesome-deepseek-harness": {
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-11-26",
       "fingerprint": "6940c2b3332128f8"
     },
     "github_repository:https://github.com/open-metadata/OpenMetadata": {
@@ -3206,7 +3206,7 @@
       "fingerprint": "23cc10cc0b706040"
     },
     "github_repository:https://github.com/AleksNeStu/ai-real-estate-assistant": {
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-11-26",
       "fingerprint": "c1ba2909b94fa686"
     },
     "official_repository:https://github.com/openai/openai-go": {
@@ -4070,7 +4070,7 @@
       "fingerprint": "3fab8f97feb62b7d"
     },
     "github_repository:https://github.com/jpicklyk/task-orchestrator": {
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-11-26",
       "fingerprint": "0467d52315343c47"
     },
     "github_repository:https://github.com/SylphxAI/anymd": {
@@ -4790,7 +4790,7 @@
       "fingerprint": "18dfb7b23d4b5078"
     },
     "github_repository:https://github.com/thanhkeke97/RSTGameTranslation": {
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-11-26",
       "fingerprint": "ff83f60c12552c95"
     },
     "github_repository:https://github.com/dynobo/normcap": {
@@ -4854,7 +4854,7 @@
       "fingerprint": "93de5a43f0931409"
     },
     "github_repository:https://github.com/xerj-org/xerj": {
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-11-26",
       "fingerprint": "29ee36fc75992bf3"
     },
     "official_repository:https://github.com/openai/php2shell-checker": {
@@ -4986,7 +4986,7 @@
       "fingerprint": "67d2b78441fe870d"
     },
     "hf_space:https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3": {
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-11-26",
       "fingerprint": "ab447a3c16c8a73b"
     },
     "github_repository:https://github.com/qpst4/XGesture": {
@@ -5764,6 +5764,34 @@
     "hf_space:https://huggingface.co/spaces/kulkas2pintu/wan222": {
       "last_seen": "2026-11-25",
       "fingerprint": "559fb2ce469f6c7d"
+    },
+    "github_repository:https://github.com/HarnessMD/munder-difflin": {
+      "last_seen": "2026-11-26",
+      "fingerprint": "40d808a99cfe3c92"
+    },
+    "github_repository:https://github.com/vercel-labs/ui": {
+      "last_seen": "2026-11-26",
+      "fingerprint": "14d00027ca4a2432"
+    },
+    "github_repository:https://github.com/llm4s/llm4s": {
+      "last_seen": "2026-11-26",
+      "fingerprint": "75782ff98093e48c"
+    },
+    "github_repository:https://github.com/Pinvou/pinvou-agent": {
+      "last_seen": "2026-11-26",
+      "fingerprint": "ae0dfc8337d0c664"
+    },
+    "github_repository:https://github.com/lobehub/awesome-rsi": {
+      "last_seen": "2026-11-26",
+      "fingerprint": "d17c4492d7ef5b37"
+    },
+    "hf_model:https://huggingface.co/models/prism-ml/Ternary-Bonsai-2.5-27B-GGUF": {
+      "last_seen": "2026-11-26",
+      "fingerprint": "6e656c4c518eda4d"
+    },
+    "hf_model:https://huggingface.co/models/nvidia/Nemotron-Labs-Image-30B-A3B": {
+      "last_seen": "2026-11-26",
+      "fingerprint": "af59a97e41ef68b4"
     }
   }
 }
