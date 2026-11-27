@@ -258,7 +258,7 @@
       "fingerprint": "84375b7f41a6221b"
     },
     "official_repository:https://github.com/huggingface/agents-course": {
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-27",
       "fingerprint": "e40fd5a2c5062391"
     },
     "official_repository:https://github.com/huggingface/swift-transformers": {
@@ -1238,7 +1238,7 @@
       "fingerprint": "f0b3eeac9d1efc61"
     },
     "official_repository:https://github.com/huggingface/tokenizers": {
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-11-27",
       "fingerprint": "50184f9eadf88fa9"
     },
     "hf_space:https://huggingface.co/spaces/yijunwang2/krea2-outpaint": {
@@ -3266,7 +3266,7 @@
       "fingerprint": "4af397854d45ed31"
     },
     "official_repository:https://github.com/openai/tart": {
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-11-27",
       "fingerprint": "5c05823b3b6590e9"
     },
     "official_repository:https://github.com/huggingface/Mongoku": {
@@ -5792,6 +5792,14 @@
     "hf_model:https://huggingface.co/models/nvidia/Nemotron-Labs-Image-30B-A3B": {
       "last_seen": "2026-11-26",
       "fingerprint": "af59a97e41ef68b4"
+    },
+    "hf_model:https://huggingface.co/models/strata-engine/Inkling-2-Mini-Strata": {
+      "last_seen": "2026-11-27",
+      "fingerprint": "cba34dbaa104aab4"
+    },
+    "hf_model:https://huggingface.co/models/nari-labs/Qwen3.8-27B-NariQ-GGUF": {
+      "last_seen": "2026-11-27",
+      "fingerprint": "ee0d367bbf125d4d"
     }
   }
 }
